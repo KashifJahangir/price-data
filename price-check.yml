@@ -1,0 +1,45 @@
+name: Price Checker
+
+on:
+  schedule:
+    # Runs at 03:00 UTC every 2 days (08:00 PKT).
+    # Note: cron's day-step doesn't guarantee a perfect 48h cadence across
+    # month boundaries (e.g. day 31 -> day 1), but it's close enough for this.
+    - cron: '0 3 */2 * *'
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab to test
+
+permissions:
+  contents: write   # needed so the workflow can push the updated products.json
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Chrome (for Junaid Tech / Czone scraping)
+        uses: browser-actions/setup-chrome@v1
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run price checker
+        run: python price_checker.py products.json --no-backup --delay 1.5
+
+      - name: Commit and push if prices changed
+        run: |
+          git config user.name "price-checker-bot"
+          git config user.email "actions@github.com"
+          git add products.json
+          if git diff --cached --quiet; then
+            echo "No price changes to commit."
+          else
+            git commit -m "Automated price update $(date -u +'%Y-%m-%d')"
+            git push
+          fi
