@@ -100,7 +100,6 @@
         }
       ]
     },
-  
     {
       "id": "gpu_4",
       "name": "GT730 4GB",
@@ -131,8 +130,8 @@
           "price": 20000.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-570-4gb-gddr5-used-in-2-weeks-warranty-no-box/"
         },
-            {
-              "Name": "XFX RX 570 4GB",
+        {
+          "Name": "XFX RX 570 4GB",
           "storeName": "AMD House",
           "price": 21500.0,
           "url": "https://amdhouse.pk/product/xfx-rx-570-price-in-pakistan/"
@@ -150,13 +149,12 @@
           "price": 20499.0,
           "url": "https://www.junaidtech.pk/product/msi-n730-4gd3v2-graphics-card"
         },
-          {
-            "Name": "MSI GT N730 4GB",
+        {
+          "Name": "MSI GT N730 4GB",
           "storeName": "Zah Computers",
           "price": 20499.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-gt-n730-4gb-ddr3-pci-express-2-0-x16-atx-video-card/"
         }
-      
       ]
     },
     {
@@ -165,15 +163,13 @@
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "MSI GT 1030 4GB",
+          "Name": "MSI GT 1030 4GB",
           "storeName": "Zah Computers",
           "price": 21000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-gt-1030-aero-itx-4gb-ddr4-oc-graphics-card/"
         }
       ]
     },
-    
-  
     {
       "id": "gpu_8",
       "name": "GT 1030 2GB",
@@ -193,19 +189,19 @@
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "ASUS GTX 1050TI 4GB",
+          "Name": "ASUS GTX 1050TI 4GB",
           "storeName": "AMD House",
           "price": 23500.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-asus-gtx-1050ti-4gb-used-no-box-in-7-days-check-warranty/"
         },
-          {
-            "Name": "Colorful GTX 1050TI 4GB",
+        {
+          "Name": "Colorful GTX 1050TI 4GB",
           "storeName": "Junaid Tech",
           "price": 38999.0,
           "url": "https://www.junaidtech.pk/product/colorful-geforce-gtx1050ti-4g-v-gaming-graphics-card"
         },
-          {
-              "Name": "MSI GTX 1050TI 4GB",
+        {
+          "Name": "MSI GTX 1050TI 4GB",
           "storeName": "Zah Computers",
           "price": 45500.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-gtx-1050-ti-4gt-ocv1-4gb-gddr5-128-bit-graphics-card/"
@@ -218,43 +214,43 @@
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-               "Name": " Keyiyou RX 580 8GB",
+          "Name": " Keyiyou RX 580 8GB",
           "storeName": "AMD House",
           "price": 24500.0,
           "url": "https://amdhouse.pk/product/keyiyou-rx-580-8gb-gddr5-2048sp-gpu-used-with-1-month-warranty/"
         },
-          {
-              "Name": " XFX RX 580 8GB",
+        {
+          "Name": " XFX RX 580 8GB",
           "storeName": "AMD House",
           "price": 27500.0,
           "url": "https://amdhouse.pk/product/xfx-gts-rx-580-8gb-gddr5-xxx-used-a-condition-in-1-month-warranty-without-box/"
         },
-          {
-              "Name": " Maxsun RX 580 8GB",
+        {
+          "Name": " Maxsun RX 580 8GB",
           "storeName": "AMD House",
           "price": 25000.0,
           "url": "https://amdhouse.pk/product/maxsun-rx-580-2048sp-8gb-dual-fan-used-no-box-in-1-month-warranty/"
         },
         {
-            "Name": " Maxsun RX 580 8GB",
+          "Name": " Maxsun RX 580 8GB",
           "storeName": "Zah Computers",
           "price": 32000.0,
           "url": "https://zahcomputers.pk/product/maxsun-rx-580-8gb-2048sp-overseas-edition-m-2-gaming-graphics-card/"
         },
-           {
-              "Name": " Sapphire Nitro RX 580 8GB",
+        {
+          "Name": " Sapphire Nitro RX 580 8GB",
           "storeName": "AMD House",
           "price": 30000.0,
           "url": "https://amdhouse.pk/product/sapphire-nitro-rx-580-8gb-used-no-box-in-2-weeks-warranty/"
         },
-            {
-                "Name": "Soyo RX 580 8GB",
+        {
+          "Name": "Soyo RX 580 8GB",
           "storeName": "AMD House",
           "price": 30500.0,
           "url": "https://amdhouse.pk/product/soyo-rx-580-2048sp-dual-fan-new-with-box-in-5-months-warranty/"
         },
-          {
-              "Name": " Sapphire Pulse Radeon RX 580 8GB",
+        {
+          "Name": " Sapphire Pulse Radeon RX 580 8GB",
           "storeName": "Zah Computers",
           "price": 80000.0,
           "url": "https://zahcomputers.pk/product/sapphire-pulse-radeon-rx-580-8g-gddr5-video-graphics-card-refurbished/"
@@ -267,53 +263,50 @@
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "SAPPHIRE PULSE RX 6400 4GB",
+          "Name": "SAPPHIRE PULSE RX 6400 4GB",
           "storeName": "AMD House",
           "price": 25000.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-6400-4gb-used-no-box-low-profile-in-1-month-warranty/"
         },
         {
-             "Name": "SAPPHIRE PULSE RX 6400 4GB",
+          "Name": "SAPPHIRE PULSE RX 6400 4GB",
           "storeName": "Zah Computers",
           "price": 45000.0,
           "url": "https://zahcomputers.pk/product/sapphire-pulse-radeon-rx-6400-4gb-gddr6-pci-express-4-0-low-profile-video-card/"
         },
-         {
-            "Name": "XFX Speedster RX 6400 4GB",
+        {
+          "Name": "XFX Speedster RX 6400 4GB",
           "storeName": "AMD House",
           "price": 30500.0,
           "url": "https://amdhouse.pk/product/xfx-speedster-swft105-amd-radeon-rx6400-4gb-gddr6-low-profile-open-box/"
         },
-         {
-            "Name": "G0igabyte Eagle Radeon RX 6400 4GB",
+        {
+          "Name": "G0igabyte Eagle Radeon RX 6400 4GB",
           "storeName": "Zah Computers",
           "price": 47520.0,
           "url": "https://zahcomputers.pk/product/gigabyte-eagle-radeon-rx-6400-4gb-gddr6-pci-express-4-0-video-card/"
         }
       ]
     },
- 
-
     {
       "id": "gpu_12",
       "name": "RX550 4GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "Ninja Radeon RX550 4GB",
+          "Name": "Ninja Radeon RX550 4GB",
           "storeName": "Zah Computers",
           "price": 28000.0,
           "url": "https://zahcomputers.pk/product/ninja-radeon-rx550-4gb-ddr5-128-bit-graphic-card/"
         },
-         {
-            "Name": "Asus RX550 4GB",
+        {
+          "Name": "Asus RX550 4GB",
           "storeName": "Zah Computers",
           "price": 43999.0,
           "url": "https://zahcomputers.pk/product/asus-amd-vga-ph-rx550-4g-evo-graphic-card/"
         },
-         {
-
-              "Name": "Sapphire Pulse RX550 4GB",
+        {
+          "Name": "Sapphire Pulse RX550 4GB",
           "storeName": "Zah Computers",
           "price": 19000.0,
           "url": "https://zahcomputers.pk/product/sapphire-pulse-radeon-rx-550-4gb-gddr5-video-card-refurbished/"
@@ -326,39 +319,38 @@
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "Sapphhire Pulse RX 590 8GB",
+          "Name": "Sapphhire Pulse RX 590 8GB",
           "storeName": "AMD House",
           "price": 28500.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-590-gme-8gb-gddr5-gpu-used-a-stock-in-1-month-warranty/"
         },
-           {
-                "Name": "Dataland RX 590 8GB",
+        {
+          "Name": "Dataland RX 590 8GB",
           "storeName": "AMD House",
           "price": 29500.0,
           "url": "https://amdhouse.pk/product/dataland-rx-590-gme-used-a-condition-without-box-in-14-days-warranty/"
         },
         {
-                "Name": "XFX RX 590 8GB",
+          "Name": "XFX RX 590 8GB",
           "storeName": "AMD House",
           "price": 28500.0,
           "url": "https://amdhouse.pk/product/xfx-rx-590-gme-black-wolf-8gb-gddr5-used-in-a-condition-without-box-in-1-mth-wty/"
         }
       ]
     },
-   
     {
       "id": "gpu_14",
       "name": " RX 6500XT 4GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "Power Color Fighter RX 6500XT 4GB",
+          "Name": "Power Color Fighter RX 6500XT 4GB",
           "storeName": "AMD House",
           "price": 32500.0,
           "url": "https://amdhouse.pk/product/powercolor-fighter-rx-6500xt-4gb-gddr6-new/"
         },
-         {
-           "Name": "Gigabyte Eagle Radeon RX 6500XT 4GB",
+        {
+          "Name": "Gigabyte Eagle Radeon RX 6500XT 4GB",
           "storeName": "Zah Computers",
           "price": 50000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-eagle-radeon-rx-6500-xt-4gb-gddr6-pci-express-4-0-atx-video-card/"
@@ -371,26 +363,25 @@
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-          
-           "Name": "EASE RX 580 8GB",
+          "Name": "EASE RX 580 8GB",
           "storeName": "AMD House",
           "price": 33000.0,
           "url": "https://amdhouse.pk/product/ease-e580-radeon-rx-580-8gb-2048sp-new/"
         },
         {
-            "Name": "EASE RX 580 8GB",
+          "Name": "EASE RX 580 8GB",
           "storeName": "Zah Computers",
           "price": 37000.0,
           "url": "https://zahcomputers.pk/product/ease-rx-580-8gb-graphics-card/"
         },
         {
-            "Name": "EASE RX 580 8GB",
+          "Name": "EASE RX 580 8GB",
           "storeName": "Junaid Tech",
           "price": 37999.0,
           "url": "https://www.junaidtech.pk/product/ease-rx-580-8gb-graphics-card"
         },
-          {
-              "Name": "EASE RX 580 8GB",
+        {
+          "Name": "EASE RX 580 8GB",
           "storeName": "Zicomputer",
           "price": 38000.0,
           "url": "https://zicomputer.com/product/ease-rx580-8gb-graphics-card/"
@@ -408,16 +399,14 @@
           "price": 33500.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-colorful-gtx-1060-6gb-used-no-box-in-2-weeks-warranty/"
         },
-         {
-           "Name": "ZOTAC GTX 1060",
+        {
+          "Name": "ZOTAC GTX 1060",
           "storeName": "AMD House",
           "price": 35000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-zotac-gtx-1060-x-gaming-oc-used-no-box-in-1-month-warranty/"
         }
-
       ]
     },
-  
     {
       "id": "gpu_17",
       "name": "GTX 1050 4GB",
@@ -448,49 +437,45 @@
           "price": 35500.0,
           "url": "https://amdhouse.pk/product/msi-mech-rx-5500-xt-8gb-oc-gddr6-used/"
         },
-          {
-             "Name": "Peladn RX 5500 XT 8GB",
+        {
+          "Name": "Peladn RX 5500 XT 8GB",
           "storeName": "AMD House",
           "price": 36000.0,
           "url": "https://amdhouse.pk/product/peladn-rx-5500xt-8gb-gddr6-gpu-used-without-box-in-1-month-warranty/"
         },
-          {
-            "Name": "GIGABYTE RX 5500 XT 8GB",
+        {
+          "Name": "GIGABYTE RX 5500 XT 8GB",
           "storeName": "AMD House",
           "price": 36500.0,
           "url": "https://amdhouse.pk/product/gigabyte-rx-5500-xt-8gb-oc-used-a-condition-without-box-in-1-month-warranty/"
         },
-          {
-             "Name": "Dataland RX 5500 XT 8GB",
+        {
+          "Name": "Dataland RX 5500 XT 8GB",
           "storeName": "AMD House",
           "price": 37000.0,
           "url": "https://amdhouse.pk/product/dataland-rx-5500-xt-8gb-x-serial-used-without-box-in-1-month-warranty/"
         },
-          {
+        {
           "Name": "GIGABYTE RX 5500 XT 8GB",
           "storeName": "Zah Computers",
           "price": 75000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-radeon-rx-5500-xt-d6-4g-128-bit-graphics-card/"
         }
-
       ]
     },
-   
-
     {
       "id": "gpu_19",
       "name": "GTX 1630 4GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "COLORFUL GTX 1630 4GB",
+          "Name": "COLORFUL GTX 1630 4GB",
           "storeName": "Junaid Tech",
           "price": 36999.0,
           "url": "https://www.junaidtech.pk/product/colorful-geforce-gtx-1630-nb-4gd6-v-4gb-graphics-card"
         }
       ]
     },
-  
     {
       "id": "gpu_20",
       "name": "XFX RX 5600 XT 6GB",
@@ -502,116 +487,111 @@
           "price": 41500.0,
           "url": "https://amdhouse.pk/product/xfx-amd-radeon-rx-5600-xt-6gb-gddr6-thicc-iii-3-fan-used/"
         },
-         {
+        {
           "Name": "Sapphire Pulse RX 5600 XT 6GB",
           "storeName": "AMD House",
           "price": 42000.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx5600xt-6gb-gddr6-used/"
-        }, {
-         "Name": "Sapphire Pulse RX 5600 XT 6GB",
+        },
+        {
+          "Name": "Sapphire Pulse RX 5600 XT 6GB",
           "storeName": "AMD House",
           "price": 43500.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-5600-xt-6gb-gddr6-used-without-box-in-a-condition-1-month-warranty/"
         },
-
-           {
-             "Name": "Yeston Radeon RX 5600 XT 6GB",
+        {
+          "Name": "Yeston Radeon RX 5600 XT 6GB",
           "storeName": "AMD House",
           "price": 44000.0,
           "url": "https://amdhouse.pk/product/yeston-radeon-rx-5600-xt-6gb-dual-fan-used-no-box-in-1-month-warranty/"
         }
       ]
     },
-    
     {
       "id": "gpu_21",
       "name": " GTX 1660 SUPER 6GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "INNO3D GTX 1660 SUPER 6GB",
+          "Name": "INNO3D GTX 1660 SUPER 6GB",
           "storeName": "AMD House",
           "price": 43000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-inno3d-gtx-1660-super-twin-x2-used-no-box-in-1-month-warranty/"
         },
-           {
-
-             "Name": "Zotac GTX 1660 SUPER 6GB",
+        {
+          "Name": "Zotac GTX 1660 SUPER 6GB",
           "storeName": "AMD House",
           "price": 43000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-zotac-gtx-1660-super-6gb-gddr6-used-no-box-in-1-month-warranty/"
         },
-         {
+        {
           "Name": "PALIT GTX 1660 SUPER 6GB",
           "storeName": "AMD House",
           "price": 44000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-palit-gtx-1660-super-used-in-2-weeks-warranty/"
         },
-            {
-               "Name": "MAXSUN GTX 1660 SUPER 6GB",
+        {
+          "Name": "MAXSUN GTX 1660 SUPER 6GB",
           "storeName": "AMD House",
           "price": 45000.0,
           "url": "https://amdhouse.pk/product/maxsun-geforce-gtx-1660-super-used-in-1-month-warranty/"
         },
-         {
+        {
           "Name": "ASUS GTX 1660 SUPER 6GB",
           "storeName": "AMD House",
           "price": 46000.0,
           "url": "https://amdhouse.pk/product/asus-gtx-1660-super-gaming-oc-used-in-2-weeks-warranty/"
         },
-           {
-            "name": "INNO3D GTX 1660 SUPER 6GB",
+        {
+          "name": "INNO3D GTX 1660 SUPER 6GB",
           "storeName": "Zah Computers",
           "price": 48000.0,
           "url": "https://zahcomputers.pk/product/inno3d-geforce-gtx-1660-super-twin-x2-6gb-ddr6-graphic-card-used/"
         },
-           {
-             "Name": "ASUS GTX 1660 SUPER 6GB",
+        {
+          "Name": "ASUS GTX 1660 SUPER 6GB",
           "storeName": "Zah Computers",
           "price": 48000.0,
           "url": "https://zahcomputers.pk/product/asus-geforce-gtx-1660-super-oc-6gb-dual-fan-evo-edition-vr-ready-hdmi-displayport-dvi-graphics-card-used/"
         },
-         {
+        {
           "Name": "GIGABYTE GTX 1660 SUPER 6GB",
           "storeName": "Zicomputer",
           "price": 48000.0,
           "url": "https://zicomputer.com/product/gigabyte-gtx-1660-super/"
         },
-         {
-            "Name": "GIGABYTE GTX 1660 SUPER 6GB",
+        {
+          "Name": "GIGABYTE GTX 1660 SUPER 6GB",
           "storeName": "Zah Computers",
           "price": 48500.0,
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-gtx-1660-super-6gb-gddr6-pci-express-3-0-x16-atx-graphics-card-used/"
         },
-            {
-               "Name": "MSI GTX 1660 SUPER 6GB",
+        {
+          "Name": "MSI GTX 1660 SUPER 6GB",
           "storeName": "Zah Computers",
           "price": 49000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-gtx-1660-super-ventus-6gb-gddr6-pci-express-3-0-x16-graphic-card-used/"
         },
-         {
-
-           "Name": "EASE GTX 1660 SUPER 6GB",
+        {
+          "Name": "EASE GTX 1660 SUPER 6GB",
           "storeName": "Junaid Tech",
           "price": 57999.0,
           "url": "https://www.junaidtech.pk/product/ease-gtx-1660-super-6gb-graphics-card"
         },
-            {
-             "Name": "EASE GTX 1660 SUPER 6GB",
+        {
+          "Name": "EASE GTX 1660 SUPER 6GB",
           "storeName": "Zicomputer",
           "price": 58000.0,
           "url": "https://zicomputer.com/product/ease-gtx-1660-super-6gb/"
         },
-           {
+        {
           "Name": "EASE GTX 1660 SUPER 6GB",
           "storeName": "Zah Computers",
           "price": 57999.0,
           "url": "https://zahcomputers.pk/product/ease-nvidia-geforce-gtx1660s-6gb-gddr6-graphics-card/"
         }
-
       ]
     },
-
     {
       "id": "gpu_22",
       "name": "GTX 1660TI 6GB",
@@ -623,16 +603,14 @@
           "price": 43500.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-colorful-gtx-1660-super-6gb-used-without-box-in-1-month-warranty/"
         },
-          {
-             "Name": "ASUS GTX 1660TI 6GB",
+        {
+          "Name": "ASUS GTX 1660TI 6GB",
           "storeName": "Zah Computers",
           "price": 49500.0,
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-geforce-gtx-1660-ti-oc-evo-top-edition-6gb-gddr6-pci-express-3-0-atx-video-card/"
         }
       ]
     },
-
-
     {
       "id": "gpu_23",
       "name": "SAPPHIRE RX 5700 8GB",
@@ -645,8 +623,6 @@
         }
       ]
     },
-
-
     {
       "id": "gpu_24",
       "name": "RTX 2060 6GB",
@@ -658,38 +634,38 @@
           "price": 49000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-galax-rtx-2060-6gb-used-no-box-in-2-weeks-warranty/"
         },
-          {
+        {
           "Name": "COLORFUL RTX 2060 6GB",
           "storeName": "AMD House",
           "price": 49000.0,
           "url": "https://amdhouse.pk/product/colorful-rtx-2060-v2-v-6gb-gddr6-used-in-1-month-warranty-build-only/"
         },
-            {
-           "Name": "ZOTAC RTX 2060 6GB",
+        {
+          "Name": "ZOTAC RTX 2060 6GB",
           "storeName": "AMD House",
           "price": 50000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-zotac-rtx-2060-6gb-used-without-box-in-1-month-warranty/"
         },
-             {
-             "Name": "MSI RTX 2060 6 GB",
+        {
+          "Name": "MSI RTX 2060 6 GB",
           "storeName": "AMD House",
           "price": 50500.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-msi-rtx-2060-ventus-2x-used-no-box-in-1-month-warranty/"
         },
-          {
-           "Name": "MAXSUN RTX 2060 6GB",
+        {
+          "Name": "MAXSUN RTX 2060 6GB",
           "storeName": "AMD House",
           "price": 51500.0,
           "url": "https://amdhouse.pk/product/maxsun-geforce-rtx-2060-terminator-6gb-used-in-1-month-warranty/"
         },
-          {
-           "Name": "GIGABYTE RTX 2060 6GB",
+        {
+          "Name": "GIGABYTE RTX 2060 6GB",
           "storeName": "Zah Computers",
           "price": 55000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-2060-6gb-gddr6-pci-express-3-0-x16-atx-graphics-card-used/"
         },
         {
-           "Name": "ASUS RTX 2060 6GB",
+          "Name": "ASUS RTX 2060 6GB",
           "storeName": "Zah Computers",
           "price": 55000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-2060-evo-6gb-gddr6-graphics-card-used/"
@@ -700,69 +676,64 @@
           "price": 56000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-2060-6gb-gddr6-pci-express-3-0-x16-graphics-card-used/"
         },
-          {
+        {
           "Name": "EVGA RTX 2060 6GB",
           "storeName": "Zah Computers",
           "price": 57000.0,
           "url": "https://zahcomputers.pk/product/evga-geforce-rtx-2060-sc-ultra-gaming-06g-p4-2067-kr-6gb-gddr6-dual-hdb-fan-used/"
         }
-
-
       ]
     },
-   
     {
       "id": "gpu_25",
       "name": "GTX 1650 4GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "ASUS GTX 1650 4GB",
+          "Name": "ASUS GTX 1650 4GB",
           "storeName": "Zah Computers",
           "price": 49500.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-gtx-1650-oc-edition-4gb-gddr6-evo-graphics-card/"
         },
-          {
-            "Name": "MSI GTX 1650",
+        {
+          "Name": "MSI GTX 1650",
           "storeName": "Zicomputer",
           "price": 52500.0,
           "url": "https://zicomputer.com/product/msi-geforce-gtx-1650-ventus-xs-4g-oc/"
         },
         {
-           "Name": "MSI GTX 1650",
+          "Name": "MSI GTX 1650",
           "storeName": "Zah Computers",
           "price": 54000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-gtx-1650-d6-ventus-xs-ocv3-graphics-card/"
         }
       ]
     },
-
     {
       "id": "gpu_26",
       "name": "XFX RX 5700 XT 8GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "XFX RX 5700 XT",
+          "Name": "XFX RX 5700 XT",
           "storeName": "AMD House",
           "price": 50000.0,
           "url": "https://amdhouse.pk/product/xfx-rx-5700-xt-8gb-raw-ii-used-no-box-in-1-month-warranty/"
         },
-           {
-           "Name": "XFX RX 5700 XT",
+        {
+          "Name": "XFX RX 5700 XT",
           "storeName": "AMD House",
           "price": 50000.0,
           "url": "https://amdhouse.pk/product/xfx-rx-5700-xt-raw-ii-ultra-boxed-used/"
         },
-           {
-           "Name": "SAPPHIRE Nitro RX 5700 XT",
+        {
+          "Name": "SAPPHIRE Nitro RX 5700 XT",
           "storeName": "Zah Computers",
           "price": 135000.0,
           "url": "https://zahcomputers.pk/product/sapphire-nitro-rx-5700-xt-radeon-8g-gddr6-video-graphics-card/"
         }
       ]
     },
-    
     {
       "id": "gpu_27",
       "name": "RX 6600 8GB",
@@ -774,170 +745,154 @@
           "price": 50000.0,
           "url": "https://amdhouse.pk/product/powercolor-fighter-rx-6600-8gb-gddr6-used-gpu-in-a-condition-no-box-in-1month-wty/"
         },
-          { 
+        {
           "Name": "Gigabyte Eagle RX 6600 8GB",
           "storeName": "AMD House",
           "price": 50000.0,
           "url": "https://amdhouse.pk/product/gigbyte-eagle-rx-6600-8gb-gddr6-used-in-a-condition-with-box/"
         },
-          {
+        {
           "Name": "SAPPHIRE RX 6600 8GB",
           "storeName": "AMD House",
           "price": 50000.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-6600-8gb-gddr6-used-a-condition-with-box-in-1-month-warranty/"
         },
-         { 
+        {
           "Name": "SAPPHIRE RX 6600 8GB",
           "storeName": "Zah Computers",
           "price": 50000.0,
           "url": "https://zahcomputers.pk/product/sapphire-pulse-radeon-rx-6600-8gb-gddr6-pci-express-4-0-atx-video-card-refurbished/"
         },
-            {
-           "Name": "GIGABYTE RX 6600 8GB",
+        {
+          "Name": "GIGABYTE RX 6600 8GB",
           "storeName": "AMD House",
           "price": 51000.0,
           "url": "https://amdhouse.pk/product/gigabyte-eagle-rx-6600-8g-used-without-box-in-1-month/"
         },
-         {
-           "Name": "XFX RX 6600 8GB",
+        {
+          "Name": "XFX RX 6600 8GB",
           "storeName": "AMD House",
           "price": 50500.0,
           "url": "https://amdhouse.pk/product/xfx-swft-210-rx-6600-8gb-gddr6-core-edition-no-box-in-5-months-warranty/"
         }
-           
-
       ]
     },
-   
-    
- 
-  
- 
-  
- 
     {
       "id": "gpu_28",
       "name": "RTX 3050 8GB",
       "categoryId": "graphics_cards",
       "storePrices": [
-      
-           {
-            "Name": "Yeston RTX 3050 8GB",
+        {
+          "Name": "Yeston RTX 3050 8GB",
           "storeName": "AMD House",
           "price": 69500.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-yeston-rtx-3050-8gb-gaea-new-in-10-months-warranty/"
         },
-           {
+        {
           "Name": "EASE RTX 3050 8GB",
           "storeName": "Zah Computers",
           "price": 74000.0,
           "url": "https://zahcomputers.pk/product/ease-e305-geforce-rtx-3050-graphics-card-8gb/"
         },
         {
-             "Name": "EASE RTX 3050 8GB",
+          "Name": "EASE RTX 3050 8GB",
           "storeName": "Zicomputer",
           "price": 78000.0,
           "url": "https://zicomputer.com/product/ease-rtx-3050-8gb/"
         },
-          {
-           "Name": "GIGABYTE RTX 3050 8GB",
+        {
+          "Name": "GIGABYTE RTX 3050 8GB",
           "storeName": "Zah Computers",
           "price": 80000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-eagle-geforce-rtx-3050-8gb-gddr6-pci-express-4-0-atx-video-card/"
         },
-           {
+        {
           "Name": "ZOTAC RTX 3050",
           "storeName": "Zah Computers",
           "price": 80990.0,
           "url": "https://zahcomputers.pk/product/zotac-geforce-rtx-3050-gaming-twin-edge-oc-graphics-card/"
         },
-              {
+        {
           "Name": "MSI RTX 3050 8GB",
           "storeName": "Zah Computers",
           "price": 82000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-3050-ventus-2x-oc-8gb-of-gddr6-vram-dual-torx-4-0-fans-graphics-card/"
         },
         {
-           "Name": "MSI RTX 3050 8GB",
+          "Name": "MSI RTX 3050 8GB",
           "storeName": "Junaid Tech",
           "price": 87999.0,
           "url": "https://www.junaidtech.pk/product/msi-rtx-3050-ventus-2x-xs-8gb-oc-graphics-card"
         },
         {
-           "Name": "MSI RTX 3050 8GB",
+          "Name": "MSI RTX 3050 8GB",
           "storeName": "Zicomputer",
           "price": 90000.0,
           "url": "https://zicomputer.com/product/msi-ventus-2x-rtx-3050-8gb-2/"
         },
-          {
-           "Name": "ASUS RTX 3050 8GB",
+        {
+          "Name": "ASUS RTX 3050 8GB",
           "storeName": "Zah Computers",
           "price": 88000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-3050-v2-8gb-gddr6-with-dual-fan-graphics-card/"
         },
-           {
-           "Name": "ZOTAC RTX 3050 8GB",
+        {
+          "Name": "ZOTAC RTX 3050 8GB",
           "storeName": "Zah Computers",
           "price": 86000.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-3050-8gb-gddr6-eco-edition-graphics-card/"
         }
       ]
     },
-
- 
-   
-   
     {
       "id": "gpu_29",
       "name": "RTX 2060 SUPER 8GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-              "Name": "MSI RTX 2060 SUPER 8GB",
+          "Name": "MSI RTX 2060 SUPER 8GB",
           "storeName": "AMD House",
           "price": 58000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-msi-ventus-rtx-2060-super-8gb-gddr6-used-no-box-in-1-month-warranty-build-only/"
         },
         {
-              "Name": "MSI RTX 2060 SUPER 8GB",
+          "Name": "MSI RTX 2060 SUPER 8GB",
           "storeName": "Zah Computers",
           "price": 66000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-2060-super-ventus-gp-oc-8gb-ddr6-256-bit-graphic-card/"
         },
-          {
-                "Name": "GALAX RTX 2060 SUPER 8GB",
+        {
+          "Name": "GALAX RTX 2060 SUPER 8GB",
           "storeName": "AMD House",
           "price": 58500.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-galax-rtx-2060-super-8gb-used-without-box-in-1-month-warranty/"
         },
-         {
-           "Name": "ZOTAC RTX 2060 SUPER 8GB",
+        {
+          "Name": "ZOTAC RTX 2060 SUPER 8GB",
           "storeName": "AMD House",
           "price": 59500.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-zotac-rtx-2060-super-8gb-used-without-box-in-1-month-warranty/"
         },
-          {
+        {
           "Name": "COLORFUL RTX 2060 SUPER 8GB",
           "storeName": "AMD House",
           "price": 60000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-colorful-battle-ax-rtx-2060-super-8gb-used-in-1-month-warranty-no-box/"
         },
-          {
-           "Name": "PALIT RTX 2060 SUPER 8GB",
+        {
+          "Name": "PALIT RTX 2060 SUPER 8GB",
           "storeName": "Zah Computers",
           "price": 64000.0,
           "url": "https://zahcomputers.pk/product/palit-geforce-rtx-2060-super-dual-8gb-gddr6-graphics-card-used/"
         },
-           {
-            "Name": "Founder Edition RTX 2060 SUPER 8GB",
+        {
+          "Name": "Founder Edition RTX 2060 SUPER 8GB",
           "storeName": "Zah Computers",
           "price": 65000.0,
           "url": "https://zahcomputers.pk/product/nvidia-geforce-rtx-2060-super-founders-edition-graphics-card/"
         }
       ]
     },
- 
-    
     {
       "id": "gpu_30",
       "name": "OTHER RX 6600 XT 8GB",
@@ -949,51 +904,44 @@
           "price": 59500.0,
           "url": "https://amdhouse.pk/product/asrock-challenger-rx-6600-xt-8gb-gddr6-dual-fan-used-in-1-month-warranty-no-box/"
         },
-           {
-              "Name": "XFX RX 6600 XT 8GB",
+        {
+          "Name": "XFX RX 6600 XT 8GB",
           "storeName": "AMD House",
           "price": 60000.0,
           "url": "https://amdhouse.pk/product/xfx-swft-210-amd-radeon-rx6600xt-8gb-gddr6-open-box/"
         },
         {
-           "Name": "XFX RX 6600 XT 8GB",
+          "Name": "XFX RX 6600 XT 8GB",
           "storeName": "Zicomputer",
           "price": 72000.0,
           "url": "https://zicomputer.com/product/xfx-radeon-rx-6600-xt-8gb-speedster-swft-210/"
         },
-         {
-             "Name": "SAPPHIRE RX 6600 XT 8GB",
+        {
+          "Name": "SAPPHIRE RX 6600 XT 8GB",
           "storeName": "Zah Computers",
           "price": 60000.0,
           "url": "https://zahcomputers.pk/product/sapphire-pulse-radeon-rx-6600-xt-8gb-gddr6-pci-express-4-0-atx-video-card-refurbished/"
         },
         {
-             "Name": "SAPPHIRE RX 6600 XT 8GB",
+          "Name": "SAPPHIRE RX 6600 XT 8GB",
           "storeName": "AMD House",
           "price": 62500.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-6600-xt-8gb-gddr6-used-a-condition-without-box-in-2-month-wty/"
         },
-         {
-           "name": "POWERCOLOR RX 6600 XT 8GB",
+        {
+          "name": "POWERCOLOR RX 6600 XT 8GB",
           "storeName": "AMD House",
           "price": 61500.0,
           "url": "https://amdhouse.pk/product/power-color-rx-6600-xt-8gb-used-no-box-in-1-month-warranty/"
         },
-         {
-             "Name": "GIGABYTE RX 6600 XT 8GB",
+        {
+          "Name": "GIGABYTE RX 6600 XT 8GB",
           "storeName": "AMD House",
           "price": 62500.0,
           "url": "https://amdhouse.pk/product/gigabyte-gaming-oc-8g-rx-6600-xt-8gb-gddr6-used-a-condition-without-box-1-month-wty/"
         }
       ]
-
-      
     },
-  
-  
-
- 
- 
     {
       "id": "gpu_31",
       "name": "RTX 2070 8GB",
@@ -1011,34 +959,32 @@
           "price": 63500.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-maxsun-icraft-rtx-2070-8gb-3-fan-used-2-weeks-warranty-no-box/"
         },
-         {
-           "Name": "MSI RTX 2070 8 GB",
+        {
+          "Name": "MSI RTX 2070 8 GB",
           "storeName": "Zah Computers",
           "price": 65000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-2070-ventus-gp-gddr6-pci-express-3-0-x16-graphics-card/"
         },
-         {
+        {
           "Name": "GIGABYTE RTX 2070 8 GB",
           "storeName": "Zah Computers",
           "price": 65000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-2070-windforce-2x-graphics-card-used/"
         },
         {
-           "Name": "ASUS RTX 2070 8GB",
+          "Name": "ASUS RTX 2070 8GB",
           "storeName": "Zah Computers",
           "price": 69000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-2070-evo-8gb-gddr6-with-high-performance-cooling-for-4k-and-high-refresh-rate-gaming-used/"
         },
-         {
-           "Name": "MSI RTX 2070 8GB",
+        {
+          "Name": "MSI RTX 2070 8GB",
           "storeName": "Zah Computers",
           "price": 70000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-2070-ventus-8g-8gb-gddr6-256-bit-pcie-x16-3-0-dp-hdmi-1620-mhz-14-gbps-graphics-card-used/"
         }
       ]
     },
-
-   
     {
       "id": "gpu_32",
       "name": "XFX RX 6700 10GB",
@@ -1049,8 +995,9 @@
           "storeName": "AMD House",
           "price": 64500.0,
           "url": "https://amdhouse.pk/product/xfx-swft-rx-6700-10gb-gddr6-used-no-box-in-1-month-warranty/"
-        },  {
-             "Name": "SAPPHIRE RX 6700 10GB",
+        },
+        {
+          "Name": "SAPPHIRE RX 6700 10GB",
           "storeName": "AMD House",
           "price": 65000.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-6700-10gb-gddr6-used-a-condition/"
@@ -1063,28 +1010,26 @@
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "GAINWARD RTX 2070 SUPER",
+          "Name": "GAINWARD RTX 2070 SUPER",
           "storeName": "AMD House",
           "price": 65000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-gainward-rtx-2070-super-tri-fan-used-no-box-in-1-month-warranty/"
         },
-         {
-           "Name": "ZOTAC RTX 2070 SUPER",
+        {
+          "Name": "ZOTAC RTX 2070 SUPER",
           "storeName": "Zah Computers",
           "price": 68000.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-2070-super-twin-fan-graphics-card/"
         }
       ]
     },
-    
-     
     {
       "id": "gpu_34",
       "name": "RX 6650 XT 8GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "XFX RX 6650 XT 8GB",
+          "Name": "XFX RX 6650 XT 8GB",
           "storeName": "AMD House",
           "price": 65000.0,
           "url": "https://amdhouse.pk/product/xfx-swft-210-rx-6650-xt-8gb-gddr6-used-boxed/"
@@ -1103,39 +1048,36 @@
         }
       ]
     },
-
- 
-  
     {
       "id": "gpu_35",
       "name": "SAPPHIRE RX 7600 8GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "SAPPHIRE RX 7600 8GB",
+          "Name": "SAPPHIRE RX 7600 8GB",
           "storeName": "AMD House",
           "price": 66500.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-7600-8gb-gddr6-gpu-used-in-a-condition-in-2-months-wty/"
         },
         {
-           "Name": "SAPPHIRE RX 7600 8GB",
+          "Name": "SAPPHIRE RX 7600 8GB",
           "storeName": "Zah Computers",
           "price": 67500.0,
           "url": "https://zahcomputers.pk/product/sapphire-pulse-radeon-rx-7600-8gb-gddr6-pci-express-4-0-x8-atx-graphics-card-refurbished/"
         },
-           {
+        {
           "Name": "XFX RX 7600 8GB",
           "storeName": "AMD House",
           "price": 70000.0,
           "url": "https://amdhouse.pk/product/xfx-swft-210-rx-7600-core-edition-8gb-gddr6-used-a-condition/"
         },
-           {
-           "Name": "As_Rock RX 7600 8GB",
+        {
+          "Name": "As_Rock RX 7600 8GB",
           "storeName": "AMD House",
           "price": 90000.0,
           "url": "https://amdhouse.pk/product/asrock-challenger-rx-7600-8gb-gddr6-oc-new/"
         },
-           {
+        {
           "Name": "XFX RX7600 8GB",
           "storeName": "AMD House",
           "price": 102000.0,
@@ -1156,181 +1098,176 @@
         }
       ]
     },
-   
     {
       "id": "gpu_37",
       "name": "ZOTAC RTX 3060 12GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "ZOTAC RTX 3060 12GB",
+          "Name": "ZOTAC RTX 3060 12GB",
           "storeName": "Zah Computers",
           "price": 68990.0,
           "url": "https://zahcomputers.pk/product/zotac-geforce-rtx-3060-blower-edition-12gb-gddr6-graphics-card-used/"
         },
         {
-             "Name": "ZOTAC RTX 3060 12GB",
+          "Name": "ZOTAC RTX 3060 12GB",
           "storeName": "AMD House",
           "price": 80500.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-zotac-rtx-3060-12gb-dual-fan-no-box-in-1-month-warranty/"
         },
         {
-             "Name": "ZOTAC RTX 3060 12GB",
+          "Name": "ZOTAC RTX 3060 12GB",
           "storeName": "Zicomputer",
           "price": 110000.0,
           "url": "https://zicomputer.com/product/zotac-rtx-3060-12gb/"
         },
-              {
+        {
           "Name": "MSI RTX 3060 12GB",
           "storeName": "AMD House",
           "price": 74000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-msi-rtx-3060-12gb-ventus-2x-used-no-box-in-7-days-wty/"
         },
         {
-           "Name": "MSI RTX 3060 12GB",
+          "Name": "MSI RTX 3060 12GB",
           "storeName": "Junaid Tech",
           "price": 119999.0,
           "url": "https://www.junaidtech.pk/product/msi-geforce-rtx-3060-ventus-2x-oc-12gb-graphics-card"
         },
         {
-           "Name": "MSI RTX 3060 12GB",
+          "Name": "MSI RTX 3060 12GB",
           "storeName": "Zah Computers",
           "price": 125000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-3060-ventus-2x-12g-oc-12gb-gddr6-pci-express-4-0-graphics-card/"
         },
-          {
+        {
           "Name": "COLORFUL RTX 3060 12GB",
           "storeName": "AMD House",
           "price": 75000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-colorful-rtx-3060-12gb-duo-used-in-1-month-warranty-no-box/"
         },
-          {
+        {
           "Name": "ASUS RTX 3060 12GB",
           "storeName": "Zah Computers",
           "price": 78000.0,
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-geforce-rtx-3060-oc-12gb-gddr6-pci-express-4-0-video-card-used/"
-        },   {
-             "Name": "COLORFUL RTX 3060 12 GB",
+        },
+        {
+          "Name": "COLORFUL RTX 3060 12 GB",
           "storeName": "Zah Computers",
           "price": 96999.0,
           "url": "https://zahcomputers.pk/product/colorful-geforce-rtx-3060-nb-duo-12g-v2-l-v-graphics-card/"
         },
-          {
-            "Name": "MAXSUN RTX 3060 12GB",
+        {
+          "Name": "MAXSUN RTX 3060 12GB",
           "storeName": "AMD House",
           "price": 96500.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-maxsun-rtx-3060-12gb-gddr6-new-in-10-months-warranty/"
         },
-          {
-             "Name": "GIGABYTE RTX 3060 12GB",
+        {
+          "Name": "GIGABYTE RTX 3060 12GB",
           "storeName": "AMD House",
           "price": 91500.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-gigabyte-windforce-oc-rtx-3060-12g-new-in-10-months-warranty/"
         },
-         {
+        {
           "Name": "EASE RTX 3060 12GB",
           "storeName": "Zah Computers",
           "price": 88999.0,
           "url": "https://zahcomputers.pk/product/ease-e360-geforce-rtx-3060-graphics-card-12gb/"
         },
-              {
+        {
           "Name": "GIGABYTE RTX 3060 12GB",
           "storeName": "AMD House",
           "price": 80000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-gigabyte-rtx-3060-12gb-eagle-oc-used-no-box-in-1-month-warranty/"
         },
         {
-              "Name": "GIGABYTE RTX 3060 12GB",
+          "Name": "GIGABYTE RTX 3060 12GB",
           "storeName": "Zah Computers",
           "price": 100000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-nvidia-geforce-rtx-3060-windforce-oc-12gb-gddr6-graphics-card/"
         },
-           {
-            "Name": "INNO3D GeForce RTX 3060 TWIN X2 12GB ",
+        {
+          "Name": "INNO3D GeForce RTX 3060 TWIN X2 12GB ",
           "storeName": "Zah Computers",
           "price": 94000.0,
           "url": "https://zahcomputers.pk/product/inno3d-geforce-rtx-3060-twin-x2-12gb-gddr6-192-bit-graphic-card/"
         },
-          {
-                "Name": "GALAX RTX 3060 12GB",
+        {
+          "Name": "GALAX RTX 3060 12GB",
           "storeName": "Zah Computers",
           "price": 105000.0,
           "url": "https://zahcomputers.pk/product/galax-geforce-rtx-3060-1-click-oc-12gb-cuda-cores-3584-graphics-card/"
         }
       ]
     },
-   
- 
     {
       "id": "gpu_38",
       "name": "RX 6750 10GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "XFX RX 6750 10GB",
+          "Name": "XFX RX 6750 10GB",
           "storeName": "AMD House",
           "price": 70000.0,
           "url": "https://amdhouse.pk/product/xfx-swft-rx-6750-gre-10gb-tri-fan-used-no-box-in-2-months-warranty/"
         },
-          {
-            "Name": "Yeston RX 6750 10GB",
+        {
+          "Name": "Yeston RX 6750 10GB",
           "storeName": "AMD House",
           "price": 82000.0,
           "url": "https://amdhouse.pk/product/yeston-gaea-rx-6750-gre-10gb-gddr6-160bit-new/"
         }
       ]
     },
-  
- 
-
     {
       "id": "gpu_39",
       "name": "RTX 4060 8GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-             "Name": "ZOTAC RTX 4060 8GB",
+          "Name": "ZOTAC RTX 4060 8GB",
           "storeName": "Zah Computers",
           "price": 72000.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-4060-solo-8gb-8gb-gddr6-super-compact-graphics-card-used/"
         },
         {
-             "Name": "ZOTAC RTX 4060 8GB",
+          "Name": "ZOTAC RTX 4060 8GB",
           "storeName": "Zicomputer",
           "price": 99000.0,
           "url": "https://zicomputer.com/product/zotac-rtx-4060-8gb-twin-edge-oc/"
         },
         {
-             "Name": "ZOTAC RTX 4060 8GB",
+          "Name": "ZOTAC RTX 4060 8GB",
           "storeName": "AMD House",
           "price": 100000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-zotac-gaming-rtx-4060-8gb-gddr6-twin-edge-oc-new-in-10-months-wty/"
         },
         {
-             "Name": "ZOTAC RTX 4060 8GB",
+          "Name": "ZOTAC RTX 4060 8GB",
           "storeName": "Junaid Tech",
           "price": 108999.0,
           "url": "https://www.junaidtech.pk/product/zotac-gaming-rtx-4060-8gb-twin-edge-graphics-card"
         },
-            {
+        {
           "Name": "GALAX RTX 4060 8GB",
           "storeName": "AMD House",
           "price": 96000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-galax-rtx-4060-8gb-gddr6-compact-1-click-oc-new-in-10-months-warranty-itx-builds-only/"
         },
         {
-             "Name": "GALAX RTX 4060 8GB",
+          "Name": "GALAX RTX 4060 8GB",
           "storeName": "Junaid Tech",
           "price": 99499.0,
           "url": "https://www.junaidtech.pk/product/galax-rtx-4060-ex-oc-8gb-graphics-card"
         },
-         {
-             "Name": "INNO3D RTX 4060 8GB",
+        {
+          "Name": "INNO3D RTX 4060 8GB",
           "storeName": "Junaid Tech",
           "price": 106999.0,
           "url": "https://www.junaidtech.pk/product/inno3d-rtx-4060-twin-x2-graphics-card"
         },
-            {
+        {
           "Name": "GIGABYTE RTX 4060 8GB",
           "storeName": "Junaid Tech",
           "price": 109999.0,
@@ -1342,8 +1279,8 @@
           "price": 117990.0,
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-4060-graphics-card-3x-fans-8gb-gddr6-video-card/"
         },
-            {
-           "Name": "PALIT RTX 4060 8GB",
+        {
+          "Name": "PALIT RTX 4060 8GB",
           "storeName": "Junaid Tech",
           "price": 107999.0,
           "url": "https://www.junaidtech.pk/product/palit-rtx-4060-stormx-8gb-graphics-card"
@@ -1355,129 +1292,127 @@
           "url": "https://www.junaidtech.pk/product/msi-rtx-4060-ventus-2x-white-8gb-oc-graphics-card"
         },
         {
-            "Name": "MSI RTX 4060 8GB",
+          "Name": "MSI RTX 4060 8GB",
           "storeName": "Zah Computers",
           "price": 115000.0,
           "url": "https://zahcomputers.pk/product/msi-ventus-geforce-rtx-4060-8gb-2x-oc-gddr6-pci-express-4-0-x8-atx-graphics-cards-white/"
         },
-         {
-           "Name": "ASUS RTX 4060 8GB",
+        {
+          "Name": "ASUS RTX 4060 8GB",
           "storeName": "Zah Computers",
           "price": 114000.0,
           "url": "https://zahcomputers.pk/product/asus-proart-geforce-rtx-4060-8gb-gddr6-pci-express-4-0-graphics-card/"
         },
         {
-           "Name": "ASUS RTX 4060 8GB",
+          "Name": "ASUS RTX 4060 8GB",
           "storeName": "Zicomputer",
           "price": 120000.0,
           "url": "https://zicomputer.com/product/rtx-4060-oc-asus-dual/"
         },
         {
-           "Name": "ASUS RTX 4060 8GB",
+          "Name": "ASUS RTX 4060 8GB",
           "storeName": "Junaid Tech",
           "price": 129999.0,
           "url": "https://www.junaidtech.pk/product/asus-rog-strix-rtx-4060-oc-edition-8gb-gddr6-graphics-card"
         },
-          {
-           "Name": "MSI RTX 4060 8GB",
+        {
+          "Name": "MSI RTX 4060 8GB",
           "storeName": "Zah Computers",
           "price": 133000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-4060-gaming-8g-x-graphics-card/"
         },
-            {
-             "name": "ASUS RTX 4060 8GB ",
+        {
+          "name": "ASUS RTX 4060 8GB ",
           "storeName": "Zah Computers",
           "price": 115000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-4060-8gb-gddr6-pci-express-4-0-graphics-card/"
         },
-         {
-             "Name": "ASUS RTX 4060 8GB ",
+        {
+          "Name": "ASUS RTX 4060 8GB ",
           "storeName": "Zah Computers",
           "price": 115000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-4060-8gb-gddr6-pci-express-4-0-graphics-card-white/"
         },
-         {
-             "Name": "ASUS  RTX 4060 EVO 8GB",
+        {
+          "Name": "ASUS  RTX 4060 EVO 8GB",
           "storeName": "Zah Computers",
           "price": 113000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-4060-evo-8gb-gddr6-oc-edition-gaming-graphics-card-white/"
         },
-          {
-           "Name": "INNO3D RTX 4060 8 GB",
+        {
+          "Name": "INNO3D RTX 4060 8 GB",
           "storeName": "Zah Computers",
           "price": 108000.0,
           "url": "https://zahcomputers.pk/product/inno3d-geforce-rtx-4060-twin-x2-v2-gddr6-128-bit-graphic-card/"
         }
       ]
     },
- 
-    
     {
       "id": "gpu_40",
       "name": "RTX 3060TI 8GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "COLORFUL RTX 3060I 8GB",
+          "Name": "COLORFUL RTX 3060I 8GB",
           "storeName": "AMD House",
           "price": 75000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-colorful-battle-ax-rtx-3060-ti-8gb-used-in-1-month-warranty-no-box/"
         },
-          {
-            "Name": "Manli RTX 3060TI 8GB ",
+        {
+          "Name": "Manli RTX 3060TI 8GB ",
           "storeName": "Zah Computers",
           "price": 130000.0,
           "url": "https://zahcomputers.pk/product/manli-geforce-rtx-3060-ti-m2500n630-8gb-gddr6-memory-graphics-card/"
         },
-          {
-           "Name": "ASUS RTX 3060TI 8GB",
+        {
+          "Name": "ASUS RTX 3060TI 8GB",
           "storeName": "RB Tech N Games",
           "price": 87999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/asus-geforce-rtx-3060-ti-megalodon-oc-8gb-graphics-card-used/"
         },
-         {
-            "Name": "MSI RTX 3060TI 8GB",
+        {
+          "Name": "MSI RTX 3060TI 8GB",
           "storeName": "Zah Computers",
           "price": 86999.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-3060-ti-ventus-2x-oc-8gb-gddr6-graphics-card/"
         },
         {
-            "Name": "GIGABYTE RTX 3060TI 8GB",
+          "Name": "GIGABYTE RTX 3060TI 8GB",
           "storeName": "Zah Computers",
           "price": 85000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-gaming-oc-3060-ti-8gb-rev-2-0-lhr-geforce-rtx-3060-ti-8gb-gddr6-pci-express-4-0-atx-video-card-used/"
         },
-            {
+        {
           "Name": "MSI RTX 3060TI 8GB",
           "storeName": "AMD House",
           "price": 81500.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-msi-rtx-3060ti-used-no-box-in-1-month-warranty/"
         },
-         {
-            "Name": "MSI RTX 3060TI 8GB",
+        {
+          "Name": "MSI RTX 3060TI 8GB",
           "storeName": "AMD House",
           "price": 80000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-msi-rtx-3060ti-8gb-ventus-2x-oc-used-no-box-in-2-weeks-warranty/"
         },
-         {
-            "Name": "GAINWARD RTX 3060TI 8GB",
+        {
+          "Name": "GAINWARD RTX 3060TI 8GB",
           "storeName": "AMD House",
           "price": 80000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-gainward-rtx-3060ti-dual-fan-used-no-box-in-2-weeks-warranty/"
         },
-         {
+        {
           "Name": "ZOTAC RTX 3060TI 8GB",
           "storeName": "Zah Computers",
           "price": 79990.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-3060ti-twin-edge-8gb-gddr6-256-bit-gaming-graphics-card-used/"
         },
-          {
-           "Name": "PALIT RTX 3060TI 8GB",
+        {
+          "Name": "PALIT RTX 3060TI 8GB",
           "storeName": "AMD House",
           "price": 77000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-palit-rtx-3060-ti-dual-oc-8gb-gddr6-used-no-box-in-1-month-warranty/"
         },
-         {
+        {
           "Name": "ASUS RTX 3060TI 8GB",
           "storeName": "AMD House",
           "price": 77000.0,
@@ -1491,75 +1426,72 @@
         }
       ]
     },
-
-
     {
       "id": "gpu_41",
       "name": "RTX 3050 6GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "MSI RTX 3050 6GB",
+          "Name": "MSI RTX 3050 6GB",
           "storeName": "Junaid Tech",
           "price": 76999.0,
           "url": "https://www.junaidtech.pk/product/msi-rtx-3050-ventus-2x-e-6gb-oc-graphics-card"
         },
         {
-           "Name": "MSI VENTUS RTX 3050 6GB",
+          "Name": "MSI VENTUS RTX 3050 6GB",
           "storeName": "Zah Computers",
           "price": 76999.0,
           "url": "https://zahcomputers.pk/product/msi-ventus-geforce-rtx-3050-6gb-2x-oc-gddr6-pci-express-4-0-x8-atx-graphics-cards/"
         },
         {
-           "Name": "MSI RTX 3050 6GB",
+          "Name": "MSI RTX 3050 6GB",
           "storeName": "Czone",
           "price": 95000.0,
           "url": "https://www.czone.com.pk/graphic-cards-nvidia-geforce-msi-geforce-rtx-3050-ventus-2x-6g-oc-video-graphics-card-6gb-gddr6-boost-clock-1492mhz-14gbps-hdmi-2-1-4k-120hz-displayport-1-4a-dual-fan-cooling-pakistan-p.19066.aspx"
         },
-          {
-               "Name": "Colorful battle  RTX 3050 6GB",
+        {
+          "Name": "Colorful battle  RTX 3050 6GB",
           "storeName": "AMD House",
           "price": 56000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-colorful-battle-ax-rtx-3050-8gb-tri-fan-used-no-box-in-2-weeks-warranty/"
         },
         {
-               "Name": "Colorful RTX 3050 6GB",
+          "Name": "Colorful RTX 3050 6GB",
           "storeName": "Zah Computers",
           "price": 77000.0,
           "url": "https://zahcomputers.pk/product/colorful-geforce-rtx-3050-nb-duo-v2-v-8gbv2-v-gddr6-graphics-card/"
         },
-          {
+        {
           "Name": "Yeston RTX 3050 6GB",
           "storeName": "AMD House",
           "price": 60500.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-yeston-rtx-3050-6gb-gddr6-new-in-10-months-warranty-copy/"
         },
-          {
+        {
           "Name": "Yeston RTX 3050",
           "storeName": "AMD House",
           "price": 60500.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-yeston-rtx-3050-6g-d6-low-profile-new-in-10-months-warranty/"
         },
-          {
+        {
           "Name": "ZOTAC RTX 3050 6GB",
           "storeName": "AMD House",
           "price": 62000.0,
-          
           "url": "https://amdhouse.pk/product/nvidia-geforce-zotac-gaming-rtx-3050-solo-6gb-gddr6-new-in-10-months-warranty/"
         },
-         { 
+        {
           "Name": "EASE RTX 3050 6GB",
           "storeName": "Zah Computers",
           "price": 62500.0,
           "url": "https://zahcomputers.pk/product/ease-e305e-geforce-rtx-3050-graphics-card-6gb/"
-        }, 
+        },
         {
-           "Name": "ASUS RTX 3050 6GB",
+          "Name": "ASUS RTX 3050 6GB",
           "storeName": "Zah Computers",
           "price": 77000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-nvidia-geforce-rtx-3050-6gb-oc-edition-gaming-graphics-card/"
         },
-          {
+        {
           "name": "ZOTAC RTX 3050 6GB",
           "storeName": "Zah Computers",
           "price": 75000.0,
@@ -1567,61 +1499,55 @@
         }
       ]
     },
-  
-   
-  
-
     {
       "id": "gpu_42",
       "name": "RX 6700 XT 12 GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "name": "XT Founder Edition RX 6700 XT 12 GB",
+          "name": "XT Founder Edition RX 6700 XT 12 GB",
           "storeName": "AMD House",
           "price": 78500.0,
           "url": "https://amdhouse.pk/product/amd-radeon-rx-6700-xt-founders-edition-used-in-a-condition-no-box-in-1mth-wty/"
         },
-              {
-            "Name": "POWERCOLOR RX6700XT 12GB",
+        {
+          "Name": "POWERCOLOR RX6700XT 12GB",
           "storeName": "AMD House",
           "price": 80000.0,
           "url": "https://amdhouse.pk/product/powercolor-fighter-amd-radeon-rx6700xt-12gb-gddr6-used/"
         },
-             {
-             "Name": "SAPPHIRE RX 6700 XT 12GB",
+        {
+          "Name": "SAPPHIRE RX 6700 XT 12GB",
           "storeName": "AMD House",
           "price": 80500.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-6700-xt-12gb-gddr6-gpu-in-used-a-condition-with-2-months-wty/"
         },
         {
-             "Name": "SAPPHIRE RX 6700 XT 12GB",
+          "Name": "SAPPHIRE RX 6700 XT 12GB",
           "storeName": "Zah Computers",
           "price": 85000.0,
           "url": "https://zahcomputers.pk/product/sapphire-nitro-amd-radeon-rx-6700-xt-with-12gb-gddr6gaming-graphics-card/"
         },
-             {
-           "Name": "XFX RX 6700 XT 12GB",
+        {
+          "Name": "XFX RX 6700 XT 12GB",
           "storeName": "AMD House",
           "price": 81000.0,
           "url": "https://amdhouse.pk/product/xfx-speedster-swft-radeon-rx-6700-xt-12gb-gddr6-new-no-box-2-5-months-warranty/"
         },
-           {
-           "Name": "ASUS RX 6700 XT 12GB",
+        {
+          "Name": "ASUS RX 6700 XT 12GB",
           "storeName": "Zah Computers",
           "price": 82000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-radeon-rx-6700-xt-12gb-gddr6-pci-express-4-0-graphic-card-used/"
         },
-            {
-            "Name": "GIGABYTE RX 6700 XT 12GB",
+        {
+          "Name": "GIGABYTE RX 6700 XT 12GB",
           "storeName": "Zah Computers",
           "price": 85000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-radeon-rx-6700-xt-gaming-oc-12g-graphics-card-12gb-gddr6-pcie-4-0-windforce-3x-cooling-rgb-fusion-2-0/"
         }
       ]
     },
-   
- 
     {
       "id": "gpu_43",
       "name": "ZOTAC RTX 3070 8GB",
@@ -1634,36 +1560,36 @@
           "url": "https://amdhouse.pk/product/nvidia-geforce-zotac-rtx-3070-8gb-trinity-used-no-box-in-2-weeks-warranty/"
         },
         {
-              "Name": "ZOTAC RTX 3070 8GB",
+          "Name": "ZOTAC RTX 3070 8GB",
           "storeName": "Zah Computers",
           "price": 90000.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-3070-amp-holo-8gb-gddr6-256-bit-14-gbps-pcie-4-0-gaming-graphics-card/"
         },
-            {
+        {
           "Name": "MSI RTX 3070 8GB",
           "storeName": "AMD House",
           "price": 83500.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-msi-ventus-2x-rtx-3070-8gb-oc-used-in-2-weeks-warranty-no-box/"
         },
         {
-            "Name": "MSI RTX 3070 8GB",
+          "Name": "MSI RTX 3070 8GB",
           "storeName": "Zah Computers",
           "price": 92000.0,
           "url": "https://zahcomputers.pk/product/msi-ventus-geforce-rtx-3070-ventus-2x-8g-oc-lhr-8gb-gddr6-pci-express-4-0-video-card-used/"
         },
-          {
-            "Name": "EAGLE GeForce RTX 3070 EAGLE 8GB",
+        {
+          "Name": "EAGLE GeForce RTX 3070 EAGLE 8GB",
           "storeName": "AMD House",
           "price": 86500.0,
           "url": "https://amdhouse.pk/product/geforce-rtx-3070-eagle-8g-used-in-1-month-warranty/"
         },
-          {
-           "Name": "Arktek RTX 3070 8GB",
+        {
+          "Name": "Arktek RTX 3070 8GB",
           "storeName": "Junaid Tech",
           "price": 112999.0,
           "url": "https://www.junaidtech.pk/product/arktek-rtx-3070-8gb-v1-graphics-card"
         },
-         {
+        {
           "Name": "ASUS RTX 3070 8GB",
           "storeName": "AMD House",
           "price": 88000.0,
@@ -1675,65 +1601,63 @@
           "price": 97000.0,
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-geforce-rtx-3070-8gb-gddr6-pci-express-4-0-graphics-card/"
         },
-            {
-            "Name": "GALAX RTX 3070 8GB",
+        {
+          "Name": "GALAX RTX 3070 8GB",
           "storeName": "AMD House",
           "price": 87000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-galax-rtx-3070-8gb-tri-fan-used-no-box-in-2-weeks-warranty/"
         },
-            {
-           "Name": "GIGABYTE RTX 3070 8GB",
+        {
+          "Name": "GIGABYTE RTX 3070 8GB",
           "storeName": "AMD House",
           "price": 86500.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-gigabyte-rtx-3070-8gb-gaming-oc-used-no-box-in-2-weeks-warranty/"
         },
         {
-           "Name": "GIGABYTE RTX 3070 8GB",
+          "Name": "GIGABYTE RTX 3070 8GB",
           "storeName": "Zah Computers",
           "price": 95000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-gaming-oc-geforce-rtx-3070-8gb-gddr6-pci-express-4-0-atx-video-card-used/"
         },
-            {
+        {
           "Name": "GAINWARD RTX 3070 8GB",
           "storeName": "AMD House",
-          "price": 86000.0,
+          "price": 87000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-gainward-rtx-3070-8gb-used-without-box-in-1-month-warranty/"
         }
       ]
-      
     },
-
     {
       "id": "gpu_44",
       "name": "SAPPHIRE RX 7600 XT 16GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "SAPPHIRE RX 7600 XT 16GB",
+          "Name": "SAPPHIRE RX 7600 XT 16GB",
           "storeName": "AMD House",
           "price": 85000.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-7600-xt-16gb-no-box-used-in-2-5-months-warranty/"
         },
         {
-            "Name": "SAPPHIRE RX 7600 XT 16GB",
+          "Name": "SAPPHIRE RX 7600 XT 16GB",
           "storeName": "Zah Computers",
           "price": 90000.0,
           "url": "https://zahcomputers.pk/product/sapphire-pulse-radeon-rx-7600-xt-16gb-gddr6-pci-express-4-0-x8-atx-video-card-refurbished/"
         },
         {
-            "Name": "SAPPHIRE RX 7600 XT 16GB",
+          "Name": "SAPPHIRE RX 7600 XT 16GB",
           "storeName": "Zicomputer",
           "price": 128000.0,
           "url": "https://zicomputer.com/product/sapphire-pulse-amd-radeon-rx-7600-xt-16gb/"
         },
-         {
-             "Name": "XFX RX 7600 XT 16GB",
+        {
+          "Name": "XFX RX 7600 XT 16GB",
           "storeName": "AMD House",
           "price": 86000.0,
           "url": "https://amdhouse.pk/product/xfx-swft-rx-7600-xt-16gb-dual-fan-used-without-box-in-2-months-warranty/"
         },
-         {
-              "Name": "Onda Radeon RX 7600 XT 16GB",
+        {
+          "Name": "Onda Radeon RX 7600 XT 16GB",
           "storeName": "AMD House",
           "price": 100000.0,
           "url": "https://amdhouse.pk/product/onda-aegis-radeon-rx-7600-xt-black-16gb-gddr6-new-in-10-months-warranty/"
@@ -1751,16 +1675,14 @@
           "price": 85000.0,
           "url": "https://amdhouse.pk/product/xfx-qick-rx-6750-xt-12gb-gddr6-used-no-box/"
         },
-            {
-           "Name": "SAPPHIRE RX 6750 XT 12GB",
+        {
+          "Name": "SAPPHIRE RX 6750 XT 12GB",
           "storeName": "Zah Computers",
           "price": 90000.0,
           "url": "https://zahcomputers.pk/product/sapphire-gaming-nitro-amd-radeon-rx-6750-xt-12gb-gddr6-graphics-car-refurbished/"
         }
       ]
     },
-
-  
     {
       "id": "gpu_46",
       "name": "XFX RX 6750 12GB",
@@ -1773,10 +1695,6 @@
         }
       ]
     },
-  
-   
-
-  
     {
       "id": "gpu_47",
       "name": "OTHER RX 7600 XT 8GB",
@@ -1789,20 +1707,18 @@
         }
       ]
     },
-   
-   
     {
       "id": "gpu_48",
       "name": "RX 7650 8GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "XFX RX 7650 8GB",
+          "Name": "XFX RX 7650 8GB",
           "storeName": "AMD House",
           "price": 88000.0,
           "url": "https://amdhouse.pk/product/xfx-swft-rx-7650gre-black-8gb-dual-fan-new-in-10-months-warranty/"
         },
-          {
+        {
           "Name": "Yeston RX 7650 8GB",
           "storeName": "AMD House",
           "price": 99500.0,
@@ -1810,8 +1726,6 @@
         }
       ]
     },
-  
-  
     {
       "id": "gpu_49",
       "name": " ARC B580",
@@ -1832,7 +1746,7 @@
           "price": 112000.0,
           "url": "https://amdhouse.pk/product/maxsun-intel-arc-b580-12g-milestone-dual-fan-new-in-10-months-warranty/"
         },
-         {
+        {
           "storeName": "Zah Computers",
           "price": 104000.0,
           "url": "https://zahcomputers.pk/product/asrock-intel-arc-b580-steel-legend-12gb-oc-2800-mhz-19-gbps-192-bits-gddr6-7680-x-4320-650w-triple-fan-graphics-card/"
@@ -1844,8 +1758,6 @@
         }
       ]
     },
-   
-  
     {
       "id": "gpu_50",
       "name": "MSI RTX 2080TI 11GB",
@@ -1858,8 +1770,6 @@
         }
       ]
     },
-
-    
     {
       "id": "gpu_51",
       "name": "ZOTAC RTX 5050 8GB",
@@ -1872,100 +1782,98 @@
           "url": "https://zahcomputers.pk/product/zotac-twin-edge-oc-geforce-rtx-5050-8gb-gddr6-pci-express-5-0-x8-atx-graphics-card/"
         },
         {
-            "Name": "ZOTAC RTX 5050 8GB",
+          "Name": "ZOTAC RTX 5050 8GB",
           "storeName": "RB Tech N Games",
           "price": 104999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/zotac-gaming-geforce-rtx-5050-twin-edge-8gb-graphics-card/"
         },
         {
-            "Name": "ZOTAC RTX 5050 8GB",
+          "Name": "ZOTAC RTX 5050 8GB",
           "storeName": "Junaid Tech",
           "price": 114999.0,
           "url": "https://www.junaidtech.pk/product/zotac-gaming-rtx-5050-twin-edge-8gb-gpu"
         },
         {
-            "Name": "ZOTAC RTX 5050 8GB",
+          "Name": "ZOTAC RTX 5050 8GB",
           "storeName": "Czone",
           "price": 125000.0,
           "url": "https://www.czone.com.pk/graphic-cards-nvidia-geforce-zotac-gaming-geforce-rtx-5050-twin-edge-graphics-card-8gb-gddr6-128-bit-pci-express-5-0-x8-zt-b50500e-10m-pakistan-p.19697.aspx"
         },
-                {
-              "Name": "COLORFUL RTX 5050 8GB",
+        {
+          "Name": "COLORFUL RTX 5050 8GB",
           "storeName": "Zah Computers",
           "price": 96999.0,
           "url": "https://zahcomputers.pk/product/colorful-geforce-rtx-5050-battle-ax-duo-8gb-v-8gb-gaming-graphics-card/"
         },
         {
-              "Name": "COLORFUL RTX 5050 8GB",
+          "Name": "COLORFUL RTX 5050 8GB",
           "storeName": "Junaid Tech",
           "price": 102999.0,
           "url": "https://www.junaidtech.pk/product/colorful-rtx-5050-battle-ax-duo-8gb-v-gaming-graphics-card"
         },
-           {
-           "Name": "PNY RTX 5050 8GB",
+        {
+          "Name": "PNY RTX 5050 8GB",
           "storeName": "Junaid Tech",
           "price": 99499.0,
           "url": "https://www.junaidtech.pk/product/pny-rtx-5050-stealth-mode-graphics-card"
         },
         {
-           "Name": "PNY RTX 5050 8GB",
+          "Name": "PNY RTX 5050 8GB",
           "storeName": "Czone",
           "price": 125000.0,
           "url": "https://www.czone.com.pk/graphic-cards-nvidia-geforce-pny-nvidia-geforce-rtx-5050-dual-fan-graphics-card-8gb-gddr6-2572mhz-boost-pcie-5-0-hdmi-dp-2-1b-vcg50508dfxpb1-pakistan-p.19373.aspx"
         },
-              {
-              "Name": "ASUS RTX 5050 8GB",
+        {
+          "Name": "ASUS RTX 5050 8GB",
           "storeName": "Zicomputer",
           "price": 100000.0,
           "url": "https://zicomputer.com/product/asus-dual-rtx-5050-8gb-gddr6-oc/"
         },
         {
-               "Name": "ASUS RTX 5050 8GB",
+          "Name": "ASUS RTX 5050 8GB",
           "storeName": "Junaid Tech",
           "price": 104999.0,
           "url": "https://www.junaidtech.pk/product/asus-dual-rtx-5050-8gb-gddr6-oc-edition-graphics-card"
         },
         {
-               "Name": "ASUS RTX 5050 8GB",
+          "Name": "ASUS RTX 5050 8GB",
           "storeName": "Zah Computers",
           "price": 104999.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5050-8gb-gddr6-pci-express-5-0-x8-atx-graphics-card/"
         },
-              {
-           "Name": "MSI RTX 5050 8GB",
+        {
+          "Name": "MSI RTX 5050 8GB",
           "storeName": "Junaid Tech",
           "price": 102999.0,
           "url": "https://www.junaidtech.pk/product/msi-gaming-rtx-5050-8g-shadow-2x-oc-graphics-card"
         },
         {
-            "Name": "MSI RTX 5050 8GB",
+          "Name": "MSI RTX 5050 8GB",
           "storeName": "RB Tech N Games",
           "price": 109999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/msi-geforce-rtx-5050-8gb-gaming-oc-graphics-card/"
         },
         {
-            "Name": "MSI RTX 5050 8GB",
+          "Name": "MSI RTX 5050 8GB",
           "storeName": "Zah Computers",
           "price": 118000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-5050-shadow-2x-oc-8gb-gddr6-graphics-card/"
         },
         {
-            "Name": "GIGABYTE RTX 5050 8GB",
+          "Name": "GIGABYTE RTX 5050 8GB",
           "storeName": "Zah Computers",
           "price": 107799.0,
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-5050-windforce-oc-8g-graphics-card/"
         }
       ]
     },
-
-   
     {
       "id": "gpu_52",
       "name": "RX 6800 16GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "SAPPHIRE RX 6800 16GB",
+          "Name": "SAPPHIRE RX 6800 16GB",
           "storeName": "AMD House",
           "price": 99000.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-radeon-rx-6800-16gb-gddr6-used-a-condition-in-2-months-wty/"
@@ -1976,17 +1884,14 @@
           "price": 100000.0,
           "url": "https://zahcomputers.pk/product/sapphire-pulse-amd-radeon-rx-6800-16gb-gddr6-graphic-card-refurbished/"
         },
-           {
-           "Name": "XFX RX 6800 16GB",
+        {
+          "Name": "XFX RX 6800 16GB",
           "storeName": "AMD House",
-          "price": 103500.0,
+          "price": 106000.0,
           "url": "https://amdhouse.pk/product/xfx-speedster-swft-319-rx-6800-core-16gb-gddr6-in-4-months-warranty/"
         }
       ]
-      
     },
- 
-  
     {
       "id": "gpu_53",
       "name": "RTX 3070 TI 8GB",
@@ -1998,115 +1903,112 @@
           "price": 100000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-galax-rtx-3070ti-3-fan-used-no-box-in-1-month-warranty/"
         },
-           {
-              "Name": "MSI RTX 3070 TI 8GB",
+        {
+          "Name": "MSI RTX 3070 TI 8GB",
           "storeName": "Zah Computers",
           "price": 215000.0,
           "url": "https://zahcomputers.pk/product/msi-suprim-geforce-rtx-3070-ti-8gb-gddr6x-pci-express-4-0-x16-video-card-rtx-3070-ti-suprim-x-8g/"
         },
-            {
+        {
           "Name": "COLORFUL RTX 3070 TI 8GB",
           "storeName": "Junaid Tech",
           "price": 156999.0,
           "url": "https://www.junaidtech.pk/product/colorful-igame-geforce-rtx-3070-ti-vulcan-oc-8g-v-graphics-card"
         },
-          {
-           "name": "GIGABYTE RTX 3070 TI 8GB",
+        {
+          "name": "GIGABYTE RTX 3070 TI 8GB",
           "storeName": "Zah Computers",
           "price": 145000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-3070-ti-gaming-oc-graphics-card/"
         },
-          {
-            "Name": "PALIT RTX 3070 TI 8GB",
+        {
+          "Name": "PALIT RTX 3070 TI 8GB",
           "storeName": "Zah Computers",
           "price": 115000.0,
           "url": "https://zahcomputers.pk/product/palit-geforce-rtx-3070-ti-gamingpro-8gb-gddr6x-256bit-pci-e-4-0-resolution-7680x4320-pci-e-4-0-hdmi-2-1-dp1-4a-x-3-connectors-8-pin-x2-gaming-graphics-card-used/"
         }
       ]
     },
- 
-
     {
       "id": "gpu_54",
       "name": "RX 9060 XT 8GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "As_Rock Challenger RX 9060 XT 8GB",
+          "Name": "As_Rock Challenger RX 9060 XT 8GB",
           "storeName": "AMD House",
           "price": 105000.0,
           "url": "https://amdhouse.pk/product/asrock-challenger-rx-9060-xt-8gb-oc-new-in-10-months-warranty/"
         },
         {
-            "Name": "As_Rock Challenger RX 9060 XT 8GB",
+          "Name": "As_Rock Challenger RX 9060 XT 8GB",
           "storeName": "Zah Computers",
           "price": 115000.0,
           "url": "https://zahcomputers.pk/product/asrock-amd-radeon-rx-9060-xt-challenger-8gb-oc-gddr7-gaming-graphics-card/"
         },
-             {
-           "Name": "GIGABYTE RX 9060 XT 8GB",
+        {
+          "Name": "GIGABYTE RX 9060 XT 8GB",
           "storeName": "Junaid Tech",
           "price": 119999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-rx-9060-xt-gaming-oc-8gb-graphics-card"
         },
         {
-           "Name": "GIGABYTE RX 9060 XT 8GB",
+          "Name": "GIGABYTE RX 9060 XT 8GB",
           "storeName": "Zah Computers",
           "price": 125000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-radeon-rx-9060-xt-gaming-8g-video-graphics-card-8gb-gddr6-20gbps-128-bit-boost-up-to-3130mhz/"
         },
         {
-           "Name": "GIGABYTE RX 9060 XT 8GB",
+          "Name": "GIGABYTE RX 9060 XT 8GB",
           "storeName": "Zicomputer",
           "price": 125000.0,
           "url": "https://zicomputer.com/product/gigabyte-radeon-rx-9060-xt-gaming-8gb/"
         },
-          {
-             "Name": "SAPPHIRE RX 9060 XT 8GB",
+        {
+          "Name": "SAPPHIRE RX 9060 XT 8GB",
           "storeName": "AMD House",
           "price": 118000.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-9060-xt-8gb-new-in-10-months-warranty/"
         },
-          {
-            "Name": "POWERCOLOR RX 9060 XT 8GB",
+        {
+          "Name": "POWERCOLOR RX 9060 XT 8GB",
           "storeName": "AMD House",
           "price": 115000.0,
           "url": "https://amdhouse.pk/product/powercolor-reaper-rx-9060-xt-8gb-new-in-10-months-warranty/"
         }
       ]
     },
-   
     {
       "id": "gpu_55",
       "name": "RX 7700 XT 12GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "XFX RX 7700 XT 12GB",
+          "Name": "XFX RX 7700 XT 12GB",
           "storeName": "AMD House",
           "price": 106000.0,
           "url": "https://amdhouse.pk/product/xfx-swft-rx-7700-xt-12gb-core-edition-new-without-box-in-3-months-warranty/"
         },
-          {
-            "Name": "GIGABYTE RX 7700 XT 12GB",
+        {
+          "Name": "GIGABYTE RX 7700 XT 12GB",
           "storeName": "AMD House",
           "price": 140000.0,
           "url": "https://amdhouse.pk/product/gigabyte-rx-7700-xt-gaming-oc-12g-new-in-10-months-warranty/"
         },
-         {
-            "Name": "SAPPHIRE RX 7700 XT 12GB",
+        {
+          "Name": "SAPPHIRE RX 7700 XT 12GB",
           "storeName": "Zah Computers",
           "price": 125000.0,
           "url": "https://zahcomputers.pk/product/sapphire-pulse-amd-radeon-rx-7700-xt-12gb-graphics-card-refurbished/"
         },
         {
-             "Name": "SAPPHIRE RX 7700 XT 12GB",
+          "Name": "SAPPHIRE RX 7700 XT 12GB",
           "storeName": "AMD House",
           "price": 132000.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-7700-xt-12gb-gddr6-new/"
         },
         {
-             "Name": "SAPPHIRE RX 7700 XT 12GB",
+          "Name": "SAPPHIRE RX 7700 XT 12GB",
           "storeName": "Junaid Tech",
           "price": 149999.0,
           "url": "https://www.junaidtech.pk/product/sapphire-pulse-rx-7700-xt-12gb-graphics-card"
@@ -2125,19 +2027,19 @@
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-4060-ti-8gb-twin-edge-gaming-graphics-card-used/"
         },
         {
-              "Name": "ZOTAC RTX 4060 TI 8GB",
+          "Name": "ZOTAC RTX 4060 TI 8GB",
           "storeName": "Zicomputer",
           "price": 128000.0,
           "url": "https://zicomputer.com/product/zotac-rtx-4060-ti-8gb/"
         },
-         {
-           "Name": "ASUS Dual GeForce RTX 4060 Ti 8GB ",
+        {
+          "Name": "ASUS Dual GeForce RTX 4060 Ti 8GB ",
           "storeName": "Zah Computers",
           "price": 165000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-4060-ti-evo-8gb-gddr6-oc-edition-gaming-graphics-card/"
         },
-         {
-           "Name": "ASUS TUF Gaming GeForce RTX 4060 Ti 8GB ",
+        {
+          "Name": "ASUS TUF Gaming GeForce RTX 4060 Ti 8GB ",
           "storeName": "Zah Computers",
           "price": 149999.0,
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-geforce-rtx-4060-ti-8gb-gddr6-oc-edition-gaming-graphics-card/"
@@ -2148,36 +2050,33 @@
           "price": 137990.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-4060-ti-8gb-gddr6-pci-express-4-0-graphics-card/"
         },
-          {
-            "Name": "ASUS RTX 4060 TI 8GB",
+        {
+          "Name": "ASUS RTX 4060 TI 8GB",
           "storeName": "Zah Computers",
           "price": 167999.0,
           "url": "https://zahcomputers.pk/product/asus-rog-strix-geforce-rtx-4060-ti-oc-8gb-graphics-card/"
         },
-         {
+        {
           "Name": "GIGABYTE RTX 4060 TI 8GB",
           "storeName": "Zah Computers",
           "price": 130000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-4060-ti-gaming-oc-8g-gddr6-pcie-4-0-interface-graphics-card/"
         },
-         {
-           "Name": "MSI RTX 4060 TI 8GB",
+        {
+          "Name": "MSI RTX 4060 TI 8GB",
           "storeName": "Zah Computers",
           "price": 126000.0,
           "url": "https://zahcomputers.pk/product/msi-ventus-geforce-rtx-4060-ti-8gb-2x-oc-gddr6-pci-express-4-0-x8-atx-graphics-cards/"
         }
       ]
     },
-
-
-  
     {
       "id": "gpu_57",
       "name": "RX 6800 XT 16GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-              "Name": "XFX RX 6800 XT 16GB",
+          "Name": "XFX RX 6800 XT 16GB",
           "storeName": "AMD House",
           "price": 107000.0,
           "url": "https://amdhouse.pk/product/xfx-speedster-swft-319-rx-6800-xt-16gb-gddr6-in-4-months-warranty/"
@@ -2188,136 +2087,134 @@
           "price": 110000.0,
           "url": "https://amdhouse.pk/product/amd-radeon-rx-6800-xt-16gb-dell-alienware-edition-used-in-10-10-condition-no-box-1-month-wty/"
         },
-            {
-           "Name": "SAPPHIRE RX 6800 XT 16GB",
+        {
+          "Name": "SAPPHIRE RX 6800 XT 16GB",
           "storeName": "AMD House",
           "price": 108000.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-6800-xt-16gb-gddr6-used-in-1-month-wty-no-box/"
         },
         {
-           "Name": "SAPPHIRE RX 6800 XT 16GB",
+          "Name": "SAPPHIRE RX 6800 XT 16GB",
           "storeName": "Zah Computers",
           "price": 110000.0,
           "url": "https://zahcomputers.pk/product/sapphire-pulse-amd-radeon-rx-6800-xt-with-16gb-gddr6-amd-rdna-2-gaming-graphics-card/"
         },
-         {
-             "Name": "GIGABYTE RX 6800 XT 16GB",
+        {
+          "Name": "GIGABYTE RX 6800 XT 16GB",
           "storeName": "Zah Computers",
           "price": 280000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-amd-radeon-rx-6800-xt-gaming-16g-graphics-card/"
         },
-            {
-             "Name": "XFX RX 6800 XT 16GB",
+        {
+          "Name": "XFX RX 6800 XT 16GB",
           "storeName": "AMD House",
           "price": 110000.0,
           "url": "https://amdhouse.pk/product/xfx-merc-319-amd-radeon-rx6800xt-16gb-gddr6-used-open-box/"
         }
       ]
     },
-
- 
     {
       "id": "gpu_58",
       "name": "ZOTAC RTX 5060 8GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "ZOTAC RTX 5060 8GB",
+          "Name": "ZOTAC RTX 5060 8GB",
           "storeName": "AMD House",
           "price": 108000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-zotac-vespera-rtx-5060-8gb-dual-fan-new-in-10-months-warranty/"
         },
         {
-            "Name": "ZOTAC RTX 5060 8GB",
+          "Name": "ZOTAC RTX 5060 8GB",
           "storeName": "Junaid Tech",
           "price": 122999.0,
           "url": "https://www.junaidtech.pk/product/zotac-gaming-rtx-5060-twin-edge-oc-graphics-card"
         },
         {
-            "Name": "ZOTAC RTX 5060 8GB",
+          "Name": "ZOTAC RTX 5060 8GB",
           "storeName": "Zah Computers",
           "price": 125000.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-twin-edge-rtx-5060-8gb-128-bit-28-gddr7-pci-express-5-0-x8-dlss-4-graphics-card/"
         },
         {
-            "Name": "ZOTAC RTX 5060 8GB",
+          "Name": "ZOTAC RTX 5060 8GB",
           "storeName": "Zicomputer",
           "price": 135000.0,
           "url": "https://zicomputer.com/product/zotac-gaming-geforce-rtx-5060-twin-edge-oc-8gb/"
         },
-             {
-             "Name": "GIGABYTE RTX 5060 8GB",
+        {
+          "Name": "GIGABYTE RTX 5060 8GB",
           "storeName": "Junaid Tech",
           "price": 109999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-rtx-5060-oc-low-profile-8g-graphics-card"
         },
         {
-            "Name": "GIGABYTE RTX 5060 8GB",
+          "Name": "GIGABYTE RTX 5060 8GB",
           "storeName": "Zah Computers",
           "price": 124000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-5060-gaming-oc-graphics-card/"
         },
         {
-            "Name": "GIGABYTE RTX 5060 8GB",
+          "Name": "GIGABYTE RTX 5060 8GB",
           "storeName": "Zicomputer",
           "price": 132000.0,
           "url": "https://zicomputer.com/product/gigabyte-rtx-5060-windforce-max-oc-8gb/"
         },
         {
-            "Name": "GIGABYTE RTX 5060 8GB",
+          "Name": "GIGABYTE RTX 5060 8GB",
           "storeName": "RB Tech N Games",
           "price": 134999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/gigabyte-geforce-rtx-5060-windforce-max-oc-8gb-graphics-card/"
         },
         {
-            "Name": "GIGABYTE RTX 5060 8GB",
+          "Name": "GIGABYTE RTX 5060 8GB",
           "storeName": "Czone",
           "price": 142000.0,
           "url": "https://www.czone.com.pk/gigabyte-geforce-rtx-5060-eagle-max-oc-8g"
         },
-         {
-            "Name": "COLORFUL RTX 5060 8GB",
+        {
+          "Name": "COLORFUL RTX 5060 8GB",
           "storeName": "Zah Computers",
           "price": 113000.0,
           "url": "https://zahcomputers.pk/product/colorful-geforce-rtx-5060-battle-ax-duo-8gb-v-8gb-gaming-graphics-card/"
         },
         {
-             "Name": "COLORFUL RTX 5060 8GB",
+          "Name": "COLORFUL RTX 5060 8GB",
           "storeName": "Junaid Tech",
           "price": 117999.0,
           "url": "https://www.junaidtech.pk/product/colorful-rtx-5060-battle-ax-duo-8gb-v-graphics-card"
         },
-         {
-           "Name": "COLORFUL RTX 5060 8GB",
+        {
+          "Name": "COLORFUL RTX 5060 8GB",
           "storeName": "AMD House",
           "price": 114000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-gigabyte-rtx-5060-eagle-oc-8g-new-in-10-months-warranty/"
         },
-         {
-            "Name": "PNY RTX 5060 8GB",
+        {
+          "Name": "PNY RTX 5060 8GB",
           "storeName": "AMD House",
           "price": 116000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-pny-rtx-5060-8gb-dual-fan-new-in-10-months-warranty/"
         },
-            {
-            "Name": "ASUS RTX 5060 8GB",
+        {
+          "Name": "ASUS RTX 5060 8GB",
           "storeName": "Junaid Tech",
           "price": 124999.0,
           "url": "https://www.junaidtech.pk/product/asus-rtx-5060-8gb-gddr7-graphics-card"
         },
         {
-                "Name": "ASUS RTX 5060 8GB",
+          "Name": "ASUS RTX 5060 8GB",
           "storeName": "Zicomputer",
           "price": 128000.0,
           "url": "https://zicomputer.com/product/asus-dual-geforce-rtx-5060-white-oc-8gb-gddr7/"
         },
         {
-                "Name": "ASUS RTX 5060 8GB",
+          "Name": "ASUS RTX 5060 8GB",
           "storeName": "Zah Computers",
           "price": 129999.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5060-8gb-white-gddr7-oc-edition-graphics-card/"
         },
-             {
+        {
           "Name": "MSI RTX 5060 8GB",
           "storeName": "Junaid Tech",
           "price": 122999.0,
@@ -2341,91 +2238,87 @@
           "price": 145000.0,
           "url": "https://zahcomputers.pk/product/msi-ventus-geforce-rtx-5060-8gb-2x-oc-gddr7-pcie-5-0-x16-interface-graphics-card-white/"
         },
-         {
-            "Name": "PNY GeForce RTX 5060 8GB",
+        {
+          "Name": "PNY GeForce RTX 5060 8GB",
           "storeName": "Zah Computers",
           "price": 138000.0,
           "url": "https://zahcomputers.pk/product/pny-geforce-rtx-5060-8gb-dual-fan-dlss-4-gaming-graphics-card/"
         },
-          {
-           "Name": "INNO3D RTX 5060 8GB",
+        {
+          "Name": "INNO3D RTX 5060 8GB",
           "storeName": "Zah Computers",
           "price": 120000.0,
           "url": "https://zahcomputers.pk/product/inno3d-geforce-rtx-5060-twin-x2-8gb-gddr7-gaming-graphics-card/"
         }
       ]
     },
- 
- 
     {
       "id": "gpu_59",
       "name": "RTX 4060 TI 16GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "ZOTAC RTX 4060 TI 16GB",
+          "Name": "ZOTAC RTX 4060 TI 16GB",
           "storeName": "Zah Computers",
           "price": 116000.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-4060-ti-16gb-twin-edge-graphics-card-used/"
         },
         {
-           "Name": "ZOTAC RTX 4060 TI 16GB",
+          "Name": "ZOTAC RTX 4060 TI 16GB",
           "storeName": "Zicomputer",
           "price": 145000.0,
           "url": "https://zicomputer.com/product/zotac-rtx-4060-ti-16gb-twin-edge/"
         },
-          {
-            "Name": "Asus ProArt RTX 4060 Ti 16GB",
+        {
+          "Name": "Asus ProArt RTX 4060 Ti 16GB",
           "storeName": "Zah Computers",
           "price": 178000.0,
           "url": "https://zahcomputers.pk/product/asus-proart-geforce-rtx-4060-ti-16gb-oc-gddr6-video-graphics-card/"
         },
-         {
-           "Name": "ASUS  GeForce RTX 4060 Ti  16GB",
+        {
+          "Name": "ASUS  GeForce RTX 4060 Ti  16GB",
           "storeName": "Zah Computers",
           "price": 170000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-4060-ti-oc-16gb-gddr6-pci-express-4-0-graphics-card/"
         },
-         {
-           "Name": "ASUS RTX 4060 Ti 16GB ",
+        {
+          "Name": "ASUS RTX 4060 Ti 16GB ",
           "storeName": "Zah Computers",
           "price": 158000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-4060-ti-16gb-gddr6-pci-express-4-0-graphics-card/"
         },
-             {
-             "Name": "ASUS RTX 4060 TI 16GB",
+        {
+          "Name": "ASUS RTX 4060 TI 16GB",
           "storeName": "Zah Computers",
           "price": 158000.0,
           "url": "https://zahcomputers.pk/product/asus-pro-art-rtx-4060-ti-oc-16g-gddr6-pci-express-4-0-graphics-card/"
         },
-          {
+        {
           "Name": "ASUS RTX 4060 TI 16GB",
           "storeName": "Zicomputer",
           "price": 155000.0,
           "url": "https://zicomputer.com/product/asus-proart-geforce-rtx-4060-ti-oc-16gb-gddr6/"
         },
         {
-             "Name": "ASUS RTX 4060 TI 16GB",
+          "Name": "ASUS RTX 4060 TI 16GB",
           "storeName": "Zah Computers",
           "price": 164999.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-4060-ti-evo-oc-16gb-edition-gaming-graphics-card/"
         },
-            {
-             "Name": "MSI RTX 4060 TI 16GB",
+        {
+          "Name": "MSI RTX 4060 TI 16GB",
           "storeName": "Zah Computers",
           "price": 154999.0,
           "url": "https://zahcomputers.pk/product/msi-ventus-geforce-rtx-4060-ti-16gb-oc-gddr6-pci-express-4-0-x8-atx-graphics-cards/"
         },
         {
-              "Name": "MSI RTX 4060 TI 16GB",
+          "Name": "MSI RTX 4060 TI 16GB",
           "storeName": "Junaid Tech",
           "price": 189999.0,
           "url": "https://www.junaidtech.pk/product/msi-rtx-4060-ti-ventus-2x-black-16gb-oc-graphics-card"
         }
       ]
     },
- 
-   
     {
       "id": "gpu_60",
       "name": "RX 6900 XT 16GB",
@@ -2437,108 +2330,99 @@
           "price": 120000.0,
           "url": "https://amdhouse.pk/product/xfx-swft-319-rx-6900-xt-16gb-gddr6-used-no-box/"
         },
-         {
-           "Name": "SAPPHIRE RX 6900 XT 16GB",
+        {
+          "Name": "SAPPHIRE RX 6900 XT 16GB",
           "storeName": "Zah Computers",
           "price": 120000.0,
           "url": "https://zahcomputers.pk/product/sapphire-nitro-amd-radeon-rx-6900-xt-16gb-graphics-card-refurbished/"
         },
-         {
-             "Name": "POWERCOLOR RX 6900 XT 16GB",
+        {
+          "Name": "POWERCOLOR RX 6900 XT 16GB",
           "storeName": "AMD House",
           "price": 135000.0,
           "url": "https://amdhouse.pk/product/powercolor-red-devil-rx-6900-xt-16gb-boxed-used/"
         }
       ]
     },
-   
-   
-
-    
     {
       "id": "gpu_61",
       "name": "RTX 3080 10GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "GIGABYTE RTX 3080 10GB",
+          "Name": "GIGABYTE RTX 3080 10GB",
           "storeName": "Zah Computers",
           "price": 125000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-3080-gaming-oc-10g-1800-mhz-core-clock-gddr6x-10gb-320-bit-pci-e-4-0-x-16-atx-graphics-card/"
         },
         {
-              "Name": "GIGABYTE RTX 3080 10GB",
+          "Name": "GIGABYTE RTX 3080 10GB",
           "storeName": "Junaid Tech",
           "price": 279999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-aorus-rtx-3080-xtreme-waterforce-10gb-graphics-card"
         },
-           {
+        {
           "Name": "ZOTAC RTX 3080 10GB",
           "storeName": "Zah Computers",
           "price": 125000.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-3080-trinity-10gb-gddr6x-gaming-graphics-used/"
         },
         {
-           "Name": "ZOTAC RTX 3080 10GB",
+          "Name": "ZOTAC RTX 3080 10GB",
           "storeName": "Junaid Tech",
           "price": 201999.0,
           "url": "https://www.junaidtech.pk/product/zotac-gaming-rtx-3080-amp-holo-lhr-10gb-graphics-card"
         },
-            {
-           "Name": "ASUS RTX 3080 10GB",
+        {
+          "Name": "ASUS RTX 3080 10GB",
           "storeName": "Zah Computers",
           "price": 280000.0,
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-nvidia-geforce-rtx-3080-v2-oc-edition-graphics-card-pcie-4-0-10gb-gddr6x-lhr-hdmi-2-1-displayport-1-4a-dual-ball-fan-bearings-military-grade-certification-gpu-tweak-ii/"
         },
-           {
-             "Name": "MSI RTX 3080 10GB",
+        {
+          "Name": "MSI RTX 3080 10GB",
           "storeName": "Zah Computers",
           "price": 230000.0,
           "url": "https://zahcomputers.pk/product/msi-ventus-3x-plus-geforce-rtx-3080-10gb-gddr6x-pci-express-4-0-oc-lhr-graphics-card/"
         },
-          {
-              "Name": "MSI RTX 3080 10GB",
+        {
+          "Name": "MSI RTX 3080 10GB",
           "storeName": "Zah Computers",
           "price": 298500.0,
           "url": "https://zahcomputers.pk/product/msi-gaming-geforce-rtx-3080-gaming-z-trio-10g-lhr-gddr6x-pci-express-4-0-atx-graphic-card/"
         },
-            {
-           "Name": "Manli  RTX 3080 10GB",
+        {
+          "Name": "Manli  RTX 3080 10GB",
           "storeName": "Zah Computers",
           "price": 210000.0,
           "url": "https://zahcomputers.pk/product/manli-geforce-rtx-3080-10gb-m3478n613-10-gb-gddr6x-memory-graphics-card/"
         }
       ]
-      
     },
-
- 
-
-   
     {
       "id": "gpu_62",
       "name": "RX 7800 XT 16GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "XFX RX 7800 XT 16GB",
+          "Name": "XFX RX 7800 XT 16GB",
           "storeName": "AMD House",
           "price": 132500.0,
           "url": "https://amdhouse.pk/product/xfx-qick-319-rx-7800-xt-used-a-condition-without-box-in-2-5-months-warranty/"
         },
-         {
-           "Name": "XFX RX 7800 XT 16GB",
+        {
+          "Name": "XFX RX 7800 XT 16GB",
           "storeName": "AMD House",
           "price": 135000.0,
           "url": "https://amdhouse.pk/product/xfx-swft-rx-7800-xt-16gb-dual-fan-used-without-box-in-2-months-warranty/"
         },
-          {
-            "Name": "POWERCOLOR RX 7800 XT 16GB",
+        {
+          "Name": "POWERCOLOR RX 7800 XT 16GB",
           "storeName": "AMD House",
           "price": 135000.0,
           "url": "https://amdhouse.pk/product/powercolor-rx-7800-xt-16gb-dual-fan-used-no-box-in-1-month-warranty/"
         },
-          {
+        {
           "Name": "SAPPHIRE RX 7800 XT 16GB",
           "storeName": "Zah Computers",
           "price": 140000.0,
@@ -2550,23 +2434,20 @@
           "price": 158000.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-7800-xt-16gb-gddr6-new/"
         },
-           {
-            "Name": "As_Rock RX 7800 XT 16GB",
+        {
+          "Name": "As_Rock RX 7800 XT 16GB",
           "storeName": "AMD House",
           "price": 175000.0,
           "url": "https://amdhouse.pk/product/asrock-rx-7800-xt-steel-legend-16gb-gddr6-new/"
         },
-         {
-            "Name": "YESTON Sakura Radeon Rx 7800 XT 16GB",
+        {
+          "Name": "YESTON Sakura Radeon Rx 7800 XT 16GB",
           "storeName": "AMD House",
           "price": 165000.0,
           "url": "https://amdhouse.pk/product/yeston-sakura-radeon-7800-xt-16gb-gddr6-new-in-10-months-warranty/"
         }
       ]
     },
-    
-   
-    
     {
       "id": "gpu_63",
       "name": "RX 9060 XT 16GB",
@@ -2579,166 +2460,163 @@
           "url": "https://amdhouse.pk/product/yeston-gaea-rx-9060-xt-16gb-new-in-10-months-warranty/"
         },
         {
-               "Name": "Yeston RX 9060 XT 16GB",
+          "Name": "Yeston RX 9060 XT 16GB",
           "storeName": "Junaid Tech",
           "price": 154999.0,
           "url": "https://www.junaidtech.pk/product/asrock-rx-9060-xt-challenger-16gb-oc-gaming-graphics-card"
-        },     {
-            "Name": "POWERCOLOR RX 9060 XT 16GB",
+        },
+        {
+          "Name": "POWERCOLOR RX 9060 XT 16GB",
           "storeName": "AMD House",
           "price": 136500.0,
           "url": "https://amdhouse.pk/product/powercolor-reaper-rx-9060-xt-16gb-dual-fan-new-in-10-months-warranty/"
         },
-          {
-            "Name": "XFX RX 9060 XT 16GB",
+        {
+          "Name": "XFX RX 9060 XT 16GB",
           "storeName": "AMD House",
           "price": 142000.0,
           "url": "https://amdhouse.pk/product/xfx-radeon-rx-9060-xt-16gb-oc-white-dual-fan-new-in-10-months-warranty/"
         },
-               {
-           "Name": "ASUS RX 9060 XT 16GB",
+        {
+          "Name": "ASUS RX 9060 XT 16GB",
           "storeName": "Zah Computers",
           "price": 150000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-radeon-rx-9060-xt-16gb-gddr6-pci-express-5-0-x16-atx-graphics-card-white/"
         },
         {
-           "Name": "ASUS RX 9060 XT 16GB",
+          "Name": "ASUS RX 9060 XT 16GB",
           "storeName": "Zicomputer",
           "price": 160000.0,
           "url": "https://zicomputer.com/product/asus-dual-radeon-rx-9060-xt-16gb-oc/"
         },
         {
-           "Name": "ASUS RX 9060 XT 16GB",
+          "Name": "ASUS RX 9060 XT 16GB",
           "storeName": "Czone",
           "price": 167990.0,
           "url": "https://www.czone.com.pk/asus-dual-radeon-rx-9060-xt-video-graphics-card-16gb-gddr6-pci-express-50-25-slot-dualrx9060xt16g"
         },
         {
-           "Name": "ASUS RX 9060 XT 16GB",
+          "Name": "ASUS RX 9060 XT 16GB",
           "storeName": "Junaid Tech",
           "price": 169999.0,
           "url": "https://www.junaidtech.pk/product/asus-dual-rx-9060-xt-16gb-gddr6-graphics-card"
         },
-             {
+        {
           "Name": "SAPPHIRE RX 9060 XT 16GB",
           "storeName": "Zah Computers",
           "price": 155000.0,
           "url": "https://zahcomputers.pk/product/sapphire-pure-radeon-rx-9060-xt-16gb-gddr6-pci-express-5-0-x16-atx-graphics-card/"
         },
         {
-           "Name": "SAPPHIRE RX 9060 XT 16GB",
+          "Name": "SAPPHIRE RX 9060 XT 16GB",
           "storeName": "Junaid Tech",
           "price": 159999.0,
           "url": "https://www.junaidtech.pk/product/sapphire-pulse-rx-9060-xt-gaming-oc-graphics-card"
         },
         {
-           "Name": "SAPPHIRE RX 9060 XT 16GB",
+          "Name": "SAPPHIRE RX 9060 XT 16GB",
           "storeName": "Zicomputer",
           "price": 162000.0,
           "url": "https://zicomputer.com/product/sapphire-nitro-pulse-rx-9060-xt-16gb/"
         },
-          {
-           "Name": "GIGABYTE RX 9060 XT 16GB",
+        {
+          "Name": "GIGABYTE RX 9060 XT 16GB",
           "storeName": "Zah Computers",
           "price": 164999.0,
           "url": "https://zahcomputers.pk/product/gigabyte-radeon-rx-9060-xt-gaming-oc-16g-pcie-5-0-gddr6-graphics-card/"
         },
-           {
-            "Name": "GIGABYTE RX 9060 XT 16GB",
+        {
+          "Name": "GIGABYTE RX 9060 XT 16GB",
           "storeName": "Junaid Tech",
           "price": 159999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-rx-9060-xt-gaming-oc-16g-graphics-card"
         }
       ]
     },
- 
-  
- 
-    
     {
       "id": "gpu_64",
       "name": "RTX 5060 TI 8GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-              "Name": "INNO3D RTX 5060 TI 8GB",
+          "Name": "INNO3D RTX 5060 TI 8GB",
           "storeName": "Junaid Tech",
           "price": 139999.0,
           "url": "https://www.junaidtech.pk/product/inno3d-rtx-5060-ti-8gb-twin-x2-oc-gddr7-graphics-card"
         },
-          {
-               "Name": "COLORFUL RTX 5060 TI 8GB",
+        {
+          "Name": "COLORFUL RTX 5060 TI 8GB",
           "storeName": "Junaid Tech",
           "price": 139999.0,
           "url": "https://www.junaidtech.pk/product/colorful-geforce-rtx-5060-ti-battle-ax-duo-8gb-v-graphics-card"
         },
         {
-              "Name": "COLORFUL RTX 5060 TI 8GB",
+          "Name": "COLORFUL RTX 5060 TI 8GB",
           "storeName": "Zah Computers",
           "price": 145000.0,
           "url": "https://zahcomputers.pk/product/colorful-geforce-rtx-5060-ti-battle-ax-duo-8gb-v-8gb-gaming-graphics-card/"
         },
-            {
-             "Name": "MSI RTX 5060 TI 8GB",
+        {
+          "Name": "MSI RTX 5060 TI 8GB",
           "storeName": "Zicomputer",
           "price": 140000.0,
           "url": "https://zicomputer.com/product/msi-geforce-rtx-5060-ti-8g-gaming-oc/"
         },
         {
-           "Name": "MSI RTX 5060 TI 8GB",
+          "Name": "MSI RTX 5060 TI 8GB",
           "storeName": "Junaid Tech",
           "price": 148499.0,
           "url": "https://www.junaidtech.pk/product/msi-rtx-5060-ti-8g-shadow-2x-oc-plus-graphics-card"
         },
         {
-           "Name": "MSI RTX 5060 TI 8GB",
+          "Name": "MSI RTX 5060 TI 8GB",
           "storeName": "Zah Computers",
           "price": 148499.0,
           "url": "https://zahcomputers.pk/product/msi-shadow-geforce-rtx-5060-ti-8gb-2x-oc-plus-gddr7-pci-express-5-0-graphics-card/"
         },
         {
-           "Name": "MSI RTX 5060 TI 8GB",
+          "Name": "MSI RTX 5060 TI 8GB",
           "storeName": "Czone",
           "price": 165000.0,
           "url": "https://www.czone.com.pk/msi-gaming-rtx-5060-ti-8g-ventus-2x-oc-plus-graphics-card-8gb-gddr7-displayport-21a-x3-hdmi-21b-nvid"
         },
-         {
-                "name": "LeadTek RTX 5060 TI 8GB",
+        {
+          "name": "LeadTek RTX 5060 TI 8GB",
           "storeName": "Zah Computers",
           "price": 142000.0,
           "url": "https://zahcomputers.pk/product/leadtek-geforce-rtx-5060-ti-hurricane-8gb-graphics-card/"
         },
-            {
-           "Name": "ZOTAC RTX 5060 TI 8GB",
+        {
+          "Name": "ZOTAC RTX 5060 TI 8GB",
           "storeName": "AMD House",
-          "price": 145000.0,
+          "price": 148500.0,
           "url": "https://amdhouse.pk/product/zotac-gaming-geforce-rtx-5060-ti-8gb-twin-edge-new-in-10-months-warranty/"
         },
         {
-           "Name": "ZOTAC RTX 5060 TI 8GB",
+          "Name": "ZOTAC RTX 5060 TI 8GB",
           "storeName": "Zicomputer",
           "price": 145000.0,
           "url": "https://zicomputer.com/product/zotac-gaming-geforce-rtx-5060-ti-8gb-twin-edge-oc/"
         },
         {
-           "Name": "ZOTAC RTX 5060 TI 8GB",
+          "Name": "ZOTAC RTX 5060 TI 8GB",
           "storeName": "Junaid Tech",
           "price": 149999.0,
           "url": "https://www.junaidtech.pk/product/zotac-gaming-rtx-5060-ti-twin-edge-graphics-card"
         },
         {
-           "Name": "ZOTAC RTX 5060 TI 8GB",
+          "Name": "ZOTAC RTX 5060 TI 8GB",
           "storeName": "RB Tech N Games",
           "price": 149999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/zotac-gaming-geforce-rtx-5060-ti-8gb-twin-edge-graphics-card/"
         },
         {
-           "Name": "ZOTAC RTX 5060 TI 8GB",
+          "Name": "ZOTAC RTX 5060 TI 8GB",
           "storeName": "Zah Computers",
           "price": 158000.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-twin-edge-oc-rtx-5060-ti-8gb-128-bit-gddr7-pci-express-5-0-x8-dlss-4-0-graphics-card/"
         },
-          {
+        {
           "Name": "GIGABYTE RTX 5060 TI 8GB",
           "storeName": "Zah Computers",
           "price": 145000.0,
@@ -2756,31 +2634,31 @@
           "price": 149999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-rtx-5060-ti-windforce-8g-graphics-card"
         },
-            {
+        {
           "Name": "MSI RTX 5060 TI 8GB",
           "storeName": "Zah Computers",
           "price": 153999.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-5060-ti-8g-ventus-2x-plus-graphics-card/"
         },
-         {
+        {
           "Name": "ASUS RTX 5060 TI 8GB",
           "storeName": "Junaid Tech",
           "price": 154999.0,
           "url": "https://www.junaidtech.pk/product/asus-dual-rtx-5060-ti-8gb-oc-edition-graphics-card"
         },
         {
-            "Name": "ASUS RTX 5060 TI 8GB",
+          "Name": "ASUS RTX 5060 TI 8GB",
           "storeName": "Zah Computers",
           "price": 154999.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5060-ti-8gb-gddr7-pci-express-5-0-x8-atx-graphics-card/"
         },
         {
-            "Name": "ASUS RTX 5060 TI 8GB",
+          "Name": "ASUS RTX 5060 TI 8GB",
           "storeName": "Zicomputer",
           "price": 160000.0,
           "url": "https://zicomputer.com/product/asus-prime-geforce-rtx-5060-ti-8gb-gddr7-oc/"
         },
-         {
+        {
           "Name": "MSI RTX 5060 TI 8GB",
           "storeName": "Zah Computers",
           "price": 153999.0,
@@ -2788,45 +2666,43 @@
         }
       ]
     },
-   
-
-  
     {
       "id": "gpu_65",
       "name": "RTX 3080 TI 12GB",
       "categoryId": "graphics_cards",
       "storePrices": [
-        {  "Name": "ZOTAC RTX 3080TI 12GB",
+        {
+          "Name": "ZOTAC RTX 3080TI 12GB",
           "storeName": "Zah Computers",
           "price": 145000.0,
           "url": "https://zahcomputers.pk/product/zotac-geforce-rtx-3080-ti-trinity-oc-12gb-gddr6x-graphics-card-used/"
         },
-          {
+        {
           "Name": "GIGABYTE RTX 3080TI 12GB",
           "storeName": "Junaid Tech",
           "price": 269999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-geforce-rtx-3080-ti-vision-oc-12gb-graphics-card"
         },
-         {
-           "Name": "Manli RTX 3080TI 12GB",
+        {
+          "Name": "Manli RTX 3080TI 12GB",
           "storeName": "Zah Computers",
           "price": 260000.0,
           "url": "https://zahcomputers.pk/product/manli-geforce-rtx-3080-ti-m3514n612-12-gb-gddr6x-memory-graphics-card/"
         },
-             {
-            "Name": "ASUS RTX 3080TI 12GB",
+        {
+          "Name": "ASUS RTX 3080TI 12GB",
           "storeName": "Zah Computers",
           "price": 425000.0,
           "url": "https://zahcomputers.pk/product/asus-geforce-rtx-3080-ti-tuf-gaming-oc-graphics-card/"
         },
-          {
-            "Name": "MSI RTX 3080TI 12GB",
+        {
+          "Name": "MSI RTX 3080TI 12GB",
           "storeName": "Zah Computers",
           "price": 380000.0,
           "url": "https://zahcomputers.pk/product/msi-gaming-geforce-rtx-3080-ti-12gb-gaming-x-trio-12g-gddr6x-pci-express-4-0-video-card/"
         },
-          {
-           "Name": "GIGABYTE RTX 3080TI 12GB",
+        {
+          "Name": "GIGABYTE RTX 3080TI 12GB",
           "storeName": "Zah Computers",
           "price": 319990.0,
           "url": "https://zahcomputers.pk/product/gigabyte-gaming-geforce-rtx-3080-ti-12gb-oc-gddr6x-pci-express-4-0-atx-video-card/"
@@ -2839,103 +2715,99 @@
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "XFX RX 7900 16GB",
+          "Name": "XFX RX 7900 16GB",
           "storeName": "AMD House",
           "price": 150000.0,
           "url": "https://amdhouse.pk/product/xfx-radeon-rx-7900-gre-16gb-gddr6-rx-79gmerc-used-in-2-5-months-wty/"
         },
-         {
-              "Name": "As_Rock RX 7900 16GB",
+        {
+          "Name": "As_Rock RX 7900 16GB",
           "storeName": "AMD House",
           "price": 155000.0,
           "url": "https://amdhouse.pk/product/asrock-rx-7900-gre-16gb-challenger-oc-used-no-box-in-1-month-warranty/"
         },
-         {
-             "Name": "SAPPHIRE RX 7900 16GB",
+        {
+          "Name": "SAPPHIRE RX 7900 16GB",
           "storeName": "Zah Computers",
           "price": 155000.0,
           "url": "https://zahcomputers.pk/product/sapphire-pulse-radeon-rx-7900-gre-16gb-gddr6-pci-express-4-0-x16-atx-video-card-refurbished/"
         },
         {
-             "Name": "SAPPHIRE RX 7900 16GB",
+          "Name": "SAPPHIRE RX 7900 16GB",
           "storeName": "AMD House",
           "price": 178500.0,
           "url": "https://amdhouse.pk/product/sapphire-pure-rx-7900-gre-16gb-white-gaming-gpu/"
         }
       ]
     },
-
- 
     {
       "id": "gpu_67",
       "name": "MSI RTX 4070 12GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "MSI RTX 4070 12GB",
+          "Name": "MSI RTX 4070 12GB",
           "storeName": "Zah Computers",
           "price": 160000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-4070-super-12g-gaming-x-slim-white-used/"
         },
         {
-              "Name": "MSI RTX 4070 12GB",
+          "Name": "MSI RTX 4070 12GB",
           "storeName": "Zicomputer",
           "price": 205000.0,
           "url": "https://zicomputer.com/product/msi-geforce-rtx-4070-12gb-ventus-2x-white-oc/"
         },
-         {
-           "Name": "ZOTAC RTX 4070 12GB",
+        {
+          "Name": "ZOTAC RTX 4070 12GB",
           "storeName": "Zah Computers",
           "price": 169990.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-4070-twin-edge-dlss-3-12gb-gddr6x-192-bit-21-gbps-pcie-4-0-compact-gaming-graphics-card/"
-        }, {
-           "Name": "ASUS ProArt RTX 4070 12GB ",
+        },
+        {
+          "Name": "ASUS ProArt RTX 4070 12GB ",
           "storeName": "Zah Computers",
           "price": 188000.0,
           "url": "https://zahcomputers.pk/product/asus-proart-geforce-rtx-4070-12gb-gddr6x-pci-express-4-0-graphics-card/"
         },
-         {
-             "Name": "ASUS RTX 4070 12GB ",
+        {
+          "Name": "ASUS RTX 4070 12GB ",
           "storeName": "Zah Computers",
           "price": 185500.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-4070-12gb-gddr6x-oc-edition-white-gaming-graphics-card/"
         },
-         {
-           "name": "ASUS RTX 4070 EVO 12GB",
+        {
+          "name": "ASUS RTX 4070 EVO 12GB",
           "storeName": "Zah Computers",
           "price": 178000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-4070-evo-oc-edition-12gb-gddr6x-graphics-card/"
         },
-           {
-           "Name": "ASUS RTX 4070 12GB ",
+        {
+          "Name": "ASUS RTX 4070 12GB ",
           "storeName": "Zah Computers",
           "price": 140000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-4070-12gb-gddr6x-graphics-card/"
         }
       ]
-      
     },
-   
     {
       "id": "gpu_68",
       "name": "RX 9070 12GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-              "Name": "POWERCOLOR RX 9070 12GB",
+          "Name": "POWERCOLOR RX 9070 12GB",
           "storeName": "AMD House",
           "price": 165000.0,
           "url": "https://amdhouse.pk/product/amd-radeon-powercolor-reaper-rx-9070-gre-12gb-gddr6-black-used-in-2-months-warranty-with-box/"
         },
-      
-          {
+        {
           "Name": "XFX RX 9070 12GB",
           "storeName": "AMD House",
           "price": 200000.0,
           "url": "https://amdhouse.pk/product/xfx-rx-9070-gre-black-12gb-gddr6-new-in-10-months-warranty/"
         },
-            {
-           "Name": "Vastarmor RX 9070 12GB",
+        {
+          "Name": "Vastarmor RX 9070 12GB",
           "storeName": "AMD House",
           "price": 200000.0,
           "url": "https://amdhouse.pk/product/vastarmor-rx-9070-gre-12gb-white-alloy-new-in-10-months-warranty/"
@@ -2948,140 +2820,139 @@
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-              "Name": "COLORFUL RTX 5060 TI 16GB",
+          "Name": "COLORFUL RTX 5060 TI 16GB",
           "storeName": "Zah Computers",
           "price": 165000.0,
           "url": "https://zahcomputers.pk/product/colorful-geforce-rtx-5060-ti-battle-ax-duo-16gb-v-16gb-gaming-graphics-card/"
         },
         {
-           "Name": "COLORFUL RTX 5060 TI 16GB",
+          "Name": "COLORFUL RTX 5060 TI 16GB",
           "storeName": "Junaid Tech",
           "price": 189999.0,
           "url": "https://www.junaidtech.pk/product/colorful-rtx-5060-ti-battle-ax-duo-16gbv-gaming-graphics-card"
         },
-           {
-            "Name": "ZOTAC RTX 5060 TI 16GB",
+        {
+          "Name": "ZOTAC RTX 5060 TI 16GB",
           "storeName": "Zah Computers",
           "price": 172000.0,
           "url": "https://zahcomputers.pk/product/zotac-amp-geforce-rtx-5060-ti-16gb-gddr7-pci-express-5-0-x8-atx-graphics/"
         },
         {
-           "Name": "ZOTAC RTX 5060 TI 16GB",
+          "Name": "ZOTAC RTX 5060 TI 16GB",
           "storeName": "AMD House",
           "price": 185000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-zotac-gaming-rtx-5060-ti-16gb-gddr6-twin-edge-in-10-months-warranty/"
         },
         {
-           "Name": "ZOTAC RTX 5060 TI 16GB",
+          "Name": "ZOTAC RTX 5060 TI 16GB",
           "storeName": "Junaid Tech",
           "price": 194999.0,
           "url": "https://www.junaidtech.pk/product/zotac-rtx-5060-ti-16gb-twin-edge-graphics-card"
         },
         {
-           "Name": "ZOTAC RTX 5060 TI 16GB",
+          "Name": "ZOTAC RTX 5060 TI 16GB",
           "storeName": "Zicomputer",
           "price": 195000.0,
           "url": "https://zicomputer.com/product/zotac-gaming-geforce-rtx-5060-ti-16gb-twin-edge-compact-high-performance-gpu/"
         },
         {
-           "Name": "ZOTAC RTX 5060 TI 16GB",
+          "Name": "ZOTAC RTX 5060 TI 16GB",
           "storeName": "RB Tech N Games",
           "price": 219999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/zotac-gaming-geforce-rtx-5060-ti-amp-16gb-graphics-card/"
         },
         {
-           "Name": "ZOTAC RTX 5060 TI 16GB",
+          "Name": "ZOTAC RTX 5060 TI 16GB",
           "storeName": "Czone",
           "price": 225000.0,
           "url": "https://www.czone.com.pk/zotac-gaming-geforce-rtx-5060-ti-16gb-twin-edge-oc-white-edition-graphics-card-16gb-gddr7-128bit-260"
-        },   {
-           "Name": "GIGABYTE RTX 5060 TI 16GB",
+        },
+        {
+          "Name": "GIGABYTE RTX 5060 TI 16GB",
           "storeName": "Zah Computers",
           "price": 172999.0,
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-5060-ti-eagle-max-oc-16gb-gddr7-pci-express-5-0-graphics-card/"
         },
         {
-            "Name": "GIGABYTE RTX 5060 TI 16GB",
+          "Name": "GIGABYTE RTX 5060 TI 16GB",
           "storeName": "Zicomputer",
           "price": 195000.0,
           "url": "https://zicomputer.com/product/gigabyte-nvidia-rtx-5060-ti-eagle-max-oc-16gb/"
         },
         {
-            "Name": "GIGABYTE RTX 5060 TI 16GB",
+          "Name": "GIGABYTE RTX 5060 TI 16GB",
           "storeName": "Junaid Tech",
           "price": 214999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-rtx-5060-ti-windforce-max-oc-graphics-card-16gb"
         },
-           {
-             "Name": "PALIT RTX 5060 TI 16GB",
+        {
+          "Name": "PALIT RTX 5060 TI 16GB",
           "storeName": "AMD House",
           "price": 185000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-palit-infinity-3-rtx-5060-ti-16gb-new-in-10-months-warranty/"
         },
         {
-            "Name": "PALIT RTX 5060 TI 16GB",
+          "Name": "PALIT RTX 5060 TI 16GB",
           "storeName": "Zah Computers",
           "price": 185000.0,
           "url": "https://zahcomputers.pk/product/palit-geforce-rtx-5060-ti-infinity-3-16gb-gddr7-graphics-card/"
         },
         {
-            "Name": "PALIT RTX 5060 TI 16GB",
+          "Name": "PALIT RTX 5060 TI 16GB",
           "storeName": "Junaid Tech",
           "price": 204999.0,
           "url": "https://www.junaidtech.pk/product/palit-rtx-5060-ti-infinity-3-16gb-graphics-card"
         },
-              {
+        {
           "Name": "MSI RTX 5060 TI 16GB",
           "storeName": "Zah Computers",
           "price": 185000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-5060-ti-16gb-gaming-trio-oc-gddr7-pcie-5-0-x16-graphics-card/"
         },
         {
-           "Name": "MSI RTX 5060 TI 16GB",
+          "Name": "MSI RTX 5060 TI 16GB",
           "storeName": "Junaid Tech",
           "price": 230999.0,
           "url": "https://www.junaidtech.pk/product/msi-rtx-5060-ti-16g-shadow-2x-oc-plus-graphics-card"
         },
-          {
-           "Name": "ASUS RTX 5060 TI 16GB",
+        {
+          "Name": "ASUS RTX 5060 TI 16GB",
           "storeName": "Zah Computers",
           "price": 194999.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5060-ti-16gb-gddr7-oc-edition-gaming-graphics-card/"
         },
         {
-            "Name": "ASUS RTX 5060 TI 16GB",
+          "Name": "ASUS RTX 5060 TI 16GB",
           "storeName": "Zicomputer",
           "price": 205000.0,
           "url": "https://zicomputer.com/product/asus-dual-geforce-rtx-5060-ti-16gb-oc/"
         },
         {
-            "Name": "ASUS RTX 5060 TI 16GB",
+          "Name": "ASUS RTX 5060 TI 16GB",
           "storeName": "Junaid Tech",
           "price": 227999.0,
           "url": "https://www.junaidtech.pk/product/asus-dual-rtx-5060-ti-16gb-gddr7-oc-edition-graphics-card"
         },
-             {
+        {
           "Name": "PNY RTX 5060 TI 16GB",
           "storeName": "Zicomputer",
           "price": 205000.0,
           "url": "https://zicomputer.com/product/pny-geforce-rtx-5060-ti-16gb-epic-x-rgb-oc/"
         },
         {
-           "Name": "PNY RTX 5060 TI 16GB",
+          "Name": "PNY RTX 5060 TI 16GB",
           "storeName": "RB Tech N Games",
           "price": 214999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/pny-geforce-rtx-5060-ti-overclocked-dual-fan-16gb-graphics-card/"
         },
         {
-           "Name": "PNY RTX 5060 TI 16GB",
+          "Name": "PNY RTX 5060 TI 16GB",
           "storeName": "Zah Computers",
           "price": 225000.0,
           "url": "https://zahcomputers.pk/product/pny-geforce-rtx-5060-ti-16gb-stealth-oc-graphics-card/"
         }
-
       ]
     },
-
     {
       "id": "gpu_70",
       "name": "XFX RX 7900 XT 20GB",
@@ -3092,104 +2963,100 @@
           "price": 170000.0,
           "url": "https://amdhouse.pk/product/amd-radeon-rx-7900-xt-xfx-gaming-20gb-used-without-box-in-2-months-warranty/"
         },
-         {
-             "Name": "SAPPHIRE RX 7900 XT 20GB",
+        {
+          "Name": "SAPPHIRE RX 7900 XT 20GB",
           "storeName": "AMD House",
           "price": 194000.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-7900-xt-20gb-gddr6-used/"
         },
         {
-             "Name": "SAPPHIRE RX 7900 XT 20GB",
+          "Name": "SAPPHIRE RX 7900 XT 20GB",
           "storeName": "Zah Computers",
           "price": 255000.0,
           "url": "https://zahcomputers.pk/product/sapphire-nitro-radeon-rx-7900-xt-vapor-x-20gb-gddr6-pci-express-4-0-x16-atx-video-graphics-card/"
         },
         {
-             "Name": "SAPPHIRE RX 7900 XT 20GB",
+          "Name": "SAPPHIRE RX 7900 XT 20GB",
           "storeName": "Junaid Tech",
           "price": 264999.0,
           "url": "https://www.junaidtech.pk/product/sapphire-nitro-rx-7900-xt-vapor-x-20gb-graphics-card"
         },
-          {
-            "Name": "Biostar RX 7900 XT 20GB",
+        {
+          "Name": "Biostar RX 7900 XT 20GB",
           "storeName": "Junaid Tech",
           "price": 254999.0,
           "url": "https://www.junaidtech.pk/product/biostar-rx-7900-xt-20gb-graphics-card"
         }
       ]
     },
-   
     {
       "id": "gpu_71",
       "name": "ZOTAC RTX 4070TI 12GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "ZOTAC RTX 4070TI 12GB",
+          "Name": "ZOTAC RTX 4070TI 12GB",
           "storeName": "Zah Computers",
           "price": 175000.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-4070ti-trinity-dlss-3-12gb-gaming-graphics-card-used/"
         },
-          {
-           "Name": "MSI RTX 4070 TI 12GB",
+        {
+          "Name": "MSI RTX 4070 TI 12GB",
           "storeName": "Zah Computers",
           "price": 279990.0,
           "url": "https://zahcomputers.pk/product/msi-gaming-geforce-rtx-4070-ti-gaming-x-trio-12gb-gddr6x-pci-express-4-0-graphics-cards/"
         }
       ]
     },
- 
-
-   
     {
       "id": "gpu_72",
       "name": "RTX 4070 SUPER 12GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "ZOTAC RTX 4070 SUPER 12GB",
+          "Name": "ZOTAC RTX 4070 SUPER 12GB",
           "storeName": "Zah Computers",
           "price": 188000.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-4070-super-twin-edge-dlss-3-12gb-gddr6x-gaming-graphics-card/"
         },
         {
-           "Name": "ZOTAC RTX 4070 SUPER 12GB",
+          "Name": "ZOTAC RTX 4070 SUPER 12GB",
           "storeName": "Zicomputer",
           "price": 205000.0,
           "url": "https://zicomputer.com/product/zotac-rtx-4070-super-12gb-twin-edge/"
         },
-            {
-           "Name": "MSI RTX 4070 SUPER 12GB",
+        {
+          "Name": "MSI RTX 4070 SUPER 12GB",
           "storeName": "Zah Computers",
           "price": 192000.0,
           "url": "https://zahcomputers.pk/product/msi-ventus-geforce-rtx-4070-super-12gb-gddr6x-pci-express-4-0-atx-graphics-cards/"
         },
         {
-            "Name": "MSI RTX 4070 SUPER 12GB",
+          "Name": "MSI RTX 4070 SUPER 12GB",
           "storeName": "Zicomputer",
           "price": 210000.0,
           "url": "https://zicomputer.com/product/msi-rtx-4070-super-ventus-2x-oc-12gb/"
         },
-          {
-             "Name": "ASUS RTX 4070 SUPER 12GB",
+        {
+          "Name": "ASUS RTX 4070 SUPER 12GB",
           "storeName": "Zicomputer",
           "price": 205000.0,
           "url": "https://zicomputer.com/product/asus-dual-rtx-4070-super-white/"
         },
         {
-            "Name": "ASUS RTX 4070 SUPER 12GB",
+          "Name": "ASUS RTX 4070 SUPER 12GB",
           "storeName": "Zah Computers",
           "price": 254999.0,
           "url": "https://zahcomputers.pk/product/asus-proart-geforce-rtx-4070-super-12gb-oc-edition-graphics-card/"
         },
         {
-                "Name": "MSI RTX 4070 SUPER 12GB",
+          "Name": "MSI RTX 4070 SUPER 12GB",
           "storeName": "Zah Computers",
           "price": 215000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-4070-super-12g-ventus-3x-oc-gddr6x-pci-express-4-0-atx-graphics-cards/"
         },
-         {
-            "Name": "ASUS RTX 4070 Super 12GB ",
+        {
+          "Name": "ASUS RTX 4070 Super 12GB ",
           "storeName": "Zah Computers",
           "price": 230000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-4070-12gb-super-evo-oc-edition-gaming-graphics-card/"
@@ -3200,97 +3067,95 @@
           "price": 233000.0,
           "url": "https://zahcomputers.pk/product/asus-rog-strix-geforce-rtx-4070-super-12gb-gddr6x-oc-edition-gaming-graphics-card/"
         },
-          {
-             "Name": "ASUS RTX 4070 SUPER 12GB ",
+        {
+          "Name": "ASUS RTX 4070 SUPER 12GB ",
           "storeName": "Zah Computers",
           "price": 222000.0,
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-geforce-rtx-4070-super-12gb-gddr6x-oc-edition-gaming-graphics-card/"
         }
       ]
     },
-
     {
       "id": "gpu_73",
       "name": "RTX 5070 12GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "Leadtek RTX 5070 12GB",
+          "Name": "Leadtek RTX 5070 12GB",
           "storeName": "Zah Computers",
           "price": 189999.0,
           "url": "https://zahcomputers.pk/product/leadtek-rtx-5070-hurricane-12gb-graphic-card/"
         },
         {
-             "Name": "iGame RTX 5070 12GB",
+          "Name": "iGame RTX 5070 12GB",
           "storeName": "Zicomputer",
           "price": 250000.0,
           "url": "https://zicomputer.com/product/igame-geforce-rtx-5070-vulcan-oc-12gb-v/"
         },
         {
-            "Name": "ZOTAC RTX 5070",
+          "Name": "ZOTAC RTX 5070",
           "storeName": "AMD House",
           "price": 205000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-zotac-rtx-5070-twin-edge-oc-dual-fan/"
         },
-          {
+        {
           "Name": "INNO3D RTX 5070 12GB",
           "storeName": "Junaid Tech",
           "price": 206999.0,
           "url": "https://www.junaidtech.pk/product/inno3d-rtx-5070-twin-x2-12gb-graphics-card"
         },
-          {
-             "Name": "MSI RTX 5070 12GB",
+        {
+          "Name": "MSI RTX 5070 12GB",
           "storeName": "AMD House",
           "price": 208000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-msi-rtx-5070-shadow-2x-oc-12g-new-in-10-months-warranty/"
         },
         {
-            "Name": "MSI RTX 5070 12GB",
+          "Name": "MSI RTX 5070 12GB",
           "storeName": "Zah Computers",
           "price": 230999.0,
           "url": "https://zahcomputers.pk/product/msi-ventus-geforce-rtx-5070-12g-2x-oc-gddr7-graphics-card/"
         },
         {
-            "Name": "MSI RTX 5070 12GB",
+          "Name": "MSI RTX 5070 12GB",
           "storeName": "Zicomputer",
           "price": 260000.0,
           "url": "https://zicomputer.com/product/msi-rtx-5070-gaming-trio-oc-12gb/"
-
         },
-                {
-                "Name": "ZOTAC RTX 5070 12GB",
+        {
+          "Name": "ZOTAC RTX 5070 12GB",
           "storeName": "Junaid Tech",
           "price": 214999.0,
           "url": "https://www.junaidtech.pk/product/zotac-gaming-geforce-rtx-5070-twin-edge-graphics-card"
         },
         {
-           "Name": "ZOTAC RTX 5070 12GB",
+          "Name": "ZOTAC RTX 5070 12GB",
           "storeName": "Zah Computers",
           "price": 219999.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-5070-amp-white-edition-dlss-4-12gb-gddr7-192-bit-28-gbps-pcie-5-0-gaming-graphics-card/"
         },
         {
-           "Name": "ZOTAC RTX 5070 12GB",
+          "Name": "ZOTAC RTX 5070 12GB",
           "storeName": "Zicomputer",
           "price": 230000.0,
           "url": "https://zicomputer.com/product/zotac-gaming-geforce-rtx-5070-solid-12gb-gddr7/"
         },
         {
-           "Name": "ZOTAC RTX 5070 12GB",
+          "Name": "ZOTAC RTX 5070 12GB",
           "storeName": "RB Tech N Games",
           "price": 234999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/zotac-gaming-geforce-rtx-5070-twin-edge-12gb-graphics-card/"
         },
         {
-           "Name": "ZOTAC RTX 5070 12GB",
+          "Name": "ZOTAC RTX 5070 12GB",
           "storeName": "Czone",
           "price": 245000.0,
           "url": "https://www.czone.com.pk/graphic-cards-nvidia-geforce-zotac-gaming-geforce-rtx-5070-solid-oc-dlss-4-12gb-gddr7-192-bit-pcie-5-0-gaming-graphics-card-zt-b50700j-10p-pakistan-p.18013.aspx"
         },
-           {
-           "Name": "COLORFUL RTX 5070 12GB",
+        {
+          "Name": "COLORFUL RTX 5070 12GB",
           "storeName": "AMD House",
-          "price": 218500.0,
+          "price": 234000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-rtx-5070-12gb/"
         },
         {
@@ -3305,120 +3170,117 @@
           "price": 235000.0,
           "url": "https://zahcomputers.pk/product/colorful-geforce-rtx-5070-nb-ex-12gb-v-gddr7-graphics-card/"
         },
-          {
-           "Name": "MSI RTX 5070 12GB",
+        {
+          "Name": "MSI RTX 5070 12GB",
           "storeName": "Junaid Tech",
           "price": 224999.0,
           "url": "https://www.junaidtech.pk/product/msi-gaming-rtx-5070-12g-shadow-2x-oc-graphics-card"
         },
         {
-             "Name": "MSI RTX 5070 12GB",
+          "Name": "MSI RTX 5070 12GB",
           "storeName": "Zah Computers",
           "price": 225000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-5070-12gb-gaming-trio-oc-graphics-card/"
         },
-            {
+        {
           "Name": "PNY RTX 5070 12GB",
           "storeName": "Junaid Tech",
-          "price": 224999.0,
+          "price": 239999.0,
           "url": "https://www.junaidtech.pk/product/pny-rtx-5070-epicx-argb-oc-triple-fan-graphics-card"
         },
         {
-           "Name": "PNY RTX 5070 12GB",
+          "Name": "PNY RTX 5070 12GB",
           "storeName": "AMD House",
           "price": 225000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-pny-rtx-5070-12gb-oc-3-fan-new-in-10-months-warranty/"
         },
         {
-           "Name": "PNY RTX 5070 12GB",
+          "Name": "PNY RTX 5070 12GB",
           "storeName": "Zah Computers",
           "price": 225000.0,
           "url": "https://zahcomputers.pk/product/pny-geforce-rtx-5070-argb-epic-x-rgb-oc-triple-fan-graphics-card-12gb-gddr7-192-bit-memory-2-16-ghz-base-clock-28-gbps-memory-speed-6144-cuda-cores-pci-express-5-0/"
         },
         {
-           "Name": "PNY RTX 5070 12GB",
+          "Name": "PNY RTX 5070 12GB",
           "storeName": "Zicomputer",
           "price": 230000.0,
           "url": "https://zicomputer.com/product/pny-geforce-rtx-5070-oc-12gb-graphics-card/"
         },
-               {
-            "Name": "ASUS RTX 5070 12GB",
+        {
+          "Name": "ASUS RTX 5070 12GB",
           "storeName": "Zah Computers",
           "price": 228000.0,
           "url": "https://zahcomputers.pk/product/asus-prime-geforce-rtx-5070-oc-12gb-graphics-card-white-edition/"
         },
         {
-           "Name": "ASUS RTX 5070 12GB",
+          "Name": "ASUS RTX 5070 12GB",
           "storeName": "Junaid Tech",
           "price": 232999.0,
           "url": "https://www.junaidtech.pk/product/asus-dual-rtx-5070-12gb-oc-edition-graphics-card"
         },
         {
-           "Name": "ASUS RTX 5070 12GB",
+          "Name": "ASUS RTX 5070 12GB",
           "storeName": "Zicomputer",
           "price": 240000.0,
           "url": "https://zicomputer.com/product/asus-prime-rtx-5070-12gb-white-oc/"
         },
-          {
+        {
           "Name": "MANLI RTX 5070 12GB",
           "storeName": "AMD House",
-          "price": 225000.0,
+          "price": 230000.0,
           "url": "https://amdhouse.pk/product/manli-nebula-geforce-rtx-5070-12gb-gddr7-new-in-10-months-warranty/"
         },
-          {
+        {
           "Name": "GIGABYTE RTX 5070 12GB",
           "storeName": "Zicomputer",
           "price": 240000.0,
           "url": "https://zicomputer.com/product/geforce-rtx-5070-gaming-oc-12g/"
         },
-           {
-           "Name": "GIGABYTE RTX 5070 12GB",
+        {
+          "Name": "GIGABYTE RTX 5070 12GB",
           "storeName": "Zicomputer",
           "price": 230000.0,
           "url": "https://zicomputer.com/product/gigabyte-nvidia-rtx-5070-eagle-oc-sff-12gb/"
         },
         {
-           "Name": "GIGABYTE RTX 5070 12GB",
+          "Name": "GIGABYTE RTX 5070 12GB",
           "storeName": "Zah Computers",
           "price": 238999.0,
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-5070-eagle-oc-sff-graphics-card-12gb-gddr7-192-bit-memory-2587-mhz-core-clock-28-gbps-memory-clock-6144-cuda-cores-pci-express-5-0/"
         },
         {
-           "Name": "GIGABYTE RTX 5070 12GB",
+          "Name": "GIGABYTE RTX 5070 12GB",
           "storeName": "Junaid Tech",
           "price": 244999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-rtx-5070-eagle-oc-ice-sff-12g-graphics-card"
         },
         {
-           "Name": "GIGABYTE RTX 5070 12GB",
+          "Name": "GIGABYTE RTX 5070 12GB",
           "storeName": "RB Tech N Games",
           "price": 244999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/gigabyte-geforce-rtx-5070-windforce-12gb-oc-sff-graphics-card/"
         }
       ]
-      
     },
-
-  
-  
     {
       "id": "gpu_74",
       "name": "RTX 3090 24GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-             "name": "EVGA RTX 3090 24GB",
+          "name": "EVGA RTX 3090 24GB",
           "storeName": "Zah Computers",
           "price": 205000.0,
           "url": "https://zahcomputers.pk/product/evga-geforce-rtx-3090-24gb-ftw3-ultra-gaming-graphics-card-open-box/"
         },
-         {
-             "Name": "MSI RTX 3090 24GB",
+        {
+          "Name": "MSI RTX 3090 24GB",
           "storeName": "Zah Computers",
           "price": 210000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-3090-gaming-x-trio-24g-graphics-card-1785-mhz-boost-core-clocks-24gb-gddr6x-memory-384-bit-memory-bus-3xdp-hdmi-19-5-gbps-memory-speed/"
-        }, {
-            "Name": "MSI RTX 3090 24GB",
+        },
+        {
+          "Name": "MSI RTX 3090 24GB",
           "storeName": "Zah Computers",
           "price": 205000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-3090-suprim-x-graphics-card-open-box/"
@@ -3428,56 +3290,52 @@
           "storeName": "Zah Computers",
           "price": 425000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-3090-gaming-oc-24g-hdmi-2-1-pcie-4-0-interface-icestorm2-0-advanced-cooler-graphics-card/"
-        } 
-
+        }
       ]
     },
-
-   
- 
     {
       "id": "gpu_75",
       "name": "RX 9070 16GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-             "Name": "SAPPHIRE RX 9070 16GB",
+          "Name": "SAPPHIRE RX 9070 16GB",
           "storeName": "Junaid Tech",
-          "price": 209999.0,
+          "price": 219999.0,
           "url": "https://www.junaidtech.pk/product/sapphire-pulse-rx-9070-gaming-graphics-card"
         },
         {
-               "Name": "SAPPHIRE RX 9070 16GB",
+          "Name": "SAPPHIRE RX 9070 16GB",
           "storeName": "AMD House",
           "price": 222000.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-9070-16gb-new-in-10-months-warranty/"
         },
         {
-               "Name": "SAPPHIRE RX 9070 16GB",
+          "Name": "SAPPHIRE RX 9070 16GB",
           "storeName": "Zah Computers",
           "price": 230000.0,
           "url": "https://zahcomputers.pk/product/sapphire-pulse-radeon-rx-9070-16gb-gddr6-pci-express-5-0-x16-atx-graphics-card/"
         },
-          {
+        {
           "Name": "GIGABYTE RX 9070 16GB",
           "storeName": "Zah Computers",
           "price": 213999.0,
           "url": "https://zahcomputers.pk/product/gigabyte-rx-9070-gaming-oc-16gb-gddr6-256bit-pci-e-5-0-video-graphics-card/"
         },
         {
-            "Name": "GIGABYTE RX 9070 16GB",
+          "Name": "GIGABYTE RX 9070 16GB",
           "storeName": "Junaid Tech",
           "price": 224999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-rx-9070-gaming-oc-16g-graphics-card"
         },
         {
-            "Name": "GIGABYTE RX 9070 16GB",
+          "Name": "GIGABYTE RX 9070 16GB",
           "storeName": "Czone",
           "price": 235000.0,
           "url": "https://www.czone.com.pk/gigabyte-radeon-rx-9070-gaming-oc-16g-video-graphics-card-16gb-gddr6-256bit-boost-up-to-2700mhz-pcie"
         },
-          {
-            "Name": "XFX RX 9070 16GB",
+        {
+          "Name": "XFX RX 9070 16GB",
           "storeName": "AMD House",
           "price": 220000.0,
           "url": "https://amdhouse.pk/product/xfx-swift-rx-9070-oc-16gb-gddr6-new-in-10-months-warranty/"
@@ -3488,8 +3346,8 @@
           "price": 230000.0,
           "url": "https://zahcomputers.pk/product/xfx-swift-amd-radeon-rx-9070-oc-triple-fan-gaming-edition-16gb-gddr6-256-bit-memory-graphics-card/"
         },
-         {
-           "Name": "ASUS RX 9070 16GB",
+        {
+          "Name": "ASUS RX 9070 16GB",
           "storeName": "Junaid Tech",
           "price": 224999.0,
           "url": "https://www.junaidtech.pk/product/asus-prime-rx-9070-16gb-gddr6-oc-edition-graphics-card"
@@ -3497,7 +3355,7 @@
         {
           "Name": "ASUS RX 9070 16GB",
           "storeName": "RB Tech N Games",
-          "price": 234999.0,
+          "price": 244999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/asus-prime-radeon-rx-9070-16gb-oc-edition-graphics-card/"
         },
         {
@@ -3520,31 +3378,31 @@
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-              "Name": "XFX RX 9070 XT 16GB",
+          "Name": "XFX RX 9070 XT 16GB",
           "storeName": "AMD House",
           "price": 230000.0,
           "url": "https://amdhouse.pk/product/xfx-rx-9070-xt-dual-fan-black-new-in-10-months-warranty/"
         },
-           {
-            "Name": "As_Rock RX 9070 XT 16GB",
+        {
+          "Name": "As_Rock RX 9070 XT 16GB",
           "storeName": "AMD House",
           "price": 235000.0,
           "url": "https://amdhouse.pk/product/asrock-rx-9070-xt-steel-legend-16gb-gddr6-new-in-10-months-warranty/"
         },
         {
-           "Name": "As_Rock RX 9070 XT 16GB",
+          "Name": "As_Rock RX 9070 XT 16GB",
           "storeName": "Zah Computers",
           "price": 258000.0,
           "url": "https://zahcomputers.pk/product/asrock-steel-legend-radeon-rx-9070-xt-16gb-gddr6-pci-express-5-0-x16-graphics-card/"
         },
-          {
+        {
           "Name": "POWERCOLOR RX 9070 XT 16GB",
           "storeName": "AMD House",
           "price": 237000.0,
           "url": "https://amdhouse.pk/product/powercolor-reaper-radeon-rx-9070-xt-16gb-gddr6-new-in-10-months-warranty/"
         },
-            {
-             "Name": "XFX RX 9070 XT 16GB",
+        {
+          "Name": "XFX RX 9070 XT 16GB",
           "storeName": "AMD House",
           "price": 245000.0,
           "url": "https://amdhouse.pk/product/xfx-swift-rx-9070-xt-16gb-gddr6-triple-fan-gaming-edition-new-in-10-months-warranty/"
@@ -3552,16 +3410,16 @@
         {
           "Name": "XFX RX 9070 XT 16GB",
           "storeName": "Junaid Tech",
-          "price": 254999.0,
+          "price": 244999.0,
           "url": "https://www.junaidtech.pk/product/xfx-swift-rx-9070xt-triple-fan-white-gaming-edition-graphics-card"
         },
-         {
-           "Name": "XFX RX 9070 XT 16GB",
+        {
+          "Name": "XFX RX 9070 XT 16GB",
           "storeName": "Zah Computers",
           "price": 252000.0,
           "url": "https://zahcomputers.pk/product/xfx-swift-amd-radeon-rx-9070xt-16gb-gddr6-256bit-hdmi-3x-dp-amd-rdna-4-gaming-edition-graphics-card-white/"
         },
-          {
+        {
           "Name": "SAPPHIRE RX 9070 XT 16GB",
           "storeName": "Zah Computers",
           "price": 265000.0,
@@ -3580,37 +3438,37 @@
           "url": "https://zicomputer.com/product/sapphire-pulse-rx-9070-xt-16gb-graphics-card/"
         },
         {
-           "Name": "GIGABYTE RX 9070 XT 16GB",
+          "Name": "GIGABYTE RX 9070 XT 16GB",
           "storeName": "Zah Computers",
           "price": 264000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-radeon-rx-9070-xt-gaming-oc-16g-graphics-card/"
         },
         {
-           "Name": "GIGABYTE RX 9070 XT 16GB",
+          "Name": "GIGABYTE RX 9070 XT 16GB",
           "storeName": "Junaid Tech",
           "price": 269999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-radeon-rx-9070-xt-gaming-16g-graphics-card"
         },
         {
-           "Name": "ASUS RX 9070 XT 16GB",
+          "Name": "ASUS RX 9070 XT 16GB",
           "storeName": "Junaid Tech",
           "price": 274999.0,
           "url": "https://www.junaidtech.pk/product/asus-prime-rx-9070-xt-white-oc-edition-graphics-card"
         },
-         {
-                "Name": "ASUS RX 9070 XT 16GB",
+        {
+          "Name": "ASUS RX 9070 XT 16GB",
           "storeName": "Zah Computers",
           "price": 280000.0,
           "url": "https://zahcomputers.pk/product/asus-prime-radeon-rx-9070-xt-16gb-256-bit-gddr6-pci-express-5-0-rdna-4-graphics-card/"
         },
         {
-           "Name": "ASUS RX 9070 XT 16GB",
+          "Name": "ASUS RX 9070 XT 16GB",
           "storeName": "Zicomputer",
           "price": 280000.0,
           "url": "https://zicomputer.com/product/asus-prime-radeon-rx-9070-xt-16gb-oc/"
         },
         {
-           "Name": "ASUS RX 9070 XT 16GB",
+          "Name": "ASUS RX 9070 XT 16GB",
           "storeName": "Junaid Tech",
           "price": 297999.0,
           "url": "https://www.junaidtech.pk/product/asus-tuf-gaming-rx-9070-xt-oc-edition-16gb-graphics-card"
@@ -3623,24 +3481,24 @@
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "RX 7900 XT 24GB",
+          "Name": "RX 7900 XT 24GB",
           "storeName": "AMD House",
           "price": 230000.0,
           "url": "https://amdhouse.pk/product/amd-radeon-rx-7900-xtx-founders-edition-24gb-gddr6-used/"
         },
-         {
+        {
           "Name": "XFX RX 7900 XT 24GB",
           "storeName": "AMD House",
           "price": 245000.0,
           "url": "https://amdhouse.pk/product/xfx-merc-310-rx-7900-xtx-black-edition-used-in-new-condition-without-box-in-2-mths-wty/"
         },
-         {
-            "Name": "SAPPHIRE RX 7900 XT 24GB",
+        {
+          "Name": "SAPPHIRE RX 7900 XT 24GB",
           "storeName": "AMD House",
           "price": 250000.0,
           "url": "https://amdhouse.pk/product/sapphire-nitro-rx-7900-xtx-used-in-1-month-warranty-no-box/"
         },
-           {
+        {
           "Name": "SAPPHIRE RX 7900 XT 24GB",
           "storeName": "AMD House",
           "price": 250000.0,
@@ -3652,15 +3510,14 @@
           "price": 315000.0,
           "url": "https://zahcomputers.pk/product/sapphire-pulse-rx-7900-xtx-oc-24gb-graphics-card/"
         },
-         {
-           "Name": "ASUS RX 7900 XT 24GB",
+        {
+          "Name": "ASUS RX 7900 XT 24GB",
           "storeName": "Zah Computers",
           "price": 310000.0,
           "url": "https://zahcomputers.pk/product/asus-radeon-rx-7900-xtx-tuf-gaming-graphics-card/"
         }
       ]
     },
-   
     {
       "id": "gpu_78",
       "name": "ASUS RTX 3080 12GB",
@@ -3673,170 +3530,164 @@
         }
       ]
     },
-
-
-
-
     {
       "id": "gpu_79",
       "name": "RTX 4070TI Super 16GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "ZOTAC RTX 4070TI Super 16GB",
+          "Name": "ZOTAC RTX 4070TI Super 16GB",
           "storeName": "AMD House",
           "price": 255000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-zotac-solid-rtx-4070ti-super16gb-gddr6x-new-in-1-year-warranty/"
         },
-          {
-           "Name": "ZOTAC RTX 4070 TI Super 16GB",
+        {
+          "Name": "ZOTAC RTX 4070 TI Super 16GB",
           "storeName": "Zah Computers",
           "price": 269990.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-4070-ti-super-trinity-black-edition-dlss-3-16gb-gddr6x-256-bit-21-gbps-pcie-4-0-gaming-graphics-card/"
         },
-           {
-                "Name": "MSI RTX 4070 TI Super 16GB",
+        {
+          "Name": "MSI RTX 4070 TI Super 16GB",
           "storeName": "Zicomputer",
           "price": 280000.0,
           "url": "https://zicomputer.com/product/msi-geforce-rtx-4070-ti-super-16gb-ventus-3x-oc/"
         },
         {
-            "Name": "MSI RTX 4070 TI Super 16GB",
+          "Name": "MSI RTX 4070 TI Super 16GB",
           "storeName": "Zah Computers",
           "price": 290000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-ventus-rtx-4070-ti-super-3x-oc-16gb-gddr6x-pci-express-4-0-atx-graphics-cards/"
         },
-          {
-           "Name": "ASUS RTX 4070 TI Super 16GB",
+        {
+          "Name": "ASUS RTX 4070 TI Super 16GB",
           "storeName": "Zah Computers",
           "price": 295000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-4070-ti-super-oc-edition-gaming-graphics-card/"
         },
         {
-           "Name": "ASUS RTX 4070 TI Super 16GB",
+          "Name": "ASUS RTX 4070 TI Super 16GB",
           "storeName": "Zicomputer",
           "price": 300000.0,
           "url": "https://zicomputer.com/product/asus-tuf-gaming-rtx-4070-ti-super-16gb-oc/"
         },
-         {
-            "Name": "ASUS RTX 4070 TI Super 16GB ",
+        {
+          "Name": "ASUS RTX 4070 TI Super 16GB ",
           "storeName": "Zah Computers",
           "price": 285000.0,
           "url": "https://zahcomputers.pk/product/asus-tuf-geforce-rtx-4070-ti-super-tuf-rtx4070tis-o16g-gaming-gaming-oc-graphics-card/"
         },
-          {
-           "Name": "MSI RTX 4070 TI Super 16GB",
+        {
+          "Name": "MSI RTX 4070 TI Super 16GB",
           "storeName": "Zah Computers",
           "price": 295000.0,
           "url": "https://zahcomputers.pk/product/msi-gaming-geforce-rtx-4070-ti-super-16g-gaming-x-slim-gddr6x-pci-express-4-0-atx-graphics-cards/"
         },
-          {
-             "Name": "Asus  RTX 4070 Ti SUPER 16GB",
+        {
+          "Name": "Asus  RTX 4070 Ti SUPER 16GB",
           "storeName": "Zah Computers",
           "price": 310000.0,
           "url": "https://zahcomputers.pk/product/asus-rog-strix-geforce-rtx-4070-ti-super-16gb-gddr6x-oc-edition-gaming-graphics-card/"
         },
-           {
-           "Name": "GIGABYTE RTX 4070 TI Super 16GB ",
+        {
+          "Name": "GIGABYTE RTX 4070 TI Super 16GB ",
           "storeName": "Zah Computers",
           "price": 310000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-4070-ti-super-gaming-oc-16g-gddr6x-256bit-graphics-card/"
         }
       ]
     },
-  
-
     {
       "id": "gpu_80",
       "name": "RTX 5070 TI 16GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-             "Name": "PNY RTX 5070 TI 16GB",
+          "Name": "PNY RTX 5070 TI 16GB",
           "storeName": "Zah Computers",
           "price": 275000.0,
           "url": "https://zahcomputers.pk/product/pny-nvidia-geforce-rtx-5070-ti-oc-16gb-gddr7-graphics-card/"
         },
         {
-            "Name": "PNY RTX 5070 TI 16GB",
+          "Name": "PNY RTX 5070 TI 16GB",
           "storeName": "Czone",
           "price": 335000.0,
           "url": "https://www.czone.com.pk/graphic-cards-nvidia-geforce-pny-nvidia-geforce-rtx-5070-ti-overclocked-triple-fan-graphics-card-16gb-gddr6-pcie-5-0-hdmi-dp-2-1-2-9-slot-dlss-4-pakistan-p.19096.aspx"
         },
         {
-            "Name": "PNY RTX 5070 TI 16GB",
+          "Name": "PNY RTX 5070 TI 16GB",
           "storeName": "Junaid Tech",
           "price": 349999.0,
           "url": "https://www.junaidtech.pk/product/pny-rtx-5070-ti-16gb-epicx-rgb-plus-oc-graphics-card"
         },
-              {
-           "Name": "MSI RTX 5070 TI 16GB",
+        {
+          "Name": "MSI RTX 5070 TI 16GB",
           "storeName": "AMD House",
           "price": 305000.0,
           "url": "https://amdhouse.pk/product/msi-geforce-rtx-5070-ti/"
         },
         {
-             "Name": "MSI RTX 5070 TI 16GB",
+          "Name": "MSI RTX 5070 TI 16GB",
           "storeName": "Zicomputer",
           "price": 360000.0,
           "url": "https://zicomputer.com/product/msi-geforce-rtx-5070-ti-16g-ventus-3x-oc/"
         },
         {
-             "Name": "MSI RTX 5070 TI 16GB",
+          "Name": "MSI RTX 5070 TI 16GB",
           "storeName": "Zah Computers",
           "price": 385000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-5070-ti-gaming-trio-oc-plus-graphics-card/"
         },
-         {
-            "Name": "ZOTAC RTX 5070 TI 16GB",
+        {
+          "Name": "ZOTAC RTX 5070 TI 16GB",
           "storeName": "Zicomputer",
           "price": 325000.0,
           "url": "https://zicomputer.com/product/zotac-rtx-5070-ti-solid-sff/"
         },
         {
-           "Name": "ZOTAC RTX 5070 TI 16GB",
+          "Name": "ZOTAC RTX 5070 TI 16GB",
           "storeName": "Junaid Tech",
           "price": 329999.0,
           "url": "https://www.junaidtech.pk/product/zotac-gaming-rtx-5070-ti-solid-sff-oc-graphics-card"
         },
         {
-           "Name": "ZOTAC RTX 5070 TI 16GB",
+          "Name": "ZOTAC RTX 5070 TI 16GB",
           "storeName": "Zah Computers",
           "price": 335000.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-5070-ti-amp-extreme-infinity-16gb-256-bit-gddr7-pci-express-5-0-dlss-4-0-graphics-card/"
         },
-         {
-           "Name": "MSI RTX 5070 TI 16GB",
+        {
+          "Name": "MSI RTX 5070 TI 16GB",
           "storeName": "Zah Computers",
           "price": 315000.0,
           "url": "https://zahcomputers.pk/product/msi-ventus-geforce-rtx-5070-ti-16gb-3x-oc-gddr7-pcie-5-0-x16-graphics-card/"
         },
         {
-              "Name": "MSI RTX 5070 TI 16GB",
+          "Name": "MSI RTX 5070 TI 16GB",
           "storeName": "Junaid Tech",
           "price": 334999.0,
           "url": "https://www.junaidtech.pk/product/msi-rtx-5070-ti-16g-inspire-3x-oc-graphics-card"
         },
         {
-              "Name": "MSI RTX 5070 TI 16GB",
+          "Name": "MSI RTX 5070 TI 16GB",
           "storeName": "Zicomputer",
           "price": 350000.0,
           "url": "https://zicomputer.com/product/msi-geforce-rtx-5070-ti-16gb-shadow-3x-oc/"
         },
         {
-              "Name": "MSI RTX 5070 TI 16GB",
+          "Name": "MSI RTX 5070 TI 16GB",
           "storeName": "Czone",
           "price": 352000.0,
           "url": "https://www.czone.com.pk/msi-geforce-rtx-5070-ti-16g-ventus-3x-oc"
         },
-         {
-              "Name": "PNY RTX 5070TI 16GB",
+        {
+          "Name": "PNY RTX 5070TI 16GB",
           "storeName": "AMD House",
           "price": 315000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-pny-rtx-5070ti-16gb-tri-fan-new-in-10-months-warranty/"
         },
-                {
-            "Name": "GIGABYTE RTX 5070 TI 16GB",
+        {
+          "Name": "GIGABYTE RTX 5070 TI 16GB",
           "storeName": "Junaid Tech",
           "price": 334999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-rtx-5070-ti-windforce-oc-sff-16gb-graphics-card"
@@ -3859,117 +3710,106 @@
           "price": 364999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16gb-graphics-card/"
         },
-          {
-           "Name": "COLORFUL RTX 5070 TI 16GB",
+        {
+          "Name": "COLORFUL RTX 5070 TI 16GB",
           "storeName": "Junaid Tech",
           "price": 332999.0,
           "url": "https://www.junaidtech.pk/product/colorful-geforce-rtx-5070-ti-battle-nb-ex-16gbv-graphics-card"
         },
-           {
-            "Name": "ASUS PRIME RTX 5070 TI 16GB",
+        {
+          "Name": "ASUS PRIME RTX 5070 TI 16GB",
           "storeName": "Junaid Tech",
           "price": 354999.0,
           "url": "https://www.junaidtech.pk/product/asus-prime-geforce-rtx-5070-ti-16gb-gddr7-graphics-card"
         },
         {
-            "Name": "ASUS TUF RTX 5070 TI 16GB",
+          "Name": "ASUS TUF RTX 5070 TI 16GB",
           "storeName": "Zicomputer",
           "price": 360000.0,
           "url": "https://zicomputer.com/product/asus-tuf-gaming-rtx-5070-ti-16gb/"
         },
         {
-            "Name": "ASUS TUF RTX 5070 TI 16GB",
+          "Name": "ASUS TUF RTX 5070 TI 16GB",
           "storeName": "RB Tech N Games",
           "price": 374999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/asus-tuf-gaming-geforce-rtx-5070-ti-16gb-oc-edition-graphics-card/"
         },
         {
-            "Name": "ASUS PRIME RTX 5070 TI 16GB",
+          "Name": "ASUS PRIME RTX 5070 TI 16GB",
           "storeName": "Zah Computers",
-          "price": 375000.0,
+          "price": 360000.0,
           "url": "https://zahcomputers.pk/product/asus-prime-geforce-rtx-5070-ti-16gb-256-bit-gddr7-pci-express-5-0-dlss-4-0-graphics-card/"
         },
-          {
-           "Name": "MSI RTX 5070TI",
+        {
+          "Name": "MSI RTX 5070TI",
           "storeName": "AMD House",
           "price": 348000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-msi-rtx-5070ti-ventus-3x-oc-16g-new-in-10-months-warranty/"
-        },   {
-           "Name": "PALIT RTX 5070 TI 16GB",
+        },
+        {
+          "Name": "PALIT RTX 5070 TI 16GB",
           "storeName": "Zah Computers",
           "price": 345000.0,
           "url": "https://zahcomputers.pk/product/palit-geforce-rtx-5070-ti-gamingpro-s-16gb-gddr7-graphics-card/"
         },
-           {
-                "Name": "GALAX RTX 5070 TI 16GB",
+        {
+          "Name": "GALAX RTX 5070 TI 16GB",
           "storeName": "Junaid Tech",
           "price": 344999.0,
           "url": "https://www.junaidtech.pk/product/galax-rtx-5070-ti-1-click-oc-gaming-graphics-card"
         }
       ]
     },
- 
-   
-  
-   
-   
     {
       "id": "gpu_81",
       "name": "RTX 3090TI 24GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-             "Name": "GIGABYTE RTX 3090TI 24GB",
+          "Name": "GIGABYTE RTX 3090TI 24GB",
           "storeName": "Zah Computers",
           "price": 285000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-aorus-geforce-rtx-3090ti-xtreme-waterforce-24gb-gddr6x-pci-express-4-0-atx-video-card-used/"
         },
-         {
-           "Name": "ZOTAC RTX 3090 TI 24GB",
+        {
+          "Name": "ZOTAC RTX 3090 TI 24GB",
           "storeName": "Zah Computers",
           "price": 285000.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-3090-ti-amp-extreme-holo-24gb-gddr6x-384-bit-21-gbps-pcie-4-0-gaming-graphics-card-holoblack-icestorm-2-0-advanced-cooling-spectra-2-0-rgb-lighting-used/"
         }
       ]
     },
-    
-   
- 
-
-
-   
-
     {
       "id": "gpu_82",
       "name": "ZOTAC RTX 4080 SUPER 16GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "ZOTAC RTX 4080 SUPER 16GB",
+          "Name": "ZOTAC RTX 4080 SUPER 16GB",
           "storeName": "Zah Computers",
           "price": 332000.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-4080-super-trinity-black-edition-dlss-3-16gb-gddr6x-256-bit-23-gbps-pcie-4-0-gaming-graphics-card-icestorm-2-0-advanced-cooling-spectra-rgb-lighting/"
         },
         {
-            "Name": "ZOTAC RTX 4080 SUPER 16GB",
+          "Name": "ZOTAC RTX 4080 SUPER 16GB",
           "storeName": "Zicomputer",
           "price": 355000.0,
           "url": "https://zicomputer.com/product/zotac-rtx-4080-super-trinity-black/"
         },
-         {
-            "Name": "MSI RTX 4080 SUPER 16GB",
+        {
+          "Name": "MSI RTX 4080 SUPER 16GB",
           "storeName": "Zicomputer",
           "price": 350000.0,
           "url": "https://zicomputer.com/product/msi-rtx-4080-super-gaming-x-slim-white/"
         },
-          {
-            "Name": "ASUS RTX 4080 SUPER 16GB",
+        {
+          "Name": "ASUS RTX 4080 SUPER 16GB",
           "storeName": "Zicomputer",
           "price": 360000.0,
           "url": "https://zicomputer.com/product/asus-tuf-gaming-rtx-4080-super-16gb/"
         },
-         {
-            "Name": "MSI RTX 4080 SUPER",
+        {
+          "Name": "MSI RTX 4080 SUPER",
           "storeName": "Zah Computers",
           "price": 365000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-4080-super-16g-ventus-3x-oc-gddr6x-pci-express-4-0-graphics-cards/"
@@ -3982,101 +3822,92 @@
         }
       ]
     },
-  
-
-  
-    
     {
       "id": "gpu_83",
       "name": "RTX 4080 16GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "ZOTAC RTX 4080 16GB",
+          "Name": "ZOTAC RTX 4080 16GB",
           "storeName": "Zah Computers",
           "price": 345000.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-4080-16gb-trinity-oc-nvidia-ada-lovelace-streaming-multiprocessors-graphics-card/"
         },
-         {
+        {
           "Name": "MSI RTX 4080 16GB",
           "storeName": "Zah Computers",
           "price": 365000.0,
           "url": "https://zahcomputers.pk/product/msi-ventus-3x-geforce-rtx-4080-16gb-gddr6x-pci-express-4-0-graphics-card/"
         },
         {
-           "Name": "ASUS RTX 4080 16GB",
+          "Name": "ASUS RTX 4080 16GB",
           "storeName": "Zah Computers",
           "price": 395000.0,
           "url": "https://zahcomputers.pk/product/asus-rog-strix-geforce-rtx-4080-16gb-gddr6x-oc-edition-gaming-graphics-card/"
         },
-         {
-            "Name": "GIGABYTE RTX 4080 16GB",
+        {
+          "Name": "GIGABYTE RTX 4080 16GB",
           "storeName": "Zah Computers",
           "price": 409990.0,
           "url": "https://zahcomputers.pk/product/gigabyte-aorus-master-geforce-rtx-4080-16gb-gddr6x-pci-express-4-0-x16-atx-graphics-card/"
         },
-           {
-                "Name": "PALIT RTX 4080 16GB",
+        {
+          "Name": "PALIT RTX 4080 16GB",
           "storeName": "Zah Computers",
           "price": 449990.0,
           "url": "https://zahcomputers.pk/product/palit-gamingpro-rtx-4080-16gb-gddr6x-256bit-3-dp-hdmi-graphics-card/"
         },
-           {
-             "Name": "Asus ProArt RTX 4080 16GB ",
+        {
+          "Name": "Asus ProArt RTX 4080 16GB ",
           "storeName": "Zah Computers",
           "price": 397000.0,
           "url": "https://zahcomputers.pk/product/asus-proart-geforce-rtx-4080-oc-16gb-gddr6x-pci-express-4-0-graphics-card/"
         },
-         {
+        {
           "Name": "Asus ProArt RTX 4080 16GB",
           "storeName": "Zah Computers",
           "price": 428000.0,
           "url": "https://zahcomputers.pk/product/proart-geforce-rtx-4080-16gb-gddr6x-pci-express-4-0-graphics-card/"
         }
-        
       ]
     },
-    
- 
- 
-
     {
       "id": "gpu_84",
       "name": "RTX 5080 16GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "MSI RTX 5080 16GB",
+          "Name": "MSI RTX 5080 16GB",
           "storeName": "Zah Computers",
           "price": 400000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-5080-ventus-3x-oc-plus-oc-16gb-gddr7-pcie-5-0-x16-graphics-card/"
         },
         {
-           "Name": "MSI RTX 5080 16GB",
+          "Name": "MSI RTX 5080 16GB",
           "storeName": "Junaid Tech",
           "price": 483999.0,
           "url": "https://www.junaidtech.pk/product/msi-rtx-5080-16g-shadow-3x-oc-graphics-card"
         },
-          {
-           "Name": "ZOTAC RTX 5080 16GB",
+        {
+          "Name": "ZOTAC RTX 5080 16GB",
           "storeName": "Zicomputer",
           "price": 420000.0,
           "url": "https://zicomputer.com/product/zotac-rtx-5080-solid-graphics-card/"
         },
         {
-           "Name": "ZOTAC RTX 5080 16GB",
+          "Name": "ZOTAC RTX 5080 16GB",
           "storeName": "Junaid Tech",
           "price": 444999.0,
           "url": "https://www.junaidtech.pk/product/zotac-gaming-rtx-5080-solid-core-16gb-graphics-card"
         },
         {
-           "Name": "ZOTAC RTX 5080 16GB",
+          "Name": "ZOTAC RTX 5080 16GB",
           "storeName": "Zah Computers",
           "price": 460000.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-5080-solid-16gb-gddr57-256-bit-graphics-card/"
         },
-           {
-            "Name": "ASUS PRIME RTX 5080 16GB",
+        {
+          "Name": "ASUS PRIME RTX 5080 16GB",
           "storeName": "Junaid Tech",
           "price": 444999.0,
           "url": "https://www.junaidtech.pk/product/asus-prime-rtx-5080-oc-edition-16gb-graphics-card"
@@ -4099,85 +3930,85 @@
           "price": 530000.0,
           "url": "https://zicomputer.com/product/asus-prime-rtx-5080-16gb/"
         },
-         {
+        {
           "Name": "PNY RTX 5080 16GB",
           "storeName": "Junaid Tech",
           "price": 444999.0,
           "url": "https://www.junaidtech.pk/product/pny-nvidia-rtx-5080-epic-x-argb-oc-triple-fan-graphics-card-16gb"
         },
-            {
-             "Name": "COLORFUL RTX 5080 16GB",
+        {
+          "Name": "COLORFUL RTX 5080 16GB",
           "storeName": "Junaid Tech",
           "price": 464999.0,
           "url": "https://www.junaidtech.pk/product/colorful-igame-rtx-5080-vulcan-w-oc-16gbv-gaming-gpu"
         },
         {
-           "Name": "COLORFUL RTX 5080 16GB",
+          "Name": "COLORFUL RTX 5080 16GB",
           "storeName": "Zah Computers",
           "price": 470000.0,
           "url": "https://zahcomputers.pk/product/colorful-igame-geforce-rtx-5080-vulcan-w-oc-16gb-v-16gb-gaming-graphics-card/"
         },
         {
-           "Name": "COLORFUL RTX 5080 16GB",
+          "Name": "COLORFUL RTX 5080 16GB",
           "storeName": "RB Tech N Games",
           "price": 484999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/colorful-igame-geforce-rtx-5080-ultra-w-oc-16gb-v-graphics-card/"
         },
-          {
+        {
           "Name": "GIGABYTE RTX 5080 16GB",
           "storeName": "Junaid Tech",
           "price": 469999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-geforce-rtx-5080-windforce-oc-sff-16gb-graphics-card"
         },
         {
-            "Name": "GIGABYTE RTX 5080 16GB",
+          "Name": "GIGABYTE RTX 5080 16GB",
           "storeName": "Czone",
           "price": 475000.0,
           "url": "https://www.czone.com.pk/gigabyte-geforce-rtx-5080-windforce-oc-sff-16g-graphics-card-16gb-256bit-gddr7-pcie-50-nvidia-blackw"
         },
         {
-            "Name": "GIGABYTE RTX 5080 16GB",
+          "Name": "GIGABYTE RTX 5080 16GB",
           "storeName": "Zah Computers",
           "price": 475000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-5080-windforce-oc-sff-16gb-gddr7-vram-pcie-5-0-x16-interface-graphics-card/"
         },
         {
-            "Name": "GIGABYTE RTX 5080 16GB",
+          "Name": "GIGABYTE RTX 5080 16GB",
           "storeName": "RB Tech N Games",
           "price": 484999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/gigabyte-geforce-rtx-5080-windforce-oc-sff-16gb-graphics-card/"
         },
-         {
-           "Name": "GALAX RTX 5080 16GB",
+        {
+          "Name": "GALAX RTX 5080 16GB",
           "storeName": "Junaid Tech",
           "price": 469999.0,
           "url": "https://www.junaidtech.pk/product/galax-rtx-5080-1-click-oc-16gb-graphics-card"
         },
-           {
-           "Name": "MSI RTX 5080 16GB",
+        {
+          "Name": "MSI RTX 5080 16GB",
           "storeName": "Zah Computers",
           "price": 470000.0,
           "url": "https://zahcomputers.pk/product/msi-gaming-geforce-rtx-5080-16g-gaming-trio-oc-gddr7-pci-express-5-0-graphics-card/"
         },
-         {
-           "Name": "ZOTAC RTX 5080 16GB",
+        {
+          "Name": "ZOTAC RTX 5080 16GB",
           "storeName": "Zicomputer",
           "price": 470000.0,
           "url": "https://zicomputer.com/product/zotac-rtx-5080-amp-extreme-infinity/"
         },
-          {
-              "Name": "Asus Rog Astral RTX 5080 16GB",
+        {
+          "Name": "Asus Rog Astral RTX 5080 16GB",
           "storeName": "Zicomputer",
           "price": 550000.0,
           "url": "https://zicomputer.com/product/rog-strix-astral-rtx-5080-white/"
         },
-          {
-            "Name": "Asus ROG Astral  RTX 5080 16GB ",
+        {
+          "Name": "Asus ROG Astral  RTX 5080 16GB ",
           "storeName": "Zah Computers",
           "price": 590000.0,
           "url": "https://zahcomputers.pk/product/asus-rog-astral-geforce-rtx-5080-16gb-gddr7-oc-edition-graphics-card/"
         },
-         {
+        {
           "Name": "Asus ROG Astral GeForce RTX 5080 16GB ",
           "storeName": "Zah Computers",
           "price": 642000.0,
@@ -4185,173 +4016,158 @@
         }
       ]
     },
-
-  
-  
-  
-  
- 
-   
-
-    
     {
       "id": "gpu_85",
       "name": "RTX 4090 24GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-             "Name": "ZOTAC RTX 4090 24GB",
+          "Name": "ZOTAC RTX 4090 24GB",
           "storeName": "Zah Computers",
           "price": 565000.0,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-4090-amp-extreme-airo-air-optimzed-design-24gb-4th-generation-tensor-cores-up-to-2x-ai-performance-graphics-card/"
         },
         {
-             "Name": "ZOTAC RTX 4090 24GB",
+          "Name": "ZOTAC RTX 4090 24GB",
           "storeName": "Junaid Tech",
           "price": 839999.0,
           "url": "https://www.junaidtech.pk/product/zotac-gaming-geforce-rtx-4090-trinity-24gb-graphics-card"
         },
-         {
+        {
           "Name": "GIGABYTE RTX 4090 24GB",
           "storeName": "Zah Computers",
           "price": 645000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-4090-windforce-v2-24g-gddr6x-pci-express-4-0-atx-video-card/"
         },
-          {
-             "Name": "ASUS RTX 4090 24GB",
+        {
+          "Name": "ASUS RTX 4090 24GB",
           "storeName": "Zah Computers",
           "price": 670000.0,
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-geforce-rtx-4090-24gb-gddr6x-og-oc-edition-gaming-graphics-card/"
         },
         {
-             "Name": "ASUS RTX 4090 24GB",
+          "Name": "ASUS RTX 4090 24GB",
           "storeName": "Zicomputer",
           "price": 725000.0,
           "url": "https://zicomputer.com/product/asus-tuf-rtx-4090-24gb-oc/"
         },
-          {
+        {
           "Name": "MSI RTX 4090 24GB",
           "storeName": "Zah Computers",
           "price": 730000.0,
           "url": "https://zahcomputers.pk/product/msi-suprim-geforce-rtx-4090-24gb-gddr6x-pci-express-4-0-atx-graphics-cards/"
         },
-         {
-           "Name": "MSI GeForce RTX 4090 SUPRIM LIQUID X 24GB ",
+        {
+          "Name": "MSI GeForce RTX 4090 SUPRIM LIQUID X 24GB ",
           "storeName": "Zah Computers",
           "price": 750000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-4090-suprim-liquid-x-24gb-gddr6x-express-4-0-atx-graphics-cards/"
         }
       ]
     },
- 
-  
-
     {
       "id": "gpu_86",
       "name": "RTX 5090 32GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-           "Name": "MSI RTX 5090 32GB",
+          "Name": "MSI RTX 5090 32GB",
           "storeName": "Zah Computers",
           "price": 950000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-5090-ventus-3x-oc-32gb-gddr7-pcie-5-0-x16-graphics-card/"
         },
         {
-           "Name": "MSI RTX 5090 32GB",
+          "Name": "MSI RTX 5090 32GB",
           "storeName": "Junaid Tech",
           "price": 1469999.0,
           "url": "https://www.junaidtech.pk/product/msi-rtx-5090-32g-gaming-trio-oc-graphics-ca"
         },
-            {
-            "Name": "MSI RTX 5090 32GB",
+        {
+          "Name": "MSI RTX 5090 32GB",
           "storeName": "Zicomputer",
           "price": 1300000.0,
           "url": "https://zicomputer.com/product/msi-geforce-rtx-5090-32g-ventus-3x-oc/"
-        },    {
-           "Name": "GIGABYTE RTX 5090 32GB",
+        },
+        {
+          "Name": "GIGABYTE RTX 5090 32GB",
           "storeName": "Czone",
           "price": 1408999.0,
           "url": "https://www.czone.com.pk/gigabyte-aorus-geforce-rtx-5090-master-ice-32g-graphics-card-32gb-gddr7-512bit-pcie-50-2655mhz-ice"
         },
         {
-             "Name": "GIGABYTE RTX 5090 32GB",
+          "Name": "GIGABYTE RTX 5090 32GB",
           "storeName": "Junaid Tech",
           "price": 1449999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-aorus-rtx-5090-master-ice-32g-graphics-card"
         },
         {
-             "Name": "GIGABYTE RTX 5090 32GB",
+          "Name": "GIGABYTE RTX 5090 32GB",
           "storeName": "RB Tech N Games",
           "price": 1449999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/gigabyte-aorus-geforce-rtx-5090-master-ice-32gb-graphics-card/"
         },
         {
-             "Name": "GIGABYTE RTX 5090 32GB",
+          "Name": "GIGABYTE RTX 5090 32GB",
           "storeName": "Zah Computers",
           "price": 1499999.0,
           "url": "https://zahcomputers.pk/product/gigabyte-aorus-geforce-rtx-5090-32gb-gddr7-pci-express-5-0-atx-graphics-card/"
         },
         {
-             "Name": "GIGABYTE RTX 5090 32GB",
+          "Name": "GIGABYTE RTX 5090 32GB",
           "storeName": "Zicomputer",
           "price": 1560000.0,
           "url": "https://zicomputer.com/product/gigabyte-rtx-5090-gaming-oc-32g/"
         },
-              {
-            "Name": "ASUS RTX 5090 32GB",
+        {
+          "Name": "ASUS RTX 5090 32GB",
           "storeName": "Junaid Tech",
           "price": 1489999.0,
           "url": "https://www.junaidtech.pk/product/asus-tuf-gaming-rtx-5090-32gb-gddr7-oc-edition-gaming-graphics-card"
         },
         {
-               "Name": "ASUS RTX 5090 32GB",
+          "Name": "ASUS RTX 5090 32GB",
           "storeName": "Zicomputer",
           "price": 1500000.0,
           "url": "https://zicomputer.com/product/rog-astral-geforce-rtx-5090-32gb/"
         },
         {
-               "Name": "ASUS RTX 5090 32GB",
+          "Name": "ASUS RTX 5090 32GB",
           "storeName": "RB Tech N Games",
           "price": 1649999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/asus-rog-astral-geforce-rtx-5090-32gb-white-oc-edition-graphics-card/"
         },
         {
-               "Name": "ASUS RTX 5090 32GB",
+          "Name": "ASUS RTX 5090 32GB",
           "storeName": "Zah Computers",
           "price": 1680000.0,
           "url": "https://zahcomputers.pk/product/asus-rog-astral-geforce-rtx-5090-32gb-gddr7-white-oc-edition-graphics-card/"
         },
         {
-               "Name": "ASUS RTX 5090 32GB",
+          "Name": "ASUS RTX 5090 32GB",
           "storeName": "Czone",
           "price": 1750000.0,
           "url": "https://www.czone.com.pk/asus-rog-astral-geforce-rtx-5090-oc-edition"
         },
-           {
-           "Name": "ZOTAC RTX 5090 32GB",
+        {
+          "Name": "ZOTAC RTX 5090 32GB",
           "storeName": "RB Tech N Games",
           "price": 1489999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/zotac-gaming-geforce-rtx-5090-amp-extreme-infinity-32gb-graphics-card/"
         },
-         {
-           "Name": "Asus ROG Astral RTX 5090 32GB ",
+        {
+          "Name": "Asus ROG Astral RTX 5090 32GB ",
           "storeName": "Zah Computers",
           "price": 1450000.0,
           "url": "https://zahcomputers.pk/product/asus-rog-astral-geforce-rtx-5090-32gb-gddr7-oc-edition-graphics-card/"
         },
-          {
-           "Name": "ASUS TUF RTX 5090 32GB ",
+        {
+          "Name": "ASUS TUF RTX 5090 32GB ",
           "storeName": "Zah Computers",
-          "price": 1550000.0,
+          "price": 1750000.0,
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-geforce-rtx-5090-32gb-gddr7-gaming-graphics-card/"
         }
       ]
     },
-  
-  
-  
-  
     {
       "id": "gpu_87",
       "name": "Radeon R7 240 2GB GDDR5 GPU OEM (2x Display Port Output) used 1month wty",
@@ -4371,122 +4187,102 @@
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-             "Name": "ASUS ROG GeForce RTX NVLink ",
+          "Name": "ASUS ROG GeForce RTX NVLink ",
           "storeName": "Zah Computers",
           "price": 8000.0,
           "url": "https://zahcomputers.pk/product/asus-rog-geforce-rtx-nvlink-graphics-card-4-slot-spacing/"
         }
       ]
     },
-    
-    
     {
       "id": "gpu_89",
       "name": "Sapphire Radeon PRO DUO 8GB ",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "Sapphire Radeon PRO DUO 8GB ",
+          "Name": "Sapphire Radeon PRO DUO 8GB ",
           "storeName": "Zah Computers",
           "price": 28000.0,
           "url": "https://zahcomputers.pk/product/sapphire-radeon-pro-duo-8gb-hbm-hdmi-triple-dp-pci-express-graphics-card-refurbished/"
         }
       ]
     },
-  
-    
-   
-   
     {
       "id": "gpu_90",
       "name": "RTX A2000 6GB ",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "Leadtek Quadro RTX A2000 6GB Graphics Card",
+          "Name": "Leadtek Quadro RTX A2000 6GB Graphics Card",
           "storeName": "Junaid Tech",
           "price": 179999.0,
           "url": "https://www.junaidtech.pk/product/leadtek-quadro-rtx-a2000-6gb-graphics-card"
         }
       ]
     },
-    
-
     {
       "id": "gpu_91",
       "name": "RTX A2000 12GB ",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "PNY NVIDIA RTX A2000 12GB ",
+          "Name": "PNY NVIDIA RTX A2000 12GB ",
           "storeName": "Junaid Tech",
           "price": 209999.0,
           "url": "https://www.junaidtech.pk/product/pny-nvidia-rtx-a2000-12gb-graphics-card-free-delivery"
         },
-         {
-              "Name": "Leadtek Quadro RTX A2000 12GB",
+        {
+          "Name": "Leadtek Quadro RTX A2000 12GB",
           "storeName": "Junaid Tech",
           "price": 224999.0,
           "url": "https://www.junaidtech.pk/product/leadtek-quadro-rtx-a2000-12gb-graphics-card"
         }
       ]
     },
-  
-    
-  
-   
     {
       "id": "gpu_92",
       "name": "GeForce RTX 3090 19.5 Gbps",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "Manli GeForce RTX 3090 19.5 Gbps",
+          "Name": "Manli GeForce RTX 3090 19.5 Gbps",
           "storeName": "Zah Computers",
           "price": 350000.0,
           "url": "https://zahcomputers.pk/product/manli-geforce-rtx-3090-m3478n613-19-5-gbps-gddr6x-memory-graphics-card/"
         }
       ]
     },
-  
-   
     {
       "id": "gpu_93",
       "name": "Radeon AI Pro R9700 Creator 32GB",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "ASRock Radeon AI Pro R9700 Creator 32GB ",
+          "Name": "ASRock Radeon AI Pro R9700 Creator 32GB ",
           "storeName": "AMD House",
           "price": 500000.0,
           "url": "https://amdhouse.pk/product/asrock-radeon-ai-pro-r9700-creator-32gb-gddr6-new-in-10-months-warranty/"
         },
-         {
-            "Name": "YESTON W Series Radeon AI Pro R9700 32GB ",
+        {
+          "Name": "YESTON W Series Radeon AI Pro R9700 32GB ",
           "storeName": "AMD House",
           "price": 650000.0,
           "url": "https://amdhouse.pk/product/yeston-w-series-radeon-ai-pro-r9700-32gb-new-in-10-months-warranty/"
         }
       ]
     },
- 
- 
-  
     {
       "id": "gpu_94",
       "name": "RTXA5000 24GB ",
       "categoryId": "graphics_cards",
       "storePrices": [
         {
-            "Name": "PNY RTXA5000 24GB ",
+          "Name": "PNY RTXA5000 24GB ",
           "storeName": "Zah Computers",
           "price": 650000.0,
           "url": "https://zahcomputers.pk/product/pny-quadro-nvidia-ampere-architecture-pro-rtxa5000-24gb-gddr6-vram-graphics-card/"
         }
       ]
     }
-    
-
-    
   ]
 }
