@@ -13,7 +13,7 @@
     {
       "id": "processors",
       "name": "Processors",
-      "productCount": 0
+      "productCount": 109
     },
     {
       "id": "monitors",
@@ -4283,6 +4283,2579 @@
           "url": "https://zahcomputers.pk/product/pny-quadro-nvidia-ampere-architecture-pro-rtxa5000-24gb-gddr6-vram-graphics-card/"
         }
       ]
+    },
+    {
+      "id": "cpu_0",
+      "name": "RYZEN 5 5600XT",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "RYZEN 5 5600XT",
+          "storeName": "AMD House",
+          "price": 38500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-5600xt-tray-new-in-10-months-warranty/"
+        },
+        {
+              "Name": "RYZEN 5 5600XT",
+          "storeName": "RB Tech N Games",
+          "price": 39499.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-5600xt-am4-desktop-processor-tray/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_1",
+      "name": "RYZEN 5 5500X3D",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "RYZEN 5 5500X3D",
+          "storeName": "AMD House",
+          "price": 54500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-5500x3d-chip-new-in-10-months-warranty/"
+        },
+        {
+             "Name": "RYZEN 5 5500X3D",
+          "storeName": "RB Tech N Games",
+          "price": 54999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-5500x3d-desktop-processor-tray/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_2",
+      "name": "RYZEN 7 9800X3D",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "RYZEN 7 9800X3D",
+          "storeName": "AMD House",
+          "price": 115500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-7-9800x3d-tray/"
+        },
+        {
+           "Name": "RYZEN 7 9800X3D",
+          "storeName": "Junaid Tech",
+          "price": 119999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-7-9800x3d-processor-tray"
+        },
+        {
+           "Name": "RYZEN 7 9800X3D",
+          "storeName": "Czone",
+          "price": 121000.0,
+          "url": "https://www.czone.com.pk/amd-ryzen-7-9800x3d-desktop-processor"
+        },
+        {
+           "Name": "RYZEN 7 9800X3D",
+          "storeName": "RB Tech N Games",
+          "price": 119999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-7-9800x3d-desktop-processor-tray/"
+        },
+        {
+           "Name": "RYZEN 7 9800X3D",
+          "storeName": "Zah Computers",
+          "price": 129999.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-7-9800x3d-4-7-ghz-eight-core-am5-processor/"
+        },
+        {
+           "Name": "RYZEN 7 9800X3D",
+          "storeName": "Zicomputer",
+          "price": 128000.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-7-9800x3d-desktop-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_3",
+      "name": "RYZEN 9 9900X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "RYZEN 9 9900X",
+          "storeName": "AMD House",
+          "price": 109000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-9-9900x-socket-am5-cpu-new-chip-only-in-10-months-warranty/"
+        },
+        {
+              "Name": "RYZEN 9 9900X",
+          "storeName": "Junaid Tech",
+          "price": 114999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-9-9900x-gaming-processor"
+        },
+        {
+              "Name": "RYZEN 9 9900X",
+          "storeName": "Czone",
+          "price": 115000.0,
+          "url": "https://www.czone.com.pk/processors-amd-ryzen-9-amd-ryzen-9-9900x-processor-desktop-boxed-processor-granite-ridge-am5-zen-5-12c-pakistan-p.17591.aspx"
+        },
+        {
+              "Name": "RYZEN 9 9900X",
+          "storeName": "RB Tech N Games",
+          "price": 123999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-9-9900x-desktop-processor/"
+        },
+        {
+              "Name": "RYZEN 9 9900X",
+          "storeName": "Zah Computers",
+          "price": 123000.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-9-9900x-4-4-ghz-12-core-am5-processor/"
+        },
+        {
+              "Name": "RYZEN 9 9900X",
+          "storeName": "Zicomputer",
+          "price": 115000.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-9-9900x-desktop-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_4",
+      "name": "RYZEN 5 7500X3D",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "storeName": "AMD House",
+          "price": 65000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-7500x3d-chip-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_5",
+      "name": "RYZEN 7 3800X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "RYZEN 7 3800X",
+          "storeName": "AMD House",
+          "price": 31000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-7-3800x-chip-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_6",
+      "name": "RYZEN 5 7600X3D",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+             "Name": "RYZEN 5 7600X3D",
+          "storeName": "AMD House",
+          "price": 85000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-7600x3d-chip-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_7",
+      "name": "RYZEN 9 7900",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "RYZEN 9 7900",
+          "storeName": "AMD House",
+          "price": 87000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-9-7900-cpu-chip-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_8",
+      "name": "RYZEN 5 9500F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+               "Name": "RYZEN 5 9500F",
+          "storeName": "AMD House",
+          "price": 50500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-9500f-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_9",
+      "name": "RYZEN 5 3500X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "RYZEN 5 3500X",
+          "storeName": "AMD House",
+          "price": 15500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-3500x-chip-new-in-10-months-warranty/"
+        },
+        {
+              "Name": "RYZEN 5 3500X",
+          "storeName": "Junaid Tech",
+          "price": 29499.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-5-3500x-desktop-procesor"
+        },
+        {
+              "Name": "RYZEN 5 3500X",
+          "storeName": "RB Tech N Games",
+          "price": 18499.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-3500x-tray/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_10",
+      "name": "RYZEN 5 7600X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+             "Name": "RYZEN 5 7600X",
+          "storeName": "AMD House",
+          "price": 52500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-7600x-chip-new-in-10-months-warranty/"
+        },
+        {
+                 "Name": "RYZEN 5 7600X",
+          "storeName": "Junaid Tech",
+          "price": 50999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-5-7600x-processor-tray"
+        },
+        {
+                 "Name": "RYZEN 5 7600X",
+          "storeName": "RB Tech N Games",
+          "price": 48999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-7600x-4-7ghz-6-core-am5-processor/"
+        },
+        {
+                 "Name": "RYZEN 5 7600X",
+          "storeName": "Zah Computers",
+          "price": 48500.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-5-7600x-4-7-ghz-six-core-am5-processor-tray/"
+        },
+        {
+                 "Name": "RYZEN 5 7600X",
+          "storeName": "Zicomputer",
+          "price": 54000.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-5-7600x-tray-desktop-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_11",
+      "name": "RYZEN 9 9950X3D",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "RYZEN 9 9950X3D",
+          "storeName": "AMD House",
+          "price": 198000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-9-9950x3d-tray-new-in-10-months-warranty/"
+        },
+        {
+                 "Name": "RYZEN 9 9950X3D",
+          "storeName": "Junaid Tech",
+          "price": 194999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-9-9950x3d-processor-tray"
+        },
+        {
+                 "Name": "RYZEN 9 9950X3D",
+          "storeName": "RB Tech N Games",
+          "price": 164999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-9-9950x3d-desktop-processor-tray/"
+        },
+        {
+                 "Name": "RYZEN 9 9950X3D",
+          "storeName": "Zah Computers",
+          "price": 199999.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-9-9950x3d-4-4-ghz-16-core-am5-gaming-processor/"
+        },
+        {
+                 "Name": "RYZEN 9 9950X3D",
+          "storeName": "Zicomputer",
+          "price": 190000.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-9-9950x3d-desktop-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_12",
+      "name": "RYZEN 5 9600",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "RYZEN 5 9600",
+          "storeName": "AMD House",
+          "price": 55000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-9600-chip-only-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_13",
+      "name": "RYZEN 7 3700X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "Name": "RYZEN 7 3700X",
+          "storeName": "AMD House",
+          "price": 27500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-7-3700x-chip-only-used-in-1-month-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_14",
+      "name": "RYZEN 9 3900X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+              "Name": "RYZEN 9 3900X",
+          "storeName": "AMD House",
+          "price": 50000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-9-3900x-chip-used-in-1-month-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_15",
+      "name": "RYZEN 5 3600X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+              "Name": "RYZEN 5 3600X",
+          "storeName": "AMD House",
+          "price": 19000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-3600x-chip-new-in-10-months-warranty/"
+        },
+        {
+              "Name": "RYZEN 5 3600X",
+          "storeName": "Junaid Tech",
+          "price": 27499.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-5-3600x-processor-tray"
+        }
+      ]
+    },
+    {
+      "id": "cpu_16",
+      "name": "RYZEN 5 7400F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "RYZEN 5 7400F",
+          "storeName": "AMD House",
+          "price": 37500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-7400f-chip-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_17",
+      "name": "RYZEN 5 5500",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+                "Name": "RYZEN 5 5500",
+          "storeName": "AMD House",
+          "price": 23500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-5500-chip-only-new/"
+        },
+        {
+               "Name": "RYZEN 5 5500",
+          "storeName": "Junaid Tech",
+          "price": 32999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-5-5500-desktop-processor"
+        }
+      ]
+    },
+    {
+      "id": "cpu_18",
+      "name": "RYZEN 7 9700X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+              "Name": "RYZEN 7 9700X",
+          "storeName": "AMD House",
+          "price": 76500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-7-9700x-new-chip-in-10-months-warranty/"
+        },
+        {
+              "Name": "RYZEN 7 9700X",
+          "storeName": "Junaid Tech",
+          "price": 83999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-7-9700x-processor-tray"
+        },
+        {
+              "Name": "RYZEN 7 9700X",
+          "storeName": "RB Tech N Games",
+          "price": 79999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-7-9700x-desktop-processor/"
+        },
+        {
+              "Name": "RYZEN 7 9700X",
+          "storeName": "Zah Computers",
+          "price": 85000.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-7-9700x-3-8-ghz-8-core-am5-processor-tray/"
+        },
+        {
+              "Name": "RYZEN 7 9700X",
+          "storeName": "Zicomputer",
+          "price": 83000.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-7-9700x-tray-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_19",
+      "name": "RYZEN 5 9600X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+             "Name": "RYZEN 5 9600X",
+          "storeName": "AMD House",
+          "price": 52500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-9600x-chip-new-in-10-months-warranty/"
+        },
+        {
+              "Name": "RYZEN 5 9600X",
+          "storeName": "Junaid Tech",
+          "price": 54499.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-5-9600x-processor-tray"
+        },
+        {
+              "Name": "RYZEN 5 9600X",
+          "storeName": "Czone",
+          "price": 54000.0,
+          "url": "https://www.czone.com.pk/amd-ryzen-5-9600x-desktop-processor-tray-6c-12t-unlocked-am5-zen-5"
+        },
+        {
+              "Name": "RYZEN 5 9600X",
+          "storeName": "RB Tech N Games",
+          "price": 52499.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-9600x-desktop-processor-tray/"
+        },
+        {
+              "Name": "RYZEN 5 9600X",
+          "storeName": "Zah Computers",
+          "price": 53999.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-5-9600x-3-9-ghz-6-core-am5-processor-tray/"
+        },
+        {
+              "Name": "RYZEN 5 9600X",
+          "storeName": "Zicomputer",
+          "price": 52000.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-5-9600x-tray-desktop-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_20",
+      "name": "RYZEN 7 8700F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "Name": "RYZEN 7 8700F",
+          "storeName": "AMD House",
+          "price": 47500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-7-8700f-am5-chip-new/"
+        },
+        {
+                "Name": "RYZEN 7 8700F",
+          "storeName": "Junaid Tech",
+          "price": 52999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-7-8700f-processor-tray"
+        }
+      ]
+    },
+    {
+      "id": "cpu_21",
+      "name": "RYZEN 5 8500G",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+             "Name": "RYZEN 5 8500G",
+          "storeName": "AMD House",
+          "price": 45000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-8500g-am5-cpu-chip-new/"
+        },
+        {
+           "Name": "RYZEN 5 8500G",
+          "storeName": "Junaid Tech",
+          "price": 64999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-5-8500g-processor"
+        }
+      ]
+    },
+    {
+      "id": "cpu_22",
+      "name": "RYZEN 5 8400F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+             "Name": "RYZEN 5 8400F",
+          "storeName": "AMD House",
+          "price": 29500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-8400f-am5-chip-only-new/"
+        },
+        {
+           "Name": "RYZEN 5 8400F",
+          "storeName": "Junaid Tech",
+          "price": 29999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-5-8400f-processor-tray"
+        },
+        {
+           "Name": "RYZEN 5 8400F",
+          "storeName": "Czone",
+          "price": 30500.0,
+          "url": "https://www.czone.com.pk/processors-amd-ryzen-5-amd-ryzen-5-8400f-pc-gaming-processor-zen-4-6-cores-12-threads-am5-tray-pakistan-p.18093.aspx"
+        },
+        {
+           "Name": "RYZEN 5 8400F",
+          "storeName": "RB Tech N Games",
+          "price": 28499.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-8400f-desktop-processor-tray/"
+        },
+        {
+           "Name": "RYZEN 5 8400F",
+          "storeName": "Zah Computers",
+          "price": 29999.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-5-8400f-4-2-ghz-six-core-am5-processor-tray/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_23",
+      "name": "RYZEN 9 5950X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+              "Name": "RYZEN 9 5950X",
+          "storeName": "AMD House",
+          "price": 99000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-9-5950x-16core-32thread-socket-am4-boxed-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_24",
+      "name": "RYZEN 5 4500",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "RYZEN 5 4500",
+          "storeName": "AMD House",
+          "price": 19000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-4500-chip-only-new-in-10-months-warranty/"
+        },
+        {
+                 "Name": "RYZEN 5 4500",
+          "storeName": "Junaid Tech",
+          "price": 27499.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-5-4500-desktop-processor-tray"
+        }
+      ]
+    },
+    {
+      "id": "cpu_25",
+      "name": "RYZEN 9 9950X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "RYZEN 9 9950X",
+          "storeName": "AMD House",
+          "price": 145000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-9-9950x-socket-am5-processor-chip-only-new-in-10-months-warranty/"
+        },
+        {
+            "Name": "RYZEN 9 9950X",
+          "storeName": "Junaid Tech",
+          "price": 139999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-9-9950x-processor"
+        },
+        {
+            "Name": "RYZEN 9 9950X",
+          "storeName": "Czone",
+          "price": 144500.0,
+          "url": "https://www.czone.com.pk/processors-amd-ryzen-9-amd-ryzen-9-9950x-desktop-processor-16-core-32-thread-up-to-5-7ghz-am5-tray-pakistan-p.19148.aspx"
+        },
+        {
+            "Name": "RYZEN 9 9950X",
+          "storeName": "Zah Computers",
+          "price": 159999.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-9-9950x-4-3-ghz-16-core-am5-gaming-processor-tray/"
+        },
+        {
+            "Name": "RYZEN 9 9950X",
+          "storeName": "Zicomputer",
+          "price": 158000.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-9-9950x-desktop-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_26",
+      "name": "RYZEN 9 7900X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "RYZEN 9 7900X",
+          "storeName": "AMD House",
+          "price": 85500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-9-7900x-chip-new/"
+        },
+        {
+           "Name": "RYZEN 9 7900X",
+          
+          "storeName": "Junaid Tech",
+          "price": 86999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-9-7900x-processor-tray"
+        },
+        {
+           "Name": "RYZEN 9 7900X",
+          "storeName": "Czone",
+          "price": 85900.0,
+          "url": "https://www.czone.com.pk/processors-amd-ryzen-9-amd-ryzen-9-7900x-desktop-processor-unlocked-12-core-zen-4-am5-pakistan-p.14700.aspx"
+        },
+        {
+           "Name": "RYZEN 9 7900X",
+          "storeName": "RB Tech N Games",
+          "price": 84999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-9-7900x-4-7ghz-12-core-am5-desktop-processor-tray/"
+        },
+        {
+           "Name": "RYZEN 9 7900X",
+          "storeName": "Zah Computers",
+          "price": 95000.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-9-7900x-4-7-ghz-12-core-am5-processor/"
+        },
+        {
+           "Name": "RYZEN 9 7900X",
+          "storeName": "Zicomputer",
+          "price": 100000.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-9-7900x-processor-box/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_27",
+      "name": "RYZEN 9 7900X3D",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+             "Name": "RYZEN 9 7900X3D",
+          "storeName": "AMD House",
+          "price": 120000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-9-7900x3d-chip-only-new/"
+        },
+        {
+            "Name": "RYZEN 9 7900X3D",
+          "storeName": "Zah Computers",
+          "price": 160000.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-9-7900x3d-4-4-ghz-12-core-am5-gaming-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_28",
+      "name": "RYZEN 5 8600G",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+             "Name": "RYZEN 5 8600G",
+          "storeName": "AMD House",
+          "price": 52000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-8600g-chip-new/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_29",
+      "name": "RYZEN 7 7800X3D",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "RYZEN 7 7800X3D",
+          "storeName": "AMD House",
+          "price": 84000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-7-7800x3d-am5/"
+        },
+        {
+            "Name": "RYZEN 7 7800X3D",
+          "storeName": "Junaid Tech",
+          "price": 83999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-7-7800x3d-processor-tray"
+        },
+        {
+            "Name": "RYZEN 7 7800X3D",
+          "storeName": "Czone",
+          "price": 84500.0,
+          "url": "https://www.czone.com.pk/amd-ryzen-7-7800x3d-desktop-processor-am5-8core-16thread-up-to-5ghz-boost-120w-tray"
+        },
+        {
+            "Name": "RYZEN 7 7800X3D",
+          "storeName": "RB Tech N Games",
+          "price": 82499.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-7-7800x3d-8-cores-16-thread-tray-new/"
+        },
+        {
+            "Name": "RYZEN 7 7800X3D",
+          "storeName": "Zah Computers",
+          "price": 89999.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-7-7800x3d-8-core-16-thread-gaming-desktop-processor-tray/"
+        },
+        {
+            "Name": "RYZEN 7 7800X3D",
+          "storeName": "Zicomputer",
+          "price": 93000.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-7-7800x3d-tray-desktop-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_30",
+      "name": "RYZEN 9 7950X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "RYZEN 9 7950X",
+          "storeName": "AMD House",
+          "price": 131000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-9-7950x-chip/"
+        },
+        {
+             "Name": "RYZEN 9 7950X",
+          "storeName": "Junaid Tech",
+          "price": 138999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-9-7950x-processor-tray"
+        },
+        {
+             "Name": "RYZEN 9 7950X",
+          "storeName": "RB Tech N Games",
+          "price": 137999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-9-7950x-4-5ghz-16-core-am5-processor/"
+        },
+        {
+             "Name": "RYZEN 9 7950X",
+          "storeName": "Zah Computers",
+          "price": 155000.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-9-7950x-4-5-ghz-16-core-am5-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_31",
+      "name": "RYZEN 5 2600",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "RYZEN 5 2600",
+          "storeName": "AMD House",
+          "price": 10500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-2600-chip-only-used/"
+        },
+        {
+           "Name": "RYZEN 5 2600",
+          "storeName": "Junaid Tech",
+          "price": 11999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-5-2600-am4-desktop-processor-tray-chip-only"
+        },
+        {
+           "Name": "RYZEN 5 2600",
+          "storeName": "Zicomputer",
+          "price": 12000.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-5-2600-tray-cpu-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_32",
+      "name": "RYZEN 5 2600X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+                "Name": "RYZEN 5 2600X",
+          "storeName": "AMD House",
+          "price": 12000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-2600x-cpu-chip-only-used/"
+        },
+        {
+             "Name": "RYZEN 5 2600X",
+          "storeName": "Junaid Tech",
+          "price": 14999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-5-2600x-processor-tray"
+        }
+      ]
+    },
+    {
+      "id": "cpu_33",
+      "name": "RYZEN 7 8700G",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "Name": "RYZEN 7 8700G",
+          "storeName": "AMD House",
+          "price": 104000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-7-8700g-boxed-new/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_34",
+      "name": "RYZEN 9 7950X3D",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+                "Name": "RYZEN 9 7950X3D",
+          "storeName": "AMD House",
+          "price": 185000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-9-7950x3d-boxed-new/"
+        },
+        {
+             "Name": "RYZEN 9 7950X3D",
+          "storeName": "Zah Computers",
+          "price": 145000.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-9-7950x3d-4-2-ghz-16-core-am5-processor-tray/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_35",
+      "name": "RYZEN 7 5700X3D",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+             "Name": "RYZEN 7 5700X3D",
+          "storeName": "AMD House",
+          "price": 62500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-7-5700x3d-new-chip/"
+        },
+        {
+             "name": "RYZEN 7 5700X3D",
+          "storeName": "Zah Computers",
+          "price": 79000.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-7-5700x3d-processor-tray/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_36",
+      "name": "RYZEN 7 7700",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+              "Name": "RYZEN 7 7700",
+          "storeName": "AMD House",
+          "price": 51500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-7-7700-chip-new/"
+        },
+        {
+          "Name": "RYZEN 7 7700",
+          "storeName": "Junaid Tech",
+          "price": 54999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-7-7700-gaming-processor-tray"
+        },
+        {
+          "Name": "RYZEN 7 7700",
+          "storeName": "Czone",
+          "price": 54500.0,
+          "url": "https://www.czone.com.pk/processors-amd-ryzen-7-amd-ryzen-7-7700-unlocked-desktop-processor-tray-raphael-am5-zen-4-pakistan-p.17773.aspx"
+        },
+        {
+          "Name": "RYZEN 7 7700",
+          "storeName": "RB Tech N Games",
+          "price": 53999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-7-7700-gaming-processor-tray/"
+        },
+        {
+          "Name": "RYZEN 7 7700",
+          "storeName": "Zah Computers",
+          "price": 57999.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-7-7700-3-8-ghz-eight-core-am5-processorr-tray/"
+        },
+        {
+          "Name": "RYZEN 7 7700",
+          "storeName": "Zicomputer",
+          "price": 57500.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-7-7700-tray-desktop-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_37",
+      "name": "RYZEN 5 7500F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "RYZEN 5 7500F",
+          "storeName": "AMD House",
+          "price": 33500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-7500f-chip/"
+        },
+        {
+            "Name": "RYZEN 5 7500F",
+          "storeName": "Junaid Tech",
+          "price": 34999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-5-7500f-processor-tray"
+        },
+        {
+            "Name": "RYZEN 5 7500F",
+          "storeName": "Czone",
+          "price": 36000.0,
+          "url": "https://www.czone.com.pk/processors-amd-ryzen-5-amd-ryzen-5-7500f-processor-6-core-12-thread-zen-4-cpu-3-7-ghz-base-up-to-5-0-ghz-boost-socket-am5-32-mb-l3-ddr5-tray-pakistan-p.17592.aspx"
+        },
+        {
+            "Name": "RYZEN 5 7500F",
+          "storeName": "RB Tech N Games",
+          "price": 33499.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-7500f-am5-6c-12t-processor-tray-new/"
+        },
+        {
+            "Name": "RYZEN 5 7500F",
+          "storeName": "Zah Computers",
+          "price": 36999.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-5-7500f-zen-4-cpu-processor-tray/"
+        },
+        {
+            "Name": "RYZEN 5 7500F",
+          "storeName": "Zicomputer",
+          "price": 37500.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-5-7500f-tray-cpu-proccessor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_38",
+      "name": "RYZEN 7 5700G",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+                "Name": "RYZEN 7 5700G",
+          "storeName": "AMD House",
+          "price": 51000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-7-5700g-processor-am4-chip-only-copy/"
+        },
+        {
+           "Name": "RYZEN 7 5700G",
+          "storeName": "Junaid Tech",
+          "price": 62499.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-7-5700g-desktop-processor"
+        }
+      ]
+    },
+    {
+      "id": "cpu_39",
+      "name": "RYZEN 7 5800",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+              "Name": "RYZEN 7 5800",
+          "storeName": "AMD House",
+          "price": 45000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-7-5800-chip-only/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_40",
+      "name": "RYZEN 9 3900",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "RYZEN 9 3900",
+          "storeName": "AMD House",
+          "price": 50000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-9-3900-chip-only/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_41",
+      "name": "RYZEN 5 5600X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "RYZEN 5 5600X",
+          "storeName": "AMD House",
+          "price": 36500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-5600x-chip/"
+        },
+        {
+           "Name": "RYZEN 5 5600X",
+          "storeName": "Junaid Tech",
+          "price": 40499.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-5-5600x-processor-tray"
+        },
+        {
+           "Name": "RYZEN 5 5600X",
+          "storeName": "Czone",
+          "price": 39500.0,
+          "url": "https://www.czone.com.pk/processors-amd-ryzen-5-amd-ryzen-5-5600x-desktop-processor-6-cores-12-threads-3-7ghz-base-4-6ghz-max-boost-am4-socket-unlocked-tray-pakistan-p.13906.aspx"
+        },
+        {
+           "Name": "RYZEN 5 5600X",
+          "storeName": "RB Tech N Games",
+          "price": 38999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-5600x-processor-tray/"
+        },
+        {
+           "Name": "RYZEN 5 5600X",
+          "storeName": "Zah Computers",
+          "price": 38999.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-5-5600x-processor-6c-12t-35mb-cache-up-to-4-6-ghz-max-boost-tray/"
+        },
+        {
+           "Name": "RYZEN 5 5600X",
+          "storeName": "Zicomputer",
+          "price": 38500.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-5-5600x-tray-cpu-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_42",
+      "name": "RYZEN 5 3600",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "RYZEN 5 3600",
+          "storeName": "AMD House",
+          "price": 19000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-3600-chip-only/"
+        },
+        {
+           "Name": "RYZEN 5 3600",
+          "storeName": "Junaid Tech",
+          "price": 22499.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-5-3600-processor-tray"
+        },
+        {
+           "Name": "RYZEN 5 3600",
+          "storeName": "Czone",
+          "price": 22000.0,
+          "url": "https://www.czone.com.pk/processors-amd-ryzen-5-amd-ryzen-5-3600-desktop-processor-6c-12t-unlocked-tray-am4-zen-2-architecture-up-to-4-2-ghz-pakistan-p.18322.aspx"
+        },
+        {
+           "Name": "RYZEN 5 3600",
+          "storeName": "RB Tech N Games",
+          "price": 21499.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-3600-processor-tray/"
+        },
+        {
+           "Name": "RYZEN 5 3600",
+          "storeName": "Zah Computers",
+          "price": 18500.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-5-3600-desktop-processor-tray/"
+        },
+        {
+           "Name": "RYZEN 5 3600",
+          "storeName": "Zicomputer",
+          "price": 20000.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-5-3600-tray-cpu-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_43",
+      "name": "RYZEN 5 7600",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+             "Name": "RYZEN 5 7600",
+          "storeName": "AMD House",
+          "price": 48500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-7600-chip-only/"
+        },
+        {
+          "Name": "RYZEN 5 7600",
+          "storeName": "Junaid Tech",
+          "price": 52499.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-5-7600-processor-tray"
+        },
+        {
+          "Name": "RYZEN 5 7600",
+          "storeName": "RB Tech N Games",
+          "price": 48999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-7600-gaming-processor-tray/"
+        },
+        {
+          "Name": "RYZEN 5 7600",
+          "storeName": "Zah Computers",
+          "price": 51500.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-5-7600-desktop-processor-tray-pack/"
+        },
+        {
+          "Name": "RYZEN 5 7600",
+          "storeName": "Zicomputer",
+          "price": 46500.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-5-7600-tray-cpu-processor-6-core/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_44",
+      "name": "RYZEN 7 5800X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "Name": "RYZEN 7 5800X",
+          "storeName": "AMD House",
+          "price": 50000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-7-5800x-chip-only/"
+        },
+        {
+            "Name": "RYZEN 7 5800X",
+          "storeName": "RB Tech N Games",
+          "price": 54999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-7-5800x-processor-without-cooler/"
+        },
+        {
+            "Name": "RYZEN 7 5800X",
+          "storeName": "Zah Computers",
+          "price": 51990.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-7-5800x-8-core-16-thread-unlocked-processor-tray/"
+        },
+        {
+            "Name": "RYZEN 7 5800X",
+          "storeName": "Zicomputer",
+          "price": 54000.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-7-5800x-tray-cpu-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_45",
+      "name": "RYZEN 7 7700X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+              "Name": "RYZEN 7 7700X",
+          "storeName": "AMD House",
+          "price": 92000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-7-7700x-chip-only/"
+        },
+        {
+            "Name": "RYZEN 7 7700X",
+          "storeName": "Junaid Tech",
+          "price": 76499.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-7-7700x-desktop-processor"
+        },
+        {  "Name": "RYZEN 7 7700X",
+          "storeName": "Zah Computers",
+          "price": 97000.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-7-7700x-4-5-ghz-eight-core-am5-processor/"
+        },
+        {
+            "Name": "RYZEN 7 7700X",
+          "storeName": "Zicomputer",
+          "price": 72000.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-7-7700x-desktop-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_46",
+      "name": "RYZEN 7 5700X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          
+            "Name": "RYZEN 7 5700X",
+          "storeName": "AMD House",
+          "price": 44500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-7-5700x-chip-only/"
+        },
+        {
+               "Name": "RYZEN 7 5700X",
+          "storeName": "Junaid Tech",
+          "price": 47999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-7-5700x-processor-tray"
+        },
+        {
+               "Name": "RYZEN 7 5700X",
+          "storeName": "RB Tech N Games",
+          "price": 49499.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-7-5700x-tray-processor/"
+        },
+        {
+               "Name": "RYZEN 7 5700X",
+          "storeName": "Zah Computers",
+          "price": 49000.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-7-5700x-desktop-processor-tray/"
+        },
+        {
+               "Name": "RYZEN 7 5700X",
+          "storeName": "Zicomputer",
+          "price": 47000.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-7-5700x-tray-cpu-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_47",
+      "name": "RYZEN 5 5600",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "RYZEN 5 5600",
+          "storeName": "AMD House",
+          "price": 32500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-5600-chip-only/"
+        },
+        {
+            "Name": "RYZEN 5 5600",
+          "storeName": "Junaid Tech",
+          "price": 35999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-5-5600-processor-tray"
+        },
+        {
+            "Name": "RYZEN 5 5600",
+          "storeName": "Czone",
+          "price": 35500.0,
+          "url": "https://www.czone.com.pk/processors-amd-ryzen-5-amd-ryzen-5-5600-desktop-processor-6-core-12-thread-unlocked-socket-am4-tray-pakistan-p.17449.aspx"
+        },
+        {
+            "Name": "RYZEN 5 5600",
+          "storeName": "Zah Computers",
+          "price": 35999.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-5-5600-tray-processor/"
+        },
+        {
+            "Name": "RYZEN 5 5600",
+          "storeName": "Zicomputer",
+          "price": 34000.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-5-5600-tray-cpu-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_48",
+      "name": "RYZEN 5 5600G",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "RYZEN 5 5600G",
+          "storeName": "AMD House",
+          "price": 27500.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-5-5600g-chip-only/"
+        },
+        {
+            "Name": "RYZEN 5 5600G",
+          "storeName": "Zah Computers",
+          "price": 50500.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-5-5600g-3-9-ghz-six-core-am4-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_49",
+      "name": "RYZEN 3 4100",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "RYZEN 3 4100",
+          "storeName": "AMD House",
+          "price": 8000.0,
+          "url": "https://amdhouse.pk/product/amd-ryzen-3-4100-chip-only/"
+        },
+        {
+            "Name": "RYZEN 3 4100",
+          "storeName": "Junaid Tech",
+          "price": 19499.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-3-4100-desktop-processor-tray"
+        }
+      ]
+    },
+    {
+      "id": "cpu_50",
+      "name": "RYZEN 5 1600X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+              "Name": "RYZEN 5 1600X",
+          "storeName": "Junaid Tech",
+          "price": 20999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-5-1600x-processor-tray"
+        }
+      ]
+    },
+    {
+      "id": "cpu_51",
+      "name": "CORE I5-10400F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE I5-10400F",
+          "storeName": "Junaid Tech",
+          "price": 27499.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i5-10400f-processor-12m-cache-up-to-4-30-ghz"
+        }
+      ]
+    },
+    {
+      "id": "cpu_52",
+      "name": "CORE I5-11400F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "Name": "CORE I5-11400F",
+          "storeName": "Junaid Tech",
+          "price": 32999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i5-11400f-processor-12m-cache-up-to-4-40-ghz"
+        }
+      ]
+    },
+    {
+      "id": "cpu_53",
+      "name": "CORE I3-12100",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "CORE I3-12100",
+          "storeName": "Junaid Tech",
+          "price": 32999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i3-12100-processor"
+        }
+      ]
+    },
+    {
+      "id": "cpu_54",
+      "name": "CORE I5-9600K",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "Name": "CORE I5-9600K",
+          "storeName": "Junaid Tech",
+          "price": 38999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i5-9600k-processor-9m-cache-up-to-4-60-ghz"
+        }
+      ]
+    },
+    {
+      "id": "cpu_55",
+      "name": "CORE I5-12400F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE I5-12400F",
+          "storeName": "Junaid Tech",
+          "price": 42499.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i5-12400f-processor-tray"
+        },
+        {
+            "Name": "CORE I5-12400F",
+          "storeName": "Czone",
+          "price": 41500.0,
+          "url": "https://www.czone.com.pk/processors-intel-core-i5-processors-intel-core-i5-12400f-processor-lga-1700-6-cores-12-threads-tray-pack-pakistan-p.14134.aspx"
+        },
+        {
+            "Name": "CORE I5-12400F",
+          "storeName": "Zah Computers",
+          "price": 43500.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i5-12400f-2-5-ghz-6-core-12th-gen-lga-1700-processor-tray/"
+        },
+        {
+                "Name": "Intel Core i5 12400F ",
+          "storeName": "Zicomputer",
+          "price": 40500.0,
+          "url": "https://zicomputer.com/product/intel-core-i5-12400f-tray-cpu-processor/"
+        },
+         {
+             "Name": "Core-i5 12400F ",
+          "storeName": "AMD House",
+          "price": 38500.0,
+          "url": "https://amdhouse.pk/product/intel-core-i5-12400f-chip-only-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_56",
+      "name": "CORE I5-13400F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "CORE I5-13400F",
+          "storeName": "Junaid Tech",
+          "price": 48499.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i5-13400f-processor"
+        },
+        {
+           "Name": "CORE I5-13400F",
+          "storeName": "Czone",
+          "price": 49900.0,
+          "url": "https://www.czone.com.pk/processors-intel-core-i5-processors-intel-core-i5-13400f-desktop-processor-20m-cache-10-cores-16-threads-lga1700-tray-pack-pakistan-p.16950.aspx"
+        },
+        {
+           "Name": "CORE I5-13400F",
+          "storeName": "Zah Computers",
+          "price": 35000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i5-13400f-processor-tray/"
+        },
+           {
+           "Name": "Intel Core i5 13400F ",
+          "storeName": "Zicomputer",
+          "price": 46000.0,
+          "url": "https://zicomputer.com/product/intel-core-i5-13400f-tray-cpu-processor/"
+        },
+         {
+            "Name": "Intel Core-i5 13400F ",
+          "storeName": "AMD House",
+          "price": 33000.0,
+          "url": "https://amdhouse.pk/product/intel-core-i5-13400f-tray-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_57",
+      "name": "CORE I5-12600K",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+             "Name": "CORE I5-12600K",
+          "storeName": "Junaid Tech",
+          "price": 49999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i5-12600k-processor-20m-cache-up-to-4-90-ghz"
+        },
+        {
+           "Name": "CORE I5-12600K",
+          "storeName": "Zah Computers",
+          "price": 64500.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i5-12600k-core-i5-12th-gen-alder-lake-10-core-processor-tray/"
+        },
+         {
+             "Name": "CORE I5-12600KF",
+          "storeName": "Junaid Tech",
+          "price": 52999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i5-12600kf-processor-tray"
+        },
+          {
+            "Name": "CORE I5 12600KF",
+          "storeName": "Zicomputer",
+          "price": 55000.0,
+          "url": "https://zicomputer.com/product/intel-core-i5-12600kf-box-cpu-processor/"
+        },
+          {
+            "Name": "Intel Core-i5 12600K ",
+          "storeName": "AMD House",
+          "price": 47500.0,
+          "url": "https://amdhouse.pk/product/intel-core-i5-12600k-cpu-chip-only-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_58",
+      "name": "CORE I5-12400",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+             "Name": "CORE I5-12400",
+          "storeName": "Junaid Tech",
+          "price": 50999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i5-12400-processor-tray"
+        },
+        {
+            "Name": "CORE I5-12400",
+          "storeName": "Zah Computers",
+          "price": 39500.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i5-12400-2-5-ghz-12th-gen-6-core-lga-1700-processor-tray/"
+        }
+       
+      ]
+    },
+      {
+      "id": "cpu_59",
+      "name": "Intel Core Ultra 5 Desktop Processor 245K",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "Intel Core Ultra 5 Desktop Processor 245K",
+          "storeName": "Czone",
+          "price": 78999.0,
+          "url": "https://www.czone.com.pk/intel-core-ultra-5-245k-desktop-processor"
+        }
+      ]
+    },
+
+  
+ 
+    {
+      "id": "cpu_60",
+      "name": "CORE I5-14400F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+              "Name": "CORE I5-14400F",
+          "storeName": "Junaid Tech",
+          "price": 53999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i5-14400f-processor-tray"
+        },
+        {"Name": "CORE I5-14400F",
+          "storeName": "Czone",
+          "price": 46500.0,
+          "url": "https://www.czone.com.pk/processors-intel-core-i5-processors-intel-core-i5-14400f-14h-gen-desktop-processor-10-cores-16-threads-tray-pakistan-p.17462.aspx"
+        },
+        {"Name": "CORE I5-14400F",
+          "storeName": "Zah Computers",
+          "price": 48999.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i5-14400f-2-5-ghz-10-core-lga-1700-processor-tray/"
+        },
+        {
+            "Name": "Intel Core-i5 14400F ",
+          "storeName": "AMD House",
+          "price": 45000.0,
+          "url": "https://amdhouse.pk/product/intel-core-i5-14400f-cpu-new-tray-in-10-months-warranty/"
+        },
+           {
+           "Name": "CORE I5 14400F",
+          "storeName": "Zicomputer",
+          "price": 49500.0,
+          "url": "https://zicomputer.com/product/intel-core-i5-14400f-tray-cpu-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_61",
+      "name": "CORE I5-14490F",
+      "categoryId": "processors",
+      "storePrices": [
+        {"Name": "CORE I5-14490F",
+          "storeName": "Junaid Tech",
+          "price": 60999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i5-14490f-processor"
+        }
+      ]
+    },
+    {
+      "id": "cpu_62",
+      "name": "CORE I7-12700KF",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE I7-12700KF",
+          "storeName": "Junaid Tech",
+          "price": 68999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i7-12700kf-processor-25m-cache-up-to-5-00-ghz"
+        },
+        {  "Name": "CORE I7-12700KF",
+          "storeName": "Zah Computers",
+          "price": 70000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i7-12700kf-core-i7-12th-gen-alder-lake-12-core-8p4e-3-6-ghz-lga-1700-125w-desktop-processor-tray/"
+        },
+           {
+            "Name": "Intel Core-i7 12700KF",
+          "storeName": "AMD House",
+          "price": 72000.0,
+          "url": "https://amdhouse.pk/product/intel-core-i7-12700kf-chip-only-new-in-10-months-warranty/"
+        },
+        {
+              "Name": "CORE I7 12700KF",
+          "storeName": "Zicomputer",
+          "price": 78000.0,
+          "url": "https://zicomputer.com/product/intel-core-i7-12700kf-tray-cpu-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_63",
+      "name": "CORE I5-13400",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "Name": "CORE I5-13400",
+          "storeName": "Junaid Tech",
+          "price": 70499.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i5-13400-processor-20m-cache-up-to-4-60-ghz"
+        },
+        {
+          "Name": "CORE I5-13400",
+          "storeName": "Zah Computers",
+          "price": 46000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i5-13400-2-5-ghz-10-core-lga-1700-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_64",
+      "name": "CORE I7-10700",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "Name": "CORE I7-10700",
+          "storeName": "Junaid Tech",
+          "price": 71999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i7-10700-processor-16m-cache-up-to-4-80-ghz"
+        }
+      ]
+    },
+    {
+      "id": "cpu_65",
+      "name": "CORE I5-13600K",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "CORE I5-13600K",
+          "storeName": "Junaid Tech",
+          "price": 75999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i5-13600k-processor"
+        }
+      ]
+    },
+    {
+      "id": "cpu_66",
+      "name": "CORE I9-11900F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "CORE I9-11900F",
+          "storeName": "Junaid Tech",
+          "price": 76499.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i9-11900f-lga-1200-processor"
+        }
+      ]
+    },
+    {
+      "id": "cpu_67",
+      "name": "CORE I5-14600KF",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE I5-14600KF",
+          "storeName": "Junaid Tech",
+          "price": 77499.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i5-14600kf-processor"
+        },
+        {
+            "Name": "CORE I5-14600KF",
+          "storeName": "Zah Computers",
+          "price": 84990.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i5-14600kf-3-5-ghz-14-core-lga-1700-processor/"
+        },
+            {
+              "Name": "Intel Core-i5 14600KF ",
+          "storeName": "AMD House",
+          "price": 59000.0,
+          "url": "https://amdhouse.pk/product/intel-core-i5-14600kf-cpu-new-tray-in-10-months-warranty/"
+        },
+            {
+          "Name": "CORE I5 14600KF",
+          "storeName": "Zicomputer",
+          "price": 67000.0,
+          "url": "https://zicomputer.com/product/intel-core-i5-14600kf-box-cpu-processor/"
+        },
+          {
+            "Name": "Core-i5 14600KF ",
+          "storeName": "AMD House",
+          "price": 66000.0,
+          "url": "https://amdhouse.pk/product/intel-core-i5-14600kf-chip-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_68",
+      "name": "CORE I9-11900KF",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "CORE I9-11900KF",
+          "storeName": "Junaid Tech",
+          "price": 78499.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i9-11900kf-processor-16m-cache-up-to-5-30-ghz"
+        }
+      ]
+    },
+    {
+      "id": "cpu_69",
+      "name": "CORE ULTRA 5 245K",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE ULTRA 5 245K",
+          "storeName": "Junaid Tech",
+          "price": 79499.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-ultra-5-245k-desktop-processor"
+        },
+        {
+           "Name": "CORE ULTRA 5 245K",
+          "storeName": "Zah Computers",
+          "price": 72000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-ultra-5-245k-core-ultra-5-series-2-arrow-lake-14-core-6p8e-lga-1851-125w-desktop-processor/"
+        },
+        {
+           "Name": "CORE ULTRA 5 245K",
+          "storeName": "Zicomputer",
+          "price": 75000.0,
+          "url": "https://zicomputer.com/product/intel-core-ultra-5-245k-tray/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_70",
+      "name": "CORE ULTRA 5 245KF",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE ULTRA 5 245KF",
+          "storeName": "Junaid Tech",
+          "price": 79999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-ultra-5-245kf-processor"
+        },
+        {
+           "Name": "CORE ULTRA 5 245KF",
+          "storeName": "Zah Computers",
+          "price": 59990.0,
+          "url": "https://zahcomputers.pk/product/intel-core-ultra-5-245kf-desktop-processor-14-cores-6-p-cores-8-e-cores-up-to-5-2-ghz/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_71",
+      "name": "CORE I5-14600K",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "CORE I5-14600K",
+          "storeName": "Junaid Tech",
+          "price": 83999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i5-14600k-processor-tray"
+        },
+        {
+             "Name": "CORE I5-14600K",
+          "storeName": "Czone",
+          "price": 83999.0,
+          "url": "https://www.czone.com.pk/processors-intel-core-i5-processors-intel-core-i5-14600k-new-gaming-14h-gen-desktop-processor-14-cores-20-threads-unlocked-tray-pakistan-p.16528.aspx"
+        },
+        {
+             "Name": "CORE I5-14600K",
+          "storeName": "Zah Computers",
+          "price": 78000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i5-14600k-3-5-ghz-14th-gen-14-core-lga-1700-processor-tray/"
+        },
+        {
+             "Name": "CORE I5-14600K",
+          "storeName": "Zicomputer",
+          "price": 79000.0,
+          "url": "https://zicomputer.com/product/intel-core-i5-14600k-desktop-processor-tray/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_72",
+      "name": "CORE I9-10900",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE I9-10900",
+          "storeName": "Junaid Tech",
+          "price": 83999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i9-10900-processor-20m-cache-up-to-5-20-ghz"
+        }
+      ]
+    },
+    {
+      "id": "cpu_73",
+      "name": "CORE I7-12700K",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "Name": "CORE I7-12700K",
+          "storeName": "Junaid Tech",
+          "price": 83999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i7-12700k-processor"
+        },
+        {
+           "Name": "CORE I7-12700K",
+          "storeName": "Zah Computers",
+          "price": 75000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i7-12700k-core-i7-12th-gen-alder-lake-12-core-8p4e-3-6-ghz-lga-1700-125w-intel-uhd-graphics-770-desktop-processor-tray/"
+        },
+           {
+            "Name": "Intel Core-i7 12700K ",
+          "storeName": "AMD House",
+          "price": 68000.0,
+          "url": "https://amdhouse.pk/product/intel-core-i7-12700k-chip-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_74",
+      "name": "CORE ULTRA 7 265KF",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "nNme": "CORE ULTRA 7 265KF",
+          "storeName": "Junaid Tech",
+          "price": 84499.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-ultra-7-265kf-processor-tray"
+        }
+      ]
+    },
+    {
+      "id": "cpu_75",
+      "name": "CORE ULTRA 7 265",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "Name": "CORE ULTRA 7 265",
+          "storeName": "Junaid Tech",
+          "price": 85999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-ultra-7-265-processor"
+        }
+      ]
+    },
+    {
+      "id": "cpu_76",
+      "name": "CORE I9-11900K",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+             "Name": "CORE I9-11900K",
+          "storeName": "Junaid Tech",
+          "price": 85999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i9-11900k-processor-tray"
+        }
+      ]
+    },
+    {
+      "id": "cpu_77",
+      "name": "CORE I7-13700KF",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "CORE I7-13700KF",
+          "storeName": "Junaid Tech",
+          "price": 88999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i7-13700kf-processor-tray"
+        },
+        {
+            "Name": "CORE I7-13700KF",
+          "storeName": "Zah Computers",
+          "price": 132000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i7-13700kf-3-4-ghz-16-core-lga-1700-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_78",
+      "name": "CORE ULTRA 5 250K",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE ULTRA 5 250K",
+          "storeName": "Junaid Tech",
+          "price": 88999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-ultra-5-250k-plus-processor"
+        }
+      ]
+    },
+    {
+      "id": "cpu_79",
+      "name": "CORE I7-14700F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE I7-14700F",
+          "storeName": "Junaid Tech",
+          "price": 94499.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i7-14700f-processor-tray"
+        },
+          {
+              "Name": "CORE I7 14700F",
+          "storeName": "Zicomputer",
+          "price": 98000.0,
+          "url": "https://zicomputer.com/product/intel-core-i7-14700f-tray-desktop/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_80",
+      "name": "CORE ULTRA 7 265K",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "Name": "CORE ULTRA 7 265K",
+          "storeName": "Junaid Tech",
+          "price": 94499.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-ultra-7-265k-processor"
+        },
+        {
+          "Name": "CORE ULTRA 7 265K",
+          "storeName": "Czone",
+          "price": 115000.0,
+          "url": "https://www.czone.com.pk/processors-intel-core-ultra-7-intel-core-ultra-7-265k-desktop-processor-20-cores-30mb-cache-up-to-5-5ghz-socket-fclga1851-unlocked-tray-pakistan-p.19161.aspx"
+        },
+        {
+          "Name": "CORE ULTRA 7 265K",
+          "storeName": "Zah Computers",
+          "price": 100000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-ultra-7-265k-3-9-ghz-20-core-lga-1851-processor/"
+        },
+        {
+          "Name": "CORE ULTRA 7 265K",
+          "storeName": "Zicomputer",
+          "price": 100000.0,
+          "url": "https://zicomputer.com/product/intel-core-ultra-7-265k-box-cpu-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_81",
+      "name": "CORE I9-12900KF",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+             "Name": "CORE I9-12900KF",
+          "storeName": "Junaid Tech",
+          "price": 94499.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i9-12900kf-processor-30m-cache-up-to-5-20-ghz"
+        },
+        {
+           "Name": "CORE I9-12900KF",
+          "storeName": "RB Tech N Games",
+          "price": 89999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/intel-core-i9-12900kf-desktop-processor/"
+        },
+        {
+           "Name": "CORE I9-12900KF",
+          "storeName": "Zah Computers",
+          "price": 90000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i9-12900kf-core-i9-12th-gen-alder-lake-16-core-8p8e-3-2-ghz-lga-1700-125w-desktop-processor/"
+        },
+        {
+           "Name": "CORE I9-12900KF",
+          "storeName": "Zicomputer",
+          "price": 90000.0,
+          "url": "https://zicomputer.com/product/intel-core-i9-12900kf-tray-processor/"
+        },
+          {
+            "Name": "CORE I9 12900KF",
+          "storeName": "Zicomputer",
+          "price": 85000.0,
+          "url": "https://zicomputer.com/product/intel-core-i9-12900kf-desktop-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_82",
+      "name": "CORE I9-12900F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "CORE I9-12900F",
+          "storeName": "Junaid Tech",
+          "price": 94499.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i9-12900f-processor-30m-cache-up-to-5-10-ghz"
+        }
+      ]
+    },
+    {
+      "id": "cpu_83",
+      "name": "CORE I7-13700",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE I7-13700",
+          "storeName": "Junaid Tech",
+          "price": 96499.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i7-13700-processor-tray"
+        }
+      ]
+    },
+    {
+      "id": "cpu_84",
+      "name": "CORE I7-14700KF",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE I7-14700KF",
+          "storeName": "Junaid Tech",
+          "price": 100999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i7-14700kf-processor-tray"
+        },
+        {
+           "Name": "CORE I7-14700KF",
+          "storeName": "Zah Computers",
+          "price": 93000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i7-14700kf-3-4-ghz-14th-gen-20-core-lga-1700-processor-tary/"
+        },
+        {
+           "Name": "CORE I7-14700KF",
+          "storeName": "Zicomputer",
+          "price": 108000.0,
+          "url": "https://zicomputer.com/product/intel-core-i7-14700kf-tray-processor/"
+        },
+          {
+            "Name": "Intel Core i7 processor 14700KF ",
+          "storeName": "Czone",
+          "price": 123500.0,
+          "url": "https://www.czone.com.pk/processors-intel-core-i7-processors-intel-core-i7-processor-14700kf-desktop-processor-unlocked-pakistan-p.16414.aspx"
+        },
+         {
+          "Name": "Intel Core i7 processor 14700KF ",
+          "storeName": "AMD House",
+          "price": 104500.0,
+          "url": "https://amdhouse.pk/product/intel-core-i7-processor-14700kf-33m-cache-up-to-5-60-ghz-chip-only-new-in-10-months-warranty/"
+        },
+        {
+             "Name": "CORE I7 14700KF",
+          "storeName": "Zicomputer",
+          "price": 102500.0,
+          "url": "https://zicomputer.com/product/intel-core-i7-14700kf-desktop-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_85",
+      "name": "CORE I7-13700F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "CORE I7-13700F",
+          "storeName": "Junaid Tech",
+          "price": 102999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i7-13700f-processor-30m-cache-up-to-5-20-ghz"
+        },
+        {  "Name": "CORE I7-13700F",
+          "storeName": "Zah Computers",
+          "price": 107500.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i7-13700f-2-1-ghz-16-core-lga-1700-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_86",
+      "name": "CORE I9-13900KF",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "CORE I9-13900KF",
+          "storeName": "Junaid Tech",
+          "price": 107999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i9-13900kf-processor-36m-cache-up-to-5-80-ghz"
+        },
+        {
+           "Name": "CORE I9-13900KF",
+          "storeName": "Zah Computers",
+          "price": 128000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i9-13900kf-3-ghz-24-core-lga-1700-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_87",
+      "name": "CORE I9-12900KS",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE I9-12900KS",
+          "storeName": "Junaid Tech",
+          "price": 108999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i9-12900ks-tray-gaming-processor"
+        },
+        {
+           "Name": "CORE I9-12900KS",
+          "storeName": "Zah Computers",
+          "price": 120000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i9-12900ks-core-i9-12th-gen-alder-lake-16-core-3-4-ghz-lga-1700-150w-intel-uhd-graphics-770-desktop-processor-open-box/"
+        }
+      ]
+    },
+    {   
+      "id": "cpu_88",
+      "name": "CORE I7-14700",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE I7-14700",
+          "storeName": "Junaid Tech",
+          "price": 108999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i7-14700-processor-tray"
+        },
+        {
+             "Name": "CORE I7-14700",
+          "storeName": "Czone",
+          "price": 129900.0,
+          "url": "https://www.czone.com.pk/intel-core-i714700-desktop-processor-socket-fclga1700-up-to-540ghz-20-cores-28-threads-33mb-cache-in"
+        },
+        {
+             "Name": "CORE I7-14700",
+          "storeName": "Zah Computers",
+          "price": 99000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i7-14700-2-1-ghz-20-core-lga-1700-processor-tray/"
+        },
+        {
+           "Name": "Intel Core i7-14700",
+          "storeName": "AMD House",
+          "price": 108000.0,
+          "url": "https://amdhouse.pk/product/intel-i7-14700/"
+        },
+         {
+              "Name": "Intel Core i7 14700 ",
+          "storeName": "Zicomputer",
+          "price": 110000.0,
+          "url": "https://zicomputer.com/product/intel-core-i7-14700-tray-cpu-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_89",
+      "name": "CORE I7-14700K",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+              "Name": "CORE I7-14700K",
+          "storeName": "Junaid Tech",
+          "price": 114999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i7-14700k-processor-tray"
+        },
+        {
+            "Name": "CORE I7-14700K",
+          "storeName": "Czone",
+          "price": 122999.0,
+          "url": "https://www.czone.com.pk/intel-core-i7-14700k"
+        },
+        {
+            "Name": "CORE I7-14700K",
+          "storeName": "Zah Computers",
+          "price": 123000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i7-14700k-3-4-ghz-20-core-lga-1700-processor/"
+        }, {
+          "Name": "Intel Core i7 14700K ",
+          "storeName": "Zicomputer",
+          "price": 118000.0,
+          "url": "https://zicomputer.com/product/intel-core-i7-14700k-box-cpu-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_90",
+      "name": "CORE I7-13700K",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "CORE I7-13700K",
+          "storeName": "Junaid Tech",
+          "price": 114999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i7-13700k-processor"
+        },
+        {
+           "Name": "CORE I7-13700K",
+          "storeName": "Zah Computers",
+          "price": 137000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i7-13700k-3-4-ghz-16-core-lga-1700-processor/"
+        },
+         {
+            "Name": "CORE I7 13700K",
+          "storeName": "Zicomputer",
+          "price": 80000.0,
+          "url": "https://zicomputer.com/product/intel-core-i7-13700k-box-cpu-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_91",
+      "name": "CORE I9 14900K",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "Name": "CORE I9 14900K",
+          "storeName": "Junaid Tech",
+          "price": 124999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i9-14900k-processor"
+        },
+        {
+           "Name": "CORE I9 14900K",
+          "storeName": "RB Tech N Games",
+          "price": 134999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/intel-core-i9-14900k-24-cores-8-p-cores-16-e-cores/"
+        },
+        {
+           "Name": "CORE I9 14900K",
+          "storeName": "Zicomputer",
+          "price": 135000.0,
+          "url": "https://zicomputer.com/product/intel-core-i9-14900k-box-cpu-processor/"
+        },
+         {
+           "Name": "CORE I9-14900K",
+          "storeName": "Czone",
+          "price": 138000.0,
+          "url": "https://www.czone.com.pk/intel-core-i9-14900k-desktop-processor"
+        },
+        {
+              "Name": "CORE I9-14900K",
+          "storeName": "Zah Computers",
+          "price": 120000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i9-14900k-3-2-ghz-14th-gen-24-core-lga-1700-processor-tray/"
+        },
+           {
+           "Name": "Intel Core-i9 14900K ",
+          "storeName": "AMD House",
+          "price": 135000.0,
+          "url": "https://amdhouse.pk/product/intel-core-i9-14900k-chip-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_92",
+      "name": "CORE I9-14900KF",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "Name": "CORE I9-14900KF",
+          "storeName": "Junaid Tech",
+          "price": 129999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i9-14900kf-processor"
+        },
+        {
+            "Name": "CORE I9-14900KF",
+          "storeName": "Czone",
+          "price": 134999.0,
+          "url": "https://www.czone.com.pk/processors-intel-core-i9-intel-core-i9-14900kf-desktop-processor-unlocked-tray-pakistan-p.19527.aspx"
+        },
+        {
+            "Name": "CORE I9-14900KF",
+          "storeName": "Zah Computers",
+          "price": 125000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i9-14900kf-3-2-ghz-14th-gen-24-core-lga-1700-processor-tray/"
+        },
+        {
+            "Name": "CORE I9-14900KF",
+          "storeName": "Zicomputer",
+          "price": 128000.0,
+          "url": "https://zicomputer.com/product/intel-core-i9-14900kf-desktop-processor/"
+        },
+          {
+              "Name": "CORE I9 14900KF",
+          "storeName": "RB Tech N Games",
+          "price": 124999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/intel-core-i9-14900kf-24-cores-8-p-cores-16-e-cores/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_93",
+      "name": "RYZEN 9 9900X3D",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+              "Name": "RYZEN 9 9900X3D",
+          "storeName": "Junaid Tech",
+          "price": 139999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-9-9900x3d-gaming-processor"
+        },
+        {
+            "Name": "RYZEN 9 9900X3D",
+          "storeName": "Czone",
+          "price": 155000.0,
+          "url": "https://www.czone.com.pk/processors-amd-ryzen-9-amd-ryzen-9-9900x3d-gaming-and-content-creation-processor-12-cores-24-threads-up-to-5-5-ghz-128-mb-l3-cache-am5-socket-unlocked-pakistan-p.18886.aspx"
+        },
+        {
+            "Name": "RYZEN 9 9900X3D",
+          "storeName": "RB Tech N Games",
+          "price": 158999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-9-9900x3d-desktop-processor/"
+        },
+        {
+            "Name": "RYZEN 9 9900X3D",
+          "storeName": "Zah Computers",
+          "price": 152000.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-9-9900x3d-4-4-ghz-12-core-am5-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_94",
+      "name": "CORE I9-14900",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+              "Name": "CORE I9-14900",
+          "storeName": "Junaid Tech",
+          "price": 139999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i9-14900-processor"
+        },
+        {
+           "Name": "CORE I9-14900",
+          "storeName": "RB Tech N Games",
+          "price": 119999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/intel-core-i9-14900-desktop-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_95",
+      "name": "CORE ULTRA 9 285",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "Name": "CORE ULTRA 9 285",
+          "storeName": "Junaid Tech",
+          "price": 143999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-ultra-9-285-desktop-processor"
+        },
+        {
+            "Name": "CORE ULTRA 9 285",
+          "storeName": "Zah Computers",
+          "price": 145000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-ultra-9-285-24-cores-8-p-cores-16-e-cores-up-to-5-6-ghz-desktop-processor/"
+        },
+        {
+            "Name": "CORE ULTRA 9 285",
+          "storeName": "Zicomputer",
+          "price": 145000.0,
+          "url": "https://zicomputer.com/product/intel-core-ultra-9-285-desktop-cpu/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_96",
+      "name": "CORE ULTRA 9 285K",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE ULTRA 9 285K",
+          "storeName": "Junaid Tech",
+          "price": 149999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-ultra-9-285k-desktop-processor"
+        },
+        {
+          "Name": "CORE ULTRA 9 285K",
+          "storeName": "Czone",
+          "price": 153000.0,
+          "url": "https://www.czone.com.pk/processors-intel-core-ultra-9-intel-core-ultra-9-285k-desktop-processor-24c-24t-fclga1851-pakistan-p.18025.aspx"
+        },
+        {
+          "Name": "CORE ULTRA 9 285K",
+          "storeName": "RB Tech N Games",
+          "price": 149999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/processors/intel-core-ultra-9-285k-desktop-processor/"
+        },
+        {
+          "Name": "CORE ULTRA 9 285K",
+          "storeName": "Zah Computers",
+          "price": 159999.0,
+          "url": "https://zahcomputers.pk/product/intel-core-ultra-9-processor-285k-extreme-performance-efficient/"
+        },
+        {
+          "Name": "CORE ULTRA 9 285K",
+          "storeName": "Zicomputer",
+          "price": 155000.0,
+          "url": "https://zicomputer.com/product/intel-core-ultra-9-285k-box-cpu-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_97",
+      "name": "CORE I9-14900F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "Name": "CORE I9-14900F",
+          "storeName": "Junaid Tech",
+          "price": 152999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i9-14900f-processor-tray"
+        }
+      ]
+    },
+    {
+      "id": "cpu_98",
+      "name": "CORE I9-13900K",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+              "Name": "CORE I9-13900K",
+          "storeName": "Junaid Tech",
+          "price": 164999.0,
+          "url": "https://www.junaidtech.pk/product/intel-core-i9-13900k-processor-tray"
+        },
+        {
+             "Name": "CORE I9-13900K",
+          "storeName": "Zah Computers",
+          "price": 108000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i9-13900k-3-ghz-24-core-lga-1700-processor-tray/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_99",
+      "name": "THREADRIPPER PRO",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "THREADRIPPER PRO",
+          "storeName": "Junaid Tech",
+          "price": 364999.0,
+          "url": "https://www.junaidtech.pk/product/amd-ryzen-threadripper-pro-5955wx-desktop-processor"
+        },
+        {
+           "Name": "THREADRIPPER PRO",
+          "storeName": "Czone",
+          "price": 364000.0,
+          "url": "https://www.czone.com.pk/amd-ryzen-threadripper-pro-5955wx-desktop-processor-16core-32thread-swrx8-unlocked"
+        }
+      ]
+    },
+
+     
+    {
+      "id": "cpu_100",
+      "name": "CORE ULTRA 5 225F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE ULTRA 5 225F",
+          "storeName": "Zicomputer",
+          "price": 55000.0,
+          "url": "https://zicomputer.com/product/intel-core-ultra-5-225f-desktop-processor/"
+        }
+      ]
+    },
+   
+    
+  
+ 
+  
+    {
+      "id": "cpu_101",
+      "name": "Intel Core Ultra 5 Processor 245KF ",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "Intel Core Ultra 5 Processor 245KF ",
+          "storeName": "Czone",
+          "price": 73000.0,
+          "url": "https://www.czone.com.pk/intel-core-ultra-5-245kf"
+        }
+      ]
     }
+   
+   
+   
+    {
+      "id": "cpu_102",
+      "name": "RYZEN 7 9850X3D",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+          "Name": "RYZEN 7 9850X3D",
+          "storeName": "Zah Computers",
+          "price": 140000.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-7-9850x3d-4-7-ghz-8-core-am5-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_103",
+      "name": "CORE I7-12700F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "CORE I7-12700F",
+          "storeName": "Zah Computers",
+          "price": 50000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i7-12700f-2-1-ghz-12-core-lga-1700-processor-tary/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_104",
+      "name": "RYZEN 7 5800X3D",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "RYZEN 7 5800X3D",
+          "storeName": "Zah Computers",
+          "price": 48000.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-7-5800x3d-3-4-ghz-eight-core-am4-processor-tray/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_105",
+      "name": "CORE I3-12100F",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE I3-12100F",
+          "storeName": "Zah Computers",
+          "price": 28500.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i3-12100f-12th-gen-3-3-ghz-quad-core-lga-1700-processor-tray/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_106",
+      "name": "CORE I5-13600KF",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE I5-13600KF",
+          "storeName": "Zah Computers",
+          "price": 102000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i5-13600kf-3-5-ghz-14-core-lga-1700-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_107",
+      "name": "RYZEN 9 5900X",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+             "Name": "RYZEN 9 5900X",
+          "storeName": "Zah Computers",
+          "price": 70000.0,
+          "url": "https://zahcomputers.pk/product/amd-ryzen-9-5900x-3-7-ghz-12-core-am4-processor-chip-only/"
+        },
+        {
+              "Name": "RYZEN 9 5900X",
+          "storeName": "Zicomputer",
+          "price": 68000.0,
+          "url": "https://zicomputer.com/product/amd-ryzen-9-5900x-box-cpu-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_108",
+      "name": "CORE I7-12700",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+           "Name": "CORE I7-12700",
+          "storeName": "Zah Computers",
+          "price": 70000.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i7-12700-2-1-ghz-12-core-lga-1700-processor/"
+        },
+        {
+             "Name": "CORE I7-12700",
+          "storeName": "Zicomputer",
+          "price": 65000.0,
+          "url": "https://zicomputer.com/product/intel-core-i7-12700-tray-cpu-processor/"
+        }
+      ]
+    },
+    {
+      "id": "cpu_109",
+      "name": "CORE I9-12900K",
+      "categoryId": "processors",
+      "storePrices": [
+        {
+            "Name": "CORE I9-12900K",
+          "storeName": "Zah Computers",
+          "price": 94500.0,
+          "url": "https://zahcomputers.pk/product/intel-core-i9-12900k-core-i9-12th-gen-alder-lake-16-core-8p8e-3-2-ghz-lga-1700-125w-intel-uhd-graphics-770-desktop-processor/"
+        },
+        {
+             "Name": "CORE I9 12900K",
+          "storeName": "Zicomputer",
+          "price": 85000.0,
+          "url": "https://zicomputer.com/product/intel-core-i9-12900k-tray-cpu-processor/"
+        }
+      ]
+    }
+  
+   
+
+  ]
+}
+
+
+
+
+
+
+
+    
   ]
 }
