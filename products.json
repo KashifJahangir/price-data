@@ -23,7 +23,7 @@
     {
       "id": "ram",
       "name": "RAM",
-      "productCount": 0
+      "productCount": 239
     },
     {
       "id": "storage",
@@ -14746,17 +14746,4623 @@
         "url": "https://zicomputer.com/product/darkflash-a290-argb-case/"
       }
     ]
-  }
-]
+  },
+
+    {
+      "id": "ram_1",
+      "name": "CORSAIR VENGEANCE 32GB DDR5 6000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance RGB 32GB (2x16GB) 6000MHz",
+          "storeName": "Junaid Tech",
+          "price": 134999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-rgb-32gb-2x16gb-6000mhz-c36-ddr5-ram-black"
+        },
+        {
+          "Name": "Corsair Vengeance 32GB (1x32GB) 6000MHz ",
+          "storeName": "Junaid Tech",
+          "price": 139999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-32gb-1x32gb-6000mhz-c38-ddr5-dram-amd-expo-intel-xmp-memory-kit"
+        },
+        {
+          "Name": "Corsair Vengeance RGB 32GB (2x16GB) 6000MHz ",
+          "storeName": "Junaid Tech",
+          "price": 154999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-rgb-32gb-2x16gb-6000mhz-c36-ddr5-amd-expo-memory-kit-black"
+        },
+        {
+          "Name": "Corsair Vengeance 32GB (2x16GB) 6000MHz ",
+          "storeName": "Junaid Tech",
+          "price": 154999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-32gb-2x16gb-6000mhz-c36-ddr5-amd-expo-memory-kit"
+        },
+        {
+          "Name": "Corsair Vengeance 32GB (2x16GB) 6000MHz",
+          "storeName": "Junaid Tech",
+          "price": 154999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-32gb-2x16gb-6000mhz-c36-ddr5-memory-kit-black"
+        },
+        {
+          "Name": "Corsair Vengeance RGB 32GB (1x32GB) 6000MHz ",
+          "storeName": "Junaid Tech",
+          "price": 169999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-rgb-32gb-1x32gb-6000mhz-cl38-ddr5-ram-amd-expo-black"
+        },
+        {
+          "Name": "Corsair Vengeance 32GB (2x16GB) 6000MT/s",
+          "storeName": "RB Tech N Games",
+          "price": 129999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/rams/corsair-vengeance-32gb-2x16gb-6000mt-s-cl38-ddr5-desktop-memory-black-white/"
+        },
+        {
+          "Name": "Corsair VENGEANCE® RGB 32GB (2x16GB) 6000MT/s ",
+          "storeName": "Zah Computers",
+          "price": 149500.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl36-memory-kit-cmg32-black/"
+        },
+        {
+          "Name": "CORSAIR Vengeance RGB 32GB (2 x 16GB) 6400MHz ",
+          "storeName": "Zah Computers",
+          "price": 150000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6400-pc5-51200-cl32-desktop-memory/"
+        },
+        {
+          "Name": "Corsair VENGEANCE® RGB 32GB (2x16GB) 6000MT/s",
+          "storeName": "Zah Computers",
+          "price": 149500.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl36-memory-kit-black/"
+        },
+        {
+          "Name": "Corsair Vengeance RGB 32GB (1x32GB) 6000MHz ",
+          "storeName": "Zah Computers",
+          "price": 71499.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-32gb-1x32gb-6000mhz-cl38-1-35v-ddr5-ram-amd-expo-intel-xmp-3-0-desktop-memory-kit/"
+        },
+        {
+          "Name": "Corsair Vengeance 32GB (1x32GB) 6000MT/s ",
+          "storeName": "Zah Computers",
+          "price": 70000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-32gb-1x32gb-ddr5-dram-6000mt-s-cl38-memory-kit-black/"
+        },
+        {
+          "Name": "Corsair Vengeance 32GB (2 x 16GB) 6000Mhz",
+          "storeName": "Zah Computers",
+          "price": 40000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory/"
+        },
+        {
+          "Name": "Corsair Vengeance RGB 32GB (2 x 16GB) 6000MHz",
+          "storeName": "Zah Computers",
+          "price": 38500.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory-2/"
+        },
+        {
+          "Name": "Corsair Vengeance RGB 32GB (2 x 16GB) 6000Mhz",
+          "storeName": "Zah Computers",
+          "price": 79500.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory/"
+        },
+        {
+          "Name": "Corsair VENGEANCE® 32GB (2x16GB) 6000MT/s",
+          "storeName": "Zah Computers",
+          "price": 78000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-32gb-2x16gb-ddr5-dram-6000mt-s-cl36/"
+        },
+        {
+          "Name": "Corsair VENGEANCE® RGB 32GB (2x16GB) 6000MT/s ",
+          "storeName": "Zah Computers",
+          "price": 89500.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl36-amd-expo-intel-xmp-memory-kit/"
+        },
+        {
+          "Name": "Corsair VENGEANCE® 32GB (2x16GB) 6000MT/s ",
+          "storeName": "Zah Computers",
+          "price": 35500.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-32gb-2x16gb-ddr5-dram-6000mt-s-cl36-memory-kit-black/"
+        },
+        {
+          "Name": "CORSAIR VENGEANCE 32GB DDR5 6000MHz",
+          "storeName": "Zicomputer",
+          "price": 128000.0,
+          "url": "https://zicomputer.com/product/corsair-vengeance-32gb-ddr5-6000mhz/"
+        },
+        {
+          "Name": "CORSAIR VENGEANCE RGB 32GB DDR5 6000MHz ",
+          "storeName": "Zicomputer",
+          "price": 130000.0,
+          "url": "https://zicomputer.com/product/corsair-vengeance-rgb-32gb-ddr5-6000mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_2",
+      "name": "G.SKILL Trident Z5 32GB DDR5 6000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "G.Skill Trident Z5 RGB DDR5 32GB 16GBx2 6000MHz ",
+          "storeName": "AMD House",
+          "price": 119000.0,
+          "url": "https://amdhouse.pk/product/g-skill-trident-z5-rgb-ddr5-32gb-16gbx2-6000mhz-cl36-xmp-expo-dual-channel-kit-black-new-in-10-months-wty/"
+        },
+        {
+          "Name": "G.Skill Trident Z5 Neo RGB 32GB (2x16GB) 6000MHz ",
+          "storeName": "Junaid Tech",
+          "price": 144999.0,
+          "url": "https://www.junaidtech.pk/product/g-skill-trident-z5-neo-rgb-32gb-2x16gb-6000mhz-c36-ddr5-desktop-memory-matte-black"
+        },
+        {
+          "Name": "XPG Lancer Blade RGB 32GB DDR5 6000MHz ",
+          "storeName": "RB Tech N Games",
+          "price": 134999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/rams/xpg-lancer-blade-rgb-32gb-ddr5-6000mhz-cl36-2x16gb-desktop-memory/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 RGB Series 32GB (2 x 16GB) 6400MHz ",
+          "storeName": "Zah Computers",
+          "price": 152000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-rgb-series-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6400-pc5-51200-desktop-memory-white/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 RGB Series 32GB (2 x 16GB) 6400MHz ",
+          "storeName": "Zah Computers",
+          "price": 152000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-rgb-series-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6400-pc5-51200-desktop-memory/"
+        },
+        {
+          "Name": "XPG Lancer Blade RGB 32GB (2x16GB) 6000MHz ",
+          "storeName": "Zah Computers",
+          "price": 135000.0,
+          "url": "https://zahcomputers.pk/product/xpg-lancer-blade-rgb-32gb-2x16gb-6000mhz-c36-ddr5-dram-memory-black/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 Neo RGB Series AMD EXPO 32GB (2 x 16GB) 6000MHz",
+          "storeName": "Zah Computers",
+          "price": 120000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-neo-rgb-series-amd-expo-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory-2/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 Neo RGB Series AMD EXPO 32GB (2 x 16GB) 6000MHz",
+          "storeName": "Zah Computers",
+          "price": 152000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-neo-rgb-series-amd-expo-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 RGB Series 32GB (2 x 16GB) 6000MHz",
+          "storeName": "Zah Computers",
+          "price": 152000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-rgb-series-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory-model-white/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 RGB Series 32GB (2 x 16GB) 6000MHz",
+          "storeName": "Zah Computers",
+          "price": 152000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-rgb-series-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory/"
+        },
+        {
+          "Name": "XPG Lancer Blade RGB 32GB (2x16GB) 6000MHz ",
+          "storeName": "Zah Computers",
+          "price": 72000.0,
+          "url": "https://zahcomputers.pk/product/xpg-lancer-blade-rgb-32gb-2x16gb-6000mhz-c36-ddr5-dram-memory-white/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 Royal Series AMD EXPO 32GB 6000MHz",
+          "storeName": "Zah Computers",
+          "price": 53000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-royal-series-amd-expo-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6000-2/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 Royal Series 32GB (2 x 16GB) 6400MHz",
+          "storeName": "Zah Computers",
+          "price": 53000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-royal-series-32gb-ddr5-6400-pc5-51200-desktop-memory-gold/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 RGB Series 32GB (2 x 16GB) DDR5 6000MHz ",
+          "storeName": "Zah Computers",
+          "price": 162000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-rgb-series-32gb-2-x-16gb-pc-ram-ddr5-6000-mhz-desktop-memory/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 RGB Series 32GB (2 x 16GB) DDR5 6000MHz ",
+          "storeName": "Zah Computers",
+          "price": 162000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-rgb-series-32gb-2-x-16gb-pc-ram-ddr5-6000-mhz-desktop-memory-2/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 RGB 32GB 6000MHz",
+          "storeName": "Zicomputer",
+          "price": 135000.0,
+          "url": "https://zicomputer.com/product/gskill-trident-z5-rgb-32gb-ddr5-6000mhz/"
+        },
+        {
+          "Name": "LANCER RGB 32GB 6000MHz",
+          "storeName": "Zicomputer",
+          "price": 135000.0,
+          "url": "https://zicomputer.com/product/lancer-rgb-32gb-ddr5-6000mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_3",
+      "name": "XPG D35G 32GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "XPG Spectrix D35G RGB 32GB (2x16GB) 3200MHz",
+          "storeName": "Junaid Tech",
+          "price": 71499.0,
+          "url": "https://www.junaidtech.pk/product/xpg-spectrix-d35g-rgb-32gb-2x16gb-3200mhz-c16-ddr4-ram-white"
+        },
+        {
+          "Name": "XPG Spectrix D35G RGB 32GB (2x16GB) 3200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 71499.0,
+          "url": "https://www.junaidtech.pk/product/xpg-spectrix-d35g-rgb-32gb-2x16gb-3200mhz-c16-ddr4-black-ram"
+        },
+        {
+          "Name": "XPG Spectrix D35G RGB DDR4 DRAM ",
+          "storeName": "Czone",
+          "price": 64000.0,
+          "url": "https://www.czone.com.pk/xpg-spectrix-d35g-rgb-32gb-3200mhz-cl16-ddr4"
+        },
+        {
+          "Name": "XPG Spectrix D35G RGB 32GB (2x16GB) 3200MHz ",
+          "storeName": "Zah Computers",
+          "price": 64999.0,
+          "url": "https://zahcomputers.pk/product/xpg-spectrix-d35g-rgb-32gb-2x16gb-3200mhz-cl16-ddr4-dram-desktop-memory-black/"
+        },
+        {
+          "Name": "XPG Spectrix D35G RGB 32GB (2x16GB) 3200MHz ",
+          "storeName": "Zah Computers",
+          "price": 64999.0,
+          "url": "https://zahcomputers.pk/product/xpg-spectrix-d35g-rgb-32gb-2x16gb-3200mhz-cl16-ddr4-dram-desktop-memory-white/"
+        },
+        {
+          "Name": "XPG Spectrix D35G RGB 32GB (2x16GB) 3200MHz",
+          "storeName": "Zah Computers",
+          "price": 71499.0,
+          "url": "https://zahcomputers.pk/product/xpg-spectrix-d35g-rgb-32gb-2x16gb-3200mhz-c18-ddr4-dram-desktop-memory-white/"
+        },
+        {
+          "Name": "XPG Spectrix D35G RGB 32GB (2x16GB) 3200MHz ",
+          "storeName": "Zah Computers",
+          "price": 71499.0,
+          "url": "https://zahcomputers.pk/product/xpg-spectrix-d35g-rgb-32gb-2x16gb-3200mhz-c18-ddr4-dram-desktop-memory-black/"
+        },
+        {
+          "Name": "XPG D35G 32GB DDR4 3200MHz RAM Dual-Channel",
+          "storeName": "Zicomputer",
+          "price": 65000.0,
+          "url": "https://zicomputer.com/product/xpg-d35g-32gb-ddr4-3200mhz-dual-channel/"
+        }
+      ]
+    },
+    {
+      "id": "ram_4",
+      "name": "Lexar 16GB SODIMM DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Lexar SODIMM 16GB (1x16GB) 5600MHz ",
+          "storeName": "Junaid Tech",
+          "price": 59499.0,
+          "url": "https://www.junaidtech.pk/product/lexar-sodimm-16gb-1x16gb-5600mhz-c46-ddr5-ram"
+        },
+        {
+          "Name": "Lexar SODIMM 16GB DDR5 RAM 5600 MHz",
+          "storeName": "Czone",
+          "price": 57500.0,
+          "url": "https://www.czone.com.pk/memory-module-ram-laptop-sod-ddr5-memory-lexar-sodimm-16gb-ddr5-ram-5600-mhz-laptop-ram-memory-ld5s16g56c46st-bgs-pakistan-p.17196.aspx"
+        },
+        {
+          "Name": "Lexar UDIMM 16GB DDR5 RAM 5600MHz",
+          "storeName": "Czone",
+          "price": 57500.0,
+          "url": "https://www.czone.com.pk/memory-module-ram-desktop-ddr5-memory-lexar-udimm-16gb-ddr5-ram-5600mhz-288-pin-cl46-45-45-90-1-1v-high-performance-gaming-dram-u-dimm-for-pc-ld5u16g56c46st-bgs-pakistan-p.19336.aspx"
+        },
+        {
+          "Name": "Lexar SODIMM 16GB (1x16GB) 5600MT/s",
+          "storeName": "RB Tech N Games",
+          "price": 56499.0,
+          "url": "https://rbtechngames.com/shop-2/laptops/laptop-ram/lexar-sodimm-16gb-1x16gb-5600mt-s-cl46-ddr5-laptop-memory/"
+        },
+        {
+          "Name": "Lexar 16GB (1x16GB) 5600MT/s ",
+          "storeName": "Zah Computers",
+          "price": 55000.0,
+          "url": "https://zahcomputers.pk/product/lexar-16gb-1x16gb-5600mt-s-ddr5-udimm-desktop-memory/"
+        },
+        {
+          "Name": "Lexar SODIMM 16GB DDR5 RAM 5600 MHz ",
+          "storeName": "Zah Computers",
+          "price": 65000.0,
+          "url": "https://zahcomputers.pk/product/lexar-sodimm-16gb-ddr5-ram-5600-mhz-laptop-ram-memory/"
+        },
+        {
+          "Name": "Lexar 16GB DDR5 5600MHz",
+          "storeName": "Zicomputer",
+          "price": 53000.0,
+          "url": "https://zicomputer.com/product/lexar-16gb-ddr5-5600mhz-desktop-ram/"
+        }
+      ]
+    },
+    {
+      "id": "ram_5",
+      "name": "Corsair Vengeance 64GB DDR5 6000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance RGB 64GB (2 x 32GB) 6000MHz ",
+          "storeName": "Zah Computers",
+          "price": 165000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-64gb-2-x-32gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory-2/"
+        },
+        {
+          "Name": "Corsair VENGEANCE RGB 64GB (2 x 32GB) 6000MHz ",
+          "storeName": "Zah Computers",
+          "price": 285000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-64gb-2-x-32gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory/"
+        },
+        {
+          "Name": "Corsair Vengeance 64GB (2 x 32GB) 6000MHz",
+          "storeName": "Zah Computers",
+          "price": 58000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-64gb-2-x-32gb-ddr5-6000-pc5-48000-desktop-memory/"
+        },
+        {
+          "Name": "Corsair Vengeance 64GB (2 x 32GB) 6600MHz ",
+          "storeName": "Zah Computers",
+          "price": 156000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-64gb-2-x-32gb-288-pin-pc-ram-ddr5-6600-pc5-52800-desktop-memory-kit/"
+        },
+      
+        {
+          "Name": "CORSAIR Vengeance RGB 64GB (2 x 32GB) 6000MHz",
+          "storeName": "Zah Computers",
+          "price": 68000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-64gb-2-x-32gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory-kit/"
+        }
+      ]
+    },
+    {
+      "id": "ram_6",
+      "name": "XPG Lancer 64GB DDR5 6000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "XPG Lancer DDR5 RGB 6000MHz",
+          "storeName": "Zah Computers",
+          "price": 75000.0,
+          "url": "https://zahcomputers.pk/product/xpg-lancer-ddr5-rgb-6000mhz-64gb-32gbx2-memory-kit/"
+        },
+        {
+          "Name": "XPG Lancer Blade RGB DDR5 6000MHz",
+          "storeName": "Zah Computers",
+          "price": 95000.0,
+          "url": "https://zahcomputers.pk/product/xpg-lancer-blade-rbg-ddr5-6000mhz-cl30-64gb-2x32gb-pc5-48000-ram-288-pins-udimm-desktop-memory-kit-black-heatsink/"
+        },
+        {
+          "Name": "XPG Lancer Blade RGB DDR5 6000MHz",
+          "storeName": "Zah Computers",
+          "price": 292000.0,
+          "url": "https://zahcomputers.pk/product/xpg-lancer-blade-rbg-ddr5-6000mhz-cl30-65gb-2x32gb-pc5-48000-ram-288-pins-udimm-desktop-memory-kit-white-heatsink/"
+        },
+        {
+          "Name": "XPG Lancer Blade DDR5 6000MHz ",
+          "storeName": "Zah Computers",
+          "price": 72000.0,
+          "url": "https://zahcomputers.pk/product/xpg-lancer-blade-ddr5-6000mhz-cl30-64gb-2x32gb-pc5-48000-ram-288-pins-udimm-desktop-memory-kit-black/"
+        },
+        {
+          "Name": "XPG Lancer Blade DDR5 6000MHz",
+          "storeName": "Zah Computers",
+          "price": 280000.0,
+          "url": "https://zahcomputers.pk/product/xpg-lancer-blade-ddr5-6000mhz-cl30-64gb-2x32gb-pc5-48000-ram-288-pins-udimm-desktop-memory-kit-white/"
+        },
+        {
+          "Name": "XPG Lancer DDR5 RGB 6000MHz ",
+          "storeName": "Zah Computers",
+          "price": 77500.0,
+          "url": "https://zahcomputers.pk/product/xpg-lancer-ddr5-rgb-6000mhz-64gb-32gbx2-cl40-40-40-memory-kit/"
+        },
+        {
+          "Name": "XPG LANCER BLADE 64GB DDR5 6000MHz",
+          "storeName": "Zicomputer",
+          "price": 260000.0,
+          "url": "https://zicomputer.com/product/xpg-lancer-blade-64gb-ddr5-6000mhz-cl30/"
+        }
+      ]
+    },
+    {
+      "id": "ram_7",
+      "name": "Transcend JetRAM 16GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Transcend JetRAM 16GB DDR5 4800MHz Single Stick",
+          "storeName": "AMD House",
+          "price": 10000.0,
+          "url": "https://amdhouse.pk/product/transcend-jetram-16gb-ddr5-4800mhz-single-stick/"
+        },
+        {
+          "Name": "Transcend JetRam 16GB (8+8 GB) 4800MHz",
+          "storeName": "AMD House",
+          "price": 15000.0,
+          "url": "https://amdhouse.pk/product/transcend-jetram-16gb-4800mhz-ddr5-dual-channel/"
+        },
+        {
+          "Name": "Transcend JetRam 16GB 4800MHz ",
+          "storeName": "Junaid Tech",
+          "price": 51499.0,
+          "url": "https://www.junaidtech.pk/product/transcend-jetram-16gb-4800mhz-c40-ddr5-desktop-memory"
+        },
+        {
+          "Name": "Transcend JetRam 16GB 4800MHz ",
+          "storeName": "Junaid Tech",
+          "price": 52999.0,
+          "url": "https://www.junaidtech.pk/product/transcend-jetram-16gb-4800mhz-c40-ddr5-laptop-memory"
+        },
+        {
+          "Name": "Transcend JetRam 16GB 4800MHz ",
+          "storeName": "Zah Computers",
+          "price": 59499.0,
+          "url": "https://zahcomputers.pk/product/transcend-jetram-16gb-4800mhz-c40-ddr5-so-dimm-laptop-memory/"
+        },
+        {
+          "Name": "Transcend JetRam 16GB 4800MHz",
+          "storeName": "Zah Computers",
+          "price": 28000.0,
+          "url": "https://zahcomputers.pk/product/transcend-jetram-16gb-4800mhz-c40-ddr5-u-dimm-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_8",
+      "name": "XPG Spectrix D35G 32GB DDR4 3600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "XPG Spectrix D35G RGB 32GB 2x16GB DDR4 3600MHz CL18 Desktop Memory Black",
+          "storeName": "Czone",
+          "price": 64000.0,
+          "url": "https://www.czone.com.pk/xpg-spectrix-d35g-rgb-32gb-2x16gb-ddr4-3600mhz-cl18-desktop-memory-black"
+        },
+        {
+          "Name": "XPG Spectrix D35G RGB 32GB (2x16GB) 3600MHz C18 DDR4 DRAM Desktop Memory White (Used)",
+          "storeName": "Zah Computers",
+          "price": 44000.0,
+          "url": "https://zahcomputers.pk/product/xpg-spectrix-d35g-rgb-32gb-2x16gb-3600mhz-c18-ddr4-dram-desktop-memory-white-used/"
+        },
+        {
+          "Name": "XPG Spectrix D35G RGB 32GB 3600MHz C18 DDR4 DRAM Desktop Memory Black",
+          "storeName": "Zah Computers",
+          "price": 23500.0,
+          "url": "https://zahcomputers.pk/product/xpg-spectrix-d35g-rgb-32gb-3600mhz-c18-ddr4-dram-desktop-memory-black/"
+        },
+        {
+          "Name": "XPG Spectrix D35G RGB 32GB 3600MHz C18 DDR4 DRAM Desktop Memory White",
+          "storeName": "Zah Computers",
+          "price": 23500.0,
+          "url": "https://zahcomputers.pk/product/xpg-spectrix-d35g-rgb-32gb-3600mhz-c18-ddr4-dram-desktop-memory-white/"
+        },
+        {
+          "Name": "XPG Spectrix D35G RGB 32GB (2x16GB) 3600MHz C18 DDR4 DRAM Desktop Memory White",
+          "storeName": "Zah Computers",
+          "price": 71499.0,
+          "url": "https://zahcomputers.pk/product/xpg-spectrix-d35g-rgb-32gb-2x16gb-3600mhz-c18-ddr4-dram-desktop-memory-white/"
+        },
+        {
+          "Name": "XPG Spectrix D35G RGB 32GB (2x16GB) 3600MHz C18 DDR4 DRAM Desktop Memory Black",
+          "storeName": "Zah Computers",
+          "price": 71499.0,
+          "url": "https://zahcomputers.pk/product/xpg-spectrix-d35g-rgb-32gb-2x16gb-3600mhz-c18-ddr4-dram-desktop-memory-black/"
+        }
+      ]
+    },
+    {
+      "id": "ram_9",
+      "name": "AData 16GB DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "AData 16GB 5600MT/s DDR5 RAM",
+          "storeName": "AMD House",
+          "price": 14500.0,
+          "url": "https://amdhouse.pk/product/adata-16gb-5600mt-s-ddr5-ram/"
+        },
+        {
+          "Name": "Adata 16GB (1x16GB) 5600MHz ",
+          "storeName": "Junaid Tech",
+          "price": 52249.0,
+          "url": "https://www.junaidtech.pk/product/adata-16gb-1x16gb-5600mhz-c46-ddr5-laptop-memory"
+        },
+        {
+          "Name": "Adata 16GB (1x16GB) 5600MHz",
+          "storeName": "Junaid Tech",
+          "price": 57499.0,
+          "url": "https://www.junaidtech.pk/product/adata-16gb-1x16gb-5600mhz-c46-ddr5-desktop-memory"
+        },
+        {
+          "Name": "Adata 16GB (1x16GB) 5600MHz ",
+          "storeName": "RB Tech N Games",
+          "price": 52499.0,
+          "url": "https://rbtechngames.com/shop-2/computers/rams/adata-16gb-1x16gb-5600mhz-c46-ddr5-u-dimm-desktop-memory/"
+        },
+        {
+          "Name": "ADATA 16GB 5600MHz",
+          "storeName": "Zah Computers",
+          "price": 56000.0,
+          "url": "https://zahcomputers.pk/product/adata-16gb-5600mhz-c46-ddr5-u-dimm-desktop-memory/"
+        },
+        {
+          "Name": "ADATA 16GB 5600MHz",
+          "storeName": "Zah Computers",
+          "price": 60499.0,
+          "url": "https://zahcomputers.pk/product/adata-16gb-5600mhz-c46-ddr5-so-dimm-laptop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_10",
+      "name": "Transcend JetRam 16GB DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Transcend JetRam 16GB (1x16GB) 5600MHz",
+          "storeName": "Junaid Tech",
+          "price": 71499.0,
+          "url": "https://www.junaidtech.pk/product/transcend-jetram-16gb-1x16gb-5600mhz-ddr5-desktop-memory"
+        },
+        {
+          "Name": "Transcend JetRam 16GB 5600MHzy",
+          "storeName": "Junaid Tech",
+          "price": 71499.0,
+          "url": "https://www.junaidtech.pk/product/transcend-jetram-16gb-5600mhz-c46-ddr5-laptop-memory"
+        },
+        {
+          "Name": "Transcend JetRam 16GB (16GBx1) 5600MHZ ",
+          "storeName": "RB Tech N Games",
+          "price": 52499.0,
+          "url": "https://rbtechngames.com/shop-2/computers/rams/transcend-jetram-16gb-16gbx1-5600mhz-cl46-ddr5/"
+        },
+        {
+          "Name": "Transcend JetRam 16GB (1x16GB) 5600MHz ",
+          "storeName": "Zah Computers",
+          "price": 66999.0,
+          "url": "https://zahcomputers.pk/product/transcend-jetram-16gb-1x16gb-5600mhz-c46-ddr5-so-dimm-laptop-memory/"
+        },
+        {
+          "Name": "Transcend JetRam 16GB (1x16GB) 5600MHz",
+          "storeName": "Zah Computers",
+          "price": 66999.0,
+          "url": "https://zahcomputers.pk/product/transcend-jetram-16gb-1x16gb-5600mhz-c46-ddr5-u-dimm-desktop-memory/"
+        },
+        {
+          "Name": "Transcend JetRam 16GB DDR5 5600MHz ",
+          "storeName": "Zicomputer",
+          "price": 55000.0,
+          "url": "https://zicomputer.com/product/transcend-jetram-16gb-ddr5-5600mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_11",
+      "name": "CORSAIR VENGEANCE 64GB DDR5 6000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance RGB 64GB (2x32GB) 6000MHz ",
+          "storeName": "Junaid Tech",
+          "price": 294999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-rgb-64gb-2x32gb-6000mhz-c40-ddr5-ram-amd-expo-memory-kit-black"
+        },
+        {
+          "Name": "Corsair Vengeance RGB 64GB (2x32GB) 6000MHz ",
+          "storeName": "Junaid Tech",
+          "price": 299999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-rgb-64gb-2x32gb-6000mhz-cl30-ddr5-ram-amd-expo-white"
+        },
+        {
+          "Name": "Corsair Vengeance 64GB (2x32GB) 6000MHz ",
+          "storeName": "Zah Computers",
+          "price": 155000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-64gb-2x32gb-6000mhz-c30-ddr5-dram-memory-kit-black/"
+        },
+        {
+          "Name": "Corsair DOMINATOR Platinum RGB Grey 64GB 6000MHz ",
+          "storeName": "Zah Computers",
+          "price": 89500.0,
+          "url": "https://zahcomputers.pk/product/corsair-dominator-platinum-rgb-grey-64gb-6000mhz-amd-expo-ddr5-memory-kit/"
+        },
+        {
+          "Name": "Corsair VENGEANCE RGB DDR5 64GB (2x32GB) DDR5 6000MHz CL30 AMD EXPO Intel XMP iCUE Compatible Computer Memory",
+          "storeName": "Zah Computers",
+          "price": 295000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-ddr5-64gb-2x32gb-ddr5-6000mhz-cl30-amd-expo-intel-xmp-icue-compatible-computer-memory/"
+        },
+        {
+          "Name": "CORSAIR VENGEANCE RGB 64GB DDR5 6000MT/s ",
+          "storeName": "Zicomputer",
+          "price": 260000.0,
+          "url": "https://zicomputer.com/product/corsair-vengeance-rgb-64gb-ddr5-6000mts/"
+        }
+      ]
+    },
+    {
+      "id": "ram_12",
+      "name": "Viper Venom 32GB DDR5 6000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Patriot VIPER VENOM DDR5 32GB 16GBx2 6000MHz ",
+          "storeName": "AMD House",
+          "price": 115000.0,
+          "url": "https://amdhouse.pk/product/patriot-viper-venom-ddr5-32gb-16gbx2-6000mhz-cl30-rgb-dual-channel-kit-new-in-10-months-wty/"
+        },
+        {
+          "Name": "Patriot Viper Venom RGB 32GB (2X16GB) 6000MHz",
+          "storeName": "Junaid Tech",
+          "price": 144999.0,
+          "url": "https://www.junaidtech.pk/product/patriot-viper-venom-rgb-32gb-2x16gb-6000mhz-cl36-ddr5-ram"
+        },
+        {
+          "Name": "Patriot Viper Venom RGB 32GB (2x16GB) 6000MT/s",
+          "storeName": "RB Tech N Games",
+          "price": 134999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/rams/patriot-viper-venom-rgb-32gb-2x16gb-6000mt-s-cl30-ddr5-ram/"
+        },
+        {
+          "Name": "Viper Venom RGB 32GB (2x16GB) 6000MT/s ",
+          "storeName": "Zah Computers",
+          "price": 135000.0,
+          "url": "https://zahcomputers.pk/product/viper-venom-rgb-32gb-2x16gb-6000mt-s-cl30-ddr5-ram/"
+        },
+        {
+          "Name": "Patriot Viper Venom 32GB (16*2) DDR5 6000MT/s",
+          "storeName": "Zicomputer",
+          "price": 135000.0,
+          "url": "https://zicomputer.com/product/patriot-viper-venom-32gb-ddr5-6000mt-s-cl30/"
+        }
+      ]
+    },
+    {
+      "id": "ram_13",
+      "name": "JUHOR 32GB DDR4 3600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "JUHOR RAM DDR4 3600MHz CL18 32GB 16GBx2 Kit",
+          "storeName": "AMD House",
+          "price": 20000.0,
+          "url": "https://amdhouse.pk/product/juhor-ram-ddr4-3600mhz-cl18-32gb-16gbx2-kit/"
+        },
+        {
+          "Name": "V-Color Prism Pro RGB 32GB(16GBx2)DDR4 DRAM 3600MHz ",
+          "storeName": "Zah Computers",
+          "price": 65000.0,
+          "url": "https://zahcomputers.pk/product/v-color-prism-pro-rgb-32gb16gbx2ddr4-dram-3600mhz-memory-kit-silver-copper-alloy/"
+        },
+        {
+          "Name": "V-Color SCC(2+2) Prism Pro RGB 32GB(16GBx2)DDR4 DRAM 3600MHz",
+          "storeName": "Zah Computers",
+          "price": 29960.0,
+          "url": "https://zahcomputers.pk/product/v-color-scc22-prism-pro-rgb-32gb16gbx2ddr4-dram-3600mhz-memory-kit-silver-copper-alloy/"
+        },
+        {
+          "Name": "G.SKILL Trident Z Royal Series Gold 32GB (16GBx2) 3600MHz ",
+          "storeName": "Zah Computers",
+          "price": 39000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z-royal-series-gold-32gb-16gbx2-rgb-ddr4-3600mhz-desktop-memory/"
+        },
+        {
+          "Name": "G.SKILL Ripjaws V 32GB (16GBx2) DDR4 3600 Mhz ",
+          "storeName": "Zah Computers",
+          "price": 25700.0,
+          "url": "https://zahcomputers.pk/product/g-skill-ripjaws-v-32gb-16gbx2-ddr4-3600-mhz-desktop-gaming-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_14",
+      "name": "XPG Spectrix D35G 16GB DDR4 3200MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "XPG Spectrix D35G RGB 16GB (2x8GB) 3200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 37999.0,
+          "url": "https://www.junaidtech.pk/product/xpg-spectrix-d35g-rgb-16gb-2x8gb-3200mhz-c16-ddr4-memory-white"
+        },
+        {
+          "Name": "XPG SPECTRIX D35G RGB DDR4 3200MHz",
+          "storeName": "Czone",
+          "price": 43000.0,
+          "url": "https://www.czone.com.pk/xpg-d35-16gb"
+        },
+        {
+          "Name": "XPG SPECTRIX D35G 3200MHz",
+          "storeName": "Czone",
+          "price": 43000.0,
+          "url": "https://www.czone.com.pk/adata-xpg-spectrix-d35g-desktop-memory-kit-16gb-2x8gb-ddr4-3200mhz-cl16-rgb-black-ax4u32008g16adtbkd"
+        },
+        {
+          "Name": "XPG Spectrix D35G RGB 16GB (2x8GB) 3200MHz",
+          "storeName": "Zah Computers",
+          "price": 44000.0,
+          "url": "https://zahcomputers.pk/product/xpg-spectrix-d35g-rgb-16gb-2x8gb-3200mhz-c18-ddr4-dram-desktop-memory-white/"
+        },
+        {
+          "Name": "XPG Spectrix D35G RGB 16GB (2x8GB) 3200MHz",
+          "storeName": "Zah Computers",
+          "price": 44000.0,
+          "url": "https://zahcomputers.pk/product/xpg-spectrix-d35g-rgb-16gb-2x8gb-3200mhz-c18-ddr4-dram-desktop-memory-black/"
+        }
+      ]
+    },
+    {
+      "id": "ram_15",
+      "name": "Adata Premier 32GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Adata Premier 32GB (1x32GB) 3200MHz",
+          "storeName": "Junaid Tech",
+          "price": 49499.0,
+          "url": "https://www.junaidtech.pk/product/adata-premier-32gb-1x32gb-3200mhz-c22-ddr4-laptop-memory"
+        },
+        {
+          "Name": "Adata Premier 32GB 3200MHz",
+          "storeName": "Junaid Tech",
+          "price": 67999.0,
+          "url": "https://www.junaidtech.pk/product/adata-premier-32gb-3200mhz-ddr4-u-dimm-ram-memory"
+        },
+        {
+          "Name": "ADATA Premier 32GB (1x32GB) 3200MHz",
+          "storeName": "Czone",
+          "price": 49400.0,
+          "url": "https://www.czone.com.pk/adata-premier-32gb-3200mhz-c22-ddr4-so-dimm"
+        },
+        {
+          "Name": "ADATA Premier 32GB 3200MHz ",
+          "storeName": "Zah Computers",
+          "price": 63999.0,
+          "url": "https://zahcomputers.pk/product/adata-premier-32gb-3200mhz-c22-ddr4-so-dimm-memory/"
+        },
+        {
+          "Name": "ADATA Premier 32GB 3200MHz",
+          "storeName": "Zah Computers",
+          "price": 63999.0,
+          "url": "https://zahcomputers.pk/product/adata-premier-32gb-3200mhz-c22-ddr4-u-dimm-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_16",
+      "name": "Transcend Jetram 16GB DDR5 6400MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Transcend 16GB (1x16GB) 6400MHz",
+          "storeName": "Junaid Tech",
+          "price": 71499.0,
+          "url": "https://www.junaidtech.pk/product/transcend-16gb-1x16gb-6400mhz-cl52-ddr5-memory-module"
+        },
+        {
+          "Name": "Transcend 16GB 6400MT/s ",
+          "storeName": "Junaid Tech",
+          "price": 71499.0,
+          "url": "https://www.junaidtech.pk/product/transcend-16gb-6400mts-ddr5-cl52-csodimm-laptop-memory"
+        },
+        {
+          "Name": "Transcend Jetram 16GB (1x16GB) 6400Mhz ",
+          "storeName": "RB Tech N Games",
+          "price": 49999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/rams/transcend-jetram-16gb-1x16gb-6400mhz-cl52-cudimm-ddr5-ram/"
+        },
+        {
+          "Name": "Transcend JetRam 16GB (1x16GB) 6400MHz ",
+          "storeName": "Zah Computers",
+          "price": 71499.0,
+          "url": "https://zahcomputers.pk/product/transcend-jetram-16gb-1x16gb-6400mhz-c52-ddr5-so-dimm-laptop-memory/"
+        },
+        {
+          "Name": "Transcend JetRam 16GB (1x16GB) 6400MHz ",
+          "storeName": "Zah Computers",
+          "price": 71499.0,
+          "url": "https://zahcomputers.pk/product/transcend-jetram-16gb-1x16gb-6400mhz-c52-ddr5-u-dimm-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_17",
+      "name": "ADATA 32GB SODIMM DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Adata 32GB (1x32GB) 5600MHz ",
+          "storeName": "Junaid Tech",
+          "price": 99999.0,
+          "url": "https://www.junaidtech.pk/product/adata-32gb-1x32gb-5600mhz-c46-ddr5-desktop-memory"
+        },
+        {
+          "Name": "Adata 32GB (1x32GB) 5600MHz ",
+          "storeName": "Junaid Tech",
+          "price": 115999.0,
+          "url": "https://www.junaidtech.pk/product/adata-32gb-1x32gb-5600mhz-c46-ddr5-laptop-memory"
+        },
+        {
+          "Name": "ADATA 32GB DDR 5600MHz",
+          "storeName": "Czone",
+          "price": 114000.0,
+          "url": "https://www.czone.com.pk/adata-32gb-ddr5-5600mhz-so-dimm-laptop-memory"
+        },
+        {
+          "Name": "ADATA 32GB 5600MHz ",
+          "storeName": "Zah Computers",
+          "price": 110000.0,
+          "url": "https://zahcomputers.pk/product/adata-32gb-5600mhz-c46-ddr5-so-dimm-laptop-memory/"
+        },
+        {
+          "Name": "ADATA 32GB 5600MHz ",
+          "storeName": "Zah Computers",
+          "price": 120999.0,
+          "url": "https://zahcomputers.pk/product/adata-32gb-32gb-5600mhz-c46-ddr5-u-dimm-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_18",
+      "name": "Corsair Vengeance LPX 32GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance LPX 32GB (2x16GB) 3200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 57999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-lpx-32gb-2x16gb-3200mhz-c16-ddr4-dram-memory-kit-black"
+        },
+        {
+          "Name": "Corsair Vengeance RGB Pro 32GB (2x16GB) 3200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 76999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-rgb-pro-2x16gb-3200mhz-c16-ddr4-memory-black"
+        },
+        {
+          "Name": "CORSAIR Vengeance LPX DDR4 RAM 32GB (2x16GB) 3200MHz",
+          "storeName": "Czone",
+          "price": 54000.0,
+          "url": "https://www.czone.com.pk/corsair-vengeance-lpx-ddr4-32gb-3200mhz"
+        },
+        {
+          "Name": "CORSAIR Vengeance LPX 32GB (2 x 16GB) 3200Mhz ",
+          "storeName": "Zah Computers",
+          "price": 70000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-lpx-32gb-2-x-16gb-288-pin-ddr4-sdram-ddr4-3200mhz-desktop-memory/"
+        },
+        {
+          "Name": "Corsair VENGEANCE® RGB PRO 32GB (2 x 16GB) 3200MHz",
+          "storeName": "Zah Computers",
+          "price": 31000.0,
+          "url": "https://zahcomputers.pk/product/vengeance-rgb-pro-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-black/"
+        }
+      ]
+    },
+    {
+      "id": "ram_19",
+      "name": "Corsair Vengeance 32GB DDR5 5600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance RGB 32GB (2x16GB) 5600MHz ",
+          "storeName": "Junaid Tech",
+          "price": 140999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-rgb-32gb-2x16gb-5600mhz-c40-ddr5-memory-kit-black"
+        },
+        {
+          "Name": "Corsair Vengeance RGB 32GB DDR5 5600MHz",
+          "storeName": "Zah Computers",
+          "price": 30000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-32gb-ddr5-5600mhz-ram-memory-kit/"
+        },
+        {
+          "Name": "Corsair VENGEANCE RGB DDR5 32GB (2x16GB) DRAM 5600MHz ",
+          "storeName": "Zah Computers",
+          "price": 35000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-ddr5-32gb-2x16gb-dram-5600mhz-cl40-amd-expo-intel-xmp-desktop-memory/"
+        },
+        {
+          "Name": "Corsair VENGEANCE® RGB 32GB (2x16GB) DDR5 DRAM 5600MT/s ",
+          "storeName": "Zah Computers",
+          "price": 35000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-32gb-2x16gb-ddr5-dram-5600mt-s-cl36-amd-expo-intel-xmp-memory-kit/"
+        },
+        {
+          "Name": "Corsair VENGEANCE® 32GB (1x32GB) DDR5 DRAM 5600MT/s",
+          "storeName": "Zah Computers",
+          "price": 67000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-32gb-1x32gb-ddr5-dram-5600mt-s-cl40-memory-kit-black/"
+        }
+      ]
+    },
+    {
+      "id": "ram_20",
+      "name": "Lexar 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Lexar 16GB DDR4 3200MHz Single Module Value RAM New",
+          "storeName": "AMD House",
+          "price": 8000.0,
+          "url": "https://amdhouse.pk/product/lexar-16gb-ddr4-3200mhz-single-module-value-ram-new/"
+        },
+        {
+          "Name": "Lexar 16GB 3200MHz DDR4 ",
+          "storeName": "Junaid Tech",
+          "price": 29999.0,
+          "url": "https://www.junaidtech.pk/product/lexar-16gb-3200mhz-ddr4-udimm-desktop-memory"
+        },
+        {
+          "Name": "Lexar SODIMM 16GB (1x16GB) 3200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 31499.0,
+          "url": "https://www.junaidtech.pk/product/lexar-sodimm-16gb-1x16gb-3200mhz-c22-ddr4-ram"
+        },
+        {
+          "Name": "Lexar 16GB (1x16GB) 3200MHz DDR4 Memory",
+          "storeName": "RB Tech N Games",
+          "price": 28499.0,
+          "url": "https://rbtechngames.com/shop-2/computers/rams/lexar-16gb-1x16gb-3200mhz-ddr4-memory/"
+        },
+        {
+          "Name": "Lexar 16GB 3200 MHz",
+          "storeName": "Zah Computers",
+          "price": 7900.0,
+          "url": "https://zahcomputers.pk/product/lexar-16gb-ld4au016g-b3200gsst-dram-ddr4-3200-mhz-udimm-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_21",
+      "name": "ADATA Premier 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Adata Premier 16GB (1x16GB) 3200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 28499.0,
+          "url": "https://www.junaidtech.pk/product/adata-premier-16gb-1x16gb-3200mhz-c22-ddr4-laptop-memory"
+        },
+        {
+          "Name": "Adata Premier 16GB (1x16GB) 3200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 28499.0,
+          "url": "https://www.junaidtech.pk/product/adata-premier-16gb-3200mhz-ddr4-u-dimm-ram-memory"
+        },
+        {
+          "Name": "ADATA 16GB (1×16) DDR4 3200MHz ",
+          "storeName": "RB Tech N Games",
+          "price": 28499.0,
+          "url": "https://rbtechngames.com/shop-2/computers/rams/adata-16gb-1x16-ddr4-3200mhz-premier-desktop-memory-stick/"
+        },
+        {
+          "Name": "ADATA Premier 16GB 3200MHz ",
+          "storeName": "Zah Computers",
+          "price": 29000.0,
+          "url": "https://zahcomputers.pk/product/adata-premier-16gb-3200mhz-c22-ddr4-u-dimm-memory/"
+        },
+        {
+          "Name": "ADATA Premier 16GB 3200MHz ",
+          "storeName": "Zah Computers",
+          "price": 34999.0,
+          "url": "https://zahcomputers.pk/product/adata-premier-16gb-3200mhz-c22-ddr4-so-dimm-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_22",
+      "name": "G.SKILL Trident Z5 64GB DDR5 6000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "G.SKILL Trident Z5 Neo RGB Series 64GB (2 x 32GB) 6000 ",
+          "storeName": "Zah Computers",
+          "price": 72000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-neo-rgb-series-64gb-2-x-32gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 Neo Series 64GB (2 x 32GB) 6000 ",
+          "storeName": "Zah Computers",
+          "price": 155000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-neo-series-64gb-2-x-32gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 RGB Series 64GB (2 x 32GB) 6000 ",
+          "storeName": "Zah Computers",
+          "price": 155000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-rgb-series-64gb-2-x-32gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory-model-white/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 RGB Series 64GB (2 x 32GB) 6000 ",
+          "storeName": "Zah Computers",
+          "price": 72000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-rgb-series-64gb-2-x-32gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 RGB 64GB DDR5-6000 ",
+          "storeName": "Zicomputer",
+          "price": 250000.0,
+          "url": "https://zicomputer.com/product/gskill-trident-z5-rgb-64gb-ddr5-6000mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_23",
+      "name": "Adata 8GB SODIMM DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Adata Premier 8GB 5600MHz U-DIMM DDR5 ",
+          "storeName": "Junaid Tech",
+          "price": 32799.0,
+          "url": "https://www.junaidtech.pk/product/adata-8gb-5600mhz-desktop-ram-c46"
+        },
+        {
+          "Name": "Adata 8GB 5600MHz C46 DDR5 ",
+          "storeName": "Junaid Tech",
+          "price": 32799.0,
+          "url": "https://www.junaidtech.pk/product/adata-8gb-5600mhz-c46-ddr5-sodimm-laptop-memory"
+        },
+        {
+          "Name": "ADATA Premier 8GB 5600MHz",
+          "storeName": "Zah Computers",
+          "price": 37499.0,
+          "url": "https://zahcomputers.pk/product/adata-premier-8gb-5600mhz-so-dimm-ddr5-laptop-memory/"
+        },
+        {
+          "Name": "ADATA Premier 8GB 5600MHz",
+          "storeName": "Zah Computers",
+          "price": 37499.0,
+          "url": "https://zahcomputers.pk/product/adata-premier-8gb-5600mhz-u-dimm-ddr5-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_24",
+      "name": "Transcend JetRam 32GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Transcend JetRam 32GB (1x32GB) 4800MHz ",
+          "storeName": "Junaid Tech",
+          "price": 97499.0,
+          "url": "https://www.junaidtech.pk/product/transcend-jetram-32gb-1x32gb-4800mhz-c40-ddr5-desktop-memory"
+        },
+        {
+          "Name": "Transcend JetRam 32GB (1x32GB) 4800MHz ",
+          "storeName": "Junaid Tech",
+          "price": 97499.0,
+          "url": "https://www.junaidtech.pk/product/transcend-jetram-32gb-1x32gb-4800mhz-c40-ddr5-laptop-memory"
+        },
+        {
+          "Name": "Transcend JetRam 32GB (1x32GB) 4800MHz ",
+          "storeName": "Zah Computers",
+          "price": 110000.0,
+          "url": "https://zahcomputers.pk/product/transcend-jetram-32gb-1x32gb-4800mhz-c40-ddr5-so-dimm-laptop-memory-2/"
+        },
+        {
+          "Name": "Transcend JetRam 32GB (1x32GB) 4800MHz ",
+          "storeName": "Zah Computers",
+          "price": 104999.0,
+          "url": "https://zahcomputers.pk/product/transcend-jetram-32gb-1x32gb-4800mhz-c40-ddr5-u-dimm-desktop-memory-2/"
+        },
+         {
+          "Name": "Transcend JetRam 16GBx2 32GB DDR5 4800MHz ",
+          "storeName": "AMD House",
+          "price": 90000.0,
+          "url": "https://amdhouse.pk/product/transcend-jetram-32gb-ddr5-4800mhz-ram-2x-new/"
+        }
+      ]
+    },
+    {
+      "id": "ram_25",
+      "name": "Transcend 32GB DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Transcend 32GB (1x32GB) 5600MHz",
+          "storeName": "Junaid Tech",
+          "price": 118999.0,
+          "url": "https://www.junaidtech.pk/product/transcend-32gb-1x32gb-5600mhz-c46-ddr5-desktop-memory"
+        },
+        {
+          "Name": "Transcend 32GB (1x32GB) 5600MHz ",
+          "storeName": "Junaid Tech",
+          "price": 120999.0,
+          "url": "https://www.junaidtech.pk/product/transcend-32gb-1x32gb-5600mhz-c46-ddr5-laptop-memory"
+        },
+        {
+          "Name": "Transcend 32GB (1x32GB) 5600MHz",
+          "storeName": "Zah Computers",
+          "price": 129999.0,
+          "url": "https://zahcomputers.pk/product/transcend-32gb-1x32gb-5600mhz-c46-so-dimm-ddr5-laptop-memory/"
+        },
+        {
+          "Name": "Transcend 32GB (1x32GB) 5600MHz",
+          "storeName": "Zah Computers",
+          "price": 119000.0,
+          "url": "https://zahcomputers.pk/product/transcend-32gb-1x32gb-5600mhz-c46-u-dimm-ddr5-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_26",
+      "name": "TEAMGROUP T-Force Delta 32GB DDR5 6000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Teamgroup T-Force Delta DDR5 32GB 16GBx2 6000MHz ",
+          "storeName": "AMD House",
+          "price": 120000.0,
+          "url": "https://amdhouse.pk/product/teamgroup-t-force-delta-ddr5-32gb-16gbx2-6000mhz-cl38-xmp-expo-dual-channel-kit-new-in-10-months-wty/"
+        },
+        {
+          "Name": "TeamGroup T-Force Delta 32GB (Black)16GBx2 DDR5 6000MHz ",
+          "storeName": "AMD House",
+          "price": 70000.0,
+          "url": "https://amdhouse.pk/product/teamgroup-t-force-delta-32gb-black-16gbx2-ddr5-6000mhz-cl30-expo-argb-ram-new/"
+        },
+        {
+          "Name": "TeamGroup T-Force Delta 32GB (White) 16GBx2 DDR5 6000MHz",
+          "storeName": "AMD House",
+          "price": 63000.0,
+          "url": "https://amdhouse.pk/product/teamgroup-t-force-delta-32gb-white-16gbx2-ddr5-6000mhz-cl30-expo-argb-ram-new/"
+        },
+        {
+          "Name": "TEAMGROUP T-Force Delta RGB 32GB DDR5 6000MHz",
+          "storeName": "Zicomputer",
+          "price": 135000.0,
+          "url": "https://zicomputer.com/product/tforce-delta-rgb-32gb-ddr5-6000-black/"
+        }
+      ]
+    },
+    {
+      "id": "ram_27",
+      "name": "TeamGroup T-Force Delta 32GB DDR5 6400MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "TeamGroup  T-Force Vulcan 32GB (2 x 16GB) 6000 ",
+          "storeName": "Zah Computers",
+          "price": 33000.0,
+          "url": "https://zahcomputers.pk/product/teamgroup-t-force-vulcan-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6000-cl38-pc5-48000-desktop-memory-black/"
+        },
+        {
+          "Name": "TeamGroup T-Force Vulcan 32GB (2 x 16GB) 6000  ",
+          "storeName": "Zah Computers",
+          "price": 110000.0,
+          "url": "https://zahcomputers.pk/product/teamgroup-t-force-vulcan-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6000-cl38-pc5-48000-desktop-memory-red/"
+        },
+        {
+          "Name": "TeamGroup T-Force Delta RGB 32GB (2 x 16GB) 6400",
+          "storeName": "Zah Computers",
+          "price": 129000.0,
+          "url": "https://zahcomputers.pk/product/team-t-force-delta-rgb-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6400-cl40-pc5-51200-desktop-memory-white/"
+        },
+        {
+          "Name": "TeamGroup T-Force Delta RGB 32GB (2 x 16GB) 6400",
+          "storeName": "Zah Computers",
+          "price": 129000.0,
+          "url": "https://zahcomputers.pk/product/team-t-force-delta-rgb-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6400-cl40-pc5-51200-desktop-model/"
+        }
+      ]
+    },
+    {
+      "id": "ram_28",
+      "name": "V-Color Prism Pro 16GB DDR4 3200MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingsman Gaming Innovator 16GB (1x16GB) 3200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 28999.0,
+          "url": "https://www.junaidtech.pk/product/kingsman-gaming-innovator-16gb-1x16gb-3200mhz-cl18-ddr4-dram-desktop-memory-black"
+        },
+        {
+          "Name": "Kingsman Gaming Innovator 16GB (1x16GB) 3200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 28999.0,
+          "url": "https://www.junaidtech.pk/product/kingsman-gaming-innovator-16gb-1x16gb-3200mhz-cl18-ddr4-ram-white"
+        },
+        {
+          "Name": "V-Color Prism Pro RGB 16GB DDR4 DRAM 3200MHz ",
+          "storeName": "Zah Computers",
+          "price": 34000.0,
+          "url": "https://zahcomputers.pk/product/v-color-prism-pro-rgb-16gb-ddr4-dram-3200mhz-single-silver/"
+        },
+        {
+          "Name": "G.SKILL Trident Z RGB 16 GB DDR4-3200 MHz ",
+          "storeName": "Zah Computers",
+          "price": 15700.0,
+          "url": "https://zahcomputers.pk/product/g-skill-tridentz-rgb-16-gb-ddr4-3200-mhz-desktop-memory-single-channel-kit/"
+        }
+      ]
+    },
+    {
+      "id": "ram_29",
+      "name": "G.SKILL Trident Z5 64GB DDR5 6000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "G.SKILL Trident Z5 RGB Series 64GB ",
+          "storeName": "Zah Computers",
+          "price": 72000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-rgb-series-64gb-2-x-32gb-pc-ram-ddr5-6000-mhz-desktop-memory-white/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 Neo RGB Series AMD EXPO 64GB (2x32GB) 6000Mhz ",
+          "storeName": "Zah Computers",
+          "price": 292000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-neo-rgb-series-amd-expo-64gb-2x32gb-288-pin-pc-ram-ddr5-6000mhz/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 RGB Series 64GB (2 x 32GB) 6000 MHz",
+          "storeName": "Zah Computers",
+          "price": 180000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-rgb-series-64gb-2-x-32gb-pc-ram-ddr5-6000-mhz-desktop-memory-2/"
+        },
+        {
+          "Name": "G.SKILL Trident Z5 RGB Series 64GB (2 x 32GB) 6000 MHz",
+          "storeName": "Zah Computers",
+          "price": 180000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-rgb-series-64gb-2-x-32gb-pc-ram-ddr5-6000-mhz-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_30",
+      "name": "Kingston 32GB SODIMM DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingston FURY BEAST 32GB 16GBx2 DDR5 5600MHz",
+          "storeName": "AMD House",
+          "price": 26000.0,
+          "url": "https://amdhouse.pk/product/kingston-fury-beast-32gb-16gbx2-ddr5-5600mhz-new-in-10-months-warranty/"
+        },
+        {
+          "Name": "Kingston ValueRAM 32GB DDR5 5600MHz ",
+          "storeName": "Czone",
+          "price": 114000.0,
+          "url": "https://www.czone.com.pk/kingston-valueram-32gb-ddr5-sodimm-laptop-memory-module-kvr56s46bd832"
+        },
+        {
+          "Name": "Kingston 32GB DDR5 5600MHz ",
+          "storeName": "Zah Computers",
+          "price": 108000.0,
+          "url": "https://zahcomputers.pk/product/kingston-32gb-ddr5-5600-mhz-sodimm-ram/"
+        }
+      ]
+    },
+    {
+      "id": "ram_31",
+      "name": "V-Color Prism Pro 8GB DDR4 3200MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Valuetech Pro DDR4 3200MHz 8GB",
+          "storeName": "AMD House",
+          "price": 6500.0,
+          "url": "https://amdhouse.pk/product/valuetech-pro-ddr4-3200mhz-8gb-single-module-new-in-2-yrs-warranty/"
+        },
+        {
+          "Name": "V-Color Prism Pro RGB 8GB DDR4 DRAM 3200MHz ",
+          "storeName": "Zah Computers",
+          "price": 16500.0,
+          "url": "https://zahcomputers.pk/product/v-color-prism-pro-rgb-8gb-ddr4-dram-3200mhz-single-black/"
+        },
+        {
+          "Name": "V-Color Prism Pro RGB 8GB DDR4 DRAM 3200MHz",
+          "storeName": "Zah Computers",
+          "price": 7600.0,
+          "url": "https://zahcomputers.pk/product/v-color-prism-pro-rgb-8gb-ddr4-dram-3200mhz-single-white/"
+        }
+      ]
+    },
+    {
+      "id": "ram_32",
+      "name": "TEAMGROUP T-Force Delta 16GB DDR4 3200MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "TeamGroup TForce Delta 16GB DDR4 3200MHz ",
+          "storeName": "AMD House",
+          "price": 11000.0,
+          "url": "https://amdhouse.pk/product/teamgroup-tforce-delta-16gb-ddr4-3200mhz-cl18-argb-ram-single-module-new/"
+        },
+        {
+          "Name": "TeamGroup T-Force Delta RGB 16GB (2 x 8GB) 6000 ",
+          "storeName": "Zah Computers",
+          "price": 20000.0,
+          "url": "https://zahcomputers.pk/product/team-group-16gb-2-x-8gb-288-pin-pc-ram-ddr5-6000-memory-white/"
+        },
+        {
+          "Name": "TEAMGROUP T-Force Delta RGB DDR4 16GB 3200MHz",
+          "storeName": "Zicomputer",
+          "price": 34000.0,
+          "url": "https://zicomputer.com/product/teamgroup-t-force-delta-rgb-ddr4-16gb/"
+        }
+      ]
+    },
+    {
+      "id": "ram_33",
+      "name": "Lexar 8GB SODIMM DDR4 3200MHz SODIMM Laptop Memory",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Lexar 8GB DDR4 3200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 16999.0,
+          "url": "https://www.junaidtech.pk/product/lexar-8gb-ddr4-3200mhz-sodimm-laptop-memory"
+        },
+        {
+          "Name": "Lexar 8GB DDR4-3200MHz",
+          "storeName": "Czone",
+          "price": 15990.0,
+          "url": "https://www.czone.com.pk/memory-module-ram-laptop-sod-ddr4-memory-lexar-8gb-ddr4-3200-sodimm-laptop-memory-ld4as008g-b3200gsst-pakistan-p.12366.aspx"
+        },
+        {
+          "Name": "Lexar 8GB DDR4-3200MHz",
+          "storeName": "Zah Computers",
+          "price": 18000.0,
+          "url": "https://zahcomputers.pk/product/lexar-8gb-ddr4-3200-sodimm-laptop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_34",
+      "name": "Adata Premier 8GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Adata Premier 8GB 3200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 17499.0,
+          "url": "https://www.junaidtech.pk/product/adata-premier-8gb-3200mhz-c22-ddr4-laptop-memory"
+        },
+        {
+          "Name": "Adata Premier 8GB 3200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 17499.0,
+          "url": "https://www.junaidtech.pk/product/adata-premier-8gb-3200mhz-c22-ddr4-u-dimm-memory"
+        },
+        {
+          "Name": "ADATA Premier 8GB 3200MHz",
+          "storeName": "Zah Computers",
+          "price": 22000.0,
+          "url": "https://zahcomputers.pk/product/adata-premier-8gb-3200mhz-c22-ddr4-u-dimm-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_35",
+      "name": "Corsair Vengeance LPX 8GB DDR4 2666MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance LPX 8GB (1x8GB) t",
+          "storeName": "Junaid Tech",
+          "price": 21999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-lpx-8gb-1x8gb-ddr4-dram-2666mhz-c16-memory-kit"
+        },
+        {
+          "Name": "Corsair VENGEANCE® LPX 8GB (1 x 8GB)",
+          "storeName": "Zah Computers",
+          "price": 16500.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-lpx-8gb-1-x-8gb-ddr4-dram-2666mhz-c16-memory-kit-black-2/"
+        },
+        {
+          "Name": "CORSAIR VENGEANCE® LPX 8GB (1 x 8GB) ",
+          "storeName": "Zah Computers",
+          "price": 7500.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-lpx-8gb-1-x-8gb-ddr4-dram-2666mhz-c16-memory-kit-black/"
+        }
+      ]
+    },
+    {
+      "id": "ram_36",
+      "name": "Transcend JetFlash 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Transcend JetFlash 16GB (1x16GB) 3200MHz y",
+          "storeName": "Junaid Tech",
+          "price": 28499.0,
+          "url": "https://www.junaidtech.pk/product/transcend-jetflash-16gb-1x16gb-3200mhz-c22-ddr4-desktop-memory"
+        },
+        {
+          "Name": "Transcend JetFlash 16GB (1x16GB) 3200MHz ",
+          "storeName": "Zah Computers",
+          "price": 34999.0,
+          "url": "https://zahcomputers.pk/product/transcend-jetflash-16gb-1x16gb-3200mhz-c22-ddr4-so-dimm-laptop-memory/"
+        },
+        {
+          "Name": "Transcend JetFlash 16GB (1x16GB) 3200MHz ",
+          "storeName": "Zah Computers",
+          "price": 34999.0,
+          "url": "https://zahcomputers.pk/product/transcend-jetflash-16gb-1x16gb-3200mhz-c22-ddr4-u-dimm-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_37",
+      "name": "Transcend JetFlash 32GB SODIMM DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Transcend JetFlash 32GB (1x32GB) 3200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 49499.0,
+          "url": "https://www.junaidtech.pk/product/transcend-jetflash-32gb-1x32gb-3200mhz-c22-ddr4-laptop-memory"
+        },
+        {
+          "Name": "Transcend JetFlash 32GB (1x32GB) 3200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 67999.0,
+          "url": "https://www.junaidtech.pk/product/transcend-jetflash-32gb-1x32gb-3200mhz-ddr4-desktop-memory"
+        },
+        {
+          "Name": "Transcend JetFlash 32GB (1x32GB) 3200MHz ",
+          "storeName": "Zah Computers",
+          "price": 63999.0,
+          "url": "https://zahcomputers.pk/product/transcend-jetflash-32gb-1x32gb-3200mhz-c22-ddr4-u-dimm-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_38",
+      "name": "TeamGroup Elite 32GB DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "TeamGroup T-Force Delta RGB 32GB (2x16GB) 5600MHz ",
+          "storeName": "Zah Computers",
+          "price": 115000.0,
+          "url": "https://zahcomputers.pk/product/teamgroup-t-force-delta-rgb-32gb-2x16gb-5600mhz-c36-ddr5-dram-desktop-memory-black/"
+        },
+        {
+          "Name": "TeamGroup Elite DDR5 32GB 5600MHz ",
+          "storeName": "Zah Computers",
+          "price": 98000.0,
+          "url": "https://zahcomputers.pk/product/teamgroup-elite-ddr5-32gb-5600mhz-c46-udimm-desktop-ram/"
+        },
+        {
+          "Name": "TeamGroup Elite 32GB DDR5 5600MHz ",
+          "storeName": "Zicomputer",
+          "price": 110000.0,
+          "url": "https://zicomputer.com/product/teamgroup-elite-32gb-ddr5-5600mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_39",
+      "name": "HikSemi Hiker 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "HIKSEMI HIKER 16GB 8GBx2 DDR4 3200MHz ",
+          "storeName": "AMD House",
+          "price": 17000.0,
+          "url": "https://amdhouse.pk/product/hiksemi-hiker-16gb-8gbx2-ddr4-3200mhz-ram-dual-channel-kit-in-2-yrs-wty/"
+        },
+        {
+          "Name": "HikSemi Hiker 16GB DDR4 3200MHz ",
+          "storeName": "Zah Computers",
+          "price": 29999.0,
+          "url": "https://zahcomputers.pk/product/hiksemi-hiker-16gb-ddr4-3200mhz-udimm-memory/"
+        },
+        {
+          "Name": "HikSemi Hiker 16GB DDR4 3200MHz ",
+          "storeName": "Zah Computers",
+          "price": 29999.0,
+          "url": "https://zahcomputers.pk/product/hiksemi-hiker-16gb-ddr4-3200mhz-so-dimm-laptop-ram/"
+        }
+      ]
+    },
+    {
+      "id": "ram_40",
+      "name": "Corsair Vengeance LPX 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance LPX 16GB (2x8GB) 3200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 37999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-lpx-16gb-2x8gb-3200mhz-c16-memory-black"
+        },
+        {
+          "Name": "Corsair Vengeance LPX 16GB 2x8GB DDR4 3200MHz ",
+          "storeName": "Czone",
+          "price": 34900.0,
+          "url": "https://www.czone.com.pk/corsair-vengeance-lpx-16gb-2x8gb-ddr4-3200mhz-c16-udimm-memory-kit-cmk16gx4m2e3200c16-black"
+        },
+        {
+          "Name": "CORSAIR Vengeance LPX 16GB (2 x 8GB)  DDR4 3200Mhz",
+          "storeName": "Zah Computers",
+          "price": 34000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-lpx-16gb-2-x-8gb-288-pin-ddr4-sdram-ddr4-3200-pc4-25600-intel-xmp-2-0-desktop-memory-model/"
+        },
+         {
+          "Name": "Corsair Vengeance LPX 16GB DDR4 RAM Dual-Channel",
+          "storeName": "Zicomputer",
+          "price": 35000.0,
+          "url": "https://zicomputer.com/product/corsair-vengeance-lpx-16gb-ddr4-dual/"
+        }
+      ]
+    },
+    {
+      "id": "ram_41",
+      "name": "Transcend 8GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Transcend 8GB 3200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 17499.0,
+          "url": "https://www.junaidtech.pk/product/transcend-8gb-3200mhz-c22-ddr4-laptop-memory"
+        },
+        {
+          "Name": "Transcend 8GB 3200MHz",
+          "storeName": "Junaid Tech",
+          "price": 17499.0,
+          "url": "https://www.junaidtech.pk/product/transcend-8gb-3200mhz-ddr4-desktop-memory-ram-stick"
+        },
+        {
+          "Name": "Transcend 8GB 3200Mhz",
+          "storeName": "Zah Computers",
+          "price": 21499.0,
+          "url": "https://zahcomputers.pk/product/transcend-8gb-3200mhz-ddr4-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_42",
+      "name": "Lexar Hades 32GB DDR4 3200MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Lexar Hades DDR4 32GB 16GBx2 3200MHz",
+          "storeName": "AMD House",
+          "price": 60000.0,
+          "url": "https://amdhouse.pk/product/lexar-hades-ddr4-32gb-16gbx2-3200mhz-cl16-xmp-rgb-dual-channel-kit-new-in-10-months-warranty/"
+        },
+        {
+          "Name": "Lexar Hades DDR4 32GB 16GBx2 3200MHz ",
+          "storeName": "Zah Computers",
+          "price": 65000.0,
+          "url": "https://zahcomputers.pk/product/lexar-hades-ddr4-32gb-16gbx2-3200mhz-cl16-xmp-rgb-dual-channel-kit/"
+        }
+      ]
+    },
+    {
+      "id": "ram_43",
+      "name": "Apacer NOX 16GB DDR4 3600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Apacer DDR4 16GB 8GBx2 CL18 3600Mhz ",
+          "storeName": "AMD House",
+          "price": 24000.0,
+          "url": "https://amdhouse.pk/product/apacer-ddr4-16gb-8gbx2-cl18-xmp-oem-ram-new-kit-in-10-month-warranty/"
+        },
+        {
+          "Name": "Apacer NOX 16GB 2 X 8GB 3600MHz ",
+          "storeName": "Zah Computers",
+          "price": 36000.0,
+          "url": "https://zahcomputers.pk/product/apacer-nox-16gb-2-x-8gb-3600mhz-cl18-ddr4-udimm/"
+        }
+      ]
+    },
+    {
+      "id": "ram_44",
+      "name": "V-Color 32GB DDR5 6000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Apacer 32GB 16GBx2 DDR5 6000MHz ",
+          "storeName": "AMD House",
+          "price": 113000.0,
+          "url": "https://amdhouse.pk/product/apacer-32gb-16gbx2-ddr5-6000mhz-cl38-dual-channel-kit-non-rgb-new/"
+        },
+        {
+          "Name": "V-Color DDR5 Gaming Memory RGB 32GB(16GBx2) 6000MHz ",
+          "storeName": "Zah Computers",
+          "price": 135000.0,
+          "url": "https://zahcomputers.pk/product/v-color-ddr5-gaming-memory-rgb-32gb16gbx2-6000mhz-cl40-memory-kit/"
+        }
+      ]
+    },
+    {
+      "id": "ram_45",
+      "name": "Kingston FURY BEAST 16GB DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingston FURY BEAST 16GB DDR5 5600MHz ",
+          "storeName": "AMD House",
+          "price": 47000.0,
+          "url": "https://amdhouse.pk/product/kingston-fury-beast-16gb-ddr5-5600mhz-new-in-10-months-warranty/"
+        },
+        {
+          "Name": "Kingston FURY Beast 16GB 288-Pin PC RAM DDR5 5600MHz",
+          "storeName": "Zah Computers",
+          "price": 60000.0,
+          "url": "https://zahcomputers.pk/product/kingston-fury-beast-16gb-288-pin-pc-ram-ddr5-5600-pc5-44800-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_46",
+      "name": "Crucial 16GB DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Crucial 16GB 5600MHz DDR5",
+          "storeName": "AMD House",
+          "price": 33000.0,
+          "url": "https://amdhouse.pk/product/crucial-16gb-4800mhz-ddr5/"
+        },
+        {
+          "Name": "Crucial 16GB Desktop DDR5 5600 MHz ",
+          "storeName": "Zah Computers",
+          "price": 15500.0,
+          "url": "https://zahcomputers.pk/product/crucial-16gb-desktop-ddr5-5600-mhz-udimm-memory-module/"
+        }
+      ]
+    },
+    {
+      "id": "ram_47",
+      "name": "Transcend 16GB DDR4 2666MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Transcend 16GB DDR4 2666MHz ",
+          "storeName": "Junaid Tech",
+          "price": 22999.0,
+          "url": "https://www.junaidtech.pk/product/transcend-16gb-ddr4-2666mhz-desktop-memory"
+        },
+        {
+          "Name": "Transcend 16GB 2666MHz DDR4 ",
+          "storeName": "Zah Computers",
+          "price": 29499.0,
+          "url": "https://zahcomputers.pk/product/transcend-16gb-2666mhz-ddr4-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_48",
+      "name": "Corsair Vengeance LPX 8GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance LPX 8GB (1x8GB) 3200MHz",
+          "storeName": "Junaid Tech",
+          "price": 25999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-lpx-8gb-1x8gb-3200mhz-c16-ddr4-dram-memory-kit-black"
+        },
+        {
+          "Name": "Corsair Vengeance LPX 8GB (1x 8GB) 3200MHz",
+          "storeName": "Zah Computers",
+          "price": 19999.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-lpx-8gb-1x-8gb-ddr4-3200mhz-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_49",
+      "name": "Transcend JetRam 8GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Transcend JetRam 8GB 4800MHz",
+          "storeName": "Junaid Tech",
+          "price": 30499.0,
+          "url": "https://www.junaidtech.pk/product/transcend-jetram-8gb-4800mhz-ddr5-desktop-memory"
+        },
+        {
+          "Name": "Transcend JetRam 8GB 4800MHz ",
+          "storeName": "Zah Computers",
+          "price": 30799.0,
+          "url": "https://zahcomputers.pk/product/transcend-jetram-8gb-4800mhz-c40-ddr5-u-dimm-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_50",
+      "name": "TeamGroup Elite 32GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "TeamGroup Elite 32GB (1x32GB) 3200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 52999.0,
+          "url": "https://www.junaidtech.pk/product/teamgroup-elite-32gb-1x32gb-3200mhz-ddr4-desktop-memory"
+        },
+        {
+          "Name": "TeamGroup Elite 32GB DDR4 3200MHz ",
+          "storeName": "Zicomputer",
+          "price": 55000.0,
+          "url": "https://zicomputer.com/product/teamgroup-elite-32gb-ddr4-3200mhz/"
+        },
+        {
+          "Name": "TeamGroup Elite 32GB (1x32GB) 3200MHz Laptop Memory",
+          "storeName": "Junaid Tech",
+          "price": 52999.0,
+          "url": "https://www.junaidtech.pk/product/teamgroup-elite-32gb-1x32gb-3200mhz-ddr4-laptop-memory"
+        }
+      ]
+    },
+    {
+      "id": "ram_51",
+      "name": "Corsair VENGEANCE 16GB DDR5 5200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance 16GB (1x16GB) 5200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 63999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-1x16gb-5200mhz-cl40-ddr5-ram-amd-expo-black"
+        },
+        {
+          "Name": "Corsair VENGEANCE® 16GB (2x8GB) 5200MT/s ",
+          "storeName": "Zah Computers",
+          "price": 21000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-16gb-2x8gb-ddr5-dram-5200mt-s-cl40-amd-expo-intel-xmp-memory-kit/"
+        }
+      ]
+    },
+    {
+      "id": "ram_52",
+      "name": "Crucial 32GB DDR5 6400MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Crucial 32GB (16GBx2) 6400MHz ",
+          "storeName": "Junaid Tech",
+          "price": 92999.0,
+          "url": "https://www.junaidtech.pk/product/crucial-32gb-16gbx2-6400mhz-cl52-ddr5-csodimm-memory-kit"
+        },
+        {
+          "Name": "Crucial 32GB Pro (2 x 16GB) 6400MHz ",
+          "storeName": "Zah Computers",
+          "price": 135000.0,
+          "url": "https://zahcomputers.pk/product/crucial-32gb-pro-2-x-16gb-ddr5-6400mhz-memory-kit/"
+        }
+      ]
+    },
+    {
+      "id": "ram_53",
+      "name": "Transcend 32GB DDR5 6400MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Transcend 32GB (1x32GB) 6400MHz ",
+          "storeName": "Junaid Tech",
+          "price": 118999.0,
+          "url": "https://www.junaidtech.pk/product/transcend-32gb-6400mhz-cl52-ddr5-dram-memory"
+        },
+        {
+          "Name": "Transcend 32GB (1x32GB) 6400MHz ",
+          "storeName": "Zah Computers",
+          "price": 137999.0,
+          "url": "https://zahcomputers.pk/product/transcend-32gb-1x32gb-6400mhz-c52-u-dimm-ddr5-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_54",
+      "name": "Lexar Ares 32GB DDR5 7600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Lexar Ares RGB 32GB (2x16GB) 7600MHz ",
+          "storeName": "Junaid Tech",
+          "price": 134999.0,
+          "url": "https://www.junaidtech.pk/product/lexar-ares-rgb-32gb-2x16gb-7600mhz-c36-ddr5-dram-memory-kit-black"
+        },
+        {
+          "Name": "Lexar ARES Gen2 RGB DDR5 32GB Kit (2 x 16GB) 7600MHz ",
+          "storeName": "Zah Computers",
+          "price": 125000.0,
+          "url": "https://zahcomputers.pk/product/lexar-ares-gen2-rgb-ddr5-32gb-kit-2-x-16gb-7600mhz-desktop-memory-288-pin-udimm-cl36-46-46-96-1-4v-dram-empowered-by-sk-hynix/"
+        },
+         {
+          "Name": "Lexar ARES DDR5 7600MHz 32GB ",
+          "storeName": "AMD House",
+          "price": 120000.0,
+          "url": "https://amdhouse.pk/product/lexar-ares-ddr5-7600mhz-32gb-16gbx2-xmp-kit-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_55",
+      "name": "Twinmos 4GB SODIMM DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Pulled Laptop Memory 4GB DDR4 SODIMM 3200MHz",
+          "storeName": "Czone",
+          "price": 4500.0,
+          "url": "https://www.czone.com.pk/4gb-ddr4-sodimm-3200mhz"
+        },
+        {
+          "Name": "Twinmos 4GB 3200MHz C22 DDR4 Laptop Memory",
+          "storeName": "Zah Computers",
+          "price": 2499.0,
+          "url": "https://zahcomputers.pk/product/twinmos-4gb-3200mhz-c22-ddr4-laptop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_56",
+      "name": "TEAMGROUP Elite 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "TEAMGROUP Elite 16GB 3200MHz ",
+          "storeName": "Zah Computers",
+          "price": 7500.0,
+          "url": "https://zahcomputers.pk/product/teamgroup-elite-16gb-3200mhz-u-dimm-ddr4-desktop-memory/"
+        },
+        {
+          "Name": "TeamGroup Elite 16GB DDR4 3200MHz",
+          "storeName": "Zicomputer",
+          "price": 28000.0,
+          "url": "https://zicomputer.com/product/teamgroup-elite-16gb-ddr4-3200mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_57",
+      "name": "TEAMGROUP Elite 16GB DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "TEAMGROUP Elite DDR5 16GB 5600Mhz ",
+          "storeName": "Zah Computers",
+          "price": 12500.0,
+          "url": "https://zahcomputers.pk/product/teamgroup-elite-ddr5-16gb-5600mhz-desktop-memory/"
+        },
+        {
+          "Name": "TeamGroup Elite 16GB DDR5 5600MHz ",
+          "storeName": "Zicomputer",
+          "price": 55000.0,
+          "url": "https://zicomputer.com/product/teamgroup-elite-16gb-ddr5-5600mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_58",
+      "name": "HikSemi Hiker 16GB DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "HIKSEMI HIKER 16GB DDR5 5600MHz ",
+          "storeName": "AMD House",
+          "price": 12500.0,
+          "url": "https://amdhouse.pk/product/hiksemi-hiker-16gb-ddr5-5600mhz-ram-single-module-new/"
+        },
+        {
+          "Name": "HikSemi Hiker 16GB DDR5 5600MHz ",
+          "storeName": "Zah Computers",
+          "price": 58000.0,
+          "url": "https://zahcomputers.pk/product/hiksemi-hiker-16gb-ddr5-5600mhz-udimm-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_59",
+      "name": "Corsair Vengeance Grey 16GB DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance 16GB (1x16GB) 5600MHz ",
+          "storeName": "Junaid Tech",
+          "price": 69999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-5600mhz-cl40-1x16gb-ddr5-ram-amd-expo-black"
+        },
+        {
+          "Name": "Corsair Vengeance Grey 16GB 5600MHz ",
+          "storeName": "Zah Computers",
+          "price": 39500.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-grey-16gb-5600mhz-ddr5-memory-kit/"
+        }
+      ]
+    },
+    {
+      "id": "ram_60",
+      "name": "KINGSTON 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "KINGSTON 16GB DDR4 3200MHz ",
+          "storeName": "AMD House",
+          "price": 21500.0,
+          "url": "https://amdhouse.pk/product/kingston-16gb-ddr4-3200mhz-single-stick-new-in-1-year-warranty/"
+        },
+        {
+          "Name": "Kingston Fury Beast RGB 16GB (2x8GB) 3200MHz t",
+          "storeName": "Junaid Tech",
+          "price": 37999.0,
+          "url": "https://www.junaidtech.pk/product/kingston-fury-beast-rgb-16gb-2x8gb-3200mhz-c16-ddr4-desktop-memory-kit"
+        },
+        {
+          "Name": "KINGSTON 16GB 8GBx2 DDR4 3200MHz ",
+          "storeName": "AMD House",
+          "price": 26500.0,
+          "url": "https://amdhouse.pk/product/kingston-16gb-8gbx2-ddr4-3200mhz-dual-channel-new-in-1-year-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_61",
+      "name": "Lexar 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Lexar DDR4-3200 SODIMM Laptop Memory ",
+          "storeName": "Czone",
+          "price": 30500.0,
+          "url": "https://www.czone.com.pk/memory-module-ram-laptop-sod-ddr4-memory-lexar-ddr4-3200-sodimm-laptop-memory-16gb-ld4as016g-b3200gsst-pakistan-p.12078.aspx"
+        },
+        {
+          "Name": "Lexar 16GB DDR4-3200 UDIMM Desktop Memory ",
+          "storeName": "Czone",
+          "price": 30500.0,
+          "url": "https://www.czone.com.pk/lexar-16gb-ddr43200-udimm-desktop-memory-12v"
+        }
+      ]
+    },
+    {
+      "id": "ram_62",
+      "name": "Kingston FURY Beast 16GB DDR5 6000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingston FURY Beast 16GB  6000MHz ",
+          "storeName": "Zah Computers",
+          "price": 68000.0,
+          "url": "https://zahcomputers.pk/product/kingston-fury-beast-16gb-288-pin-pc-ram-ddr5-6000-desktop-memory-copy/"
+        },
+        {
+          "Name": "Kingston FURY Beast 16GB 4800MHz",
+          "storeName": "Zah Computers",
+          "price": 54000.0,
+          "url": "https://zahcomputers.pk/product/kingston-fury-beast-16gb-288-pin-pc-ram-ddr5-4800-pc5-38400-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_63",
+      "name": "16GB SODIMM DDR5",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Blue Tech 5600Mhz  16gb",
+          "storeName": "Zah Computers",
+          "price": 48500.0,
+          "url": "https://zahcomputers.pk/product/blue-tech-5600mhz-ram-ddr5-udimm-16gb/"
+        },
+        {
+          "Name": "16GB 5600mhz Laptop PULLED ddr5",
+          "storeName": "Zah Computers",
+          "price": 55000.0,
+          "url": "https://zahcomputers.pk/product/16gb-3200mhz-laptop-pulled/"
+        }
+      ]
+    },
+    {
+      "id": "ram_64",
+      "name": "Lexar 8GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Lexar 8GB 3200MHz DDR4 UDIMM ",
+          "storeName": "Junaid Tech",
+          "price": 18499.0,
+          "url": "https://www.junaidtech.pk/product/lexar-8gb-3200mhz-ddr4-udimm-desktop-memory"
+        },
+        {
+          "Name": "Lexar DDR4 RAM 8GB High speed up to 3200MHz",
+          "storeName": "Zah Computers",
+          "price": 17500.0,
+          "url": "https://zahcomputers.pk/product/lexar-ddr4-ram-8gb-high-speed-up-to-3200mhz/"
+        },
+          {
+          "Name": "Lexar DDR4-3200 8GB UDIMM Desktop Memory,",
+          "storeName": "Czone",
+          "price": 15500.0,
+          "url": "https://www.czone.com.pk/lexar-ddr43200-8gb-udimm-desktop-memory-8gb-ddr43200-ld4au008gb3200gsst"
+        }
+      ]
+    },
+    {
+      "id": "ram_65",
+      "name": "Lexar 32GB SODIMM DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Lexar SODIMM 32GB DDR5 RAM 5600MHz",
+          "storeName": "Czone",
+          "price": 114000.0,
+          "url": "https://www.czone.com.pk/lexar-32gb-ddr5-5600mhz-sodimm-ram"
+        },
+        {
+          "Name": "Lexar 32GB DDR5 5600MHz ",
+          "storeName": "Zah Computers",
+          "price": 110000.0,
+          "url": "https://zahcomputers.pk/product/lexar-32gb-ddr5-5600mhz-so-dimm-laptop-ram/"
+        },
+         {
+          "Name": "Lexar 32GB (1x32GB) 5600MT/s DDR5 UDIMM Desktop Memory",
+          "storeName": "Zah Computers",
+          "price": 108000.0,
+          "url": "https://zahcomputers.pk/product/lexar-32gb-1x32gb-5600mt-s-ddr5-udimm-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_66",
+      "name": "Lexar 32GB SODIMM DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Lexar 32GB DDR4 3200MHz Laptop RAM",
+          "storeName": "Zah Computers",
+          "price": 59500.0,
+          "url": "https://zahcomputers.pk/product/lexar-32gb-ddr4-3200mhz-so-dimm-laptop-ram/"
+        },
+        {
+          "Name": "Lexar 32GB  3200 MHz Desktop Memory",
+          "storeName": "Zah Computers",
+          "price": 59500.0,
+          "url": "https://zahcomputers.pk/product/lexar-32gb-dram-ddr4-3200-mhz-udimm-desktop-memory/"
+        },
+          {
+          "Name": "Lexar DDR4-3200 32GB SODIMM Laptop Memory",
+          "storeName": "Czone",
+          "price": 72500.0,
+          "url": "https://www.czone.com.pk/lexar-ddr43200-32gb-sodimm-laptop-memory"
+        }
+      ]
+    },
+    {
+      "id": "ram_67",
+      "name": "HIKSEMI HIKER 32GB DDR5 5200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "HIKSEMI HIKER 32GB (16GBx2) 5200 ",
+          "storeName": "AMD House",
+          "price": 97000.0,
+          "url": "https://amdhouse.pk/product/hiksemi-hiker-32gb-16gbx2-5200-ddr5-new-with-2-years-warranty-copy/"
+        },
+         {
+          "Name": "HIKSEMI HIKER 32GB 16GBX2 DDR5 5600MHz RAM Dual Channel New in 2 yr wty",
+          "storeName": "AMD House",
+          "price": 25000.0,
+          "url": "https://amdhouse.pk/product/hiksemi-hiker-32gb-16gbx2-ddr5-5600mhz-ram-single-module-new-in-2-yr-wty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_68",
+      "name": "Indilinx 32GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Indilinx 32GB (16GBx2) 3200MHz DDR4 RAM New in 2 Years Warranty (OEM without Packing)",
+          "storeName": "AMD House",
+          "price": 47000.0,
+          "url": "https://amdhouse.pk/product/indilinx-3gb-16gbx2-3200mhz-ddr4-ram-new-in-2-years-warranty-oem-without-packing/"
+        }
+      ]
+    },
+    {
+      "id": "ram_69",
+      "name": "Indilinx 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Indilinx 16GB 3200MHz DDR4 ",
+          "storeName": "AMD House",
+          "price": 23500.0,
+          "url": "https://amdhouse.pk/product/indilinx-16gb-3200mhz-ddr4-ram-new-in-2-years-warranty-oem-without-packing/"
+        },
+         {
+          "Name": "Indilinx 16GB DDR4 3200MHz ",
+          "storeName": "AMD House",
+          "price": 7500.0,
+          "url": "https://amdhouse.pk/product/indilinx-16gb-ddr4-3200mhz-ram-singlemicron-memory-new-in-3-years-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_70",
+      "name": "Apacer NOX 32GB DDR5 6400MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Apacer NOX 32GB 16GBx2 DDR5 6400MHz",
+          "storeName": "AMD House",
+          "price": 115000.0,
+          "url": "https://amdhouse.pk/product/apacer-nox-32gb-16gbx2-ddr5-6400mhz-cl36-kit-new-in-2-years-warranty/"
+        },
+         {
+          "Name": "Apacer Nox RGB DDR5 6400MT/s",
+          "storeName": "Czone",
+          "price": 110000.0,
+          "url": "https://www.czone.com.pk/memory-module-ram-desktop-ddr5-memory-apacer-nox-rgb-ddr5-gaming-memory-module-32gb-6400mt-s-cl36-black-ah5u32g64c652nbaa-1-pakistan-p.20069.aspx"
+        },
+          {
+          "Name": "APACER NOX RGB DDR5 32GB, 6400MT/s, Silver",
+          "storeName": "Czone",
+          "price": 113000.0,
+          "url": "https://www.czone.com.pk/memory-module-ram-desktop-ddr5-memory-apacer-nox-rgb-ddr5-gaming-memory-module-32gb-6400mt-s-silver-ah5u32g64c652nwaa-1-pakistan-p.20068.aspx"
+        }
+      ]
+    },
+    {
+      "id": "ram_71",
+      "name": "Samsung 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Samsung 16GB 8GBx2 DDR4 3200MHz ",
+          "storeName": "AMD House",
+          "price": 25000.0,
+          "url": "https://amdhouse.pk/product/samsung-16gb-8gbx2-ddr4-3200mhz-cl22-dual-channel-new-oem-without-packing-in-10-mths-wty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_72",
+      "name": "HIKSEMI HIKER 32GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "HIKSEMI HIKER 32GB 16GBX2 DDR5 4800MHz ",
+          "storeName": "AMD House",
+          "price": 97000.0,
+          "url": "https://amdhouse.pk/product/hiksemi-hiker-32gb-16gbx2-ddr5-4800mhz-ram-dual-channel-new-in-2-yr-wty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_73",
+      "name": "HikSemi HIKER 16GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "HikSemi HIKER 16GB DDR5 4800MHz",
+          "storeName": "AMD House",
+          "price": 48500.0,
+          "url": "https://amdhouse.pk/product/hiksemi-hiker-16gb-ddr5-4800mhz-ram-single-stick-new-in-2-years-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_74",
+      "name": "Puskill 32GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Puskill 32GB (16GBx2) DDR4 CL18 3200MHz ",
+          "storeName": "AMD House",
+          "price": 47000.0,
+          "url": "https://amdhouse.pk/product/32gb-16gbx2-ddr4-3200mhz-cl18-dual-channel-new-in-10-months-warranty/"
+        },
+         {
+          "Name": "PUSKILL Memoria Ram DDR4 3200MHz",
+          "storeName": "Zah Computers",
+          "price": 51999.0,
+          "url": "https://zahcomputers.pk/product/puskill-memoria-ram-ddr4-16x2-32gb-3200mhz-desktop-cooling-vest-memory-heatsink/"
+        },
+        {
+          "Name": "Puskill Blade DDR4 16GBx2 32GB DDR4 3200MHz ",
+          "storeName": "AMD House",
+          "price": 51000.0,
+          "url": "https://amdhouse.pk/product/puskill-blade-ddr4-8gbx2-16gb-ddr4-3200mhz-cl16-white-xmp-rgb-dual-channel-in-10-months-wty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_75",
+      "name": "Puskill 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Puskill 16GB DDR4 3200MHz CL18 XMP",
+          "storeName": "AMD House",
+          "price": 23500.0,
+          "url": "https://amdhouse.pk/product/16gb-ddr4-3200mhz-cl18-xmp-ram-new-in-10-months-warranty/"
+        },
+        {
+          "Name": "PUSKILL DDR4 Desktop Memory RAM 16GB 3200MHz",
+          "storeName": "Zah Computers",
+          "price": 27000.0,
+          "url": "https://zahcomputers.pk/product/puskill-ddr4-desktop-memory-ram-16gb-3200mhz-288-pin-udimm-intel-amd-compatible/"
+        },
+         {
+          "Name": "Puskill Blade RGB DDR4 16GB 3200MHz",
+          "storeName": "AMD House",
+          "price": 25500.0,
+          "url": "https://amdhouse.pk/product/puskill-blade-rgb-ddr4-16gb-3200mhz-cl16-xmp-single-stick-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_76",
+      "name": "Acer 32GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Acer 32GB 16GBx2 DDR5 4800 ",
+          "storeName": "AMD House",
+          "price": 97000.0,
+          "url": "https://amdhouse.pk/product/acer-32gb-16gbx2-ddr5-4800-dual-channel-new-in-2-years-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_77",
+      "name": "Lexar ARES 32GB DDR5 8000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Lexar ARES DDR5 8000MHz 32G",
+          "storeName": "AMD House",
+          "price": 132500.0,
+          "url": "https://amdhouse.pk/product/lexar-ares-ddr5-8000mhz-32gb-16gbx2-xmp-kit-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_78",
+      "name": "AData 64GB DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "AData 64GB 32GB x2 DDR5 5600MHz ",
+          "storeName": "AMD House",
+          "price": 200000.0,
+          "url": "https://amdhouse.pk/product/adata-64gb-32gb-x2-ddr5-5600mhz-dual-channel-kit-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_79",
+      "name": "HikVision 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "HikVision 16GB (8GBx2) CL18 DDR4 3200MHz",
+          "storeName": "AMD House",
+          "price": 26500.0,
+          "url": "https://amdhouse.pk/product/hikvision-16gb-8gbx2-ddr4-3200mhz-cl18-xmp-dual-channel-new-in-10-months-warranty/"
+        },
+         {
+          "Name": "HikVision 16GB Value RAM DDR4 3200MHz",
+          "storeName": "AMD House",
+          "price": 25000.0,
+          "url": "https://amdhouse.pk/product/hikvision-16gb-value-ram-ddr4-3200mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_80",
+      "name": "Acer 16GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Acer 16GB DDR5 4800MHz ",
+          "storeName": "AMD House",
+          "price": 49000.0,
+          "url": "https://amdhouse.pk/product/acer-16gb-ddr5-4800mhz-single-stick-new-in-10-months-warranty/"
+        }
+      ]
+    },
+
+    {
+      "id": "ram_81",
+      "name": "8GB DDR4 2133MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "8GB DDR4 RAM 2133MHz used in 1 Month Warranty (mixed brands)",
+          "storeName": "AMD House",
+          "price": 9500.0,
+          "url": "https://amdhouse.pk/product/8gb-ddr4-ram-2133mhz-used-in-1-month-warranty-mixed-brands/"
+        }
+      ]
+    },
+    {
+      "id": "ram_82",
+      "name": "Corsair Vengeance 32GB DDR5 5200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance 32GB 16GBx2 DDR5 5200MHz ",
+          "storeName": "AMD House",
+          "price": 108000.0,
+          "url": "https://amdhouse.pk/product/corsair-vengeance-32gb-16gbx2-ddr5-5600mhz-kit-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_83",
+      "name": "Kingston FURY BEAST 16GB DDR5 5200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingston FURY BEAST 16GB DDR5 5200MHz",
+          "storeName": "AMD House",
+          "price": 46000.0,
+          "url": "https://amdhouse.pk/product/kingston-fury-beast-16gb-ddr5-5200mhz-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_84",
+      "name": "Corsair Vegeance 32GB DDR5 6000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+
+          "Name": "Corsair Vegeance RGB 32GB 16GBx2 DDR5 6000MHz CL28 Kit in 10 Months Warranty",
+          "storeName": "AMD House",
+          "price": 115000.0,
+          "url": "https://amdhouse.pk/product/corsair-vegeance-rgb-32gb-16gbx2-ddr5-6000mhz-cl28-kit-in-10-months-warranty/"
+
+        }
+      ]
+    },
+    {
+      "id": "ram_85",
+
+      "name": "Apacer 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Apacer DDR4 16GB 8GBx2 3200Mhz ",
+          "storeName": "AMD House",
+          "price": 26000.0,
+          "url": "https://amdhouse.pk/product/apacer-ddr4-16gb-8gbx2-value-ram-dual-channel-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_86",
+      "name": "Kingston HyperX FURY 16GB DDR4 3200MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingston HyperX FURY RGB DDR4 16GBx2 32GB DDR4 3200MHz",
+          "storeName": "AMD House",
+          "price": 61000.0,
+          "url": "https://amdhouse.pk/product/kingston-hyperx-fury-rgb-ddr4-16gbx2-32gb-ddr4-3200mhz-cl16-xmp-dual-channel-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_87",
+      "name": "16GB DDR4 2400MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "8GBx2 16GB 2400MHz ddr4 ",
+          "storeName": "AMD House",
+          "price": 19500.0,
+          "url": "https://amdhouse.pk/product/micron-8gbx2-16gb-2133mhz-dual-channel-ram-used-in-1-month-warranty-no-packing/"
+        },
+        {
+          "Name": "16GB DDR4 2666MHz RAM ",
+          "storeName": "AMD House",
+          "price": 19500.0,
+          "url": "https://amdhouse.pk/product/16gb-ddr4-2666mhz-ram-single-stick-mixed-brands-used-in-1-month-warranty/"
+        }
+      ]
+    },
   
+    {
+      "id": "ram_88",
+      "name": "Transcend JetRAM 64GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Transcend JetRAM 64GB DDR4 3200MHz ",
+          "storeName": "AMD House",
+          "price": 95000.0,
+          "url": "https://amdhouse.pk/product/transcend-jetram-64gb-ddr4-3200mhz-cl22-32gbx2-dual-channel-package-new-in-10-months-wty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_89",
+      "name": "Crucial 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Crucial 16GB DDR4 8GBx2 3200MHz ",
+          "storeName": "AMD House",
+          "price": 24000.0,
+          "url": "https://amdhouse.pk/product/crucial-16gb-ddr4-8gbx2-3200mhz-cl22-ram-new-in-10-months-warranty-oem-without-packing/"
+        },
+        {
+          "Name": "Crucial 16GB DDR4 3200MHz SO-DIMM Laptop Memory",
+          "storeName": "Zah Computers",
+          "price": 27000.0,
+          "url": "https://zahcomputers.pk/product/crucial-16gb-ddr4-3200mhz-so-dimm-laptop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_90",
+      "name": "DarkFlash Explore 16GB DDR5 6000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "DarkFlash Explore DDR5 16GB 6000Mhz  ",
+          "storeName": "AMD House",
+          "price": 47500.0,
+          "url": "https://amdhouse.pk/product/darkflash-explore-ddr5-16gb-6000mhz-cl38-expo-xmp-white-argb-new-in-10-mths-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_91",
+      "name": "DarkFlash Explore 32GB DDR5 6000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "DarkFlash Explore DDR5 32GB 16GBx2 6000Mhz ",
+          "storeName": "AMD House",
+          "price": 95000.0,
+          "url": "https://amdhouse.pk/product/darkflash-explore-ddr5-32gb-16gbx2-6000mhz-cl38-expo-xmp-white-argb-kit-new-in-10-mths-warranty/"
+        }
+      ]
+    },
+   
+    {
+      "id": "ram_92",
+      "name": "Apacer NOX 64GB DDR5 6000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Apacer NOX 64GB 32GBx2 DDR5 6000MHz ",
+          "storeName": "AMD House",
+          "price": 175000.0,
+          "url": "https://amdhouse.pk/product/apacer-nox-64gb-32gbx2-ddr5-6000mhz-cl38-kit-non-rgb-in-2-years-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_93",
+      "name": "SAMSUNG 32GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "SAMSUNG 32GB 16GBx2 DDR5 UDIMM 4800MHz ",
+          "storeName": "AMD House",
+          "price": 22000.0,
+          "url": "https://amdhouse.pk/product/samsung-32gb-16gbx2-ddr5-udimm-4800mhz-dual-channel-new-in-2-years-warranty-oem/"
+        }
+      ]
+    },
+    {
+      "id": "ram_94",
+      "name": "Samsung 16GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Samsung 16GB DDR5 UDIMM 4800MHz ",
+          "storeName": "AMD House",
+          "price": 46500.0,
+          "url": "https://amdhouse.pk/product/samsung-16gb-ddr5-udimm-4800mhz-single-stick-new-in-2-years-warranty-oem/"
+        }
+      ]
+    },
+    {
+      "id": "ram_95",
+      "name": "Kingbank KJXS 32GB DDR5 6000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingbank KJXS 32GB 16GBx2 DDR5 Dual Channel kit 6000MHz",
+          "storeName": "AMD House",
+          "price": 28000.0,
+          "url": "https://amdhouse.pk/product/kingbank-kjxs-32gb-16gbx2-ddr5-dual-channel-kit-6000mhz-cl36-new-in-1-year-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_96",
+      "name": "Kingston Value 16GB DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingston Value RAM 16GB DDR5 5600MHz",
+          "storeName": "AMD House",
+          "price": 26500.0,
+          "url": "https://amdhouse.pk/product/kingston-value-ram-16gb-ddr5-5600mhz-kvr56u46bs8-cl46-new-in-1-year-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_97",
+      "name": "Kingston Value 32GB DDR5 5200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingston Value RAM 32GB 16GBx2 DDR5 5200MHz ",
+          "storeName": "AMD House",
+          "price": 82500.0,
+          "url": "https://amdhouse.pk/product/kingston-value-ram-32gb-16gbx2-ddr5-5600mhz-kvr56u46bs8-cl46-new-in-1-year-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_98",
+      "name": "KINGSTON 32GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "KINGSTON 32GB 16GBx2 DDR4 3200MHz ",
+          "storeName": "AMD House",
+          "price": 47000.0,
+          "url": "https://amdhouse.pk/product/kingston-32gb-16gbx2-ddr4-3200mhz-dual-channel-new-in-1-year-warranty/"
+        }
+      ]
+    },
+   
+    {
+      "id": "ram_99",
+      "name": "ASGARD TUF 32GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "ASGARD TUF 32GB 16GBx2 DDR4 3200MHz",
+          "storeName": "AMD House",
+          "price": 56500.0,
+          "url": "https://amdhouse.pk/product/asgard-tuf-32gb-16gbx2-ddr4-3200mhz-cl18-xmp-dual-channel-kit-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_100",
+      "name": "Transcend JetRAM 16GB DDR5 5200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Transcend JetRAM 16GB DDR5 5200 MHz Single Stick 2year waranty",
+          "storeName": "AMD House",
+          "price": 13000.0,
+          "url": "https://amdhouse.pk/product/transcend-jetram-16gb-ddr5-5600-mhz-single-stick/"
+        }
+      ]
+    },
+    {
+      "id": "ram_101",
+      "name": "Transcend JetRam 32GB DDR5 5200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Transcend JetRam 16GBx2 32GB DDR5 5200MHz ",
+          "storeName": "AMD House",
+          "price": 26000.0,
+          "url": "https://amdhouse.pk/product/transcend-jetram-16gbx2-32gb-ddr5-5600mhz-ram-new/"
+        }
+      ]
+    },
+    {
+      "id": "ram_102",
+      "name": "CUSU DH330 32GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "CUSU DH330 32GB 16GBx2 DDR4 3200MHz",
+          "storeName": "AMD House",
+          "price": 22000.0,
+          "url": "https://amdhouse.pk/product/cusu-dh330-32gb-16gbx2-ddr4-3200mhz-cl16-xmp-kit-heatsink-new-in-2-years-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_103",
+      "name": "Kingbank KRXB 32GB DDR5 6000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingbank KRXB DDR5 32GB 16GBx2 6000MHz ",
+          "storeName": "AMD House",
+          "price": 45000.0,
+          "url": "https://amdhouse.pk/product/kingbank-krxb-soarblade-ddr5-32gb-16gbx2-6000mhz-cl30-dual-channel-kit-new-in-2-years-wty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_104",
+      "name": "Indilinx Magic II 32GB DDR5 6000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Indilinx Magic II 32GB 16GBx2 DDR5 6000MHz ",
+          "storeName": "AMD House",
+          "price": 28000.0,
+          "url": "https://amdhouse.pk/product/indilinx-magic-ii-32gb-16gbx2-ddr5-6000mhz-dual-channel-kit-new-in-3-years-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_105",
+      "name": "Indilinx 32GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Indilinx 32GB 16GBx2 DDR5 4800Mhz Dual-Channel New in 3 Years Warranty",
+          "storeName": "AMD House",
+          "price": 22500.0,
+          "url": "https://amdhouse.pk/product/indilinx-32gb-16gbx2-ddr5-4800mhz-dual-channel-new-in-3-years-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_106",
+      "name": "Lexar THOR 32GB DDR5 6000MHz RGB",
+      "categoryId": "ram", 
+      "storePrices": [
+        {
+          "Name": "Lexar THOR 32GB DDR5 6000MHz ",
+          "storeName": "AMD House",
+          "price": 96000.0,
+          "url": "https://amdhouse.pk/product/lexar-thor-32gb-ddr5-6000mhz-16gbx2-dual-channel-kit-rgb-new-in-1-year-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_107",
+      "name": "Kingbank KRRW Sharpblade 32GB DDR5 6000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingbank KRRW Sharpblade DDR5 32GB ",
+          "storeName": "AMD House",
+          "price": 72000.0,
+          "url": "https://amdhouse.pk/product/kingbank-krrw-sharpblade-ddr5-32gb-16gbx2-dual-channel-6000mhz-cl30-kit-white-new-in-2-yrs-wty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_108",
+      "name": "Indilinx Middle-Series 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Indilinx Middle-Series DDR4 3200MHz ",
+          "storeName": "AMD House",
+          "price": 7500.0,
+          "url": "https://amdhouse.pk/product/indilinx-middle-series-ddr4-16gb-8gbx2-dual-channel-kit-3200mhz-micron-hynix-new-in-3-years-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_109",
+      "name": "Kingbank KFXB 32GB DDR5 6000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingbank KFXB Series DDR5 32GB 16GBx2 6000MHz ",
+          "storeName": "AMD House",
+          "price": 74000.0,
+          "url": "https://amdhouse.pk/product/kingbank-kfxb-series-ddr5-32gb-16gbx2-6000mhz-dual-channel-kit-non-rgb-hynix-a-die-new-in-1-year-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_110",
+      "name": "Indilinx Magic II 16GB DDR5 6000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Indilinx Magic II 16GB DDR5 6000MHZ ",
+          "storeName": "AMD House",
+          "price": 14000.0,
+          "url": "https://amdhouse.pk/product/indilinx-magic-ii-16gb-ddr5-6000mhz-with-white-heatsink-new-in-3-years-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_111",
+      "name": "Indilinx 16GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Indilinx 16GB DDR5 4800MHz ",
+          "storeName": "AMD House",
+          "price": 10000.0,
+          "url": "https://amdhouse.pk/product/indilinx-16gb-ddr5-4800mhz-cl40-single-micron-memory-new-in-3-years-warranty/"
+        }
+      ]
+    },
+  
+    {
+      "id": "ram_112",
+      "name": "T-Force Delta 32GB DDR5 6400MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "T-Force Delta 32GB 16GBx2 DDR5 6400MHz ",
+          "storeName": "AMD House",
+          "price": 35000.0,
+          "url": "https://amdhouse.pk/product/t-force-delta-32gb-16gbx2-ddr5-6400mhz-black-dual-channel-kit-new-in-1-year-warranty/"
+        },
+         {
+          "Name": "TEAMGROUP T-FORCE DELTA RGB 32GB DDR5 6400MHz ",
+          "storeName": "Zicomputer",
+          "price": 120000.0,
+          "url": "https://zicomputer.com/product/teamgroup-t-force-delta-32gb-ddr5-6400mhz-cl40/"
+        }
+      ]
+    },
+    {
+      "id": "ram_113",
+      "name": "Kingston FURY Beast 16GB DDR5 5600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingston FURY Beast 16GB 8GBx2 DDR5 5600MHz ",
+          "storeName": "AMD House",
+          "price": 16000.0,
+          "url": "https://amdhouse.pk/product/kingston-fury-beast-16gb-8gbx2-ddr5-5600mhz-non-rgb-new-in-2-years-warranty/"
+        },
+         {
+          "Name": "Kingston FURY Beast Black RGB 16GB 5600MT/s ",
+          "storeName": "Czone",
+          "price": 64999.0,
+          "url": "https://www.czone.com.pk/kingston-fury-beast-rgb-16gb-ddr5-5600"
+        }
+      ]
+    },
+    {
+      "id": "ram_114",
+      "name": "Apacer Panther 32GB DDR5 5200MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Apacer Panther 32GB 16GBx2 DDR5 5200MHz ",
+          "storeName": "AMD House",
+          "price": 24500.0,
+          "url": "https://amdhouse.pk/product/apacer-panther-32gb-16gbx2-ddr5-5200mhz-rgb-new-in-2-years-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_115",
+      "name": "Apacer NOX 32GB DDR5 5200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Apacer NOX 32GB 16GBx2 DDR5 5200MHz ",
+          "storeName": "AMD House",
+          "price": 101000.0,
+          "url": "https://amdhouse.pk/product/apacer-nox-32gb-16gbx2-ddr5-5200mhz-ram-with-heatsink-new-in-2yr-wty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_116",
+      "name": "APACER Panther 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "APACER Panther 16GB 8GBx2 DDR4 3200MHz ",
+          "storeName": "AMD House",
+          "price": 10500.0,
+          "url": "https://amdhouse.pk/product/apacer-panther-16gb-8gbx2-ddr4-3200mhz-cl16-dual-channel-new-in-2-years-warranty/"
+        }
+      ]
+    },
+  
+    {
+      "id": "ram_117",
+      "name": "HikSemi Armor 32GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "HikSemi Armor 32GB 16GBx2 DDR5 4800 MHz ",
+          "storeName": "AMD House",
+          "price": 20500.0,
+          "url": "https://amdhouse.pk/product/hiksemi-armor-32gb-16gbx2-ddr5-4800-mhz-ram-new-with-heatsink-in-2-yrs-wty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_118",
+      "name": "HikSemi Armor 16GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "HikSemi Armor 16GB DDR5 4800 MHz RAM New with heatsink in 2 Yrs Wty",
+          "storeName": "AMD House",
+          "price": 12000.0,
+          "url": "https://amdhouse.pk/product/hiksemi-armor-16gb-ddr5-4800-mhz-ram-new-with-heatsink-in-2-yrs-wty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_119",
+      "name": "Lexar ARES BLACK 32GB DDR5 6800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Lexar ARES BLACK 6800MHz 32GB (16+16) CL34 XMP EXPO DDR5 Dual Channel Kit New",
+          "storeName": "AMD House",
+          "price": 120000.0,
+          "url": "https://amdhouse.pk/product/lexar-ares-black-6800mhz-32gb-1616-cl34-xmp-ram-expo-ddr5-dual-channel-kit-new/"
+        }
+      ]
+    },
+    {
+      "id": "ram_120",
+      "name": "TeamGroup TCreate Expert 16GB DDR5 6000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "TeamGroup TCreate Expert 16GB DDR5 6000MHz ",
+          "storeName": "AMD House",
+          "price": 55000.0,
+          "url": "https://amdhouse.pk/product/teamgroup-tcreate-expert-16gb-ddr5-6000mhz-cl30/"
+        }
+      ]
+    },
+    {
+      "id": "ram_121",
+      "name": "TeamGroup TForce Delta 16GB DDR4 3600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "TeamGroup TForce Delta RGB DDR4 3600MHz ",
+          "storeName": "AMD House",
+          "price": 13500.0,
+          "url": "https://amdhouse.pk/product/teamgroup-tforce-delta-rgb-ddr4-3600mhz-cl18-16gb-8gbx2-kit-black-copy/"
+        },
+         {
+          "Name": "TeamGroup TForce Delta RGB DDR4 3600MHz ",
+          "storeName": "AMD House",
+          "price": 16000.0,
+          "url": "https://amdhouse.pk/product/teamgroup-tforce-delta-rgb-ddr4-3600mhz-cl18-16gb-8gbx2-kit/"
+        }
+      ]
+    },
+   
+    {
+      "id": "ram_122",
+      "name": "Lexar Ares 32GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Lexar Ares 32GB 16GBx2 DDR5-4800 MHz ",
+          "storeName": "AMD House",
+          "price": 23000.0,
+          "url": "https://amdhouse.pk/product/lexar-ares-32gb-16gbx2-ddr5-4800-mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_123",
+      "name": "ValueTech Pro 32GB DDR4 3200MHz", 
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "ValueTech Pro 32GB 16GBx2 3200MHz DDR4",
+          "storeName": "AMD House",
+          "price": 15000.0,
+          "url": "https://amdhouse.pk/product/valuetech-pro-32gb-16gbx2-3200mhz-ddr4-dual-channel-ram-kit/"
+        }
+      ]
+    },
+    {
+      "id": "ram_124",
+      "name": "ValueTech Pro 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "ValueTech Pro 16GB 8GBx2 DDR4 3200MHz ",
+          "storeName": "AMD House",
+          "price": 7000.0,
+          "url": "https://amdhouse.pk/product/valuetech-pro-16gb-8gbx2-ddr4-3200mhz-dual-channel-ram-kit/"
+        },
+        {
+          "Name": "ValueTech Pro DDR4 16GB 3200MHz ",
+          "storeName": "AMD House",
+          "price": 6500.0,
+          "url": "https://amdhouse.pk/product/valuetech-pro-ddr4-16gb-3200mhz-ram-new-5-years-warranty/"
+        }
+      ]
+    },
+   
+    {
+      "id": "ram_125",
+      "name": "TeamGroup TCreate Expert 32GB DDR5 6000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "TeamGroup TCreate Expert 32GB DDR5 6000MHz ",
+          "storeName": "AMD House",
+          "price": 32500.0,
+          "url": "https://amdhouse.pk/product/teamgroup-tcreate-expert-32gb-ddr5-6000mhz-cl30-16gbx2-new/"
+        }
+      ]
+    },
+    {
+      "id": "ram_126",
+      "name": "Asgard BRAGI ROG 32GB DDR5 6400MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Asgard BRAGI ROG STRIX 32GB DDR5 16GBx2 6400MHz ",
+          "storeName": "AMD House",
+          "price": 42000.0,
+          "url": "https://amdhouse.pk/product/asgard-bragi-rog-strix-32gb-ddr5-16gbx2-6400mhz-cl32-dual-channel-kit/"
+        }
+      ]
+    },
+    {
+      "id": "ram_127",
+      "name": "Micron 16GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Micron 16GB 8GBx2 DDR5 4800MHz ",
+          "storeName": "AMD House",
+          "price": 47000.0,
+          "url": "https://amdhouse.pk/product/micron-16gb-8gbx2-ddr5-4800mhz-dual-channel-kit-new-without-packing/"
+        }
+      ]
+    },
+    {
+      "id": "ram_128",
+      "name": "Lexar ARES WHITE 32GB DDR5 6400MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Lexar ARES WHITE 6400MHz  ",
+          "storeName": "AMD House",
+          "price": 34000.0,
+          "url": "https://amdhouse.pk/product/lexar-ares-6400mhz-white-32gb-1616-cl34-expo-ddr5-dual-channel-kit-new/"
+        },
+         {
+          "Name": "Lexar ARES 6000MHz ",
+          "storeName": "AMD House",
+          "price": 37000.0,
+          "url": "https://amdhouse.pk/product/lexar-ares-6000mhz-32gb-1616-cl34-amd-expo-ddr5-dual-channel-kit-new/"
+        }
+      ]
+    },
+   
+    {
+      "id": "ram_129",
+      "name": "TeamGroup T-Create Classic 64GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "TeamGroup T-Create Classic 10L 64GB (32GBx2) DDR4 3200MHzw",
+          "storeName": "AMD House",
+          "price": 36500.0,
+          "url": "https://amdhouse.pk/product/teamgroup-t-create-classic-10l-64gb-32gbx2-ddr4-3200mhz-cl22-ram-dual-channel-kit-new/"
+        }
+      ]
+    },
+    {
+      "id": "ram_130",
+      "name": "Transcend JetRam 64GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Transcend JetRam 64GB DDR5 32GBx2 4800MHz RAM Dual Channel Pack New 10months waranty",
+          "storeName": "AMD House",
+          "price": 180000.0,
+          "url": "https://amdhouse.pk/product/transcend-jetram-64gb-ddr5-5600mhz-ram-dual-channel/"
+        }
+      ]
+    },
+   
+  
+    {
+      "id": "ram_131",
+      "name": "PNY Performance 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "PNY Performance 16GB DDR4 3200MHz ",
+          "storeName": "AMD House",
+          "price": 8000.0,
+          "url": "https://amdhouse.pk/product/pny-performance-16gb-ddr4-3200mhz/"
+        },
+           {
+          "Name": "PNY Performance 16GB DDR4 3200MHz ",
+          "storeName": "AMD House",
+          "price": 10000.0,
+          "url": "https://amdhouse.pk/product/pny-performance-16gb-ddr4-3200mhz-8gbx2-dual-channel-pair-new/"
+        }
+      ]
+    },
+   
+    {
+      "id": "ram_132",
+      "name": "JUHOR 16GB DDR4 3600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "JUHOR 16GB DDR4 3600MHz ",
+          "storeName": "AMD House",
+          "price": 11000.0,
+          "url": "https://amdhouse.pk/product/juhor-16gb-ddr4-3600mhz-star-series-ram-single-module-new/"
+        },
+        {
+          "Name": "JUHOR 16GB 8GBx2 DDR4 3600MHz ",
+          "storeName": "AMD House",
+          "price": 15000.0,
+          "url": "https://amdhouse.pk/product/juhor-16gb-8gbx2-ddr4-3600mhz-cl16-xmp-ram-kit/"
+        },
+         {
+          "Name": "JUHOR 16GB 8GBx2 DDR4 3200MHz",
+          "storeName": "AMD House",
+          "price": 18000.0,
+          "url": "https://amdhouse.pk/product/juhor-16gb-8gbx2-ddr4-3200mhz-cl16-xmp-kit/"
+        },
+         {
+          "Name": "JUHOR 16GB RAM DDR4 3200MHz ",
+          "storeName": "AMD House",
+          "price": 10500.0,
+          "url": "https://amdhouse.pk/product/juhor-ram-ddr4-3200mhz-cl18-16gb-dual-channel-kit/"
+        }
+      ]
+    },
+    {
+      "id": "ram_133",
+      "name": "Kingbank 32GB DDR4 3600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingbank 32GB DDR4 16GBx2 3600MHZ ",
+          "storeName": "AMD House",
+          "price": 20500.0,
+          "url": "https://amdhouse.pk/product/kingbank-32gb-ddr4-16gbx2-3600mhz-cl18-dual-channel-argb-ram-new/"
+        }
+      ]
+    },
+    {
+      "id": "ram_134",
+      "name": "Kingbank Sharp Blade 32GB DDR5 6400MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingbank Sharp Blade DDR5 32GB (16GBx2) 6400MT/s ",
+          "storeName": "AMD House",
+          "price": 65000.0,
+          "url": "https://amdhouse.pk/product/kingbank-sharp-blade-ddr5-6400mt-s-32gb-16gbx2-cl32-ram/"
+        }
+      ]
+    },
+    {
+      "id": "ram_135",
+      "name": "GSkill Ripjaws V 16GB DDR4 4000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "GSkill Ripjaws V 4000MHz ",
+          "storeName": "AMD House",
+          "price": 15000.0,
+          "url": "https://amdhouse.pk/product/gskill-ripjaws-v-4000mhz-cl18-16gb-8gbx2-ddr4-gaming-ram/"
+        }
+      ]
+    },
+   
+    {
+      "id": "ram_136",
+      "name": "GLOWAY 16GB DDR4 3600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "GLOWAY 16GB (8gbx2) DDR4 3600MHZ ",
+          "storeName": "AMD House",
+          "price": 15000.0,
+          "url": "https://amdhouse.pk/product/gloway-16gb-8gbx2-ddr4-3600mhz-cl18-white-argb-ram-new/"
+        }
+      ]
+    },
+    {
+      "id": "ram_137",
+      "name": "JUHOR STARDANCE 16GB DDR5 6400MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "JUHOR STARDANCE 16GB DDR5 ARGB 6400MHz ",
+          "storeName": "AMD House",
+          "price": 16000.0,
+          "url": "https://amdhouse.pk/product/juhor-stardance-16gb-ddr5-argb-6400mhz-cl32-xmp-expo-ram/"
+        }
+      ]
+    },
+    {
+      "id": "ram_138",
+      "name": "VColor Skywalker Plus 16GB DDR4 3600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "VColor Skywalker Plus 16GB 8GBx2 DDR4 CL18 3600MHz",
+          "storeName": "AMD House",
+          "price": 14500.0,
+          "url": "https://amdhouse.pk/product/vcolor-skywalker-plus-16gb-8gbx2-ddr4-cl18-3600mhz-ram-black/"
+        },
+        {
+          "Name": "VColor Skywalker Plus 16GB 8GBx2 DDR4 CL18 3600MHz ",
+          "storeName": "AMD House",
+          "price": 14500.0,
+          "url": "https://amdhouse.pk/product/vcolor-skywalker-plus-16gb-8gbx2-ddr4-cl18-3600mhz-ram-white/"
+        }
+      ]
+    },
+    
+    {
+      "id": "ram_139",
+      "name": "JUHOR STARDANCE 16GB DDR5 6800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "JUHOR STARDANCE 16GB DDR5 ARGB 6800MHz ",
+          "storeName": "AMD House",
+          "price": 17500.0,
+          "url": "https://amdhouse.pk/product/juhor-stardance-16gb-ddr5-argb-6800mhz-cl34-xmp-expo-ram/"
+        }
+      ]
+    },
+  
+    {
+      "id": "ram_140",
+      "name": "TeamGroup TForce Delta 32GB DDR4 3600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "TeamGroup TForce Delta RGB DDR4 3600MHz ",
+          "storeName": "AMD House",
+          "price": 25500.0,
+          "url": "https://amdhouse.pk/product/teamgroup-tforce-delta-rgb-ddr4-3600mhz-cl18-32gb-16gbx2-kit-copy/"
+        }
+      ]
+    },
    
 
   
+    {
+      "id": "ram_141",
+      "name": "AData PC4-38400 16GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "AData PC4-38400 16GB 4800MT/s ",
+          "storeName": "AMD House",
+          "price": 13500.0,
+          "url": "https://amdhouse.pk/product/adata-pc4-38400-16gb-ddr5-ram/"
+        }
+      ]
+    },
+    {
+      "id": "ram_142",
+      "name": "RedRagon Dragon Knight 8GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "RedRagon Dragon Knight 8GB DDR4 3200 RAM New",
+          "storeName": "AMD House",
+          "price": 4900.0,
+          "url": "https://amdhouse.pk/product/redragon_8gb_3200_new/"
+        }
+      ]
+    },
+    {
+      "id": "ram_143",
+      "name": "Kingston FURY Beast 32GB DDR5 6000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingston FURY Beast 6000MHz ",
+          "storeName": "AMD House",
+          "price": 38000.0,
+          "url": "https://amdhouse.pk/product/kingston-fury-beast-6000mhz-ddr5-32gb-dual-channel-kit-1616gb/"
+        },
+          {
+          "Name": "Kingston Fury Beast 32GB (2x16GB) 6000MT/s ",
+          "storeName": "Junaid Tech",
+          "price": 127999.0,
+          "url": "https://www.junaidtech.pk/product/kingston-fury-beast-32gb-2x16gb-6000mts-ddr5-cl36-desktop-memory"
+        }
+      ]
+    },
+    {
+      "id": "ram_144",
+      "name": "Lexar Ares 16GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Lexar Ares 16GB DDR5-4800 MHz ",
+          "storeName": "AMD House",
+          "price": 31500.0,
+          "url": "https://amdhouse.pk/product/lexar-ares-16gb-ddr5-4800-udimm/"
+        }
+      ]
+    },
+    {
+      "id": "ram_145",
+      "name": "Vcolor Prism Pro 32GB DDR4 3200MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Vcolor Prism Pro 32GB Dual Channel Kit (16+16GB) 3200MHz ",
+          "storeName": "AMD House",
+          "price": 25000.0,
+          "url": "https://amdhouse.pk/product/vcolor-prism-pro-32gb-dual-channel-kit-1616gb-3200mhz-ddr4-rgb/"
+        }
+      ]
+    },
+    { 
+      "id": "ram_146",
+      "name": "Vcolor Prism Pro 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Vcolor Prism Pro 16GB Dual Channel Kit (8+8GB) 3200MHz ",
+          "storeName": "AMD House",
+          "price": 14000.0,
+          "url": "https://amdhouse.pk/product/vcolor-prism-pro-16gb-dual-channel-kit-88gb-3200mhz-ddr4-copy/"
+        }
+      ]
+    },
+    {
+      "id": "ram_147",
+      "name": "Vcolor Prism Pro 16GB DDR4 3600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Vcolor Prism Pro 16GB Dual Channel Kit (8+8GB) 3600MHz ",
+          "storeName": "AMD House",
+          "price": 15000.0,
+          "url": "https://amdhouse.pk/product/vcolor-prism-pro-16gb-dual-channel-kit-88gb-3600mhz-ddr4/"
+        }
+      ]
+    },
+  
+    {
+      "id": "ram_148",
+      "name": "Corsair Vengeance 16GB DDR5 6000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance RGB 16GB (1x16GB) 6000MHz ",
+          "storeName": "Junaid Tech",
+          "price": 70999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-rgb-16gb-1x16gb-6000mhz-cl36-ram-black"
+        }
+      ]
+    },
+   
+    {
+      "id": "ram_149",
+      "name": "Crucial Pro 32GB DDR5 6000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Crucial Pro 32GB (2x16GB) 6000MHz DDR5 ",
+          "storeName": "Junaid Tech",
+          "price": 137999.0,
+          "url": "https://www.junaidtech.pk/product/crucial-pro-32gb-2x16gb-6000mhz-ddr5-ram-kit-black"
+        }
+      ]
+    },
+    {
+      "id": "ram_150",
+      "name": "XPG Lancer Neon 32GB DDR5 8000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "XPG Lancer Neon RGB 32GB (2x16GB) 8000MHz ",
+          "storeName": "Junaid Tech",
+          "price": 164999.0,
+          "url": "https://www.junaidtech.pk/product/xpg-lancer-neon-rgb-32gb-2x16gb-8000mhz-c38-ddr5-ram"
+        }
+      ]
+    },
+    {
+      "id": "ram_151",
+      "name": "Corsair Vengeance 32GB DDR5 6200MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance RGB 32GB (2x16GB) 6200MHz",
+          "storeName": "Junaid Tech",
+          "price": 173999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-rgb-32gb-2x16gb-6200mhz-c36-ddr5-memory-kit-black"
+        }
+      ]
+    },
+    {
+      "id": "ram_152",
+      "name": "Corsair Vengeance 64GB DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance 64GB (2x32GB) 5600MHz ",
+          "storeName": "Junaid Tech",
+          "price": 199999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-64gb-2x32gb-5600mhz-cl40-ddr5-ram-white"
+        }
+      ]
+    },
+    {
+      "id": "ram_153",
+      "name": "Corsair Vengeance 96GB DDR5 5200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance 96GB (2x48GB) 5200MHz ",
+          "storeName": "Junaid Tech",
+          "price": 249999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-96gb-2x48gb-5200mhz-cl38-ddr5-memory-black"
+        }
+      ]
+    },
+    {
+      "id": "ram_154",
+      "name": "Corsair Vengeance 96GB DDR5 7200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance RGB 96GB (2x48GB) 7200MHz",
+          "storeName": "Junaid Tech",
+          "price": 344999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-rgb-96gb-2x48gb-7200mhz-cl40-ram-black"
+        }
+      ]
+    },
+    {
+      "id": "ram_155",
+      "name": "Corsair Dominator Titanium 96GB DDR5 6600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Dominator Titanium RGB 96GB (2x48GB) 6600MHz",
+          "storeName": "Junaid Tech",
+          "price": 359999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-dominator-titanium-rgb-96gb-2x48gb-6600mhz-cl32-ram-white"
+        }
+      ]
+    },
+    {
+      "id": "ram_156",
+      "name": "Corsair Dominator Titanium 96GB DDR5 6600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Dominator Titanium RGB 96GB (2x48GB) 6600MHz ",
+          "storeName": "Junaid Tech",
+          "price": 364999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-dominator-titanium-rgb-96gb-2x48gb-6600mhz-cl32-ddr5-ram"
+        }
+      ]
+    },
+    {
+      "id": "ram_157",
+      "name": "Corsair Vengeance 96GB DDR5 7000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance 96GB (2x48GB) 7000MHz ",
+          "storeName": "Junaid Tech",
+          "price": 394999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-96gb-2x48gb-7000mhz-cl40-ddr5-ram"
+        }
+      ]
+    },
+    {
+      "id": "ram_158",
+      "name": "Corsair Dominator Titanium 96GB DDR5 7000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Dominator Titanium RGB 96GB (2x48GB) 7000MHz",
+          "storeName": "Junaid Tech",
+          "price": 394999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-dominator-titanium-rgb-96gb-2x48gb-7000mhz-cl36-black-ram"
+        }
+      ]
+    },
+   
+    {
+      "id": "ram_159",
+      "name": "Dahua 16GB SODIMM DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Dahua 16GB DDR4 Laptop RAM SODIMM 3200MHz ",
+          "storeName": "Czone",
+          "price": 25000.0,
+          "url": "https://www.czone.com.pk/memory-module-ram-laptop-sod-ddr4-memory-dahua-16gb-ddr4-laptop-ram-sodimm-3200mhz-ddr-c300s16g32-memory-module-cl22-pakistan-p.18774.aspx"
+        }
+      ]
+    },
+    {
+      "id": "ram_160",
+      "name": "Lexar 8GB DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Lexar 8GB DDR5 5600MHz UDIMM Desktop Memory",
+          "storeName": "Czone",
+          "price": 30500.0,
+          "url": "https://www.czone.com.pk/lexar-8gb-ddr5-5600mhz-udimm-desktop-memory"
+        }
+      ]
+    },
+    {
+      "id": "ram_161",
+      "name": "DAHUA C500 8GB SODIMM DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "DAHUA C500 Series DDR5 8GB SO-DIMM Laptop Memory, 5600MT/s",
+          "storeName": "Czone",
+          "price": 31000.0,
+          "url": "https://www.czone.com.pk/dahua-ddr5-8gb-sodimm-5600mts-laptop-memory"
+        }
+      ]
+    },
+    {
+      "id": "ram_162",
+      "name": "Apacer PANTHER 32GB DDR5 6000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Apacer PANTHER RGB DDR5 32GB 6000MHz ",
+          "storeName": "Czone",
+          "price": 109000.0,
+          "url": "https://www.czone.com.pk/apacer-panther-rgb-ddr5-32gb-6000mhz"
+        }
+      ]
+    },
+ 
+  
+    {
+      "id": "ram_163",
+      "name": "Kingston Fury Beast 16GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingston Fury Beast 16GB (1x16GB) 4800Mhz",
+          "storeName": "RB Tech N Games",
+          "price": 50499.0,
+          "url": "https://rbtechngames.com/shop-2/computers/rams/kingston-fury-beast-16gb-1x16gb-4800mhz-cl38-ddr5-ram-black-white/"
+        }
+      ]
+    },
+    {
+      "id": "ram_164",
+      "name": "Crucial Pro OC 32GB DDR5 6400MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Crucial Pro OC 32GB (2x16GB) 6400MT/s ",
+          "storeName": "RB Tech N Games",
+          "price": 124999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/rams/crucial-pro-oc-32gb-2x16gb-6400mt-s-cl38-ddr5-desktop-memory-black-white/"
+        }
+      ]
+    },
+    {
+      "id": "ram_165",
+      "name": "G.Skill Ripjaws S5 48GB DDR5 5200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "G.Skill Ripjaws S5 48GB (2x24GB) 5200Mhz ",
+          "storeName": "RB Tech N Games",
+          "price": 149999.0,
+          "url": "https://rbtechngames.com/shop-2/computers/rams/g-skill-ripjaws-s5-48gb-2x24gb-5200mhz-cl40-ddr5-ram-black-white/"
+        }
+      ]
+    },
+    {
+      "id": "ram_166",
+      "name": "PNY 32GB SODIMM DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "PNY SODIMM 32GB (2x16GB) 5600MT/s CL46 DDR5 Laptop Memory",
+          "storeName": "RB Tech N Games",
+          "price": 99999.0,
+          "url": "https://rbtechngames.com/shop-2/laptops/laptop-ram/pny-sodimm-32gb-2x16gb-5600mt-s-cl46-ddr5-laptop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_167",
+      "name": "Crucial 32GB SODIMM DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Crucial SODIMM 32GB (2x16GB) Laptop Memory",
+          "storeName": "RB Tech N Games",
+          "price": 101999.0,
+          "url": "https://rbtechngames.com/shop-2/laptops/laptop-ram/crucial-sodimm-32gb-2x16gb-5600mt-s-cl46-ddr5-laptop-memory/"
+        },
+         {
+          "Name": "Crucial SODIMM 32GB (1x32GB) Laptop Memory",
+          "storeName": "RB Tech N Games",
+          "price": 111999.0,
+          "url": "https://rbtechngames.com/shop-2/laptops/laptop-ram/crucial-sodimm-32gb-1x32gb-5600mt-s-cl46-ddr5-laptop-memory/"
+        }
+      ]
+    },
+   
+ 
+    {
+      "id": "ram_168",
+      "name": "Apacer 16GB DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Apacer 16GB DDR5 5600MHz Desktop ",
+          "storeName": "Zah Computers",
+          "price": 58000.0,
+          "url": "https://zahcomputers.pk/product/apacer-16gb-ddr5-5600mhz-desktop-memory/"
+        },
+           {
+          "Name": "Apacer 16GB DDR5 5600MHz Desktop ",
+          "storeName": "Zicomputer",
+          "price": 55000.0,
+          "url": "https://zicomputer.com/product/apacer-16gb-ddr5-5600mhz-desktop-ram-single/"
+        }
+      ]
+    },
+ 
+    {
+      "id": "ram_169",
+      "name": "Apacer 32GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Apacer 32GB DDR4 3200MHz, CL22, 1.2V Desktop Memory",
+          "storeName": "Zah Computers",
+          "price": 52000.0,
+          "url": "https://zahcomputers.pk/product/apacer-32gb-ddr4-3200mhz-cl22-1-2v-desktop-memory/"
+        },
+         {
+          "Name": "Apacer DDR4 SODIMM Memory Module 32GB 3200MHz/CL22 Laptop",
+          "storeName": "Zah Computers",
+          "price": 30000.0,
+          "url": "https://zahcomputers.pk/product/apacer-ddr4-sodimm-memory-module-32gb-3200mhz-cl22-laptop-ram/"
+        }
+      ]
+    },
+    {
+      "id": "ram_170",
+      "name": "HikSemi Hiker 8GB SODIMM DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "HikSemi Hiker 8GB DDR4 3200MHz SO-DIMM Ram",
+          "storeName": "Zah Computers",
+          "price": 16500.0,
+          "url": "https://zahcomputers.pk/product/hiksemi-hiker-8gb-ddr4-3200mhz-so-dimm-ram/"
+        },
+        {
+          "Name": "Hiksemi HIKER 8GB DDR4-3200 UDIMM Desktop Memory",
+          "storeName": "Zah Computers",
+          "price": 16800.0,
+          "url": "https://zahcomputers.pk/product/hiksemi-hiker-8gb-ddr4-3200-udimm-desktop-memory/"
+        }
+      ]
+    },
+  
+    {
+      "id": "ram_171",
+      "name": "OSCOO 4GB SODIMM DDR4 2666MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "OSCOO 4GB DDR4-2666MHz ",
+          "storeName": "Zah Computers",
+          "price": 6300.0,
+          "url": "https://zahcomputers.pk/product/oscoo-4gb-ddr4-2666mhz-cl22-non-ecc-unbuffered-sodimm/"
+        }
+      ]
+    },
+   
+   
+    {
+      "id": "ram_172",
+      "name": "V-Color Manta XPrism 32GB DDR5 5600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "V-Color DDR5 Manta XPrism 32GB(16GBx2) 5600MHz ",
+          "storeName": "Zah Computers",
+          "price": 142000.0,
+          "url": "https://zahcomputers.pk/product/v-color-ddr5-manta-xprism-32gb16gbx2-5600mhz-2gx8-cl36-1-2v-sk-hynix-ic-rgb-gaming-desktop-upgrade-ram-memory-module-dual-rank-midnight-black/"
+        }
+      ]
+    },
+    {
+      "id": "ram_173",
+      "name": "Apacer NOX 32GB DDR4 3600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Apacer NOX 32GB 2x16GB 3600MHz CL18 DDR4 UDIMM",
+          "storeName": "Zah Computers",
+          "price": 52000.0,
+          "url": "https://zahcomputers.pk/product/apacer-nox-32gb-2x16gb-3600mhz-cl18-ddr4-udimm/"
+        }
+      ]
+    },
+    {
+      "id": "ram_174",
+      "name": "Netac Basic 8GB DDR4",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Netac Basic 8GB DDR4 C22 U-DIMM Desktop Memory",
+          "storeName": "Zah Computers",
+          "price": 15500.0,
+          "url": "https://zahcomputers.pk/product/netac-basic-8gb-ddr4-c22-u-dimm-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_175",
+      "name": "Netac Basic 16GB DDR4",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Netac Basic 16GB DDR4 C22 U-DIMM Desktop Memory",
+          "storeName": "Zah Computers",
+          "price": 28000.0,
+          "url": "https://zahcomputers.pk/product/netac-basic-16gb-ddr4-c22-u-dimm-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_176",
+      "name": "TeamGroup Elite 8GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "TeamGroup Elite 8GB 3200MHz Desktop Memory",
+          "storeName": "Zah Computers",
+          "price": 15000.0,
+          "url": "https://zahcomputers.pk/product/teamgroup-elite-8gb-3200mhz-u-dimm-ddr4-laptop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_177",
+      "name": "CORSAIR Vengeance Pro 16GB DDR4 3200MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "CORSAIR Vengeance RGB Pro 16GB (2 x 8GB) ",
+          "storeName": "Zah Computers",
+          "price": 22000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-pro-16gb-2-x-8gb-288-pin-pc-ram-ddr4-3200-pc4-25600-desktop-memory-kit-used/"
+        }
+      ]
+    },
+ 
+    {
+      "id": "ram_178",
+      "name": "Apacer CL22 Notebook 8GB SODIMM DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Apacer DDR4 CL22 Notebook Memory Module 8GB 3200Mhz Laptop Ram",
+          "storeName": "Zah Computers",
+          "price": 15000.0,
+          "url": "https://zahcomputers.pk/product/apacer-ddr4-cl22-notebook-memory-module-8gb-3200mhz-laptop-ram/"
+        }
+      ]
+    },
+    {
+      "id": "ram_179",
+      "name": "Patriot 32GB SODIMM DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Patriot 32GB Signature Line DDR5 5600 MHz ",
+          "storeName": "Zah Computers",
+          "price": 95000.0,
+          "url": "https://zahcomputers.pk/product/patriot-32gb-signature-line-ddr5-5600-mhz-so-dimm-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_180",
+      "name": "Corsair Vengeance LPX 8GB DDR4 2400MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance LPX 8GB ",
+          "storeName": "Zah Computers",
+          "price": 16000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-lpx-8gb-288-pin-pc-ram-ddr4-2400-pc4-19200-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_181",
+      "name": "G.SKILL Trident Z5 128GB DDR5 ",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "G.SKILL Trident Z5 Neo RGB SeriesR5 6000MHz",
+          "storeName": "Zah Computers",
+          "price": 290000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-neo-rgb-series-128gb-2-x-64gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory/"
+        },
+         {
+          "Name": "G.SKILL Trident Z5 Series 128GB 6400MHZ",
+          "storeName": "Zah Computers",
+          "price": 290000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z5-series-128gb-2-x-64gb-288-pin-pc-ram-ddr5-6400-pc5-51200-desktop-memory/"
+        }
+      ]
+    },
+ 
+    
+    {
+      "id": "ram_182",
+      "name": "Apacer Notebook 32GB SODIMM DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Apacer DDR5 Notebook Memory Module 32GB 4800MHz Laptop Ram",
+          "storeName": "Zah Computers",
+          "price": 56500.0,
+          "url": "https://zahcomputers.pk/product/apacer-ddr5-notebook-memory-module-32gb-4800mhz-laptop-ram/"
+        }
+      ]
+    },
+  
+   
+   
+    {
+      "id": "ram_183",
+      "name": "Ease EM08D556 8GB DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Ease EM08D556 8GB 5600MHZ DDR5 Desktop RAM",
+          "storeName": "Zah Computers",
+          "price": 8199.0,
+          "url": "https://zahcomputers.pk/product/ease-em08d556-8gb-5600mhz-ddr5-desktop-ram/"
+        }
+      ]
+    },
+    {
+      "id": "ram_184",
+      "name": "EASE EM08D432s 8GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "EASE EM08D432s RAM 8GB 3200MHZ DDR4 Notebook",
+          "storeName": "Zah Computers",
+          "price": 4500.0,
+          "url": "https://zahcomputers.pk/product/ease-em08d432s-ram-8gb-3200mhz-ddr4-notebook/"
+        }
+      ]
+    },
+    {
+      "id": "ram_185",
+      "name": "HikVision 8GB SODIMM DDR4 2666MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "HikVision 8GB DDR4 2666MHz SO-DIMM Loptop Ram",
+          "storeName": "Zah Computers",
+          "price": 6500.0,
+          "url": "https://zahcomputers.pk/product/hikvision-8gb-ddr4-2666mhz-so-dimm-loptop-ram/"
+        }
+      ]
+    },
+    
+ 
+    {
+      "id": "ram_186",
+      "name": "Acer SD200 32GB SODIMM DDR5",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Acer SD200 32GB DDR5 Module Memory Laptop",
+          "storeName": "Zah Computers",
+          "price": 22500.0,
+          "url": "https://zahcomputers.pk/product/acer-sd200-32gb-ddr5-module-memory-laptop/"
+        }
+      ]
+    },
+    {
+      "id": "ram_187",
+      "name": "Acer SD200 16GB SODIMM DDR5",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Acer SD200 16GB DDR5 Module Memory Laptop",
+          "storeName": "Zah Computers",
+          "price": 13500.0,
+          "url": "https://zahcomputers.pk/product/acer-sd200-16gb-ddr5-module-memory-laptop/"
+        }
+      ]
+    },
+    {
+      "id": "ram_188",
+      "name": "TeamGroup T-Force Delta 64GB DDR5 6000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "TeamGroup T-Force Delta RGB 64GB (2 x 32GB) ",
+          "storeName": "Zah Computers",
+          "price": 119000.0,
+          "url": "https://zahcomputers.pk/product/teamgroup-t-force-delta-rgb-64gb-2-x-32gb-288-pin-pc-ram-ddr5-6000-cl38-pc5-48000-desktop-memory-white/"
+        },
+          {
+          "Name": "TeamGroup T-Force Delta RGB 64GB (2 x 32GB) 200)",
+          "storeName": "Zah Computers",
+          "price": 119000.0,
+          "url": "https://zahcomputers.pk/product/teamgroup-t-force-delta-rgb-64gb-2-x-32gb-288-pin-pc-ram-ddr5-6000-cl38-pc5-48000-desktop-memory-black/"
+        }
+      ]
+    },
+  
+    {
+      "id": "ram_189",
+      "name": "TeamGroup T-Force Delta 16GB DDR5 5200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "TeamGroup T-Force Delta 16GB (2 x 8GB) DDR5 5200MHz",
+          "storeName": "Zah Computers",
+          "price": 65000.0,
+          "url": "https://zahcomputers.pk/product/teamgroup-t-force-delta-16gb-2-x-8gb-ddr5-5200-pc5-41600-desktop-memory-white/"
+        },
+         {
+          "Name": "TeamGroup T-Force Delta 16GB (2 x 8GB) DDR5 5200MHz",
+          "storeName": "Zah Computers",
+          "price": 75000.0,
+          "url": "https://zahcomputers.pk/product/teamgroup-t-force-delta-16gb-2-x-8gb-ddr5-5200-pc5-41600-desktop-memory/"
+        }
+      ]
+    },
+   
+    {
+      "id": "ram_190",
+      "name": "Kingspec 16GB DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Kingspec DDR5 16GB Desktop Memory 5600MHz",
+          "storeName": "Zah Computers",
+          "price": 13500.0,
+          "url": "https://zahcomputers.pk/product/kingspec-ddr5-16gb-desktop-memory-ram-288-pin-dimm-5600mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_191",
+      "name": "Corsair VENGEANCE PRO 64GB DDR4 3600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair VENGEANCE RGB PRO 64GB (2 x 32GB) ",
+          "storeName": "Zah Computers",
+          "price": 66500.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-pro-64gb-2-x-32gb-ddr4-dram-3600mhz-c18-memory-kit-black/"
+        }
+      ]
+    },
+    {
+      "id": "ram_192",
+      "name": "XPG Lancer 64GB DDR5 6400MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "XPG Lancer RGB 64GB (2x32GB) 6400MHz ",
+          "storeName": "Zah Computers",
+          "price": 75000.0,
+          "url": "https://zahcomputers.pk/product/xpg-lancer-rgb-64gb-2x32gb-6400mhz-c32-ddr5-dram-memory-black/"
+        }
+      ]
+    },
+    {
+      "id": "ram_193",
+      "name": "XPG Lancer Blade 16GB DDR5 5600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "XPG Lancer Blade RGB 16GB (2x8GB) 5600MHz ",
+          "storeName": "Zah Computers",
+          "price": 17000.0,
+          "url": "https://zahcomputers.pk/product/xpg-lancer-blade-rgb-16gb-2x8gb-5600mhz-c46-ddr5-dram-memory-black/"
+        }
+      ]
+    },
+    {
+      "id": "ram_194",
+      "name": "Ease EM08H32H Thunderbird 8GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Ease EM08H32H Thunderbird 8GB DDR4 3200Mhz Gaming Memory",
+          "storeName": "Zah Computers",
+          "price": 7475.0,
+          "url": "https://zahcomputers.pk/product/ease-em08h32h-thunderbird-8gb-ddr4-3200mhz-gaming-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_195",
+      "name": "HIKSEMI ARMOR 8GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "HIKSEMI ARMOR DDR4 3200MHZ ",
+          "storeName": "Zah Computers",
+          "price": 16800.0,
+          "url": "https://zahcomputers.pk/product/hiksemi-armor-ddr4-8gb-3200mhz-u10-u-dimm-hsc408u32z2-8g/"
+        }
+      ]
+    },
+    {
+      "id": "ram_196",
+      "name": "HIKSEMI ARMOR 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "HIKSEMI ARMOR DDR4 3200MHZ ",
+          "storeName": "Zah Computers",
+          "price": 32000.0,
+          "url": "https://zahcomputers.pk/product/hiksemi-armor-ddr4-3200mhz-u10-u-dim-ram-16gb-hsc416u32z2-16g/"
+        }
+      ]
+    },
+    {
+      "id": "ram_197",
+      "name": "G.SKILL Ripjaws S5 64GB DDR5 6000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "G.SKILL Ripjaws S5 Series 64GB ",
+          "storeName": "Zah Computers",
+          "price": 62500.0,
+          "url": "https://zahcomputers.pk/product/g-skill-ripjaws-s5-series-64gb-2-x-32gb-288-pin-pc-ram-ddr5-6000/"
+        }
+      ]
+    },
+ 
+    {
+      "id": "ram_198",
+      "name": "Corsair 8GB SODIMM DDR4 2133MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Memory 8GB (1x8GB) DDR4 SODIMM 2133MHz",
+          "storeName": "Zah Computers",
+          "price": 6600.0,
+          "url": "https://zahcomputers.pk/product/corsair-memory-8gb-1x8gb-ddr4-sodimm-2133mhz-c15-memory-kit/"
+        }
+      ]
+    },
+    {
+      "id": "ram_199",
+      "name": "G.SKILL TridentZ 64GB DDR4 3600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "G.SKILL TridentZ RGB Series 64GB (2 x 32GB) ",
+          "storeName": "Zah Computers",
+          "price": 53000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-tridentz-rgb-series-64gb-2-x-32gb-288-pin-pc-ram-ddr4-3600-pc4-28800-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_200",
+      "name": "G.SKILL Ripjaws V 64GB DDR4 3600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "G.SKILL Ripjaws V 64GB (32GBx2) DDR4 3600 Mhz ",
+          "storeName": "Zah Computers",
+          "price": 47500.0,
+          "url": "https://zahcomputers.pk/product/g-skill-ripjaws-v-64gb-32gbx2-ddr4-3600-mhz-desktop-gaming-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_201",
+      "name": "G.SKILL Ripjaws S5 64GB DDR5 5200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "G.SKILL Ripjaws S5 Series 64GB (2 x 32GB) ",
+          "storeName": "Zah Computers",
+          "price": 74500.0,
+          "url": "https://zahcomputers.pk/product/g-skill-ripjaws-s5-series-64gb-2-x-32gb-288-pin-pc-ram-ddr5-5200-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_202",
+      "name": "CORSAIR Vengeance Pro 8GB DDR4 3600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "CORSAIR Vengeance RGB Pro (AMD Ryzen Ready) ",
+          "storeName": "Zah Computers",
+          "price": 9800.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-pro-amd-ryzen-ready-8gb-288-pin-ddr4-3600-pc4-28800-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_203",
+      "name": "CORSAIR Vengeance LPX 8GB DDR4 3600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "CORSAIR Vengeance LPX (AMD Ryzen Ready)",
+          "storeName": "Zah Computers",
+          "price": 9000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-lpx-amd-ryzen-ready-8gb-288-pin-ddr4-3600-pc4-28800-amd-optimized-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_204",
+      "name": "V-Color Prism Pro 8GB DDR4 3600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "V-Color Prism Pro RGB 8GB DDR4 DRAM 3600MHz ",
+          "storeName": "Zah Computers",
+          "price": 16500.0,
+          "url": "https://zahcomputers.pk/product/v-color-prism-pro-rgb-8gb-ddr4-dram-3600mhz-single-white/"
+        },
+         {
+          "Name": "V-Color Prism Pro RGB 8GB DDR4 DRAM 3600MHz ",
+          "storeName": "Zah Computers",
+          "price": 8500.0,
+          "url": "https://zahcomputers.pk/product/v-color-prism-pro-rgb-8gb-ddr4-dram-3600mhz-single-black/"
+        }
+      ]
+    },
+ 
+    {
+      "id": "ram_205",
+      "name": "ADATA Premier 16GB DDR5 4800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "ADATA Premier DDR5 4800MHz 16GB",
+          "storeName": "Zah Computers",
+          "price": 33000.0,
+          "url": "https://zahcomputers.pk/product/adata-premier-ddr5-4800mhz-16gb-udimm-memory-ram-module/"
+        }
+      ]
+    },
+    {
+      "id": "ram_206",
+      "name": "V-Color Golden Armis 64GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "V-Color Golden Armis Skywalker Plus 64GB DDR4 DRAM 3200MHz ",
+          "storeName": "Zah Computers",
+          "price": 49990.0,
+          "url": "https://zahcomputers.pk/product/v-color-golden-armis-skywalker-plus-64gb32gbx2-ddr4-dram-3200mhz-overclocking-memory-kit/"
+        }
+      ]
+    },
+    {
+      "id": "ram_207",
+      "name": "V-Color Prism Pro 16GB DDR4 3600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "V-Color Prism Pro RGB 16GB(8GBx2)DDR4 DRAM 3600MHz ",
+          "storeName": "Zah Computers",
+          "price": 38000.0,
+          "url": "https://zahcomputers.pk/product/v-color-prism-pro-rgb-16gb8gbx2ddr4-dram-3600mhz-memory-kit-silver-copper-alloy/"
+        },
+          {
+          "Name": "V-Color Prism Pro RGB 16GB(8GBx2)DDR4 DRAM 3600MHz ",
+          "storeName": "Zah Computers",
+          "price": 15500.0,
+          "url": "https://zahcomputers.pk/product/v-color-prism-pro-rgb-16gb8gbx2ddr4-dram-3600mhz-memory-kit-jet-black/"
+        }
+      ]
+    },
+    {
+      "id": "ram_208",
+      "name": "V-Color Golden Armis 16GB DDR4 5066MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "V-Color Golden Armis Prism Pro RGB 16GB",
+          "storeName": "Zah Computers",
+          "price": 34000.0,
+          "url": "https://zahcomputers.pk/product/v-color-golden-armis-prism-pro-rgb-16gb8gbx2ddr4-dram-5066mhz-cl20-overclocking-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_209",
+      "name": "V-Color Golden Armis 16GB DDR4 4800MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "V-Color Golden Armis Prism Pro RGB 16GB",
+          "storeName": "Zah Computers",
+          "price": 29800.0,
+          "url": "https://zahcomputers.pk/product/v-color-golden-armis-prism-pro-rgb-16gb8gbx2ddr4-dram-4800mhz-cl19-overclocking-memory/"
+        }
+      ]
+    },
+   
+    {
+      "id": "ram_210",
+      "name": "OLOY Blade Aura 16GB DDR4 3600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "OLOY Blade Aura Sync RGB DDR4 RAM 16GB ",
+          "storeName": "Zah Computers",
+          "price": 18500.0,
+          "url": "https://zahcomputers.pk/product/oloy-blade-aura-sync-rgb-ddr4-ram-16gb-2x8gb-3600mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_211",
+      "name": "OLOY Warhawk Platinum 32GB 3600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "OLOY Warhawk Platinum Special Edition RGB ",
+          "storeName": "Zah Computers",
+          "price": 63500.0,
+          "url": "https://zahcomputers.pk/product/oloy-warhawk-platinum-special-edition-rgb-32gbx2-64gb-3600mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_212",
+      "name": "OLOY Warhawk Platinum 16GB 3600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "OLOY Warhawk Platinum Special Edition RGB (16GBx2) 32GB 3600Mhz",
+          "storeName": "Zah Computers",
+          "price": 34000.0,
+          "url": "https://zahcomputers.pk/product/oloy-warhawk-platinum-special-edition-rgb-16gbx2-32gb-3600mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_213",
+      "name": "OLOY Warhawk Platinum 8GB 3600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "OLOY Warhawk Platinum Special Edition RGB ",
+          "storeName": "Zah Computers",
+          "price": 20000.0,
+          "url": "https://zahcomputers.pk/product/oloy-warhawk-platinum-special-edition-rgb-8gbx2-16gb-3600mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_214",
+      "name": "OLOY Owl 8GB DDR4 3000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "OLOY Owl DDR4 Memory 8GB 3000Mhz – Black",
+          "storeName": "Zah Computers",
+          "price": 8000.0,
+          "url": "https://zahcomputers.pk/product/oloy-owl-ddr4-memory-8gb-3000mhz-black/"
+        },
+        {
+          "Name": "OLOY Owl DDR4 Memory 8GB 3000Mhz – Red",
+          "storeName": "Zah Computers",
+          "price": 8000.0,
+          "url": "https://zahcomputers.pk/product/oloy-owl-ddr4-memory-8gb-3000mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_215",
+      "name": "OLOY Owl 16GB DDR4 3000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "OLOY Owl DDR4 Memory 16GB 3000Mhz – Black",
+          "storeName": "Zah Computers",
+          "price": 15000.0,
+          "url": "https://zahcomputers.pk/product/oloy-owl-ddr4-memory-16gb-3000mhz-black/"
+        },
+         {
+          "Name": "OLOY Owl DDR4 Memory 16GB 3000Mhz – Red",
+          "storeName": "Zah Computers",
+          "price": 15000.0,
+          "url": "https://zahcomputers.pk/product/oloy-owl-ddr4-memory-16gb-3000mhz/"
+        }
+      ]
+    },
+  
+   
+    {
+      "id": "ram_216",
+      "name": "OLOY Warhawk 8GB DDR4 3000MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "OLOY Warhawk RGB DDR4 Memory 8GB 3000Mhz",
+          "storeName": "Zah Computers",
+          "price": 8500.0,
+          "url": "https://zahcomputers.pk/product/oloy-warhawk-rgb-ddr4-memory-8gb-3000mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_217",
+      "name": "CORSAIR VENGEANCE PRO 32GB DDR4 3600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "CORSAIR VENGEANCE® RGB PRO 32GB (2 x 16GB) DDR4 DRAM 3600MHz C18 Memory Kit — Black",
+          "storeName": "Zah Computers",
+          "price": 32000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-pro-32gb-2-x-16gb-ddr4-dram-3600mhz-c18-memory-kit-black/"
+        }
+      ]
+    },
+   
+    {
+      "id": "ram_218",
+      "name": "G.SKILL Trident Z 16GB DDR4 3600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "G.SKILL Trident Z Royal Series Gold 16GB ",
+          "storeName": "Zah Computers",
+          "price": 38000.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z-royal-series-gold-16gb-8gbx2-rgb-ddr4-3600mhz-desktop-memory/"
+        },
+         {
+          "Name": "G.SKILL Trident Z Royal Series Silver 16GB ",
+          "storeName": "Zah Computers",
+          "price": 26300.0,
+          "url": "https://zahcomputers.pk/product/g-skill-trident-z-royal-series-silver-16gb-8gbx2-rgb-ddr4-3600mhz-desktop-memory/"
+        }
+      ]
+    },
+ 
+    {
+      "id": "ram_219",
+      "name": "ADATA Premier 8GB DDR3 1600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "ADATA Premier 8 GB 1600 MHz DDR3 U-DIMM",
+          "storeName": "Zah Computers",
+          "price": 7000.0,
+          "url": "https://zahcomputers.pk/product/adata-premier-8-gb-1600-mhz-ddr3-u-dimm/"
+        }
+      ]
+    },
+    {
+      "id": "ram_220",
+      "name": "ADATA XPG V1.0 4GB DDR3 1600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "ADATA Gaming XPG V1.0 4 GB 1600 MHz ",
+          "storeName": "Zah Computers",
+          "price": 5800.0,
+          "url": "https://zahcomputers.pk/product/adata-gaming-xpg-v1-0-4-gb-1600-mhz-ddr3-u-dimm/"
+        }
+      ]
+    },
+    {
+      "id": "ram_221",
+      "name": "ADATA 8GB SODIMM DDR4 2666MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "ADATA 8GB Premier DDR4 2666 ",
+          "storeName": "Zah Computers",
+          "price": 5500.0,
+          "url": "https://zahcomputers.pk/product/adata-8gb-premier-ddr4-2666-so-dimm-memory-module/"
+        }
+      ]
+    },
+    {
+      "id": "ram_222",
+      "name": "Transcend 4GB DDR4 2666MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Transcend 4GB DDR4-2666Mhz",
+          "storeName": "Zah Computers",
+          "price": 3800.0,
+          "url": "https://zahcomputers.pk/product/transcend-4gb-ddr4-2666-u-dimm-jetram-jm2666hld-4g-memory-module/"
+        }
+      ]
+    },
+    {
+      "id": "ram_223",
+      "name": "Lexar ARES 32GB DDR5 6400MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Lexar ARES RGB 32GB (16*2) DDR5 6400MHz ",
+          "storeName": "Zicomputer",
+          "price": 115000.0,
+          "url": "https://zicomputer.com/product/lexar-ares-rgb-32gb-6400mhz-ddr5-desktop/"
+        }
+      ]
+    },
+    {
+      "id": "ram_224",
+      "name": "XPG Lancer 32GB DDR5 5200MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "XPG Lancer RGB 32GB (16*2) DDR5 5200MHz ",
+          "storeName": "Zicomputer",
+          "price": 125000.0,
+          "url": "https://zicomputer.com/product/xpg-lancer-rgb-32gb-ddr5-5200mhz-desktop/"
+        }
+      ]
+    },
+    {
+      "id": "ram_225",
+      "name": "Corsair Dominator Platinum 64GB DDR5 6600MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Dominator Platinum 64GB (32*2) DDR5 6600MHz",
+          "storeName": "Zicomputer",
+          "price": 285000.0,
+          "url": "https://zicomputer.com/product/corsair-dominator-platinum-64gb-6600mhz/"
+        }
+      ]
+    },
+   
+    {
+      "id": "ram_226",
+      "name": "Crucial Pro 64GB DDR5 6000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Crucial Pro 64GB DDR5 (32*2) 6000MHz ",
+          "storeName": "Zicomputer",
+          "price": 250000.0,
+          "url": "https://zicomputer.com/product/crucial-pro-64gb-ddr5-6000mhz-cl40/"
+        }
+      ]
+    },
+    {
+      "id": "ram_227",
+      "name": "Acer UD200 16GB DDR5 5600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Acer UD200 16GB DDR5 5600MHz ",
+          "storeName": "Zicomputer",
+          "price": 55000.0,
+          "url": "https://zicomputer.com/product/acer-ud200-16gb-ddr5-5600mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_228",
+      "name": "Lexar 32GB DDR4 2666MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Lexar 32GB DDR4 2666MHz Desktop RAM ",
+          "storeName": "Zicomputer",
+          "price": 55000.0,
+          "url": "https://zicomputer.com/product/lexar-32gb-ddr4-2666mhz/"
+        }
+      ]
+    },
+    {
+      "id": "ram_229",
+      "name": "XPG D35G 16GB DDR4 3600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "XPG D35G 16GB DDR4 3600MHz ",
+          "storeName": "Zicomputer",
+          "price": 38000.0,
+          "url": "https://zicomputer.com/product/xpg-d35g-16gb-ddr4-3600mhz-dual-channel/"
+        }
+      ]
+    },
+    {
+      "id": "ram_230",
+      "name": "VENGEANCE LPX 32GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "VENGEANCE® LPX 32GB (2 x 16GB)",
+          "storeName": "AMD House",
+          "price": 65000.0,
+          "url": "https://amdhouse.pk/product/vengeance-lpx-32gb-2-x-16gb-ddr4-dram-up-to-3200mhz-c16-memory-kit-black-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    {
+      "id": "ram_231",
+      "name": "Corsair VENGEANCE LPX 32GB DDR4 2400MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair VENGEANCE® LPX 32GB (2 x 16GB) ",
+          "storeName": "Zah Computers",
+          "price": 27000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-lpx-32gb-2-x-16gb-ddr4-dram-2400mhz-c16-memory-kit-black/"
+        }
+      ]
+    },
+    {
+      "id": "ram_232",
+      "name": "Corsair Vengeance LPX 32GB DDR4",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance LPX 32GB DDR4 RAM Dual-Channel",
+          "storeName": "Zicomputer",
+          "price": 65000.0,
+          "url": "https://zicomputer.com/product/corsair-vengeance-lpx-32gb-ddr4-dual/"
+        }
+      ]
+    },
+    {
+      "id": "ram_233",
+      "name": "HIKSEMI HIKER 16GB DDR5 5200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "HIKSEMI HIKER 16GB 5200 DDR5",
+          "storeName": "AMD House",
+          "price": 48500.0,
+          "url": "https://amdhouse.pk/product/hiksemi-hiker-16gb-5200-ddr5-new-with-2-years-warranty/"
+        }
+      ]
+    },
+    
+    {
+      "id": "ram_234",
+      "name": "Corsair Vengeance LPX 16GB DDR4 3600MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance LPX 16GB 8GBx2 3600MHz ",
+          "storeName": "AMD House",
+          "price": 35000.0,
+          "url": "https://amdhouse.pk/product/corsair-vengeance-lpx-16gb-8gbx2-3600mhz-cl18-dual-channel-kit-new-in-10-months-warranty/"
+        }
+      ]
+    },
+    
+
+
+    {
+      "id": "ram_235",
+      "name": "Ease EM16D432 16GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Ease EM16D432 16GB 3200MHZ DDR4 RAM Desktop",
+          "storeName": "Zah Computers",
+          "price": 7999.0,
+          "url": "https://zahcomputers.pk/product/ease-em08d432-16gb-3200mhz-ddr4-ram-desktop/"
+        }
+      ]
+    },
+    {
+      "id": "ram_236",
+      "name": "V-Color 8GB DDR4 3200MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "V-Color 8GB DDR4 DRAM 3200MHz ",
+          "storeName": "Zah Computers",
+          "price": 5500.0,
+          "url": "https://zahcomputers.pk/product/v-color-8gb-ddr4-dram-3200mhz-pc4-25600-cl22-1-2v-u-dimm-desktop-memory/"
+        }
+      ]
+    },
+    {
+      "id": "ram_237",
+      "name": "Corsair Vengeance 64GB DDR5 6400MHz RGB",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance RGB 64GB (2x32GB) 6400MHz ",
+          "storeName": "Junaid Tech",
+          "price": 299999.0,
+          "url": "https://www.junaidtech.pk/product/corsair-vengeance-rgb-64gb-2x32gb-6400mhz-c32-ddr5-memory-kit-black"
+        },
+          {
+          "Name": "CORSAIR Vengeance RGB 64GB (2 x 32GB) 6400MHz ",
+          "storeName": "Zah Computers",
+          "price": 75000.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-64gb-2-x-32gb-288-pin-pc-ram-ddr5-6400-pc5-51200-cl32-desktop-memory/"
+        }
+      ]
+    },
+   
+    {
+      "id": "ram_238",
+      "name": "Corsair Vengeance 96GB DDR5 6000MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "Corsair Vengeance 96GB (2 x 48GB) ",
+          "storeName": "Zah Computers",
+          "price": 199990.0,
+          "url": "https://zahcomputers.pk/product/corsair-vengeance-96gb-2-x-48gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory-without-box/"
+        },
+        {
+          "Name": "CORSAIR VENGEANCE 96GB DDR5 6600MT/s ",
+          "storeName": "Zicomputer",
+          "price": 310000.0,
+          "url": "https://zicomputer.com/product/corsair-vengeance-96gb-ddr5-6600mts-cl32/"
+        },
+        {
+          "Name": "CORSAIR VENGEANCE 96GB DDR5 6000MHz ",
+          "storeName": "Zicomputer",
+          "price": 310000.0,
+          "url": "https://zicomputer.com/product/corsair-vengeance-96gb-ddr5-6000mhz-cl30/"
+        }
+      ]
+    },
+  
+    {
+      "id": "ram_239",
+      "name": "CORSAIR VENGEANCE 96GB DDR5 6800MHz",
+      "categoryId": "ram",
+      "storePrices": [
+        {
+          "Name": "CORSAIR VENGEANCE 96GB DDR5 6800MT/s ",
+          "storeName": "Zicomputer",
+          "price": 315000.0,
+          "url": "https://zicomputer.com/product/corsair-vengeance-96gb-ddr5-6800mts-cl40/"
+        }
+      ]
+    }
+  ]
 }
-
-
-
-
-
-
-
