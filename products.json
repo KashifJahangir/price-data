@@ -2900,7 +2900,7 @@
         {
           "Name": "PALIT RTX 5060 TI 16GB",
           "storeName": "Junaid Tech",
-          "price": 204999.0,
+          "price": 219999.0,
           "url": "https://www.junaidtech.pk/product/palit-rtx-5060-ti-infinity-3-16gb-graphics-card"
         },
         {
@@ -6676,7 +6676,7 @@
         {
           "Name": "THREADRIPPER PRO",
           "storeName": "Junaid Tech",
-          "price": 364999.0,
+          "price": 409999.0,
           "url": "https://www.junaidtech.pk/product/amd-ryzen-threadripper-pro-5955wx-desktop-processor"
         },
         {
@@ -15448,7 +15448,7 @@
         {
           "Name": "Corsair Vengeance LPX 32GB (2x16GB) 3200MHz ",
           "storeName": "Junaid Tech",
-          "price": 59999.0,
+          "price": 61999.0,
           "url": "https://www.junaidtech.pk/product/corsair-vengeance-lpx-32gb-2x16gb-3200mhz-c16-ddr4-dram-memory-kit-black"
         },
         {
@@ -16692,7 +16692,7 @@
         {
           "Name": "Indilinx 32GB (16GBx2) 3200MHz DDR4 RAM New in 2 Years Warranty (OEM without Packing)",
           "storeName": "AMD House",
-          "price": 47000.0,
+          "price": 48000.0,
           "url": "https://amdhouse.pk/product/indilinx-3gb-16gbx2-3200mhz-ddr4-ram-new-in-2-years-warranty-oem-without-packing/"
         }
       ]
@@ -16705,7 +16705,7 @@
         {
           "Name": "Indilinx 16GB 3200MHz DDR4 ",
           "storeName": "AMD House",
-          "price": 23500.0,
+          "price": 24000.0,
           "url": "https://amdhouse.pk/product/indilinx-16gb-3200mhz-ddr4-ram-new-in-2-years-warranty-oem-without-packing/"
         },
         {
@@ -17962,7 +17962,7 @@
         {
           "Name": "Corsair Dominator Titanium RGB 96GB (2x48GB) 6600MHz ",
           "storeName": "Junaid Tech",
-          "price": 364999.0,
+          "price": 389999.0,
           "url": "https://www.junaidtech.pk/product/corsair-dominator-titanium-rgb-96gb-2x48gb-6600mhz-cl32-ddr5-ram"
         }
       ]
@@ -19136,7 +19136,7 @@
         }
       ]
     },
-       {
+    {
       "id": "storage_0",
       "name": "Netac NVMe SSD N930E PRO 256GB M.2 2280 PCIe",
       "categoryId": "storage",
@@ -19144,7 +19144,7 @@
         {
           "Name": "Netac N930E PRO  256GB Nvme New With 2 Year Warranty",
           "storeName": "AMD House",
-          "price": 11000.0,
+          "price": 11500.0,
           "url": "https://amdhouse.pk/product/netac-n930e-pro-256gb-new-with-2-year-warranty/"
         },
         {
@@ -19352,13 +19352,13 @@
           "price": 38500.0,
           "url": "https://amdhouse.pk/product/samsung-pm9c1a-1tb-nvme-gen4x4-ssd-5000mb-s-new-in-10-months-warranty-oem-without-packing/"
         },
-          {
+        {
           "Name": "Samsung 1TB 990 EVO Plus PCIe 5.0 x2 M.2 Internal SSD",
           "storeName": "Zah Computers",
           "price": 67000.0,
           "url": "https://zahcomputers.pk/product/samsung-1tb-990-evo-plus-pcie-5-0-x2-m-2-internal-ssd/"
         },
-         {
+        {
           "Name": "Samsung 1TB 990 EVO Gen5 M.2 NVMe SSD",
           "storeName": "Zah Computers",
           "price": 26000.0,
@@ -19370,13 +19370,13 @@
           "price": 35000.0,
           "url": "https://zicomputer.com/product/samsung-990-evo-1tb-nvme-m2-ssd/"
         },
-         {
+        {
           "Name": "Samsung 1TB 990 PRO PCIe 4.0 x4 M.2 ",
           "storeName": "Zah Computers",
           "price": 72000.0,
           "url": "https://zahcomputers.pk/product/samsung-1tb-990-pro-pcie-4-0-x4-m-2-internal-ssd-with-heatsink/"
         },
-         {
+        {
           "Name": "Samsung 1TB 990 PRO PCIe 4.0 x4 M.2 Internal SSD",
           "storeName": "Zah Computers",
           "price": 69000.0,
@@ -19562,16 +19562,16 @@
           "price": 70000.0,
           "url": "https://amdhouse.pk/product/samsung-990-pro-2tb-nvme-gen4x4-7450mb-s-new-in-10-months-warranty/"
         },
-         {
+        {
           "Name": "Samsung 990 Pro 2TB NVMe SSD ",
           "storeName": "Zicomputer",
           "price": 90000.0,
           "url": "https://zicomputer.com/product/samsung-990-pro-pcle-4-0-nvme-2tb/"
         },
-          {
+        {
           "Name": "Samsung 990 PRO w/ Heatsink 2TB",
           "storeName": "Junaid Tech",
-          "price": 97499.0,
+          "price": 109999.0,
           "url": "https://www.junaidtech.pk/product/samsung-990-pro-w-heatsink-2tb-nvme-ssd"
         },
         {
@@ -19580,13 +19580,13 @@
           "price": 103000.0,
           "url": "https://zicomputer.com/product/samsung-990-pro-2tb-heatsink-nvme-ssd/"
         },
-          {
+        {
           "Name": "Samsung 2TB 990 PRO ",
           "storeName": "Zah Computers",
           "price": 100000.0,
           "url": "https://zahcomputers.pk/product/samsung-2tb-990-pro-pcie-4-0-x4-m-2-internal-ssd-with-heatsink/"
         },
-          {
+        {
           "Name": "Samsung 2TB 990 PRO PCIe 4.0 x4 M.2 Internal SSD",
           "storeName": "Zah Computers",
           "price": 110000.0,
@@ -19693,7 +19693,7 @@
           "price": 40000.0,
           "url": "https://zicomputer.com/product/samsung-990-pro-1tb-used-ssd/"
         },
-          {
+        {
           "Name": "Samsung 990 Pro 1TB NVMe SSD ",
           "storeName": "Zicomputer",
           "price": 63000.0,
@@ -19750,7 +19750,7 @@
           "price": 42500.0,
           "url": "https://zahcomputers.pk/product/wd-green-sn3000-1tb-gen-4-5000mb-s-nvme-m-2-ssd/"
         },
-         {
+        {
           "Name": "WD Green  1TB SATA III ",
           "storeName": "Zah Computers",
           "price": 14800.0,
@@ -19781,7 +19781,7 @@
           "price": 25000.0,
           "url": "https://zahcomputers.pk/product/wd-green-sn3000-500gb-gen-4-5000mb-s-nvme-m-2-ssd/"
         },
-         {
+        {
           "Name": "WD Green SN3000 500GB NVMe ",
           "storeName": "Czone",
           "price": 23500.0,
@@ -20045,7 +20045,7 @@
           "price": 40000.0,
           "url": "https://zahcomputers.pk/product/kingston-nv3-1tb-m-2-2280-pcie-4-0-nvme-ssd-snv3s-1000g-6000mb-s/"
         },
-         {
+        {
           "Name": "Kingston NV3 1TB NVMe PCIe Gen 4.0 SSD ",
           "storeName": "Zicomputer",
           "price": 40000.0,
@@ -20057,10 +20057,10 @@
           "price": 45000.0,
           "url": "https://zahcomputers.pk/product/kingston-nv3-m-2-2230-1tb-pcie-4-0-x4-nvme-internal-solid-state-drive/"
         },
-           {
+        {
           "Name": "Kingston NV3 PCIe NVMe Gen 4 SSD 1TB",
           "storeName": "RB Tech N Games",
-          "price": 40499.0,
+          "price": 28499.0,
           "url": "https://rbtechngames.com/shop-2/computers/storage/kingston-nv3-pcie-nvme-gen-4-ssd-500gb-1tb-2tb-4tb/"
         }
       ]
@@ -20089,7 +20089,7 @@
           "price": 10000.0,
           "url": "https://amdhouse.pk/product/western-digital-wd-blue-sn580-gen4x4-nvme-new-in-2-yrs-warranty/"
         },
-          {
+        {
           "Name": "WD Blue SN5000 500GB NVMe ",
           "storeName": "Zicomputer",
           "price": 23000.0,
@@ -20386,7 +20386,7 @@
           "price": 24500.0,
           "url": "https://amdhouse.pk/product/hiksemi-future-1tb-nvme-gen4x4-ssd-3d-tlc-nand-new/"
         },
-          {
+        {
           "Name": "HikSemi Future 1TB M.2 PCIe 4.0 NVMe SSD",
           "storeName": "Zah Computers",
           "price": 45000.0,
@@ -20547,13 +20547,13 @@
           "price": 52999.0,
           "url": "https://www.junaidtech.pk/product/xpg-gammix-s70-blade-1tb-nvme-ssd"
         },
-          {
+        {
           "Name": "XPG GAMMIX S70 BLADE PCIe Gen4x4 M.2 2280 SSD 1TB",
           "storeName": "RB Tech N Games",
-          "price": 47499.0,
+          "price": 49999.0,
           "url": "https://rbtechngames.com/shop-2/computers/storage/xpg-gammix-s70-blade-pcie-gen4x4-m-2-2280-ssd-512gb-1tb-2tb-4tb/"
         },
-          {
+        {
           "Name": "XPG GAMMIX S70 1TB PCIe Gen4x4 M.2 2280 Solid State Drive",
           "storeName": "Zah Computers",
           "price": 33000.0,
@@ -20598,7 +20598,7 @@
           "price": 26000.0,
           "url": "https://amdhouse.pk/product/kingston-nv2-1tb-nvme-gen4x4/"
         },
-          {
+        {
           "Name": "Kingston NV2 1TB M.2 NVMe SSD ",
           "storeName": "Zicomputer",
           "price": 28000.0,
@@ -20646,7 +20646,7 @@
         {
           "Name": "Western Digital SN740 256GB Gen4x4 NVME New  10Months Warranty",
           "storeName": "AMD House",
-          "price": 11500.0,
+          "price": 12500.0,
           "url": "https://amdhouse.pk/product/western-digital-sn740-256gb-gen4x4-nvme/"
         }
       ]
@@ -20724,7 +20724,7 @@
         {
           "Name": "Seagate Expansion 1TB Portable External ",
           "storeName": "Junaid Tech",
-          "price": 23999.0,
+          "price": 27499.0,
           "url": "https://www.junaidtech.pk/product/seagate-expansion-1tb-portable-hard-drive"
         }
       ]
@@ -20737,7 +20737,7 @@
         {
           "Name": "Seagate One Touch 1TB External Hard Drive",
           "storeName": "Junaid Tech",
-          "price": 24999.0,
+          "price": 27999.0,
           "url": "https://www.junaidtech.pk/product/seagate-one-touch-1tb-external-hard-drive"
         }
       ]
@@ -20847,7 +20847,7 @@
           "price": 28199.0,
           "url": "https://www.junaidtech.pk/product/wd-my-passport-1tb-portable-hard-drive"
         },
-         {
+        {
           "Name": "WD My Passport 1TB External USB 3.0 Portable Hard Drive",
           "storeName": "Zah Computers",
           "price": 27000.0,
@@ -20889,7 +20889,7 @@
         {
           "Name": "Transcent StoreJet 25M3 1TB Portable Hard Drive",
           "storeName": "Junaid Tech",
-          "price": 30249.0,
+          "price": 34499.0,
           "url": "https://www.junaidtech.pk/product/transcent-storejet-25m3-1tb-portable-hard-drive"
         }
       ]
@@ -20905,7 +20905,7 @@
           "price": 30999.0,
           "url": "https://www.junaidtech.pk/product/wd-my-passport-2tb-portable-hard-drive"
         },
-          {
+        {
           "Name": "WESTERN DIGITAL My Passport 2TB External USB 3.0 ",
           "storeName": "Zah Computers",
           "price": 31500.0,
@@ -20977,7 +20977,7 @@
         {
           "Name": "Transcend StoreJet 25M3 2TB USB 3.0 Portable Hard Drive",
           "storeName": "Junaid Tech",
-          "price": 34699.0,
+          "price": 37499.0,
           "url": "https://www.junaidtech.pk/product/transcend-storejet-25m3-2tb-usb-3-0-portable-hard-drive"
         },
         {
@@ -20986,7 +20986,7 @@
           "price": 34699.0,
           "url": "https://zahcomputers.pk/product/transcend-2tb-storejet-25m3-usb-3-2-gen-1-portable-hard-drive-military-green/"
         },
-          {
+        {
           "Name": "Transcend StoreJet 25C3S 2TB ",
           "storeName": "Zah Computers",
           "price": 34000.0,
@@ -20998,25 +20998,25 @@
           "price": 33500.0,
           "url": "https://zahcomputers.pk/product/transcend-storejet-25h3-2tb-shockproof-portable-hard-drive-purple/"
         },
-         {
+        {
           "Name": "Transcend StoreJet 25H3B 2TB USB 3.0 ",
           "storeName": "Zah Computers",
           "price": 33500.0,
           "url": "https://zahcomputers.pk/product/transcend-storejet-25h3-2tb-shockproof-portable-hard-drive-blue/"
         },
-         {
+        {
           "Name": "Transcend StoreJet 2TB Rugged External ",
           "storeName": "Czone",
           "price": 34500.0,
           "url": "https://www.czone.com.pk/transcend-storejet-rugged-external-hard-drive-microusb-32-gen-1-2tb-ts2tsj25m3s"
         },
-          {
+        {
           "Name": "Transcend StoreJet 25M3C 2TB 3.1 ",
           "storeName": "Zah Computers",
           "price": 35000.0,
           "url": "https://zahcomputers.pk/product/transcend-storejet-25m3c-2tb-external-hard-drive-iron-gray/"
         },
-         {
+        {
           "Name": "Transcend StoreJet 25M3S 2TB USB 3.1 ",
           "storeName": "Zah Computers",
           "price": 34699.0,
@@ -21032,7 +21032,7 @@
         {
           "Name": "Seagate Ultra Touch 2TB External HDD, ",
           "storeName": "Junaid Tech",
-          "price": 34999.0,
+          "price": 36999.0,
           "url": "https://www.junaidtech.pk/product/seagate-ultra-touch-hdd-2-tb-external-hdd"
         }
       ]
@@ -21061,7 +21061,7 @@
           "price": 43499.0,
           "url": "https://www.junaidtech.pk/product/wd-my-passport-4tb-portable-hard-drive"
         },
-          {
+        {
           "Name": "WD My Passport Portable Hard Drive, 4TB",
           "storeName": "Czone",
           "price": 42500.0,
@@ -21116,16 +21116,16 @@
         {
           "Name": "WD My Passport 5TB External Portable Hard Drive",
           "storeName": "Junaid Tech",
-          "price": 49999.0,
+          "price": 52499.0,
           "url": "https://www.junaidtech.pk/product/wd-my-passport-5tb-portable-hard-drive"
         },
-          {
+        {
           "Name": "WD My Passport Portable External Hard Drive 5TB ",
           "storeName": "Czone",
           "price": 52000.0,
           "url": "https://www.czone.com.pk/hard-drives-external-hard-drives-wd-my-passport-5tb-external-usb-3-0-portable-hard-drive-black-wdbpkj0050bbk-pakistan-p.12259.aspx"
         },
-              {
+        {
           "Name": "WD My Passport 5TB External USB 3.0 Portable Hard Drive Black",
           "storeName": "Zah Computers",
           "price": 45000.0,
@@ -21141,16 +21141,16 @@
         {
           "Name": "Seagate Skyhawk 4TB Surveillance SATA III ",
           "storeName": "Junaid Tech",
-          "price": 51499.0,
+          "price": 55999.0,
           "url": "https://www.junaidtech.pk/product/seagate-skyhawk-4tb-surveillance-hard-drive"
         },
-         {
+        {
           "Name": "Seagate SkyHawk 4TB  Surveillance ",
           "storeName": "Zah Computers",
           "price": 31500.0,
           "url": "https://zahcomputers.pk/product/seagate-skyhawk-st4000vx015-4tb-surveillance-3-5-sata-hard-drive-pulled/"
         },
-          {
+        {
           "Name": "Seagate SkyHawk  4TB ",
           "storeName": "Zah Computers",
           "price": 32000.0,
@@ -21166,7 +21166,7 @@
         {
           "Name": "WD Purple 4TB Surveillance Hard Drive - SATA 3.5\"",
           "storeName": "Junaid Tech",
-          "price": 52999.0,
+          "price": 54999.0,
           "url": "https://www.junaidtech.pk/product/wd-purple-4tb-surveillance-hard-drive-sata-3-5"
         },
         {
@@ -21281,7 +21281,7 @@
         {
           "Name": "Transcend StoreJet 25H3B 4TB USB 3.1 ",
           "storeName": "Junaid Tech",
-          "price": 63249.0,
+          "price": 63999.0,
           "url": "https://www.junaidtech.pk/product/transcend-storejet-25h3b-4tb-usb-hard-drive-blue"
         },
         {
@@ -21290,13 +21290,13 @@
           "price": 57999.0,
           "url": "https://zahcomputers.pk/product/transcend-storejet-25h3b-4tb-usb-3-0-portable-hard-drive-navy-blue/"
         },
-         {
+        {
           "Name": "Transcend StoreJet 25M3S 4TB USB 3.1 ",
           "storeName": "Zah Computers",
           "price": 56499.0,
           "url": "https://zahcomputers.pk/product/transcend-storejet-25m3s-4tb-usb-3-0-portable-hard-drive-iron-gray/"
         },
-         {
+        {
           "Name": "Transcend StoreJet 35T3 4TB USB 3.1 ",
           "storeName": "Zah Computers",
           "price": 61999.0,
@@ -21308,10 +21308,10 @@
           "price": 63499.0,
           "url": "https://www.junaidtech.pk/product/transcend-storejet-25m3-4tb-usb-3-1-portable-hard-drive-hdd-black"
         },
-         {
+        {
           "Name": "Transcend StoreJet 25M3C 4TB Portable Hard Drive",
           "storeName": "Junaid Tech",
-          "price": 65999.0,
+          "price": 63999.0,
           "url": "https://www.junaidtech.pk/product/transcend-storejet-25m3c-4tb-portable-hard-drive"
         },
         {
@@ -21320,7 +21320,7 @@
           "price": 54999.0,
           "url": "https://zahcomputers.pk/product/transcend-storejet-25m3c-4tb-3-1-gen-1-external-hard-drive-iron-gray/"
         },
-          {
+        {
           "Name": "Transcend StoreJet 25H3P 4TB USB 3.0 ",
           "storeName": "Zah Computers",
           "price": 57999.0,
@@ -21328,7 +21328,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_131",
       "name": "Seagate IronWolf 6TB NAS 3.5\" SATA Hard Drive",
@@ -21340,7 +21339,7 @@
           "price": 63999.0,
           "url": "https://www.junaidtech.pk/product/seagate-ironwolf-6tb-nas-3-5-sata-hard-drive"
         },
-           {
+        {
           "Name": "Seagate IronWolf  6TB NAS SATA Hard Drive",
           "storeName": "Zah Computers",
           "price": 58000.0,
@@ -21359,22 +21358,20 @@
           "price": 64999.0,
           "url": "https://www.junaidtech.pk/product/seagate-skyhawk-6tb-surveillance-3-5-sata-hard-drive"
         },
-         {
+        {
           "Name": "Seagate SkyHawk 6TB Surveillance Internal Hard Drive HDD",
           "storeName": "Czone",
           "price": 65500.0,
           "url": "https://www.czone.com.pk/seagate-skyhawk-6tb-surveillance-internal-hard-drive-hdd-35-inch-sata-6gbs-256mb-cache-7200rpm-st600"
         },
-         {
+        {
           "Name": "Seagate SkyHawk 6TB Surveillance SATA Hard Drive",
           "storeName": "Zah Computers",
           "price": 66000.0,
           "url": "https://zahcomputers.pk/product/seagate-skyhawk-st6000vx001-6tb-surveillance-3-5-sata-hard-drive/"
         }
-        
       ]
     },
-    
     {
       "id": "storage_134",
       "name": "Western Digital WD Purple 6TB Surveillance Hard Disk Drive ",
@@ -21383,22 +21380,22 @@
         {
           "Name": "Western Digital WD Purple 6TB Surveillance Hard Disk Drive ",
           "storeName": "Junaid Tech",
-          "price": 68999.0,
+          "price": 78499.0,
           "url": "https://www.junaidtech.pk/product/western-digital-wd-purple-6tb-surveillance-hard-disk-drive"
         },
-          {
+        {
           "Name": "WD Purple 6TB Surveillance Internal Hard Drive HDD",
           "storeName": "Czone",
           "price": 69900.0,
           "url": "https://www.czone.com.pk/wd-purple-6tb-surveillance-internal-hard-drive"
         },
-         {
+        {
           "Name": "WESTERN DIGITAL 6TB Purple SATA III ",
           "storeName": "Zah Computers",
           "price": 68000.0,
           "url": "https://zahcomputers.pk/product/western-digital-6tb-purple-sata-iii-3-5-internal-surveillance-hdd/"
         },
-         {
+        {
           "Name": "WESTERN DIGITAL Red Plus 6TB ",
           "storeName": "Zah Computers",
           "price": 68999.0,
@@ -21417,13 +21414,13 @@
           "price": 83999.0,
           "url": "https://www.junaidtech.pk/product/wd-my-book-8tb-external-hard-drive"
         },
-          {
+        {
           "Name": "WD My Book Desktop External HDD, 8TB ",
           "storeName": "Czone",
           "price": 89900.0,
           "url": "https://www.czone.com.pk/wd-my-book-8tb"
         },
-          {
+        {
           "Name": "WD My Book 8TB ",
           "storeName": "Zah Computers",
           "price": 82000.0,
@@ -21474,7 +21471,7 @@
           "price": 88999.0,
           "url": "https://www.junaidtech.pk/product/seagate-barracuda-8tb-3-5-sata-hard-drive"
         },
-         {
+        {
           "Name": "Seagate BarraCuda Internal Hard Drive 8TB SATA 6Gb/s",
           "storeName": "Czone",
           "price": 86900.0,
@@ -21503,10 +21500,10 @@
         {
           "Name": " WD My Book 14TB Desktop External Hard Drive",
           "storeName": "Junaid Tech",
-          "price": 102499.0,
+          "price": 144999.0,
           "url": "https://www.junaidtech.pk/product/wd-my-book-14tb-desktop-hdd"
         },
-         {
+        {
           "Name": "WD My Book 14TB Desktop External Hard Drive",
           "storeName": "Czone",
           "price": 115000.0,
@@ -21525,7 +21522,7 @@
           "price": 104999.0,
           "url": "https://www.junaidtech.pk/product/seagate-ironwolf-8tb-nas-3-5-sata-hard-drive"
         },
-         {
+        {
           "Name": "Seagate IronWolf  8TB ",
           "storeName": "Zah Computers",
           "price": 92000.0,
@@ -21558,7 +21555,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_144",
       "name": "Seagate SkyHawk AI 10TB Surveillance 3.5\" SATA Hard Drive",
@@ -21576,7 +21572,7 @@
           "price": 124900.0,
           "url": "https://www.czone.com.pk/hard-drives-surveillance-hdds-seagate-10tb-skyhawk-ai-7200-rpm-sata-iii-3-5-internal-surveillance-hdd-pakistan-p.18232.aspx"
         },
-          {
+        {
           "Name": "Seagate 10TB IronWolf NAS SATA ",
           "storeName": "Czone",
           "price": 134999.0,
@@ -21621,7 +21617,7 @@
           "price": 139999.0,
           "url": "https://www.junaidtech.pk/product/wd-purple-10tb-surveillance-hard-drive"
         },
-           {
+        {
           "Name": "WD Purple Pro 10TB Surveillance Hard Drive HDD",
           "storeName": "Czone",
           "price": 135999.0,
@@ -21690,7 +21686,7 @@
           "price": 6000.0,
           "url": "https://zicomputer.com/product/hiksemi-wave-128gb-sata-2-5%e2%80%b3-ssd-reliable-fast-storage-solution-copy/"
         },
-         {
+        {
           "Name": "HikSemi WAVE 128GB SSD, SATA III",
           "storeName": "Czone",
           "price": 6200.0,
@@ -21700,17 +21696,17 @@
     },
     {
       "id": "storage_151",
-      "name": "Lexar NS100 128GB 2.5\u201d SATA SSD",
+      "name": "Lexar NS100 128GB 2.5” SATA SSD",
       "categoryId": "storage",
       "storePrices": [
         {
-          "Name": "Lexar NS100 128GB 2.5\u201d SATA SSD",
+          "Name": "Lexar NS100 128GB 2.5” SATA SSD",
           "storeName": "Junaid Tech",
           "price": 10499.0,
           "url": "https://www.junaidtech.pk/product/lexar-ns100-128gb-sata-ssd"
         },
         {
-          "Name": "Lexar NS100 128GB 2.5\u201d SATA III SSD",
+          "Name": "Lexar NS100 128GB 2.5” SATA III SSD",
           "storeName": "Zah Computers",
           "price": 10000.0,
           "url": "https://zahcomputers.pk/product/lexar-ns100-128gb-2-5-sata-iii-ssd/"
@@ -21828,7 +21824,7 @@
         {
           "Name": "Transcend 115S 250GB M.2 NVMe SSD",
           "storeName": "Junaid Tech",
-          "price": 20499.0,
+          "price": 20349.0,
           "url": "https://www.junaidtech.pk/product/transcend-115s-250gb-nvme-ssd"
         }
       ]
@@ -21993,7 +21989,7 @@
         {
           "Name": "Transcend 115S 500GB M.2 NVMe SSD",
           "storeName": "Junaid Tech",
-          "price": 29199.0,
+          "price": 30249.0,
           "url": "https://www.junaidtech.pk/product/transcend-115s-500gb-nvme-ssd"
         }
       ]
@@ -22064,7 +22060,7 @@
         {
           "Name": "Transcend 115S 1TB M.2 NVMe SSD",
           "storeName": "Junaid Tech",
-          "price": 32499.0,
+          "price": 35999.0,
           "url": "https://www.junaidtech.pk/product/transcend-115s-1tb-nvme-ssd"
         }
       ]
@@ -22090,7 +22086,7 @@
         {
           "Name": "Transcend ESD310 1TB ",
           "storeName": "Junaid Tech",
-          "price": 33999.0,
+          "price": 33499.0,
           "url": "https://www.junaidtech.pk/product/transcend-esd310c-1tb-portable-ssd"
         }
       ]
@@ -22103,17 +22099,17 @@
         {
           "Name": "Adata Ultimate SU650 1TB 2.5\" SATA SSD",
           "storeName": "Junaid Tech",
-          "price": 33999.0,
+          "price": 35999.0,
           "url": "https://www.junaidtech.pk/product/adata-ultimate-su650-1tb-sata-ssd"
         },
         {
-          "Name": "ADATA SU650 1TB 2.5\u2033 SATA III 3D NAND Internal Solid State Drive (SSD)",
+          "Name": "ADATA SU650 1TB 2.5″ SATA III 3D NAND Internal Solid State Drive (SSD)",
           "storeName": "RB Tech N Games",
           "price": 39999.0,
           "url": "https://rbtechngames.com/shop-2/computers/storage/adata-su650-1tb-2-5-sata-iii-3d-nand-internal-solid-state-drive-ssd/"
         },
         {
-          "Name": "ADATA Ultimate SU650 1TB 2.5\u2033 SATA SSD",
+          "Name": "ADATA Ultimate SU650 1TB 2.5″ SATA SSD",
           "storeName": "Zah Computers",
           "price": 41499.0,
           "url": "https://zahcomputers.pk/product/adata-ultimate-su650-1tb-2-5-sata-ssd/"
@@ -22131,7 +22127,7 @@
           "price": 35999.0,
           "url": "https://www.junaidtech.pk/product/crucial-xs1000-1tb-external-ssd-black"
         },
-         {
+        {
           "Name": "Kingston XS1000 1TB USB 3.2 ",
           "storeName": "Zah Computers",
           "price": 40000.0,
@@ -22157,13 +22153,13 @@
           "url": "https://zahcomputers.pk/product/hiksemi-wavep-1tb-m-2-pcie-3-0-nvme-ssd/"
         },
         {
-          "Name": "HikSemi Wave(S) 1TB 2.5\u2033 SATA Internal SSD",
+          "Name": "HikSemi Wave(S) 1TB 2.5″ SATA Internal SSD",
           "storeName": "Zah Computers",
           "price": 36000.0,
           "url": "https://zahcomputers.pk/product/hiksemi-waves-1tb-2-5-sata-internal-ssd/"
         },
         {
-          "Name": "HIKSEMI Wave 1TB SATA 2.5\u2033 SSD \u2013 Reliable & Fast Storage Solution",
+          "Name": "HIKSEMI Wave 1TB SATA 2.5″ SSD – Reliable & Fast Storage Solution",
           "storeName": "Zicomputer",
           "price": 34000.0,
           "url": "https://zicomputer.com/product/hiksemi-wave-1tb-sata-ssd-storage-solution/"
@@ -22215,7 +22211,7 @@
         {
           "Name": "SanDisk 1TB Portable SSD - Up to 800MB/s",
           "storeName": "Junaid Tech",
-          "price": 37999.0,
+          "price": 41499.0,
           "url": "https://www.junaidtech.pk/product/sandisk-1tb-portable-ssd"
         }
       ]
@@ -22288,7 +22284,7 @@
           "price": 34699.0,
           "url": "https://zahcomputers.pk/product/xpg-gammix-s60-blade-m-2-2280-1tb-pcie-gen4x4-solid-state-drive/"
         },
-         {
+        {
           "Name": "XPG Gammix S60 NVMe M.2 Gen 4 SSD 1TB",
           "storeName": "RB Tech N Games",
           "price": 42499.0,
@@ -22307,19 +22303,19 @@
           "price": 40499.0,
           "url": "https://www.junaidtech.pk/product/-wd-blue-sn5000-1tb-nvme-ssd"
         },
-         {
+        {
           "Name": "WD Blue SN5000 1TB NVMe ",
           "storeName": "Zicomputer",
           "price": 38000.0,
           "url": "https://zicomputer.com/product/wd-blue-sn5000-1tb-nvme-gen4-ssd/"
         },
-         {
+        {
           "Name": "WD Blue SN5000 NVMe Gen 4 SSD 1TB",
           "storeName": "RB Tech N Games",
           "price": 40499.0,
           "url": "https://rbtechngames.com/shop-2/computers/storage/wd-blue-sn5000-nvme-gen-4-ssd-500gb-1tb-2tb-4tb/"
         },
-          {
+        {
           "Name": "WD Blue SN5000 NVMe SSD 1TB ",
           "storeName": "Zah Computers",
           "price": 44000.0,
@@ -22327,7 +22323,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_188",
       "name": "WD Blue SN5100 1TB NVMe SSD - M.2 ",
@@ -22486,15 +22481,14 @@
           "price": 52999.0,
           "url": "https://www.junaidtech.pk/product/crucial-t500-1tb-nvme-ssd"
         },
-         {
+        {
           "Name": "Crucial T500 1TB Gen4 NVMe M.2 ",
           "storeName": "Junaid Tech",
-          "price": 55999.0,
+          "price": 57999.0,
           "url": "https://www.junaidtech.pk/product/crucial-t500-1tb-nvme-ssd-heatsink"
         }
       ]
     },
-   
     {
       "id": "storage_199",
       "name": "TeamGroup QX 2TB 3D NAND QLC 2.5 Inch SATA III ",
@@ -22548,12 +22542,11 @@
         {
           "Name": "Lexar SL300 2TB USB 3.2 Gen 2 Type-C Portable SSD, Black",
           "storeName": "Junaid Tech",
-          "price": 55999.0,
+          "price": 60499.0,
           "url": "https://www.junaidtech.pk/product/lexar-sl300-portable-ssd-2tb"
         }
       ]
     },
- 
     {
       "id": "storage_204",
       "name": "SanDisk 2TB Portable SSD - Up to 800MB/s",
@@ -22575,10 +22568,10 @@
         {
           "Name": "Transcend 300S 1TB M.2 NVMe 2230 SSD",
           "storeName": "Junaid Tech",
-          "price": 59499.0,
+          "price": 60499.0,
           "url": "https://www.junaidtech.pk/product/transcend-300s-1tb-nvme-2230-ssd"
         },
-          {
+        {
           "Name": "Transcend MTE300S 1TB NVMe M.2 2230 SSD",
           "storeName": "Zah Computers",
           "price": 59499.0,
@@ -22597,7 +22590,7 @@
           "price": 59499.0,
           "url": "https://www.junaidtech.pk/product/transcend-410s-1tb-nvme-ssd"
         },
-          {
+        {
           "Name": "Transcend MTE410S 1TB NVMe M.2 2242 SSD",
           "storeName": "Zah Computers",
           "price": 59499.0,
@@ -22613,12 +22606,11 @@
         {
           "Name": "Crucial P510 1TB PCIe Gen5 NVMe SSD",
           "storeName": "Junaid Tech",
-          "price": 59999.0,
+          "price": 60999.0,
           "url": "https://www.junaidtech.pk/product/crucial-p510-1tb-pcie-gen5-nvme-ssd"
         }
       ]
     },
-    
     {
       "id": "storage_209",
       "name": "HikSemi T300S Shield 2TB Portable SSD",
@@ -22704,7 +22696,7 @@
         {
           "Name": "Transcend 115S 2TB M.2 NVMe SSD",
           "storeName": "Junaid Tech",
-          "price": 71499.0,
+          "price": 93499.0,
           "url": "https://www.junaidtech.pk/product/transcend-115s-2tb-nvme-ssd"
         },
         {
@@ -22723,7 +22715,7 @@
         {
           "Name": "Lexar NQ790 2TB SSD, M.2 ",
           "storeName": "Junaid Tech",
-          "price": 71999.0,
+          "price": 73499.0,
           "url": "https://www.junaidtech.pk/product/lexar-nq790-2tb-gen4-ssd"
         },
         {
@@ -22814,7 +22806,7 @@
           "price": 74999.0,
           "url": "https://www.junaidtech.pk/product/transcend-255s-2tb-nvme-ssd-with-heatsink"
         },
-          {
+        {
           "Name": "Transcend MTE255S 2TB NVMe ",
           "storeName": "Zah Computers",
           "price": 83999.0,
@@ -22843,7 +22835,7 @@
         {
           "Name": "Transcend ESD360C 2TB Portable SSD",
           "storeName": "Junaid Tech",
-          "price": 81499.0,
+          "price": 93499.0,
           "url": "https://www.junaidtech.pk/product/transcend-esd360c-2tb-portable-ssd"
         },
         {
@@ -22929,7 +22921,7 @@
           "price": 83999.0,
           "url": "https://www.junaidtech.pk/product/samsung-990-evo-plus-2tb-pcie-gen5-ssd"
         },
-          {
+        {
           "Name": "Samsung 2TB 990 EVO Plus SSD",
           "storeName": "Zah Computers",
           "price": 95000.0,
@@ -22945,7 +22937,7 @@
         {
           "Name": "Lenovo PS8S 2TB Portable SSD",
           "storeName": "Junaid Tech",
-          "price": 83999.0,
+          "price": 55999.0,
           "url": "https://www.junaidtech.pk/product/lenovo-ps8s-portable-ssd-2tb"
         }
       ]
@@ -22961,13 +22953,13 @@
           "price": 85999.0,
           "url": "https://www.junaidtech.pk/product/xpg-gammix-s70-blade-2tb-nvme-ssd"
         },
-         {
+        {
           "Name": "XPG GAMMIX S70 BLADE 2TB  ",
           "storeName": "Zah Computers",
           "price": 85999.0,
           "url": "https://zahcomputers.pk/product/xpg-gammix-s70-blade-2tb-pcie-gen4x4-m-2-2280-solid-state-drive/"
         },
-         {
+        {
           "Name": "XPG GAMMIX S70 2TB",
           "storeName": "Zah Computers",
           "price": 65500.0,
@@ -23000,7 +22992,7 @@
           "url": "https://www.junaidtech.pk/product/samsung-870-evo-1tb-sata-2-5-ssd"
         },
         {
-          "Name": "Samsung 1TB 870 EVO SATA III 2.5\u2033 Internal SSD",
+          "Name": "Samsung 1TB 870 EVO SATA III 2.5″ Internal SSD",
           "storeName": "Zah Computers",
           "price": 86000.0,
           "url": "https://zahcomputers.pk/product/samsung-1tb-870-evo-sata-iii-2-5-internal-ssd/"
@@ -23056,7 +23048,7 @@
           "price": 94499.0,
           "url": "https://www.junaidtech.pk/product/crucial-t700-2tb-gen5-ssd"
         },
-         {
+        {
           "Name": "Crucial T700 2TB Gen5 M.2 NVMe SSD ",
           "storeName": "Junaid Tech",
           "price": 104999.0,
@@ -23117,7 +23109,7 @@
         {
           "Name": "Transcend ESD310 2TB Portable SSD - Black",
           "storeName": "Junaid Tech",
-          "price": 96999.0,
+          "price": 86999.0,
           "url": "https://www.junaidtech.pk/product/transcend-esd310-2tb-portable-ssd-black"
         }
       ]
@@ -23141,7 +23133,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_241",
       "name": "WD Black SN850X 2TB Gen4 M.2 NVMe SSD",
@@ -23153,13 +23144,13 @@
           "price": 100999.0,
           "url": "https://www.junaidtech.pk/product/wd-black-sn850x-heatsink-2tb-nvme-ssd"
         },
-          {
+        {
           "Name": "WD Black SN850X 2TB Gen4 M.2 NVMe SSD",
           "storeName": "Junaid Tech",
           "price": 106999.0,
           "url": "https://www.junaidtech.pk/product/wd-black-sn850x-2tb-nvme-ssd"
         },
-         {
+        {
           "Name": "WD BLACK SN850X NVMe M.2 2280 2TB ",
           "storeName": "Zah Computers",
           "price": 47000.0,
@@ -23175,7 +23166,7 @@
         {
           "Name": "Lenovo LN950 4TB PCIe Gen4 x 4 NVMe ",
           "storeName": "Junaid Tech",
-          "price": 104999.0,
+          "price": 114999.0,
           "url": "https://www.junaidtech.pk/product/lenovo-ln950-4tb-pcie-gen4-ssd"
         },
         {
@@ -23186,8 +23177,6 @@
         }
       ]
     },
-  
-  
     {
       "id": "storage_246",
       "name": "MSI Spatium M570 PRO FROZR 2TB Gen5 M.2 NVMe SSD",
@@ -23209,7 +23198,7 @@
         {
           "Name": "Kingston NV3 4TB M.2 2280 NVMe ",
           "storeName": "Junaid Tech",
-          "price": 124999.0,
+          "price": 134999.0,
           "url": "https://www.junaidtech.pk/product/kingston-nv3-4tb-pcie-ssd"
         },
         {
@@ -23295,7 +23284,7 @@
           "price": 144999.0,
           "url": "https://www.junaidtech.pk/product/samsung-990-evo-plus-4tb-ssd"
         },
-          {
+        {
           "Name": "Samsung 4TB 990 EVO Plus  SSD",
           "storeName": "Zah Computers",
           "price": 170000.0,
@@ -23468,7 +23457,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_263",
       "name": "Crucial T705 4TB Gen5 M.2 NVMe SSD with Heatsink",
@@ -23537,13 +23525,13 @@
           "price": 249999.0,
           "url": "https://www.junaidtech.pk/product/samsung-990-pro-4tb-nvme-ssd"
         },
-           {
+        {
           "Name": "Samsung 990 PRO 4TB PCIe 4.0 x4 M.2 Internal SSD",
           "storeName": "Zah Computers",
           "price": 99990.0,
           "url": "https://zahcomputers.pk/product/samsung-4tb-990-pro-pcie-4-0-x4-m-2-internal-ssd-with-heatsink/"
         },
-          {
+        {
           "Name": "Samsung 4TB 990 PRO PCIe 4.0 x4 M.2 Internal SSD",
           "storeName": "Zah Computers",
           "price": 205000.0,
@@ -23629,8 +23617,6 @@
         }
       ]
     },
- 
-  
     {
       "id": "storage_275",
       "name": "Seagate Game Drive for PlayStation 2TB",
@@ -23663,7 +23649,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_278",
       "name": "Seagate Barracuda ST2000DM008 2TB SATA Hard Drive",
@@ -23683,7 +23668,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_280",
       "name": "Seagate Sky Hawk ST4000VX016 4TB Surveillance ",
@@ -23703,7 +23687,6 @@
         }
       ]
     },
-
     {
       "id": "storage_290",
       "name": "WD Ultrastar DC HC320 - 8TB 0B36404 HDD SATA ",
@@ -23713,7 +23696,7 @@
           "Name": "WD Ultrastar DC HC320 - 8TB 0B36404 HDD SATA ",
           "storeName": "Czone",
           "price": 95990.0,
-          "url": "https://www.czone.com.pk/hard-drives-enterprise-hard-drives-wd-ultrastar-dc-hc320-8tb-0b36404-hdd-sata-3-5-inch-se-\u2013-self-encrypting-drive-security-enabled-pakistan-p.18385.aspx"
+          "url": "https://www.czone.com.pk/hard-drives-enterprise-hard-drives-wd-ultrastar-dc-hc320-8tb-0b36404-hdd-sata-3-5-inch-se-–-self-encrypting-drive-security-enabled-pakistan-p.18385.aspx"
         }
       ]
     },
@@ -23736,7 +23719,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_298",
       "name": "WD Ultrastar DC HC330 - 10TB ",
@@ -23750,7 +23732,6 @@
         }
       ]
     },
- 
     {
       "id": "storage_300",
       "name": "WD Purple Pro 12TB Surveillance Hard Drive HDD ",
@@ -23764,7 +23745,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_302",
       "name": "Western Digital Ultrastar DC HC520 12TB SATA HDD",
@@ -23804,7 +23784,6 @@
         }
       ]
     },
- 
     {
       "id": "storage_307",
       "name": "Seagate One Touch Hub 20TB ",
@@ -23853,12 +23832,10 @@
           "Name": "Seagate BarraCuda ST24000DM001 24TB ",
           "storeName": "Czone",
           "price": 167000.0,
-          "url": "https://www.czone.com.pk/hard-drives-desktop-sata-hard-drives-seagate-barracuda-st24000dm001-24tb-7200rpm-sata-6gb-s-3-5-internal-hard-drive-\u2013-512mb-cache-pakistan-p.18246.aspx"
+          "url": "https://www.czone.com.pk/hard-drives-desktop-sata-hard-drives-seagate-barracuda-st24000dm001-24tb-7200rpm-sata-6gb-s-3-5-internal-hard-drive-–-512mb-cache-pakistan-p.18246.aspx"
         }
       ]
     },
-   
-   
     {
       "id": "storage_313",
       "name": "Seagate IronWolf Pro 16TB ",
@@ -23883,7 +23860,7 @@
           "price": 235000.0,
           "url": "https://www.czone.com.pk/wd-ultrastar-dc-hc550-18tb-hdd"
         },
-         {
+        {
           "Name": "WD Ultrastar Internal Hard Drive 18TB ",
           "storeName": "Zah Computers",
           "price": 150000.0,
@@ -23891,7 +23868,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_316",
       "name": "Western Digital WD Ultrastar HC570 22TB ",
@@ -23918,9 +23894,6 @@
         }
       ]
     },
- 
-
-   
     {
       "id": "storage_322",
       "name": "Micron 256GB M.2 NVMe PCIe Gen 4 SSD",
@@ -23985,8 +23958,6 @@
         }
       ]
     },
-  
-   
     {
       "id": "storage_329",
       "name": "UGREEN 90264 M.2 NVMe SSD Enclosure USB-C",
@@ -24047,12 +24018,11 @@
         {
           "Name": "Seagate IronWolf Pro 14TB NAS Internal Hard Drive",
           "storeName": "RB Tech N Games",
-          "price": 134999.0,
+          "price": 144999.0,
           "url": "https://rbtechngames.com/shop-2/computers/storage/seagate-ironwolf-pro-14tb-nas-internal-hard-drive/"
         }
       ]
     },
-   
     {
       "id": "storage_335",
       "name": "Kingston KC3000 1TB PCIe 4.0 NVMe ",
@@ -24066,7 +24036,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_337",
       "name": "Seagate 6TB SkyHawk ",
@@ -24171,7 +24140,6 @@
         }
       ]
     },
- 
     {
       "id": "storage_346",
       "name": "WESTERN DIGITAL Blue SN5100 500GB Gen4 NVMe M.2 SSD",
@@ -24211,8 +24179,6 @@
         }
       ]
     },
-
-
     {
       "id": "storage_352",
       "name": "Seagate 2TB Expansion Portable ",
@@ -24224,7 +24190,7 @@
           "price": 30500.0,
           "url": "https://zahcomputers.pk/product/seagate-2tb-expansion-portable-usb-3-0-external-hard-drive/"
         },
-         {
+        {
           "Name": "Seagate 2TB Pulled HDD 3.5mm",
           "storeName": "Zah Computers",
           "price": 17500.0,
@@ -24316,7 +24282,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_360",
       "name": "Lexar NQ100 1TB  SATA III (6Gb/s) SSD",
@@ -24356,8 +24321,6 @@
         }
       ]
     },
-   
-   
     {
       "id": "storage_366",
       "name": "Verbatim 256GB Vi550 SATA IIID",
@@ -24371,10 +24334,6 @@
         }
       ]
     },
-   
-   
-  
- 
     {
       "id": "storage_375",
       "name": "Lexar NS100 1TB SATA III SSD",
@@ -24394,8 +24353,6 @@
         }
       ]
     },
-   
-   
     {
       "id": "storage_378",
       "name": "Lexar NS100 512GB  SATA III SSD",
@@ -24415,7 +24372,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_381",
       "name": "XPG GAMMIX S70 BLADE 4TB ",
@@ -24429,7 +24385,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_385",
       "name": "Seagate IronWolf 4TB NAS SATA Hard Drive",
@@ -24443,8 +24398,6 @@
         }
       ]
     },
-
- 
     {
       "id": "storage_388",
       "name": "SAMSUNG T7 Shield Portable 1TB ",
@@ -24469,13 +24422,13 @@
           "price": 57000.0,
           "url": "https://zahcomputers.pk/product/samsung-t7-portable-ssd-1tb-up-to-1050-mb-s-usb-3-2-external-solid-state-drive-gray/"
         },
-         {
+        {
           "Name": "Samsung T7 Touch Portable SSD 1TB ",
           "storeName": "Zah Computers",
           "price": 31500.0,
           "url": "https://zahcomputers.pk/product/samsung-t7-touch-portable-ssd-1tb-up-to-1050-mb-s-usb-3-2-external-solid-state-drive-black/"
         },
-         {
+        {
           "Name": "Samsung T7 Touch Portable SSD 1TB ",
           "storeName": "Zah Computers",
           "price": 35000.0,
@@ -24494,7 +24447,7 @@
           "price": 99000.0,
           "url": "https://zahcomputers.pk/product/samsung-2tb-980-pro-pcie-4-0-x4-m-2-internal-ssd-with-heatsink/"
         },
-          {
+        {
           "Name": "Samsung 2TB 980 PRO  SSD",
           "storeName": "Zah Computers",
           "price": 95000.0,
@@ -24502,7 +24455,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_392",
       "name": "Samsung 500GB 970 EVO Plus SSD",
@@ -24535,7 +24487,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_395",
       "name": "Samsung 2TB 970 EVO Plus NVMe M.2 Internal SSD",
@@ -24549,7 +24500,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_397",
       "name": "WD Red Plus 8TB ",
@@ -24563,7 +24513,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_399",
       "name": "WESTERN DIGITAL Blue SN5000 NVMe SSD 4TB ",
@@ -24588,7 +24537,7 @@
           "price": 42500.0,
           "url": "https://zahcomputers.pk/product/seagate-4tb-one-touch-usb-3-2-external-hard-drive-with-password-protection-blue/"
         },
-           {
+        {
           "Name": "Seagate 4TB One Touch USB 3.2  ",
           "storeName": "Zah Computers",
           "price": 42500.0,
@@ -24596,7 +24545,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_402",
       "name": "ADATA Premier Pro SP900 128GB ",
@@ -24636,8 +24584,6 @@
         }
       ]
     },
-  
-   
     {
       "id": "storage_407",
       "name": "ADATA HD710 Pro 2TB Shockproof ",
@@ -24649,19 +24595,19 @@
           "price": 27999.0,
           "url": "https://zahcomputers.pk/product/adata-hd710-pro-2tb-shockproof-external-hard-drive-blue/"
         },
-         {
+        {
           "Name": "ADATA HD710 Pro 2TB Shockproof RED ",
           "storeName": "Zah Computers",
           "price": 27999.0,
           "url": "https://zahcomputers.pk/product/adata-hd710-pro-2tb-shockproof-external-hard-drive-red/"
         },
-          {
+        {
           "Name": "ADATA HD710 Pro 2TB Shockproof Black",
           "storeName": "Zah Computers",
           "price": 27999.0,
           "url": "https://zahcomputers.pk/product/adata-hd710-pro-2tb-shockproof-external-hard-drive-black/"
         },
-         {
+        {
           "Name": "ADATA HD710 Pro 2TB Shockproof  yellow",
           "storeName": "Zah Computers",
           "price": 27999.0,
@@ -24669,8 +24615,6 @@
         }
       ]
     },
-
-   
     {
       "id": "storage_411",
       "name": "WD Blue SA510 1TB ",
@@ -24710,7 +24654,6 @@
         }
       ]
     },
- 
     {
       "id": "storage_415",
       "name": "Corsair MP600 Core XT M.2 2280 1TB ",
@@ -24722,7 +24665,7 @@
           "price": 29500.0,
           "url": "https://zahcomputers.pk/product/corsair-mp600-core-xt-m-2-2280-1tb-pci-express-4-0-x4-3d-qlc-internal-solid-state-drive/"
         },
-           {
+        {
           "Name": "Corsair MP600 PRO LPX 1TB ",
           "storeName": "Zah Computers",
           "price": 24999.0,
@@ -24749,7 +24692,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_418",
       "name": "Transcend 1TB NVMe M.2 2230 SSD",
@@ -24761,7 +24703,7 @@
           "price": 59499.0,
           "url": "https://zahcomputers.pk/product/transcend-mte310s-1tb-nvme-m-2-2230-ssd/"
         },
-         {
+        {
           "Name": "Transcend MTE255S 1TB NVMe ",
           "storeName": "Zah Computers",
           "price": 49000.0,
@@ -24773,31 +24715,26 @@
           "price": 41499.0,
           "url": "https://zahcomputers.pk/product/transcend-mte115s-1tb-nvme-internal-ssd-gen3-x4-pcie-m-2-2280-up-to-3200mb-s/"
         },
-       
-          {
+        {
           "Name": "Transcend ESD310C 1TB External SSD ",
           "storeName": "Zah Computers",
           "price": 45499.0,
           "url": "https://zahcomputers.pk/product/transcend-esd310c-1tb-external-ssd-usb-3-2-gen2-up-to-1050-mb-s-type-a-and-c-portable-ssd-with-2-in-1-type-c-and-type-a-for-iphone-ipad-android-car-audio-system-sentry-mode-iron-gray/"
         },
-         {
+        {
           "Name": "Transcend ESD310S 1TB External SSD ",
           "storeName": "Zah Computers",
           "price": 45499.0,
           "url": "https://zahcomputers.pk/product/transcend-esd310s-1tb-external-ssd-usb-3-2-gen2-up-to-1050-mb-s-type-a-and-c-portable-ssd-with-2-in-1-type-c-and-type-a-for-iphone-ipad-android-car-audio-system-sentry-mode-silver/"
         },
-          {
+        {
           "Name": "Transcend ESD310P 1TB External SSD ",
           "storeName": "Zah Computers",
           "price": 37999.0,
           "url": "https://zahcomputers.pk/product/transcend-esd310p-1tb-external-ssd-usb-3-2-gen2-up-to-1050-mb-s-type-a-and-c-portable-ssd-with-2-in-1-type-c-and-type-a-for-iphone-ipad-android-car-audio-system-sentry-mode-pink/"
         }
-      
       ]
     },
-
-   
- 
     {
       "id": "storage_425",
       "name": "Transcend 225s 500GB SATA III ",
@@ -24809,7 +24746,7 @@
           "price": 25499.0,
           "url": "https://zahcomputers.pk/product/transcend-225s-500gb-sata-iii-6gb-s-2-5-inch-internal-ssd-solid-state-drive-for-pc-and-laptop/"
         },
-         {
+        {
           "Name": "Transcend 225S 500GB SATA III ",
           "storeName": "Zicomputer",
           "price": 25500.0,
@@ -24841,7 +24778,7 @@
           "price": 94999.0,
           "url": "https://zahcomputers.pk/product/transcend-esd310p-2tb-external-ssd-usb-3-2-gen2-up-to-1050-mb-s-type-a-and-c-portable-ssd-with-2-in-1-type-c-and-type-a-for-iphone-ipad-android-car-audio-system-sentry-mode-pink/"
         },
-          {
+        {
           "Name": "Transcend ESD310S 2TB External ",
           "storeName": "Zah Computers",
           "price": 94999.0,
@@ -24855,8 +24792,6 @@
         }
       ]
     },
-    
-  
     {
       "id": "storage_431",
       "name": "Transcend ESD310S 512GB r",
@@ -24870,8 +24805,6 @@
         }
       ]
     },
- 
-    
     {
       "id": "storage_434",
       "name": "Transcend  2Tb External ",
@@ -24883,7 +24816,7 @@
           "price": 59500.0,
           "url": "https://zahcomputers.pk/product/transcend-esd265c-2tb-external-solild-state-drive-portable-ssd-slim-sleek-lightweight-aluminum-casing-up-to-1050-mb-stype-a-and-c/"
         },
-         {
+        {
           "Name": "Transcend  2TB",
           "storeName": "Zah Computers",
           "price": 45500.0,
@@ -24891,8 +24824,6 @@
         }
       ]
     },
-   
-  
     {
       "id": "storage_442",
       "name": "WD Blue SN5000 NVMe SSD 2TB ",
@@ -24932,7 +24863,7 @@
         }
       ]
     },
-       {
+    {
       "id": "storage_445",
       "name": "Transcend StoreJet 1TB External Hard Drive  ",
       "categoryId": "storage",
@@ -24943,7 +24874,7 @@
           "price": 28000.0,
           "url": "https://zahcomputers.pk/product/transcend-storejet-25m3-1tb-usb-3-0-portable-hard-drive-military-green/"
         },
-            {
+        {
           "Name": "Transcend StoreJet 25H3B 1TB",
           "storeName": "Zah Computers",
           "price": 26500.0,
@@ -24955,13 +24886,13 @@
           "price": 27500.0,
           "url": "https://zahcomputers.pk/product/transcend-storejet-25c3s-1tb-extra-slim-usb-3-1-type-c-portable-hard-drive/"
         },
-          {
+        {
           "Name": "Transcend StoreJet 25M3S 1TB USB 3.1 ",
           "storeName": "Zah Computers",
           "price": 27499.0,
           "url": "https://zahcomputers.pk/product/transcend-storejet-25m3s-1tb-usb-3-0-portable-hard-drive-iron-gray/"
         },
-          {
+        {
           "Name": "Transcend StoreJet 25H3P 1TB USB 3.0 ",
           "storeName": "Zah Computers",
           "price": 28000.0,
@@ -24969,9 +24900,6 @@
         }
       ]
     },
-
-
-  
     {
       "id": "storage_450",
       "name": "Seagate BarraCuda 20TB ",
@@ -25011,7 +24939,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_454",
       "name": "M.2 NVMe PCIe SSD 1TB Pulled",
@@ -25038,8 +24965,6 @@
         }
       ]
     },
-    
-   
     {
       "id": "storage_458",
       "name": "Adata Ultimate SU650 2TB  SATA SSD",
@@ -25053,8 +24978,6 @@
         }
       ]
     },
-  
-    
     {
       "id": "storage_461",
       "name": "TeamGroup T-FORCE G70 PRO (Aluminum) 2TB",
@@ -25094,7 +25017,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_465",
       "name": "Adata Ultimate SU650 256GB SATA SSD",
@@ -25121,7 +25043,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_468",
       "name": "WD Black SN7100 1TB ",
@@ -25135,7 +25056,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_470",
       "name": "Corsair 2TB MP600 ELITE NVMe ",
@@ -25162,7 +25082,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_473",
       "name": "Hiksemi Elite Portable 1TB SSD",
@@ -25187,25 +25106,25 @@
           "price": 105000.0,
           "url": "https://zahcomputers.pk/product/samsung-t7-shield-portable-2tb-usb-3-2-gen-2-external-solid-state-drive-blue/"
         },
-         {
+        {
           "Name": "Samsung T7 Portable SSD 2TB",
           "storeName": "Zah Computers",
           "price": 78000.0,
           "url": "https://zahcomputers.pk/product/samsung-t7-portable-ssd-2tb-up-to-1050-mb-s-usb-3-2-external-solid-state-drive-blue/"
         },
-          {
+        {
           "Name": "SAMSUNG T7 Shield Portable 2TB",
           "storeName": "Zah Computers",
           "price": 100000.0,
           "url": "https://zahcomputers.pk/product/samsung-t7-shield-portable-2tb-usb-3-2-gen-2-external-solid-state-drive-black/"
         },
-         {
+        {
           "Name": "SAMSUNG T7 Shield Portable 2TB ",
           "storeName": "Zah Computers",
           "price": 90000.0,
           "url": "https://zahcomputers.pk/product/samsung-t7-shield-2tb-usb-3-2-gen-2-external-solid-state-drive-beige/"
         },
-         {
+        {
           "Name": "Samsung T7 Touch Portable SSD 2TB ",
           "storeName": "Zah Computers",
           "price": 98000.0,
@@ -25225,7 +25144,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_476",
       "name": "HikSemi Future 2TB M.2 PCIe 4.0 NVMe SSD",
@@ -25265,7 +25183,6 @@
         }
       ]
     },
- 
     {
       "id": "storage_480",
       "name": "EASE M.2 NVMe PCIe SSD 1TB",
@@ -25279,9 +25196,6 @@
         }
       ]
     },
-   
- 
-   
     {
       "id": "storage_485",
       "name": "Gigabyte 128 SSD Solid State Drive ",
@@ -25372,7 +25286,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_492",
       "name": "Crucial BX500 500GB ",
@@ -25386,8 +25299,6 @@
         }
       ]
     },
-    
-
     {
       "id": "storage_495",
       "name": "Samsung T7 Portable SSD 500GB ",
@@ -25399,7 +25310,7 @@
           "price": 22000.0,
           "url": "https://zahcomputers.pk/product/samsung-t7-portable-ssd-500gb-up-to-1050-mb-s-usb-3-2-external-solid-state-drive-blue/"
         },
-         {
+        {
           "Name": "Samsung T7 Portable SSD 500GB ",
           "storeName": "Zah Computers",
           "price": 18000.0,
@@ -25433,7 +25344,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_499",
       "name": "Seagate SkyHawk 2TB ",
@@ -25447,9 +25357,6 @@
         }
       ]
     },
- 
-  
- 
     {
       "id": "storage_504",
       "name": "Samsung 8TB 870 QVO ",
@@ -25474,7 +25381,7 @@
           "price": 30000.0,
           "url": "https://zahcomputers.pk/product/wd_black-sn850x-nvme-m-2-2280-1tb-pci-express-4-0-x4-internal-solid-state-drive/"
         },
-          {
+        {
           "Name": "WD_BLACK SN850X 1TB NVMe PCIe Gen4 SSD ",
           "storeName": "Zicomputer",
           "price": 54000.0,
@@ -25495,7 +25402,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_508",
       "name": "WD Green 120GB ",
@@ -25522,9 +25428,6 @@
         }
       ]
     },
- 
-   
-   
     {
       "id": "storage_517",
       "name": "Samsung 250GB 980 ",
@@ -25536,13 +25439,13 @@
           "price": 16500.0,
           "url": "https://zahcomputers.pk/product/samsung-250gb-980-pro-pcie-4-0-x4-m-2-internal-ssd/"
         },
-         {
+        {
           "Name": "Samsung 250GB 980  ",
           "storeName": "Zah Computers",
           "price": 13500.0,
           "url": "https://zahcomputers.pk/product/samsung-250gb-980-pcie-3-0-x4-m-2-internal-ssd/"
         },
-          {
+        {
           "Name": "Samsung 250GB 970 EVO Plus NVMe ",
           "storeName": "Zah Computers",
           "price": 10990.0,
@@ -25561,13 +25464,13 @@
           "price": 24000.0,
           "url": "https://zahcomputers.pk/product/samsung-1tb-980-pcie-3-0-x4-m-2-internal-ssd/"
         },
-          {
+        {
           "Name": "Samsung 1TB 980 PRO",
           "storeName": "Zah Computers",
           "price": 33000.0,
           "url": "https://zahcomputers.pk/product/samsung-1tb-980-pro-pcie-4-0-x4-m-2-internal-ssd/"
         },
-         {
+        {
           "Name": "Samsung 1TB 980 PRO ",
           "storeName": "Zah Computers",
           "price": 34000.0,
@@ -25698,7 +25601,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_529",
       "name": "WD BLACK SN750 NVMe M.2 2280 2TB ",
@@ -25736,7 +25638,7 @@
           "price": 36000.0,
           "url": "https://zahcomputers.pk/product/wd-black-sn850-nvme-m-2-2280-1tb-pci-express-4-0-x4-3d-nand-internal-solid-state-drive-ssd-with-heatsink-wds100t1xhe/"
         },
-          {
+        {
           "Name": "WD BLACK SN850 NVMe M.2 2280 1TB ",
           "storeName": "Zah Computers",
           "price": 32000.0,
@@ -25757,7 +25659,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_534",
       "name": "WD BLACK SN850 NVMe M.2 2280 2TB ",
@@ -25797,8 +25698,6 @@
         }
       ]
     },
-  
- 
     {
       "id": "storage_539",
       "name": "XPG GAMMIX S50 Lite 2TB PCIe Gen4x4 M.2 2280 SSD",
@@ -25868,7 +25767,7 @@
           "price": 25000.0,
           "url": "https://zahcomputers.pk/product/adata-xpg-sx8200-pro-1tb-pcie-gen3x4-m-2-2280-ssd/"
         },
-           {
+        {
           "Name": "XPG SPECTRIX S40G RGB 1TB  ",
           "storeName": "Zicomputer",
           "price": 28000.0,
@@ -25876,7 +25775,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_545",
       "name": "ADATA XPG SX8200 Pro 256GB PCIE GEN3X4 M.2 2280 SSD",
@@ -25901,7 +25799,7 @@
           "price": 14000.0,
           "url": "https://zahcomputers.pk/product/adata-xpg-sx8200-pro-512gb-pcie-gen3x4-m-2-2280-ssd/"
         },
-         {
+        {
           "Name": "ADATA XPG Spectrix S40G 512GB ",
           "storeName": "Zah Computers",
           "price": 14500.0,
@@ -26050,7 +25948,7 @@
           "price": 23500.0,
           "url": "https://zahcomputers.pk/product/samsung-500gb-980-pro-pcie-4-0-x4-m-2-internal-ssd/"
         },
-         {
+        {
           "Name": "Samsung 500GB 980 PCIe 3.0 x4 M.2 ",
           "storeName": "Zah Computers",
           "price": 17500.0,
@@ -26058,8 +25956,6 @@
         }
       ]
     },
-    
-
     {
       "id": "storage_563",
       "name": "Samsung 2TB 870 EVO SATA III ",
@@ -26071,7 +25967,7 @@
           "price": 123000.0,
           "url": "https://zahcomputers.pk/product/samsung-2tb-870-evo-sata-iii-2-5-internal-ssd/"
         },
-         {
+        {
           "Name": "Samsung 2TB 870 QVO SATA III ",
           "storeName": "Zah Computers",
           "price": 35500.0,
@@ -26085,8 +25981,6 @@
         }
       ]
     },
-   
-  
     {
       "id": "storage_566",
       "name": "Samsung 1TB 870 QVO SATA III Internal SSD",
@@ -26100,7 +25994,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_568",
       "name": "ASUS FX External Hard Drive 2 TB ",
@@ -26127,7 +26020,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_571",
       "name": "Kingston NV1 NVMe PCIe SSD SNVS/500GB",
@@ -26167,7 +26059,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_579",
       "name": "ADATA HD710M Pro 1TB USB 3.1",
@@ -26311,7 +26202,6 @@
         }
       ]
     },
- 
     {
       "id": "storage_591",
       "name": "ADATA Ultimate SU800 SSD 512GB ",
@@ -26455,7 +26345,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_603",
       "name": "Transcend 225S 1TB SATA III ",
@@ -26467,13 +26356,13 @@
           "price": 21000.0,
           "url": "https://zicomputer.com/product/transcend-225s-1tb-sata-iii-6gb-s-2-5-ssd-reliable-and-affordable-storage/"
         },
-          {
+        {
           "Name": "Transcend 225S 1TB SATA III ",
           "storeName": "Zicomputer",
           "price": 21000.0,
           "url": "https://zicomputer.com/product/transcend-225s-1tb-sata-iii-6gb-s-2-5-ssd-reliable-and-affordable-storage/"
         },
-          {
+        {
           "Name": "Transcend 225s 1TB SATA III ",
           "storeName": "Zah Computers",
           "price": 23500.0,
@@ -26481,7 +26370,6 @@
         }
       ]
     },
-  
     {
       "id": "storage_605",
       "name": "Kingston FURY Renegade 4TB SSD ",
@@ -26495,8 +26383,6 @@
         }
       ]
     },
- 
-   
     {
       "id": "storage_608",
       "name": "LEGEND 960 1TB PCIe Gen4 x4 M.2 2280 SSD ",
@@ -26523,8 +26409,6 @@
         }
       ]
     },
- 
-  
     {
       "id": "storage_612",
       "name": "TeamGroup MP44L SSD NVMe 1TB",
@@ -26590,7 +26474,6 @@
         }
       ]
     },
-
     {
       "id": "storage_618",
       "name": "TeamGroup MP33 256GB PCIe Gen3x4 NVMe SSD ",
@@ -26604,8 +26487,6 @@
         }
       ]
     },
-   
- 
     {
       "id": "storage_621",
       "name": "HikSemi Wave 256GB NVMe SSD",
@@ -26626,7 +26507,7 @@
         {
           "Name": "HikSemi Wave(P) 256GB SSD",
           "storeName": "Junaid Tech",
-          "price": 12499.0,
+          "price": 13499.0,
           "url": "https://www.junaidtech.pk/product/hiksemi-wavep-256gb-nvme-ssd"
         },
         {
@@ -26647,7 +26528,7 @@
           "price": 11500.0,
           "url": "https://zicomputer.com/product/hiksemi-wave-256gb-sata-ssd/"
         },
-         {
+        {
           "Name": "HikSemi WAVE 256GB SATA 3.0 SSD ",
           "storeName": "Czone",
           "price": 10500.0,
@@ -26674,9 +26555,6 @@
         }
       ]
     },
-   
-    
-   
     {
       "id": "storage_626",
       "name": "HikSemi WAVE 512GB PCI-E Gen3x4 NVME ",
@@ -26740,7 +26618,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_630",
       "name": "HikSemi WAVE 512GB NVMe SSD",
@@ -26823,7 +26700,7 @@
         {
           "Name": "Lenovo LN860 512GB NVMe ",
           "storeName": "Junaid Tech",
-          "price": 18999.0,
+          "price": 19499.0,
           "url": "https://www.junaidtech.pk/product/lenovo-ln860-512gb-nvme-ssd"
         },
         {
@@ -26877,7 +26754,6 @@
           "price": 27999.0,
           "url": "https://www.junaidtech.pk/product/xpg-gammix-s60-512gb-internal-gaming-ssd"
         },
-       
         {
           "Name": "XPG GAMMIX S60 Blade M.2 2280 512GB ",
           "storeName": "Zah Computers",
@@ -26886,7 +26762,6 @@
         }
       ]
     },
- 
     {
       "id": "storage_637",
       "name": "KLEVV CRAS C715 512GB NVMe ",
@@ -26924,7 +26799,7 @@
           "price": 9000.0,
           "url": "https://zahcomputers.pk/product/t-force-vulcan-z-512gb-ssd-2-5-sata-iii-3d-nand-internal-solid-state-drive/"
         },
-         {
+        {
           "Name": "T-Force Vulcan G 512GB SSD ",
           "storeName": "Zah Computers",
           "price": 12500.0,
@@ -26945,8 +26820,6 @@
         }
       ]
     },
-
- 
     {
       "id": "storage_643",
       "name": "WD Blue SN5100 500GB NVMe SSD - s",
@@ -26979,7 +26852,6 @@
         }
       ]
     },
-   
     {
       "id": "storage_646",
       "name": "Crucial P310 NVMe 2280 M.2 PCIe Gen 4 SSD ",
@@ -26988,12 +26860,11 @@
         {
           "Name": "Crucial P310 NVMe 2280 M.2 PCIe Gen 4 SSD ",
           "storeName": "RB Tech N Games",
-          "price": 69999.0,
+          "price": 89999.0,
           "url": "https://rbtechngames.com/shop-2/computers/storage/crucial-p310-nvme-2280-m-2-pcie-gen-4-ssd-500gb-1tb-2tb-4tb-non-heatsink-heatsink/"
         }
       ]
     },
-   
     {
       "id": "storage_648",
       "name": "V-Color 500GB NVMe PCIe M.2 RGB SSD",
@@ -27031,13 +26902,13 @@
           "price": 70999.0,
           "url": "https://www.junaidtech.pk/product/samsung-9100-pro-1tb-with-heatsink-ssd"
         },
-         {
+        {
           "Name": "Samsung 9100 PRO 1TB",
           "storeName": "Junaid Tech",
           "price": 73499.0,
           "url": "https://www.junaidtech.pk/product/samsung-9100-pro-1tb-nvme-m2-ssd-pcie"
         },
-         {
+        {
           "Name": "Samsung 1TB 9100 PRO PCIe 5.0 M.2 Internal SSD",
           "storeName": "Zah Computers",
           "price": 75000.0,
@@ -27057,7 +26928,6 @@
         }
       ]
     },
- 
     {
       "id": "storage_653",
       "name": "Samsung 9100 PRO with Heatsink 2TB SSD",
@@ -27069,13 +26939,13 @@
           "price": 109999.0,
           "url": "https://www.junaidtech.pk/product/samsung-ssd-9100-pro-with-heatsink-2tb"
         },
-         {
+        {
           "Name": "Samsung 9100 PRO 2TB NVMe M.2 SSD",
           "storeName": "Junaid Tech",
-          "price": 119999.0,
+          "price": 124999.0,
           "url": "https://www.junaidtech.pk/product/samsung-9100-pro-2tb-nvme-m-2-ssd"
         },
-           {
+        {
           "Name": "Samsung 2TB 9100 PRO SSD",
           "storeName": "Zah Computers",
           "price": 118000.0,
@@ -27089,7 +26959,5 @@
         }
       ]
     }
-   
- 
   ]
 }
