@@ -37,8 +37,8 @@
     },
     {
       "id": "power_supplies",
-      "name": "Power Supplies",
-      "productCount": 0
+      "name": "powersupplies",
+      "productCount": 370
     }
   ],
   "products": [
