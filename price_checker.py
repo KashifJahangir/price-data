@@ -5,6 +5,21 @@ Reads products.json, visits every store URL, and updates both price and
 availability. Uses the same store-specific extraction logic as before with
 added stock-status parsing.
 
+CHANGELOG (this version):
+- Added fuller browser-like headers (Accept, Accept-Encoding, sec-ch-ua,
+  etc.) to reduce 403s from bot-protection (Cloudflare and similar) on
+  plain `requests` calls.
+- Added a one-time per-domain "warm-up" GET to the homepage before hitting
+  product pages, so the session picks up any cookies/challenge tokens a
+  WAF expects to see before it will serve product pages.
+- WooCommerce fetches that still come back 403 now automatically fall back
+  to the same headless-Chrome (Selenium) path already used for the "webx"
+  stores, since a real rendered browser generally clears bot-protection
+  that raw `requests` can't. This fixes 403s like the ones from
+  zahcomputers.pk.
+- Added a light retry (with backoff) for transient errors before falling
+  back to Selenium, since some 403s are momentary rate-limit blips.
+
 Install deps:
     pip install requests beautifulsoup4 selenium webdriver-manager
 
@@ -28,11 +43,30 @@ HEADERS = {
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
     ),
+    "Accept": (
+        "text/html,application/xhtml+xml,application/xml;q=0.9,"
+        "image/avif,image/webp,*/*;q=0.8"
+    ),
     "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Sec-Ch-Ua": '"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"',
+    "Sec-Ch-Ua-Mobile": "?0",
+    "Sec-Ch-Ua-Platform": '"Windows"',
+    "DNT": "1",
 }
 
 # Lazily-created Selenium driver
 _selenium_driver = None
+
+# Domains we've already done a homepage "warm-up" request for in this run,
+# so we only pay that extra request once per domain instead of once per URL.
+_warmed_up_domains = set()
 
 
 def get_selenium_driver():
@@ -89,6 +123,53 @@ def is_suspicious_change(old_price, new_price, max_change_pct):
         return False
     change_pct = abs(new_price - old_price) / old_price * 100
     return change_pct > max_change_pct
+
+
+# --------------------------------------------------------------------------
+# Warm-up helper (helps with Cloudflare-style bot protection)
+# --------------------------------------------------------------------------
+
+def warm_up_domain(session, url):
+    """Visit the homepage once per domain so the session picks up any
+    cookies / challenge tokens a WAF sets before it will serve inner pages.
+    Failures here are non-fatal -- we just proceed to the real request."""
+    domain = urlparse(url).netloc
+    if domain in _warmed_up_domains:
+        return
+    _warmed_up_domains.add(domain)
+    homepage = f"{urlparse(url).scheme}://{domain}/"
+    try:
+        session.get(homepage, headers=HEADERS, timeout=15)
+        time.sleep(0.5)
+    except Exception:
+        pass
+
+
+def fetch_with_retries(session, url, retries=2, backoff=2.0):
+    """GET a URL with a couple of retries on 403/429/5xx before giving up,
+    since some blocks are transient rate-limit responses rather than a hard
+    bot-protection wall."""
+    last_exc = None
+    for attempt in range(retries + 1):
+        try:
+            resp = session.get(url, headers=HEADERS, timeout=20)
+            resp.raise_for_status()
+            return resp
+        except requests.exceptions.HTTPError as e:
+            last_exc = e
+            status = e.response.status_code if e.response is not None else None
+            if status in (403, 429, 500, 502, 503) and attempt < retries:
+                time.sleep(backoff * (attempt + 1))
+                continue
+            raise
+        except requests.exceptions.RequestException as e:
+            last_exc = e
+            if attempt < retries:
+                time.sleep(backoff * (attempt + 1))
+                continue
+            raise
+    if last_exc:
+        raise last_exc
 
 
 # --------------------------------------------------------------------------
@@ -318,6 +399,39 @@ def extract_generic_regex(html):
 
 
 # --------------------------------------------------------------------------
+# WooCommerce fetch via Selenium (fallback when `requests` gets a 403)
+# --------------------------------------------------------------------------
+
+def fetch_woocommerce_via_selenium(url):
+    """Render a WooCommerce product page in headless Chrome and run the same
+    extractors used for the plain-HTML path. Used as a fallback when the
+    site's bot-protection blocks a bare `requests` GET (403)."""
+    from selenium.common.exceptions import TimeoutException
+    driver = get_selenium_driver()
+    try:
+        driver.get(url)
+    except TimeoutException:
+        print(f"    [warning] selenium page load timed out after 30s, trying "
+              f"partial content: {url}", file=sys.stderr)
+    time.sleep(2.5)
+    html = driver.page_source
+
+    price = extract_structured_price(html)
+    if price is None:
+        price = extract_woocommerce_price(html)
+    if price is None:
+        price = extract_generic_woocommerce(html)
+    if price is None:
+        price = extract_generic_regex(html)
+
+    availability = extract_woocommerce_availability(html)
+    if availability == "unknown":
+        availability = extract_generic_availability(html)
+
+    return price, availability
+
+
+# --------------------------------------------------------------------------
 # Unified fetch: returns (price, availability)
 # --------------------------------------------------------------------------
 
@@ -333,8 +447,8 @@ def get_price_and_availability(session, url):
     # --- WooCommerce stores
     if any(d in domain for d in WOOCOMMERCE_DOMAINS):
         try:
-            resp = session.get(url, headers=HEADERS, timeout=20)
-            resp.raise_for_status()
+            warm_up_domain(session, url)
+            resp = fetch_with_retries(session, url)
             html = resp.text
 
             # Price
@@ -351,6 +465,19 @@ def get_price_and_availability(session, url):
             if availability == "unknown":
                 availability = extract_generic_availability(html)
 
+        except requests.exceptions.HTTPError as e:
+            status = e.response.status_code if e.response is not None else None
+            if status == 403:
+                print(f"    [woocommerce] 403 from requests, falling back to "
+                      f"headless browser for {url}", file=sys.stderr)
+                try:
+                    price, availability = fetch_woocommerce_via_selenium(url)
+                except Exception as e2:
+                    print(f"    [woocommerce selenium fallback failed] {e2}", file=sys.stderr)
+                    return None, "unknown"
+            else:
+                print(f"    [woocommerce fetch failed] {e}", file=sys.stderr)
+                return None, "unknown"
         except Exception as e:
             print(f"    [woocommerce fetch failed] {e}", file=sys.stderr)
             return None, "unknown"
