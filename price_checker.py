@@ -534,7 +534,7 @@ def get_price_and_availability(session, url):
 def main():
     parser = argparse.ArgumentParser(description="Check and update prices & availability in products.json")
     parser.add_argument("json_file", help="Path to products.json")
-    parser.add_argument("--delay", type=float, default=1.5, help="Seconds between requests")
+    parser.add_argument("--delay", type=float, default=2, help="Seconds between requests")
     parser.add_argument(
         "--max-change-pct",
         type=float,
