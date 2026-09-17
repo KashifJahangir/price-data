@@ -16,11 +16,18 @@ CHANGELOG (this version):
 - Re-checks for Cloudflare challenge pages AFTER the Selenium load too
   (previously only checked on the requests path), with an extended wait
   and retry, plus a debug HTML dump when still blocked.
-- Masks navigator.webdriver via CDP so Cloudflare's headless-browser
-  fingerprinting is less likely to flag the Selenium session.
+- Switched the headless browser from plain Selenium to undetected-chromedriver,
+  which patches over the CDP/automation fingerprints (navigator.webdriver,
+  missing chrome runtime object, automation-flagged headers, etc.) that
+  Cloudflare and similar bot walls check for. Plain Selenium's masking
+  (disable-blink-features, webdriver property override) wasn't enough for
+  some sites (e.g. Zah Computers); undetected-chromedriver goes further.
 
 Install deps:
-    pip install requests beautifulsoup4 selenium webdriver-manager
+    pip install requests beautifulsoup4 undetected-chromedriver
+
+Note: webdriver-manager/plain selenium are no longer required -- 
+undetected-chromedriver manages its own patched chromedriver binary.
 
 Usage:
     py price_checker.py products.json
@@ -68,43 +75,23 @@ _warmed_up_domains = set()
 def get_selenium_driver():
     global _selenium_driver
     if _selenium_driver is None:
-        print("    [selenium] launching headless Chrome (first run may need to "
-              "download ChromeDriver, can take a minute)...", file=sys.stderr)
-        from selenium import webdriver
-        from selenium.webdriver.chrome.options import Options
-        from selenium.webdriver.chrome.service import Service
-        from webdriver_manager.chrome import ChromeDriverManager
+        print("    [selenium] launching undetected-chromedriver (first run may "
+              "need to download a matching Chrome build, can take a minute)...",
+              file=sys.stderr)
+        import undetected_chromedriver as uc
 
-        options = Options()
+        options = uc.ChromeOptions()
         options.add_argument("--headless=new")
         options.add_argument("--window-size=1400,2000")
         options.add_argument("--disable-gpu")
         options.add_argument("--no-sandbox")
         options.add_argument(f"user-agent={HEADERS['User-Agent']}")
-        options.add_argument("--disable-blink-features=AutomationControlled")
-        options.add_experimental_option("excludeSwitches", ["enable-automation"])
-        options.add_experimental_option("useAutomationExtension", False)
 
-        _selenium_driver = webdriver.Chrome(
-            service=Service(ChromeDriverManager().install()), options=options
-        )
+        # version_main=None lets uc auto-detect the installed Chrome's major
+        # version and fetch a matching patched driver. On CI, make sure the
+        # Chrome install step runs before this (see workflow yml).
+        _selenium_driver = uc.Chrome(options=options, version_main=None)
         _selenium_driver.set_page_load_timeout(30)
-
-        # Mask navigator.webdriver, which Cloudflare and similar bot walls
-        # check for specifically to fingerprint headless/automated browsers.
-        try:
-            _selenium_driver.execute_cdp_cmd(
-                "Page.addScriptToEvaluateOnNewDocument",
-                {
-                    "source": (
-                        "Object.defineProperty(navigator, 'webdriver', "
-                        "{get: () => undefined})"
-                    )
-                },
-            )
-        except Exception as e:
-            print(f"    [selenium] warning: could not mask navigator.webdriver: {e}",
-                  file=sys.stderr)
 
         print("    [selenium] browser ready", file=sys.stderr)
     return _selenium_driver
@@ -417,9 +404,29 @@ def extract_generic_woocommerce(html):
 
 
 def extract_generic_regex(html):
-    matches = re.findall(r"Rs\.?\s?[\d,]{4,}", html)
+    # "Rs" is common, but several stores (e.g. Zah Computers) render prices
+    # with the Unicode Rupee sign (U+20A8, "₨") instead, which this pattern
+    # used to miss entirely -- silently returning None on every such page.
+    matches = re.findall(r"(?:Rs\.?|\u20a8)\s?[\d,]{4,}(?:\.\d{1,2})?", html)
     if matches:
         return clean_price(matches[0])
+    return None
+
+
+def extract_broad_price(html):
+    """Last-resort extractor for themes that don't use WooCommerce's
+    default markup (custom Elementor/product-builder themes, etc.).
+    Scans any element whose class contains 'price' -- much looser than
+    the specific selectors above, so it's tried only after everything
+    else has failed."""
+    soup = BeautifulSoup(html, "html.parser")
+    for el in soup.select("[class*='price' i]"):
+        text = el.get_text(strip=True)
+        if not text:
+            continue
+        price = clean_price(text)
+        if price:
+            return price
     return None
 
 
@@ -465,10 +472,25 @@ def fetch_woocommerce_via_selenium(url):
         price = extract_generic_woocommerce(html)
     if price is None:
         price = extract_generic_regex(html)
+    if price is None:
+        price = extract_broad_price(html)
 
     availability = extract_woocommerce_availability(html)
     if availability == "unknown":
         availability = extract_generic_availability(html)
+
+    # Dump the HTML whenever we still couldn't find a price, even though the
+    # page loaded (not a challenge/block) -- most common cause is a theme
+    # using markup none of the selectors above expect. Having this on hand
+    # is what let us find the Zah "Rs" (Unicode Rupee sign) bug.
+    if price is None:
+        try:
+            with open("debug_no_price.html", "w", encoding="utf-8") as f:
+                f.write(html)
+            print(f"    [woocommerce] no price found by any extractor -- "
+                  f"dumped HTML to debug_no_price.html for {url}", file=sys.stderr)
+        except Exception:
+            pass
 
     return price, availability
 
@@ -507,6 +529,8 @@ def get_price_and_availability(session, url):
                 price = extract_generic_woocommerce(html)
             if price is None:
                 price = extract_generic_regex(html)
+            if price is None:
+                price = extract_broad_price(html)
 
             # Availability
             availability = extract_woocommerce_availability(html)
@@ -561,6 +585,8 @@ def get_price_and_availability(session, url):
             price = extract_generic_woocommerce(html)
             if price is None:
                 price = extract_generic_regex(html)
+            if price is None:
+                price = extract_broad_price(html)
             availability = extract_generic_availability(html)
         except Exception as e:
             print(f"    [unknown-domain fetch failed] {e}", file=sys.stderr)
