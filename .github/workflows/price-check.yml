@@ -2,16 +2,16 @@ name: Price Checker
 
 on:
   schedule:
-    - cron: '0 3 */3 * *'
-  workflow_dispatch: {}
+    # Every Monday at 03:00 UTC (08:00 PKT).
+    - cron: '0 3 * * 1'
+  workflow_dispatch: {}   # manual trigger from the Actions tab
 
 permissions:
-  contents: write
+  contents: write   # needed so the workflow can push the updated products.json
 
 jobs:
   update-prices:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -22,27 +22,16 @@ jobs:
           python-version: '3.11'
 
       - name: Install Chrome (for Junaid Tech / Czone scraping)
-        id: setup-chrome
         uses: browser-actions/setup-chrome@v1
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # Zah Computers is skipped here: its Cloudflare blocks GitHub's
+      # datacenter IPs with 403. Zah is updated separately by running
+      # run_price_check.bat on a local PC (uses --store zah).
       - name: Run price checker
-        env:
-          CHROME_PATH: ${{ steps.setup-chrome.outputs.chrome-path }}
-        run: python price_checker.py products.json --no-backup --delay 1.5 --debug
-
-      - name: Upload debug artifacts
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: debug-output
-          path: |
-            debug_html/
-            debug_last_challenge.html
-            debug_no_price.html
-          if-no-files-found: ignore
+        run: python price_checker.py products.json --no-backup --delay 2 --skip-store zah
 
       - name: Commit and push if prices changed
         run: |
