@@ -13,6 +13,11 @@ CHANGELOG (this version):
 - Relaxed schema.org @type matching so variants like ["Product","Thing"]
   are accepted.
 - Better debug prints so you can see what the scraper is doing.
+- Re-checks for Cloudflare challenge pages AFTER the Selenium load too
+  (previously only checked on the requests path), with an extended wait
+  and retry, plus a debug HTML dump when still blocked.
+- Masks navigator.webdriver via CDP so Cloudflare's headless-browser
+  fingerprinting is less likely to flag the Selenium session.
 
 Install deps:
     pip install requests beautifulsoup4 selenium webdriver-manager
@@ -84,6 +89,23 @@ def get_selenium_driver():
             service=Service(ChromeDriverManager().install()), options=options
         )
         _selenium_driver.set_page_load_timeout(30)
+
+        # Mask navigator.webdriver, which Cloudflare and similar bot walls
+        # check for specifically to fingerprint headless/automated browsers.
+        try:
+            _selenium_driver.execute_cdp_cmd(
+                "Page.addScriptToEvaluateOnNewDocument",
+                {
+                    "source": (
+                        "Object.defineProperty(navigator, 'webdriver', "
+                        "{get: () => undefined})"
+                    )
+                },
+            )
+        except Exception as e:
+            print(f"    [selenium] warning: could not mask navigator.webdriver: {e}",
+                  file=sys.stderr)
+
         print("    [selenium] browser ready", file=sys.stderr)
     return _selenium_driver
 
@@ -415,6 +437,26 @@ def fetch_woocommerce_via_selenium(url):
               f"partial content: {url}", file=sys.stderr)
     time.sleep(2.5)
     html = driver.page_source
+
+    # If we're still looking at a Cloudflare/bot-wall interstitial after the
+    # initial load, give the JS challenge more time to resolve and re-check
+    # once before giving up. Previously this function never re-checked for
+    # the challenge page after Selenium loaded, so it would silently try
+    # (and fail) to extract a price from the interstitial itself.
+    if is_cloudflare_challenge(html):
+        print(f"    [woocommerce] still on challenge page after initial wait, "
+              f"waiting longer for {url}", file=sys.stderr)
+        time.sleep(8)
+        html = driver.page_source
+        if is_cloudflare_challenge(html):
+            print(f"    [woocommerce] still blocked after extended wait -- "
+                  f"dumping debug HTML for {url}", file=sys.stderr)
+            try:
+                with open("debug_last_challenge.html", "w", encoding="utf-8") as f:
+                    f.write(html)
+            except Exception:
+                pass
+            return None, "unknown"
 
     price = extract_structured_price(html)
     if price is None:
