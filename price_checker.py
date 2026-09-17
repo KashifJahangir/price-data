@@ -38,6 +38,7 @@ Usage:
 
 import argparse
 import json
+import os
 import re
 import sys
 import time
@@ -123,6 +124,20 @@ def _detect_installed_chrome_major_version():
     import re as _re
 
     candidates = []
+
+    # CI (e.g. GitHub Actions via browser-actions/setup-chrome) sets this
+    # explicitly -- prefer it over any registry/PATH guessing, since it's
+    # exactly the Chrome binary that was actually installed for this job.
+    chrome_path_env = os.environ.get("CHROME_PATH")
+    if chrome_path_env:
+        try:
+            out = subprocess.check_output(
+                [chrome_path_env, "--version"], stderr=subprocess.DEVNULL, timeout=10
+            ).decode(errors="ignore")
+            candidates.append(out)
+        except Exception:
+            pass
+
     if sys.platform.startswith("win"):
         # Try the registry first (works even with Chrome not on PATH)
         try:
@@ -157,7 +172,7 @@ def _detect_installed_chrome_major_version():
                 continue
     else:
         for cmd in [["google-chrome", "--version"], ["chromium-browser", "--version"],
-                    ["chromium", "--version"]]:
+                    ["chromium", "--version"], ["google-chrome-stable", "--version"]]:
             try:
                 out = subprocess.check_output(cmd, stderr=subprocess.DEVNULL, timeout=10).decode(errors="ignore")
                 candidates.append(out)
@@ -177,13 +192,18 @@ def get_selenium_driver():
         import undetected_chromedriver as uc
 
         detected_major = _detect_installed_chrome_major_version()
+        chrome_path_env = os.environ.get("CHROME_PATH")
+
         if detected_major:
             print(f"    [selenium] launching undetected-chromedriver, pinned to "
-                  f"detected Chrome major version {detected_major}...", file=sys.stderr)
+                  f"detected Chrome major version {detected_major}"
+                  f"{f' (binary: {chrome_path_env})' if chrome_path_env else ''}...",
+                  file=sys.stderr)
         else:
             print("    [selenium] launching undetected-chromedriver (could not "
                   "detect installed Chrome version, letting uc auto-detect -- "
-                  "if this fails with a version mismatch, update Chrome to the "
+                  "if this fails with a version mismatch, set the CHROME_PATH "
+                  "env var to the Chrome binary, or update Chrome to the "
                   "latest release)...", file=sys.stderr)
 
         options = uc.ChromeOptions()
@@ -194,9 +214,13 @@ def get_selenium_driver():
         options.add_argument(f"user-agent={HEADERS['User-Agent']}")
 
         # Pin version_main to the installed Chrome's actual major version
-        # when we can detect it, instead of letting uc guess (which can
-        # grab a driver newer than what's actually installed).
-        _selenium_driver = uc.Chrome(options=options, version_main=detected_major)
+        # when we can detect it, and use the exact binary CI told us about
+        # (CHROME_PATH) rather than letting uc search PATH itself, which
+        # can silently pick up a different/mismatched Chrome install.
+        kwargs = {"options": options, "version_main": detected_major}
+        if chrome_path_env:
+            kwargs["browser_executable_path"] = chrome_path_env
+        _selenium_driver = uc.Chrome(**kwargs)
         _selenium_driver.set_page_load_timeout(30)
 
         print("    [selenium] browser ready", file=sys.stderr)
