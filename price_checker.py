@@ -548,6 +548,19 @@ def main():
         action="store_true",
         help="Skip writing a .bak copy of the JSON file before overwriting it",
     )
+    parser.add_argument(
+        "--store",
+        metavar="TEXT",
+        help="Only check store prices whose storeName contains TEXT (case-insensitive). "
+             "Example: --store zah",
+    )
+    parser.add_argument(
+        "--skip-store",
+        metavar="TEXT",
+        help="Skip store prices whose storeName contains TEXT (case-insensitive). "
+             "Useful on GitHub Actions for Cloudflare-blocked stores like Zah. "
+             "Example: --skip-store zah",
+    )
     args = parser.parse_args()
 
     with open(args.json_file, "r", encoding="utf-8") as f:
@@ -561,6 +574,7 @@ def main():
 
     session = requests.Session()
     updated, unchanged, failed, suspicious = 0, 0, 0, 0
+    processed = []
 
     try:
         for product in data["products"]:
@@ -569,6 +583,13 @@ def main():
                 if not url:
                     continue
 
+                store_name = sp.get("storeName") or ""
+                if args.store and args.store.lower() not in store_name.lower():
+                    continue
+                if args.skip_store and args.skip_store.lower() in store_name.lower():
+                    continue
+
+                processed.append(sp)
                 label = sp.get("Name") or sp.get("name") or product.get("name")
                 print(f"Checking {sp.get('storeName')} | {label} ...", flush=True)
 
@@ -608,10 +629,9 @@ def main():
 
     # Availability summary
     avail_stats = {}
-    for product in data["products"]:
-        for sp in product["storePrices"]:
-            a = sp.get("availability", "unknown")
-            avail_stats[a] = avail_stats.get(a, 0) + 1
+    for sp in processed:
+        a = sp.get("availability", "unknown")
+        avail_stats[a] = avail_stats.get(a, 0) + 1
 
     print(
         f"\nDone. {updated} updated, {unchanged} unchanged, "
