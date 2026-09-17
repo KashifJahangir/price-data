@@ -12,6 +12,7 @@ permissions:
 jobs:
   update-prices:
     runs-on: ubuntu-latest
+    timeout-minutes: 45   # tune to your real product count; fail fast instead of hangin
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
