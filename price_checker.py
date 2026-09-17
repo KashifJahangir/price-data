@@ -47,6 +47,7 @@ HEADERS = {
 # Lazily-created Selenium driver, shared across all Junaid Tech / Czone
 # lookups in a single run so we don't spin up a new browser per product.
 _selenium_driver = None
+_dump_debug = True   # set False once zahcomputers.pk works; writes debug_zah_page.html on failure
 
 
 def get_selenium_driver():
@@ -282,28 +283,80 @@ def extract_generic_regex(html):
     return None
 
 
+def _extract_price_chain(html):
+    """Full extraction fallback chain, shared by curl_cffi and requests paths."""
+    price = extract_structured_price(html)
+    if price is not None:
+        return price
+    price = extract_woocommerce_price(html)
+    if price is not None:
+        return price
+    price = extract_generic_woocommerce(html)
+    if price is not None:
+        return price
+    return extract_generic_regex(html)
+
+
+def _fetch_with_curl_cffi(url):
+    """Fetch with a real Chrome TLS fingerprint via curl_cffi.
+
+    Cloudflare's first check is the TLS/HTTP2 handshake, which `requests`
+    fails no matter what User-Agent you set. curl_cffi impersonates a real
+    Chrome fingerprint and often passes where both requests and headless
+    Chrome get challenged.
+    """
+    try:
+        from curl_cffi import requests as cffi_requests
+    except ImportError:
+        print("    [curl_cffi not installed, skipping]", file=sys.stderr)
+        return None
+    try:
+        resp = cffi_requests.get(url, impersonate="chrome124", timeout=30)
+        if resp.status_code != 200:
+            print(f"    [curl_cffi got HTTP {resp.status_code}]", file=sys.stderr)
+            return None
+        return _extract_price_chain(resp.text)
+    except Exception as e:
+        print(f"    [curl_cffi failed] {e}", file=sys.stderr)
+        return None
+
+
+def _dump_debug_html(html, url):
+    """Save the page we actually got so we can see if it's a challenge page."""
+    path = "debug_zah_page.html"
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(f"<!-- URL: {url} -->\n")
+        f.write(html)
+    print(f"    [debug] dumped received page to {path}", file=sys.stderr)
+
+
 # --------------------------------------------------------------------------
 # Dispatch: pick the right method chain based on the URL's domain
 # --------------------------------------------------------------------------
 
 WOOCOMMERCE_DOMAINS = ["amdhouse.pk", "zicomputer.com", "rbtechngames.com"]
 WEBX_DOMAINS = ["junaidtech.pk", "czone.com.pk"]
-# Cloudflare serves 403 to plain `requests` from server IPs (GitHub Actions) —
-# render these in the browser instead.
+# Cloudflare serves 403 to plain `requests` from server IPs (GitHub Actions).
 SELENIUM_DOMAINS = ["zahcomputers.pk"]
 
 
 def get_price_for_url(session, url):
     domain = urlparse(url).netloc.replace("www.", "")
 
-    # --- Cloudflare-protected stores: render in Chrome, same logic as Webx
+    # --- Cloudflare-protected stores: curl_cffi (Chrome TLS fingerprint) first,
+    #     then headless Chrome, and dump the received page if both fail so we
+    #     can see whether Cloudflare is serving a challenge.
     if any(d in domain for d in SELENIUM_DOMAINS):
+        price = _fetch_with_curl_cffi(url)
+        if price is not None:
+            return price
         try:
             price = extract_webx_price(url)
             if price is not None:
                 return price
-            # fall back to a generic regex sweep of the rendered page
             driver = get_selenium_driver()
+            if _dump_debug:
+                _dump_debug_html(driver.page_source, url)
             return extract_generic_regex(driver.page_source)
         except Exception as e:
             print(f"    [selenium fetch failed] {e}", file=sys.stderr)
