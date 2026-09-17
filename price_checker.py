@@ -32,6 +32,8 @@ undetected-chromedriver manages its own patched chromedriver binary.
 Usage:
     py price_checker.py products.json
     py price_checker.py products.json --delay 2
+    py price_checker.py products.json --debug             # verbose, step-by-step extractor trace
+    py price_checker.py products.json --debug --debug-store "Zah Computers"   # only trace one store
 """
 
 import argparse
@@ -71,14 +73,118 @@ HEADERS = {
 _selenium_driver = None
 _warmed_up_domains = set()
 
+# --- Debug mode -------------------------------------------------------
+# Set by main() from --debug / --debug-store. When on, get_price_and_
+# availability() prints which extractor found (or didn't find) a price
+# at each stage, and saves the raw HTML it worked from to debug_html/
+# so you can open it and see exactly what the scraper saw.
+DEBUG = False
+DEBUG_STORE = None  # if set, only trace this store name (case-insensitive)
+
+
+def debug_log(msg):
+    if DEBUG:
+        print(f"    [debug] {msg}", file=sys.stderr)
+
+
+def debug_save_html(html, store_name, label):
+    if not DEBUG:
+        return
+    import os
+    os.makedirs("debug_html", exist_ok=True)
+    safe = re.sub(r"[^a-zA-Z0-9_-]+", "_", f"{store_name}_{label}")[:120]
+    path = os.path.join("debug_html", f"{safe}.html")
+    try:
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(html)
+        debug_log(f"saved raw HTML -> {path}")
+    except Exception as e:
+        debug_log(f"could not save debug HTML: {e}")
+
+
+def should_trace(store_name):
+    if not DEBUG:
+        return False
+    if DEBUG_STORE is None:
+        return True
+    return (store_name or "").strip().lower() == DEBUG_STORE.strip().lower()
+
+
+def _detect_installed_chrome_major_version():
+    """Best-effort detection of the installed Chrome's major version number,
+    so we can pass it explicitly to undetected-chromedriver as version_main.
+    Without this, uc's own auto-detect (version_main=None) can sometimes
+    grab the newest available driver instead of one matching the Chrome
+    actually installed on this machine, causing a
+    'This version of ChromeDriver only supports Chrome version X' error.
+    Returns an int, or None if detection fails (caller falls back to
+    version_main=None in that case)."""
+    import subprocess
+    import re as _re
+
+    candidates = []
+    if sys.platform.startswith("win"):
+        # Try the registry first (works even with Chrome not on PATH)
+        try:
+            import winreg
+            for hive, path in [
+                (winreg.HKEY_CURRENT_USER, r"Software\Google\Chrome\BLBeacon"),
+                (winreg.HKEY_LOCAL_MACHINE, r"Software\Google\Chrome\BLBeacon"),
+            ]:
+                try:
+                    key = winreg.OpenKey(hive, path)
+                    version, _ = winreg.QueryValueEx(key, "version")
+                    candidates.append(version)
+                except OSError:
+                    continue
+        except Exception:
+            pass
+        # Fallback: ask the exe directly via common install paths
+        for exe in [
+            r"C:\Program Files\Google\Chrome\Application\chrome.exe",
+            r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
+        ]:
+            try:
+                out = subprocess.check_output(
+                    ["wmic", "datafile", "where", f"name='{exe}'".replace("\\", "\\\\"),
+                     "get", "Version", "/value"],
+                    stderr=subprocess.DEVNULL, timeout=10,
+                ).decode(errors="ignore")
+                m = _re.search(r"Version=(\d+\.\d+\.\d+\.\d+)", out)
+                if m:
+                    candidates.append(m.group(1))
+            except Exception:
+                continue
+    else:
+        for cmd in [["google-chrome", "--version"], ["chromium-browser", "--version"],
+                    ["chromium", "--version"]]:
+            try:
+                out = subprocess.check_output(cmd, stderr=subprocess.DEVNULL, timeout=10).decode(errors="ignore")
+                candidates.append(out)
+            except Exception:
+                continue
+
+    for text in candidates:
+        m = _re.search(r"(\d+)\.\d+\.\d+\.\d+", text)
+        if m:
+            return int(m.group(1))
+    return None
+
 
 def get_selenium_driver():
     global _selenium_driver
     if _selenium_driver is None:
-        print("    [selenium] launching undetected-chromedriver (first run may "
-              "need to download a matching Chrome build, can take a minute)...",
-              file=sys.stderr)
         import undetected_chromedriver as uc
+
+        detected_major = _detect_installed_chrome_major_version()
+        if detected_major:
+            print(f"    [selenium] launching undetected-chromedriver, pinned to "
+                  f"detected Chrome major version {detected_major}...", file=sys.stderr)
+        else:
+            print("    [selenium] launching undetected-chromedriver (could not "
+                  "detect installed Chrome version, letting uc auto-detect -- "
+                  "if this fails with a version mismatch, update Chrome to the "
+                  "latest release)...", file=sys.stderr)
 
         options = uc.ChromeOptions()
         options.add_argument("--headless=new")
@@ -87,10 +193,10 @@ def get_selenium_driver():
         options.add_argument("--no-sandbox")
         options.add_argument(f"user-agent={HEADERS['User-Agent']}")
 
-        # version_main=None lets uc auto-detect the installed Chrome's major
-        # version and fetch a matching patched driver. On CI, make sure the
-        # Chrome install step runs before this (see workflow yml).
-        _selenium_driver = uc.Chrome(options=options, version_main=None)
+        # Pin version_main to the installed Chrome's actual major version
+        # when we can detect it, instead of letting uc guess (which can
+        # grab a driver newer than what's actually installed).
+        _selenium_driver = uc.Chrome(options=options, version_main=detected_major)
         _selenium_driver.set_page_load_timeout(30)
 
         print("    [selenium] browser ready", file=sys.stderr)
@@ -434,7 +540,32 @@ def extract_broad_price(html):
 # WooCommerce via Selenium fallback
 # --------------------------------------------------------------------------
 
-def fetch_woocommerce_via_selenium(url):
+def run_price_extractors(html, store_name="", label=""):
+    """Try each price extractor in order, logging (in debug mode) which
+    one succeeded or that all of them missed. Centralizes what used to be
+    a repeated if-price-is-None chain in three different places."""
+    stages = [
+        ("structured (JSON-LD/meta)", lambda h: extract_structured_price(h)),
+        ("woocommerce (.price-wrapper etc.)", lambda h: extract_woocommerce_price(h)),
+        ("generic woocommerce selectors", lambda h: extract_generic_woocommerce(h)),
+        ("regex (Rs / \u20a8 symbol)", lambda h: extract_generic_regex(h)),
+        ("broad ([class*=price])", lambda h: extract_broad_price(h)),
+    ]
+    for stage_name, fn in stages:
+        price = fn(html)
+        if price is not None:
+            if should_trace(store_name):
+                debug_log(f"{store_name} | {label}: price found at stage "
+                          f"'{stage_name}' -> {price}")
+            return price
+        elif should_trace(store_name):
+            debug_log(f"{store_name} | {label}: stage '{stage_name}' found nothing")
+    if should_trace(store_name):
+        debug_log(f"{store_name} | {label}: ALL price stages returned nothing")
+    return None
+
+
+def fetch_woocommerce_via_selenium(url, store_name="", label=""):
     from selenium.common.exceptions import TimeoutException
     driver = get_selenium_driver()
     try:
@@ -453,6 +584,8 @@ def fetch_woocommerce_via_selenium(url):
     if is_cloudflare_challenge(html):
         print(f"    [woocommerce] still on challenge page after initial wait, "
               f"waiting longer for {url}", file=sys.stderr)
+        debug_log(f"{store_name} | {label}: Cloudflare/bot-wall challenge detected "
+                  f"after selenium load, waiting 8s and re-checking")
         time.sleep(8)
         html = driver.page_source
         if is_cloudflare_challenge(html):
@@ -463,17 +596,14 @@ def fetch_woocommerce_via_selenium(url):
                     f.write(html)
             except Exception:
                 pass
+            debug_log(f"{store_name} | {label}: still challenged after 8s wait, giving up")
             return None, "unknown"
+        else:
+            debug_log(f"{store_name} | {label}: challenge cleared after extended wait")
 
-    price = extract_structured_price(html)
-    if price is None:
-        price = extract_woocommerce_price(html)
-    if price is None:
-        price = extract_generic_woocommerce(html)
-    if price is None:
-        price = extract_generic_regex(html)
-    if price is None:
-        price = extract_broad_price(html)
+    debug_save_html(html, store_name, label + "_selenium")
+
+    price = run_price_extractors(html, store_name, label)
 
     availability = extract_woocommerce_availability(html)
     if availability == "unknown":
@@ -503,7 +633,7 @@ WOOCOMMERCE_DOMAINS = ["amdhouse.pk", "zahcomputers.pk", "zicomputer.com", "rbte
 WEBX_DOMAINS = ["junaidtech.pk", "czone.com.pk"]
 
 
-def get_price_and_availability(session, url):
+def get_price_and_availability(session, url, store_name="", label=""):
     domain = urlparse(url).netloc.replace("www.", "")
     price = None
     availability = "unknown"
@@ -514,25 +644,21 @@ def get_price_and_availability(session, url):
             warm_up_domain(session, url)
             resp = fetch_with_retries(session, url)
             html = resp.text
+            debug_log(f"{store_name} | {label}: requests fetch OK, "
+                      f"{len(html)} chars, status {resp.status_code}")
 
             # If we got a bot challenge page, skip straight to Selenium
             if is_cloudflare_challenge(html):
                 print(f"    [woocommerce] bot challenge detected, using headless browser for {url}",
                       file=sys.stderr)
-                return fetch_woocommerce_via_selenium(url)
+                debug_log(f"{store_name} | {label}: challenge detected on direct "
+                          f"fetch, going straight to selenium")
+                return fetch_woocommerce_via_selenium(url, store_name, label)
 
-            # Price
-            price = extract_structured_price(html)
-            if price is None:
-                price = extract_woocommerce_price(html)
-            if price is None:
-                price = extract_generic_woocommerce(html)
-            if price is None:
-                price = extract_generic_regex(html)
-            if price is None:
-                price = extract_broad_price(html)
+            debug_save_html(html, store_name, label + "_requests")
 
-            # Availability
+            # Price + availability
+            price = run_price_extractors(html, store_name, label)
             availability = extract_woocommerce_availability(html)
             if availability == "unknown":
                 availability = extract_generic_availability(html)
@@ -542,23 +668,27 @@ def get_price_and_availability(session, url):
             if price is None:
                 print(f"    [woocommerce] no price extracted, trying headless browser for {url}",
                       file=sys.stderr)
-                return fetch_woocommerce_via_selenium(url)
+                return fetch_woocommerce_via_selenium(url, store_name, label)
 
         except requests.exceptions.HTTPError as e:
             status = e.response.status_code if e.response is not None else None
             if status == 403:
                 print(f"    [woocommerce] 403 from requests, falling back to "
                       f"headless browser for {url}", file=sys.stderr)
+                debug_log(f"{store_name} | {label}: got HTTP 403 on direct fetch")
                 try:
-                    return fetch_woocommerce_via_selenium(url)
+                    return fetch_woocommerce_via_selenium(url, store_name, label)
                 except Exception as e2:
                     print(f"    [woocommerce selenium fallback failed] {e2}", file=sys.stderr)
+                    debug_log(f"{store_name} | {label}: selenium fallback raised: {e2}")
                     return None, "unknown"
             else:
                 print(f"    [woocommerce fetch failed] {e}", file=sys.stderr)
+                debug_log(f"{store_name} | {label}: HTTPError status={status}: {e}")
                 return None, "unknown"
         except Exception as e:
             print(f"    [woocommerce fetch failed] {e}", file=sys.stderr)
+            debug_log(f"{store_name} | {label}: unexpected exception: {e}")
             return None, "unknown"
 
     # --- Webx stores (Selenium)
@@ -568,12 +698,16 @@ def get_price_and_availability(session, url):
             if price is None:
                 driver = get_selenium_driver()
                 price = extract_generic_regex(driver.page_source)
+                if price is None:
+                    price = extract_broad_price(driver.page_source)
 
             driver = get_selenium_driver()
+            debug_save_html(driver.page_source, store_name, label + "_webx")
             availability = extract_webx_availability(driver.page_source)
 
         except Exception as e:
             print(f"    [webx fetch failed] {e}", file=sys.stderr)
+            debug_log(f"{store_name} | {label}: webx exception: {e}")
             return None, "unknown"
 
     # --- Unknown domain
@@ -582,6 +716,7 @@ def get_price_and_availability(session, url):
             resp = session.get(url, headers=HEADERS, timeout=20)
             resp.raise_for_status()
             html = resp.text
+            debug_save_html(html, store_name, label + "_unknown")
             price = extract_generic_woocommerce(html)
             if price is None:
                 price = extract_generic_regex(html)
@@ -590,6 +725,7 @@ def get_price_and_availability(session, url):
             availability = extract_generic_availability(html)
         except Exception as e:
             print(f"    [unknown-domain fetch failed] {e}", file=sys.stderr)
+            debug_log(f"{store_name} | {label}: unknown-domain exception: {e}")
             return None, "unknown"
 
     return price, availability
@@ -600,6 +736,8 @@ def get_price_and_availability(session, url):
 # --------------------------------------------------------------------------
 
 def main():
+    global DEBUG, DEBUG_STORE
+
     parser = argparse.ArgumentParser(description="Check and update prices & availability in products.json")
     parser.add_argument("json_file", help="Path to products.json")
     parser.add_argument("--delay", type=float, default=2, help="Seconds between requests")
@@ -616,7 +754,29 @@ def main():
         action="store_true",
         help="Skip writing a .bak copy of the JSON file before overwriting it",
     )
+    parser.add_argument(
+        "--debug",
+        action="store_true",
+        help="Verbose step-by-step trace: prints which extractor stage found "
+             "(or missed) a price for each URL, and saves every fetched page's "
+             "raw HTML under debug_html/ so you can inspect it yourself.",
+    )
+    parser.add_argument(
+        "--debug-store",
+        type=str,
+        default=None,
+        help="With --debug, only trace this store name (matches sp['storeName'], "
+             "case-insensitive) instead of every store -- much less noisy when "
+             "you already know which store is failing, e.g. --debug-store \"Zah Computers\"",
+    )
     args = parser.parse_args()
+
+    DEBUG = args.debug
+    DEBUG_STORE = args.debug_store
+    if DEBUG:
+        print(f"[debug] debug mode ON"
+              f"{f' (only tracing store: {DEBUG_STORE})' if DEBUG_STORE else ''}"
+              f" -- raw HTML will be saved under ./debug_html/", file=sys.stderr)
 
     with open(args.json_file, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -637,10 +797,13 @@ def main():
                 if not url:
                     continue
 
+                store_name = sp.get("storeName") or ""
                 label = sp.get("Name") or sp.get("name") or product.get("name")
                 print(f"Checking {sp.get('storeName')} | {label} ...", flush=True)
 
-                new_price, availability = get_price_and_availability(session, url)
+                new_price, availability = get_price_and_availability(
+                    session, url, store_name=store_name, label=label
+                )
                 old_price = sp.get("price")
 
                 # Always record the latest availability
