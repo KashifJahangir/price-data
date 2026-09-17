@@ -2,18 +2,16 @@ name: Price Checker
 
 on:
   schedule:
-    # Runs at 03:00 UTC every 2 days (08:00 PKT).
-    # Note: cron's day-step doesn't guarantee a perfect 48h cadence across
-    # month boundaries (e.g. day 31 -> day 1), but it's close enough for this.
-    - cron: '0 3 */2 * *'
-  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab to test
+    - cron: '0 3 */3 * *'
+  workflow_dispatch: {}
 
 permissions:
-  contents: write   # needed so the workflow can push the updated products.json
+  contents: write
 
 jobs:
   update-prices:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -24,13 +22,27 @@ jobs:
           python-version: '3.11'
 
       - name: Install Chrome (for Junaid Tech / Czone scraping)
+        id: setup-chrome
         uses: browser-actions/setup-chrome@v1
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
       - name: Run price checker
-        run: python price_checker.py products.json --no-backup --delay 1.5
+        env:
+          CHROME_PATH: ${{ steps.setup-chrome.outputs.chrome-path }}
+        run: python price_checker.py products.json --no-backup --delay 1.5 --debug
+
+      - name: Upload debug artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-output
+          path: |
+            debug_html/
+            debug_last_challenge.html
+            debug_no_price.html
+          if-no-files-found: ignore
 
       - name: Commit and push if prices changed
         run: |
