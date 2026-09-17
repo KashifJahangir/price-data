@@ -1,29 +1,25 @@
 """
-Unified price checker for products.json
+Unified price & availability checker for products.json
 --------------------------------------------------------------------------
-Reads products.json, visits every store URL already in it, and updates
-the price if it changed. Uses store-specific extraction logic (borrowed
-from your individual scrapers) with a fallback chain:
+Reads products.json, visits every store URL, and updates both price and
+availability.
 
-    1. Try the store-specific parser (matched by domain in the URL)
-    2. If that fails, try a generic WooCommerce parser
-    3. If that fails, try a generic regex-based price sweep of the page
-    4. If all fail, leave the price untouched and log it as failed
-
-WooCommerce stores (amdhouse.pk, zahcomputers.pk, zicomputer.com,
-rbtechngames.com) are fetched with plain `requests` — no JS rendering
-needed, matches your existing scrapers.
-
-Junaid Tech and Czone run on Webx Ecommerce (Vue/Nuxt) and need
-Selenium to render the price — this is only spun up (lazily) if a
-URL from those domains is encountered, so requests-only runs stay fast.
+CHANGELOG (this version):
+- Detects Cloudflare / bot-protection challenge pages and auto-falls back
+  to headless Chrome for WooCommerce stores (fixes Zah Computers & AMD House).
+- Falls back to Selenium on WooCommerce when no price is extracted,
+  not just on HTTP 403.
+- Removed 'br' from Accept-Encoding to avoid brotli decoding issues.
+- Relaxed schema.org @type matching so variants like ["Product","Thing"]
+  are accepted.
+- Better debug prints so you can see what the scraper is doing.
 
 Install deps:
     pip install requests beautifulsoup4 selenium webdriver-manager
 
 Usage:
-    python price_checker.py products.json
-    python price_checker.py products.json --delay 1.5
+    py price_checker.py products.json
+    py price_checker.py products.json --delay 2
 """
 
 import argparse
@@ -41,13 +37,27 @@ HEADERS = {
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
     ),
+    "Accept": (
+        "text/html,application/xhtml+xml,application/xml;q=0.9,"
+        "image/avif,image/webp,*/*;q=0.8"
+    ),
     "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate",   # removed 'br' to avoid brotli issues
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Sec-Ch-Ua": '"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"',
+    "Sec-Ch-Ua-Mobile": "?0",
+    "Sec-Ch-Ua-Platform": '"Windows"',
+    "DNT": "1",
 }
 
-# Lazily-created Selenium driver, shared across all Junaid Tech / Czone
-# lookups in a single run so we don't spin up a new browser per product.
+# Lazily-created Selenium driver
 _selenium_driver = None
-_dump_debug = True   # set False once zahcomputers.pk works; writes debug_zah_page.html on failure
+_warmed_up_domains = set()
 
 
 def get_selenium_driver():
@@ -73,14 +83,7 @@ def get_selenium_driver():
         _selenium_driver = webdriver.Chrome(
             service=Service(ChromeDriverManager().install()), options=options
         )
-        # Without this, a page that never fires "load" (stuck spinner, endless
-        # polling JS, etc.) hangs driver.get() forever with zero output.
         _selenium_driver.set_page_load_timeout(30)
-        # Hide the automation flag Cloudflare looks for
-        _selenium_driver.execute_cdp_cmd(
-            "Page.addScriptToEvaluateOnNewDocument",
-            {"source": "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"},
-        )
         print("    [selenium] browser ready", file=sys.stderr)
     return _selenium_driver
 
@@ -93,24 +96,11 @@ def close_selenium_driver():
 
 
 def clean_price(text):
-    """Turn 'Rs. 24,500' / '₨24,500.00' / '24500' into 24500.0
-
-    Extracts the FIRST well-formed number in the text instead of blindly
-    stripping non-digit characters. This avoids two failure modes seen
-    in production:
-      - "Rs.14,999" -> old code kept the period from "Rs." and produced
-        0.14999 instead of 14999.0
-      - "Rs.32,155 - Rs.30,993" (a price range / two adjacent price nodes
-        with no separator) -> old code glued both numbers together into
-        3215530993.0 instead of picking one
-    """
     if not text:
         return None
-
     match = re.search(r"\d{1,3}(?:,\d{3})+(?:\.\d+)?|\d+(?:\.\d+)?", text)
     if not match:
         return None
-
     num_str = match.group(0).replace(",", "")
     try:
         return float(num_str)
@@ -119,7 +109,6 @@ def clean_price(text):
 
 
 def is_suspicious_change(old_price, new_price, max_change_pct):
-    """Flag implausible jumps (wrong element scraped) instead of trusting them blindly."""
     if old_price in (None, 0) or new_price in (None, 0):
         return False
     change_pct = abs(new_price - old_price) / old_price * 100
@@ -127,67 +116,194 @@ def is_suspicious_change(old_price, new_price, max_change_pct):
 
 
 # --------------------------------------------------------------------------
-# Store-specific extractors (built from your own scrapers' selectors)
+# Bot-protection / challenge detection
 # --------------------------------------------------------------------------
 
-def extract_woocommerce_price(html):
-    """Shared by amdhouse.pk, zahcomputers.pk, zicomputer.com, rbtechngames.com."""
+def is_cloudflare_challenge(html):
+    """Return True if the HTML is a Cloudflare 'Checking your browser'
+    interstitial or similar bot wall instead of a real product page."""
+    indicators = [
+        "checking your browser",
+        "just a moment",
+        "cf-browser-verification",
+        "enable javascript and cookies to continue",
+        "ddos protection by cloudflare",
+        "challenge-platform",
+        "turnstile",
+        "please wait",
+        "redirecting",
+    ]
+    text = html.lower()
+    return any(ind in text for ind in indicators)
+
+
+# --------------------------------------------------------------------------
+# Warm-up & fetch helpers
+# --------------------------------------------------------------------------
+
+def warm_up_domain(session, url):
+    domain = urlparse(url).netloc
+    if domain in _warmed_up_domains:
+        return
+    _warmed_up_domains.add(domain)
+    homepage = f"{urlparse(url).scheme}://{domain}/"
+    try:
+        session.get(homepage, headers=HEADERS, timeout=15)
+        time.sleep(0.5)
+    except Exception:
+        pass
+
+
+def fetch_with_retries(session, url, retries=2, backoff=2.0):
+    last_exc = None
+    for attempt in range(retries + 1):
+        try:
+            resp = session.get(url, headers=HEADERS, timeout=20)
+            resp.raise_for_status()
+            return resp
+        except requests.exceptions.HTTPError as e:
+            last_exc = e
+            status = e.response.status_code if e.response is not None else None
+            if status in (403, 429, 500, 502, 503) and attempt < retries:
+                time.sleep(backoff * (attempt + 1))
+                continue
+            raise
+        except requests.exceptions.RequestException as e:
+            last_exc = e
+            if attempt < retries:
+                time.sleep(backoff * (attempt + 1))
+                continue
+            raise
+    if last_exc:
+        raise last_exc
+
+
+# --------------------------------------------------------------------------
+# Availability helpers
+# --------------------------------------------------------------------------
+
+def normalize_availability(raw):
+    if not raw:
+        return "unknown"
+    raw = raw.lower().replace(" ", "").replace("_", "").replace("-", "").replace("https://schema.org/", "")
+    if raw in ("instock", "available", "instockforshipping"):
+        return "available"
+    if raw in ("outofstock", "unavailable", "soldout"):
+        return "not available"
+    return "unknown"
+
+
+def _is_product_schema(node):
+    """Flexible check for schema.org Product type."""
+    if not isinstance(node, dict):
+        return False
+    types = node.get("@type", [])
+    if isinstance(types, str):
+        types = [types]
+    return "Product" in types
+
+
+def extract_woocommerce_availability(html):
     soup = BeautifulSoup(html, "html.parser")
 
-    # Scope to the real per-product info panel first. The theme's actual
-    # price container is div.price-wrapper, which ".price" alone never
-    # matches (different class name) -- that mismatch was letting the old
-    # selector fall through to unrelated price elements elsewhere on the
-    # page (related-product grids, etc).
-    price_el = (
-        soup.select_one(".product-summary .price-wrapper")
-        or soup.select_one(".entry-summary .price-wrapper")
-        or soup.select_one("div.price-wrapper")
-        or soup.select_one("p.price, span.price, .summary .price")
-    )
-    if not price_el:
-        return None
-
-    # Prefer the sale price (<ins>) over the struck-through original (<del>)
-    ins_el = price_el.select_one("ins .woocommerce-Price-amount, ins")
-    if ins_el:
-        amt = ins_el.select_one(".woocommerce-Price-amount") or ins_el
-        return clean_price(amt.get_text())
-
-    amt_el = price_el.select_one(".woocommerce-Price-amount")
-    if amt_el:
-        return clean_price(amt_el.get_text())
-
-    return clean_price(price_el.get_text())
-
-
-def extract_structured_price(html):
-    """Look for the product's official price in structured data (JSON-LD
-    schema.org/Product, or Open Graph / itemprop meta tags). This data is
-    written for search engines / social previews and is scoped to the
-    actual product on the page -- unlike visible CSS price elements it
-    can't accidentally match a 'related products' widget.
-    """
-    soup = BeautifulSoup(html, "html.parser")
-
-    # --- JSON-LD schema.org/Product ---
+    # 1. Schema.org JSON-LD
     for script in soup.find_all("script", type="application/ld+json"):
         try:
             payload = json.loads(script.string or "")
         except (json.JSONDecodeError, TypeError):
             continue
-
         candidates = payload if isinstance(payload, list) else [payload]
         for node in candidates:
             if not isinstance(node, dict):
                 continue
-            # some sites wrap the Product inside "@graph"
+            graph = node.get("@graph")
+            subs = graph if isinstance(graph, list) else [node]
+            for sub in subs:
+                if not _is_product_schema(sub):
+                    continue
+                offers = sub.get("offers")
+                if isinstance(offers, list):
+                    offers = offers[0] if offers else None
+                if isinstance(offers, dict):
+                    avail = normalize_availability(offers.get("availability"))
+                    if avail != "unknown":
+                        return avail
+
+    # 2. CSS selectors
+    if soup.select_one(".stock.out-of-stock, .out-of-stock, .sold-out, .unavailable"):
+        return "not available"
+    if soup.select_one(".stock.in-stock, .in-stock, .available"):
+        return "available"
+
+    # 3. Text inside stock wrapper
+    stock_el = soup.select_one(".stock, .availability, .product-availability")
+    if stock_el:
+        text = stock_el.get_text().lower()
+        if any(x in text for x in ["out of stock", "sold out", "unavailable"]):
+            return "not available"
+        if any(x in text for x in ["in stock", "available"]):
+            return "available"
+
+    return "unknown"
+
+
+def extract_webx_availability(html):
+    soup = BeautifulSoup(html, "html.parser")
+    avail = extract_woocommerce_availability(html)
+    if avail != "unknown":
+        return avail
+
+    main_area = (
+        soup.select_one(".product-detail")
+        or soup.select_one(".product-page")
+        or soup.select_one("main")
+        or soup
+    )
+    text = main_area.get_text().lower()
+
+    if any(x in text for x in ["out of stock", "sold out", "unavailable"]):
+        return "not available"
+
+    btn = soup.select_one(".add-to-cart, .btn-add-cart, [class*='addToCart'], [class*='add-cart']")
+    if btn and btn.has_attr("disabled"):
+        return "not available"
+
+    if any(x in text for x in ["in stock", "available", "add to cart"]):
+        return "available"
+
+    return "unknown"
+
+
+def extract_generic_availability(html):
+    soup = BeautifulSoup(html, "html.parser")
+    main = soup.select_one("main, .content, .product, article") or soup
+    text = main.get_text().lower()
+    if any(x in text for x in ["out of stock", "sold out", "unavailable"]):
+        return "not available"
+    if any(x in text for x in ["in stock", "available"]):
+        return "available"
+    return "unknown"
+
+
+# --------------------------------------------------------------------------
+# Price extractors
+# --------------------------------------------------------------------------
+
+def extract_structured_price(html):
+    soup = BeautifulSoup(html, "html.parser")
+    for script in soup.find_all("script", type="application/ld+json"):
+        try:
+            payload = json.loads(script.string or "")
+        except (json.JSONDecodeError, TypeError):
+            continue
+        candidates = payload if isinstance(payload, list) else [payload]
+        for node in candidates:
+            if not isinstance(node, dict):
+                continue
             graph = node.get("@graph")
             sub_candidates = graph if isinstance(graph, list) else [node]
             for sub in sub_candidates:
-                if not isinstance(sub, dict):
-                    continue
-                if sub.get("@type") not in ("Product", ["Product"]):
+                if not _is_product_schema(sub):
                     continue
                 offers = sub.get("offers")
                 if isinstance(offers, list):
@@ -198,8 +314,6 @@ def extract_structured_price(html):
                         cleaned = clean_price(str(price))
                         if cleaned:
                             return cleaned
-
-    # --- Meta tags (Open Graph / itemprop) ---
     for attrs in (
         {"property": "product:price:amount"},
         {"itemprop": "price"},
@@ -210,32 +324,42 @@ def extract_structured_price(html):
             cleaned = clean_price(tag["content"])
             if cleaned:
                 return cleaned
-
     return None
 
 
-def extract_webx_price(url):
-    """Junaid Tech / Czone -- Vue/Nuxt rendered, needs Selenium."""
-    from selenium.common.exceptions import TimeoutException
+def extract_woocommerce_price(html):
+    soup = BeautifulSoup(html, "html.parser")
+    price_el = (
+        soup.select_one(".product-summary .price-wrapper")
+        or soup.select_one(".entry-summary .price-wrapper")
+        or soup.select_one("div.price-wrapper")
+        or soup.select_one("p.price, span.price, .summary .price")
+    )
+    if not price_el:
+        return None
+    ins_el = price_el.select_one("ins .woocommerce-Price-amount, ins")
+    if ins_el:
+        amt = ins_el.select_one(".woocommerce-Price-amount") or ins_el
+        return clean_price(amt.get_text())
+    amt_el = price_el.select_one(".woocommerce-Price-amount")
+    if amt_el:
+        return clean_price(amt_el.get_text())
+    return clean_price(price_el.get_text())
 
+
+def extract_webx_price(url):
+    from selenium.common.exceptions import TimeoutException
     driver = get_selenium_driver()
     try:
         driver.get(url)
     except TimeoutException:
-        # Page didn't finish loading within set_page_load_timeout(30).
-        # Chrome usually has still rendered most of the DOM by then, so
-        # try to read whatever's there instead of losing the product.
         print(f"    [warning] page load timed out after 30s, trying partial content: {url}",
               file=sys.stderr)
     time.sleep(2.5)
     html = driver.page_source
-
-    # Prefer structured data: it's tied to the actual product regardless
-    # of what "related products" widgets are also on the page.
     price = extract_structured_price(html)
     if price is not None:
         return price
-
     soup = BeautifulSoup(html, "html.parser")
     price_el = (
         soup.select_one("div.product-price")
@@ -250,13 +374,8 @@ def extract_webx_price(url):
             file=sys.stderr,
         )
         return clean_price(price_el.get_text())
-
     return None
 
-
-# --------------------------------------------------------------------------
-# Generic fallbacks (used if the store-specific method fails)
-# --------------------------------------------------------------------------
 
 def extract_generic_woocommerce(html):
     soup = BeautifulSoup(html, "html.parser")
@@ -276,145 +395,146 @@ def extract_generic_woocommerce(html):
 
 
 def extract_generic_regex(html):
-    """Last resort: sweep the raw HTML for something that looks like 'Rs. 24,500'."""
     matches = re.findall(r"Rs\.?\s?[\d,]{4,}", html)
     if matches:
         return clean_price(matches[0])
     return None
 
 
-def _extract_price_chain(html):
-    """Full extraction fallback chain, shared by curl_cffi and requests paths."""
+# --------------------------------------------------------------------------
+# WooCommerce via Selenium fallback
+# --------------------------------------------------------------------------
+
+def fetch_woocommerce_via_selenium(url):
+    from selenium.common.exceptions import TimeoutException
+    driver = get_selenium_driver()
+    try:
+        driver.get(url)
+    except TimeoutException:
+        print(f"    [warning] selenium page load timed out after 30s, trying "
+              f"partial content: {url}", file=sys.stderr)
+    time.sleep(2.5)
+    html = driver.page_source
+
     price = extract_structured_price(html)
-    if price is not None:
-        return price
-    price = extract_woocommerce_price(html)
-    if price is not None:
-        return price
-    price = extract_generic_woocommerce(html)
-    if price is not None:
-        return price
-    return extract_generic_regex(html)
+    if price is None:
+        price = extract_woocommerce_price(html)
+    if price is None:
+        price = extract_generic_woocommerce(html)
+    if price is None:
+        price = extract_generic_regex(html)
 
+    availability = extract_woocommerce_availability(html)
+    if availability == "unknown":
+        availability = extract_generic_availability(html)
 
-def _fetch_with_curl_cffi(url):
-    """Fetch with a real Chrome TLS fingerprint via curl_cffi.
-
-    Cloudflare's first check is the TLS/HTTP2 handshake, which `requests`
-    fails no matter what User-Agent you set. curl_cffi impersonates a real
-    Chrome fingerprint and often passes where both requests and headless
-    Chrome get challenged.
-    """
-    try:
-        from curl_cffi import requests as cffi_requests
-    except ImportError:
-        print("    [curl_cffi not installed, skipping]", file=sys.stderr)
-        return None
-    try:
-        resp = cffi_requests.get(url, impersonate="chrome124", timeout=30)
-        if resp.status_code != 200:
-            print(f"    [curl_cffi got HTTP {resp.status_code}]", file=sys.stderr)
-            return None
-        return _extract_price_chain(resp.text)
-    except Exception as e:
-        print(f"    [curl_cffi failed] {e}", file=sys.stderr)
-        return None
-
-
-def _dump_debug_html(html, url):
-    """Save the page we actually got so we can see if it's a challenge page."""
-    path = "debug_zah_page.html"
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(f"<!-- URL: {url} -->\n")
-        f.write(html)
-    print(f"    [debug] dumped received page to {path}", file=sys.stderr)
+    return price, availability
 
 
 # --------------------------------------------------------------------------
-# Dispatch: pick the right method chain based on the URL's domain
+# Unified fetch: returns (price, availability)
 # --------------------------------------------------------------------------
 
-WOOCOMMERCE_DOMAINS = ["amdhouse.pk", "zicomputer.com", "rbtechngames.com"]
+WOOCOMMERCE_DOMAINS = ["amdhouse.pk", "zahcomputers.pk", "zicomputer.com", "rbtechngames.com"]
 WEBX_DOMAINS = ["junaidtech.pk", "czone.com.pk"]
-# Cloudflare serves 403 to plain `requests` from server IPs (GitHub Actions).
-SELENIUM_DOMAINS = ["zahcomputers.pk"]
 
 
-def get_price_for_url(session, url):
+def get_price_and_availability(session, url):
     domain = urlparse(url).netloc.replace("www.", "")
+    price = None
+    availability = "unknown"
 
-    # --- Cloudflare-protected stores: curl_cffi (Chrome TLS fingerprint) first,
-    #     then headless Chrome, and dump the received page if both fail so we
-    #     can see whether Cloudflare is serving a challenge.
-    if any(d in domain for d in SELENIUM_DOMAINS):
-        price = _fetch_with_curl_cffi(url)
-        if price is not None:
-            return price
+    # --- WooCommerce stores
+    if any(d in domain for d in WOOCOMMERCE_DOMAINS):
+        try:
+            warm_up_domain(session, url)
+            resp = fetch_with_retries(session, url)
+            html = resp.text
+
+            # If we got a bot challenge page, skip straight to Selenium
+            if is_cloudflare_challenge(html):
+                print(f"    [woocommerce] bot challenge detected, using headless browser for {url}",
+                      file=sys.stderr)
+                return fetch_woocommerce_via_selenium(url)
+
+            # Price
+            price = extract_structured_price(html)
+            if price is None:
+                price = extract_woocommerce_price(html)
+            if price is None:
+                price = extract_generic_woocommerce(html)
+            if price is None:
+                price = extract_generic_regex(html)
+
+            # Availability
+            availability = extract_woocommerce_availability(html)
+            if availability == "unknown":
+                availability = extract_generic_availability(html)
+
+            # If we still have no price, the page likely rendered but uses JS
+            # or unusual markup -- fall back to Selenium as a last resort.
+            if price is None:
+                print(f"    [woocommerce] no price extracted, trying headless browser for {url}",
+                      file=sys.stderr)
+                return fetch_woocommerce_via_selenium(url)
+
+        except requests.exceptions.HTTPError as e:
+            status = e.response.status_code if e.response is not None else None
+            if status == 403:
+                print(f"    [woocommerce] 403 from requests, falling back to "
+                      f"headless browser for {url}", file=sys.stderr)
+                try:
+                    return fetch_woocommerce_via_selenium(url)
+                except Exception as e2:
+                    print(f"    [woocommerce selenium fallback failed] {e2}", file=sys.stderr)
+                    return None, "unknown"
+            else:
+                print(f"    [woocommerce fetch failed] {e}", file=sys.stderr)
+                return None, "unknown"
+        except Exception as e:
+            print(f"    [woocommerce fetch failed] {e}", file=sys.stderr)
+            return None, "unknown"
+
+    # --- Webx stores (Selenium)
+    elif any(d in domain for d in WEBX_DOMAINS):
         try:
             price = extract_webx_price(url)
-            if price is not None:
-                return price
-            driver = get_selenium_driver()
-            if _dump_debug:
-                _dump_debug_html(driver.page_source, url)
-            return extract_generic_regex(driver.page_source)
-        except Exception as e:
-            print(f"    [selenium fetch failed] {e}", file=sys.stderr)
-            return None
+            if price is None:
+                driver = get_selenium_driver()
+                price = extract_generic_regex(driver.page_source)
 
-    # --- WooCommerce stores: requests + WooCommerce parser, then generic fallbacks
-    if any(d in domain for d in WOOCOMMERCE_DOMAINS):
+            driver = get_selenium_driver()
+            availability = extract_webx_availability(driver.page_source)
+
+        except Exception as e:
+            print(f"    [webx fetch failed] {e}", file=sys.stderr)
+            return None, "unknown"
+
+    # --- Unknown domain
+    else:
         try:
             resp = session.get(url, headers=HEADERS, timeout=20)
             resp.raise_for_status()
-            price = extract_structured_price(resp.text)
-            if price is not None:
-                return price
-            price = extract_woocommerce_price(resp.text)
-            if price is not None:
-                return price
-            price = extract_generic_woocommerce(resp.text)
-            if price is not None:
-                return price
-            return extract_generic_regex(resp.text)
+            html = resp.text
+            price = extract_generic_woocommerce(html)
+            if price is None:
+                price = extract_generic_regex(html)
+            availability = extract_generic_availability(html)
         except Exception as e:
-            print(f"    [woocommerce fetch failed] {e}", file=sys.stderr)
-            return None
+            print(f"    [unknown-domain fetch failed] {e}", file=sys.stderr)
+            return None, "unknown"
 
-    # --- Webx stores: Selenium-rendered parser, then generic fallback on the same HTML
-    if any(d in domain for d in WEBX_DOMAINS):
-        try:
-            price = extract_webx_price(url)
-            if price is not None:
-                return price
-            # fall back to a generic regex sweep of the rendered page
-            driver = get_selenium_driver()
-            return extract_generic_regex(driver.page_source)
-        except Exception as e:
-            print(f"    [webx fetch failed] {e}", file=sys.stderr)
-            return None
-
-    # --- Unknown domain: try requests + every generic method as a best effort
-    try:
-        resp = session.get(url, headers=HEADERS, timeout=20)
-        resp.raise_for_status()
-        price = extract_generic_woocommerce(resp.text)
-        if price is not None:
-            return price
-        return extract_generic_regex(resp.text)
-    except Exception as e:
-        print(f"    [unknown-domain fetch failed] {e}", file=sys.stderr)
-        return None
+    return price, availability
 
 
 # --------------------------------------------------------------------------
-# Main: walk products.json, check every URL, update prices in place
+# Main
 # --------------------------------------------------------------------------
 
 def main():
-    parser = argparse.ArgumentParser(description="Check and update prices in products.json")
+    parser = argparse.ArgumentParser(description="Check and update prices & availability in products.json")
     parser.add_argument("json_file", help="Path to products.json")
-    parser.add_argument("--delay", type=float, default=1.5, help="Seconds between requests")
+    parser.add_argument("--delay", type=float, default=2, help="Seconds between requests")
     parser.add_argument(
         "--max-change-pct",
         type=float,
@@ -451,24 +571,31 @@ def main():
 
                 label = sp.get("Name") or sp.get("name") or product.get("name")
                 print(f"Checking {sp.get('storeName')} | {label} ...", flush=True)
-                new_price = get_price_for_url(session, url)
 
+                new_price, availability = get_price_and_availability(session, url)
                 old_price = sp.get("price")
 
+                # Always record the latest availability
+                sp["availability"] = availability
+
                 if new_price is None:
-                    print(f"FAILED     {sp.get('storeName')} | {label} -> could not read price ({url})")
+                    print(f"FAILED     {sp.get('storeName')} | {label} -> could not read price "
+                          f"[availability: {availability}] ({url})")
                     failed += 1
                 elif new_price == old_price:
-                    print(f"NO CHANGE  {sp.get('storeName')} | {label} : {old_price}")
+                    print(f"NO CHANGE  {sp.get('storeName')} | {label} : {old_price} "
+                          f"[availability: {availability}]")
                     unchanged += 1
                 elif is_suspicious_change(old_price, new_price, args.max_change_pct):
                     print(
                         f"SUSPICIOUS {sp.get('storeName')} | {label} : {old_price} -> {new_price} "
-                        f"(>{args.max_change_pct:.0f}% change, left unchanged, check manually) ({url})"
+                        f"(>{args.max_change_pct:.0f}% change, left unchanged, check manually) "
+                        f"[availability: {availability}] ({url})"
                     )
                     suspicious += 1
                 else:
-                    print(f"UPDATED    {sp.get('storeName')} | {label} : {old_price} -> {new_price}")
+                    print(f"UPDATED    {sp.get('storeName')} | {label} : {old_price} -> {new_price} "
+                          f"[availability: {availability}]")
                     sp["price"] = new_price
                     updated += 1
 
@@ -479,9 +606,22 @@ def main():
     with open(args.json_file, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
+    # Availability summary
+    avail_stats = {}
+    for product in data["products"]:
+        for sp in product["storePrices"]:
+            a = sp.get("availability", "unknown")
+            avail_stats[a] = avail_stats.get(a, 0) + 1
+
     print(
         f"\nDone. {updated} updated, {unchanged} unchanged, "
         f"{suspicious} suspicious (skipped), {failed} failed."
+    )
+    print(
+        f"Availability summary: "
+        f"{avail_stats.get('available', 0)} available | "
+        f"{avail_stats.get('not available', 0)} not available | "
+        f"{avail_stats.get('unknown', 0)} unknown."
     )
     if suspicious:
         print(
