@@ -75,6 +75,11 @@ def get_selenium_driver():
         # Without this, a page that never fires "load" (stuck spinner, endless
         # polling JS, etc.) hangs driver.get() forever with zero output.
         _selenium_driver.set_page_load_timeout(30)
+        # Hide the automation flag Cloudflare looks for
+        _selenium_driver.execute_cdp_cmd(
+            "Page.addScriptToEvaluateOnNewDocument",
+            {"source": "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"},
+        )
         print("    [selenium] browser ready", file=sys.stderr)
     return _selenium_driver
 
@@ -281,12 +286,28 @@ def extract_generic_regex(html):
 # Dispatch: pick the right method chain based on the URL's domain
 # --------------------------------------------------------------------------
 
-WOOCOMMERCE_DOMAINS = ["amdhouse.pk", "zahcomputers.pk", "zicomputer.com", "rbtechngames.com"]
+WOOCOMMERCE_DOMAINS = ["amdhouse.pk", "zicomputer.com", "rbtechngames.com"]
 WEBX_DOMAINS = ["junaidtech.pk", "czone.com.pk"]
+# Cloudflare serves 403 to plain `requests` from server IPs (GitHub Actions) —
+# render these in the browser instead.
+SELENIUM_DOMAINS = ["zahcomputers.pk"]
 
 
 def get_price_for_url(session, url):
     domain = urlparse(url).netloc.replace("www.", "")
+
+    # --- Cloudflare-protected stores: render in Chrome, same logic as Webx
+    if any(d in domain for d in SELENIUM_DOMAINS):
+        try:
+            price = extract_webx_price(url)
+            if price is not None:
+                return price
+            # fall back to a generic regex sweep of the rendered page
+            driver = get_selenium_driver()
+            return extract_generic_regex(driver.page_source)
+        except Exception as e:
+            print(f"    [selenium fetch failed] {e}", file=sys.stderr)
+            return None
 
     # --- WooCommerce stores: requests + WooCommerce parser, then generic fallbacks
     if any(d in domain for d in WOOCOMMERCE_DOMAINS):
