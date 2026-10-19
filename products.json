@@ -1282,7 +1282,7 @@
         {
           "Name": "ZOTAC RTX 2060 6GB",
           "storeName": "AMD House",
-          "price": 52500.0,
+          "price": 54000.0,
           "previousprice": null,
           "url": "https://amdhouse.pk/product/nvidia-geforce-zotac-rtx-2060-6gb-used-without-box-in-1-month-warranty/",
           "availability": "not available",
@@ -1312,7 +1312,7 @@
         {
           "Name": "MAXSUN RTX 2060 6GB",
           "storeName": "AMD House",
-          "price": 53500.0,
+          "price": 55000.0,
           "previousprice": null,
           "url": "https://amdhouse.pk/product/maxsun-geforce-rtx-2060-terminator-6gb-used-in-1-month-warranty/",
           "availability": "not available",
@@ -1797,7 +1797,7 @@
         {
           "Name": "ZOTAC RTX 2060 SUPER 8GB",
           "storeName": "AMD House",
-          "price": 63500.0,
+          "price": 64000.0,
           "previousprice": null,
           "url": "https://amdhouse.pk/product/nvidia-geforce-zotac-rtx-2060-super-8gb-used-without-box-in-1-month-warranty/",
           "availability": "not available",
@@ -1976,7 +1976,7 @@
         {
           "Name": "GALAX RTX 2070 8GB",
           "storeName": "AMD House",
-          "price": 65000.0,
+          "price": 67000.0,
           "previousprice": null,
           "url": "https://amdhouse.pk/product/nvidia-geforce-galax-warrior-rtx-2070-8gb-used-no-box-in-1-month-warranty/",
           "availability": "not available",
@@ -3634,7 +3634,7 @@
         {
           "Name": "XFX RX 6750 XT 12GB",
           "storeName": "AMD House",
-          "price": 85000.0,
+          "price": 90000.0,
           "previousprice": null,
           "url": "https://amdhouse.pk/product/xfx-qick-rx-6750-xt-12gb-gddr6-used-no-box/",
           "availability": "not available",
@@ -4692,7 +4692,7 @@
         {
           "Name": "GIGABYTE RTX 5060 8GB",
           "storeName": "Junaid Tech",
-          "price": 124999.0,
+          "price": 144999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/gigabyte-rtx-5060-oc-low-profile-8g-graphics-card",
           "availability": "available",
@@ -5634,7 +5634,7 @@
         {
           "Name": "COLORFUL RTX 5060 TI 8GB",
           "storeName": "Junaid Tech",
-          "price": 139999.0,
+          "price": 174999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/colorful-geforce-rtx-5060-ti-battle-ax-duo-8gb-v-graphics-card",
           "availability": "available",
@@ -9057,7 +9057,7 @@
         {
           "Name": "Asus Rog Astral RTX 5080 16GB",
           "storeName": "Zicomputer",
-          "price": 580000.0,
+          "price": 600000.0,
           "previousprice": null,
           "url": "https://zicomputer.com/product/rog-strix-astral-rtx-5080-white/",
           "availability": "unknown",
@@ -9371,7 +9371,7 @@
         {
           "Name": "ASUS RTX 5090 32GB",
           "storeName": "RB Tech N Games",
-          "price": 1949999.0,
+          "price": 2849999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/asus-rog-astral-geforce-rtx-5090-32gb-white-oc-edition-graphics-card/",
           "availability": "available",
@@ -9416,7 +9416,7 @@
         {
           "Name": "ZOTAC RTX 5090 32GB",
           "storeName": "RB Tech N Games",
-          "price": 1749999.0,
+          "price": 2449999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/zotac-gaming-geforce-rtx-5090-amp-extreme-infinity-32gb-graphics-card/",
           "availability": "available",
@@ -9669,7 +9669,7 @@
           "price": 39499.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-5600xt-am4-desktop-processor-tray/",
-          "availability": "available",
+          "availability": "not available",
           "Socket": "AM4",
           "Foundry": "AMD",
           "Frequency": "3.7 GHz / 4.7 GHz",
@@ -10487,7 +10487,7 @@
           "price": 52499.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-9600x-desktop-processor-tray/",
-          "availability": "not available",
+          "availability": "available",
           "Socket": "AM5",
           "Foundry": "AMD",
           "Frequency": "3.9 GHz / 5.4 GHz",
@@ -11303,7 +11303,7 @@
         {
           "Name": "RYZEN 7 7700",
           "storeName": "Junaid Tech",
-          "price": 54999.0,
+          "price": 53999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/amd-ryzen-7-7700-gaming-processor-tray",
           "availability": "available",
@@ -11425,7 +11425,7 @@
           "price": 33499.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-7500f-am5-6c-12t-processor-tray-new/",
-          "availability": "not available",
+          "availability": "available",
           "Socket": "AM5",
           "Foundry": "AMD",
           "Frequency": "3.7 GHz / 5.0 GHz",
@@ -11761,7 +11761,7 @@
           "price": 44999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-7600-gaming-processor-tray/",
-          "availability": "not available",
+          "availability": "available",
           "Socket": "AM5",
           "Foundry": "AMD",
           "Frequency": "3.8 GHz / 5.1 GHz",
@@ -11824,7 +11824,7 @@
           "price": 54999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-7-5800x-processor-without-cooler/",
-          "availability": "not available",
+          "availability": "available",
           "Socket": "AM4",
           "Foundry": "AMD",
           "Frequency": "3.8 GHz / 4.7 GHz",
@@ -15199,7 +15199,7 @@
           "price": 28499.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/msi-pro-b760m-e-ddr4-lga-1700-motherboard/",
-          "availability": "not available",
+          "availability": "available",
           "CPU Socket": "LGA1700",
           "Chipset Model": "B760",
           "Memory Generation": "DDR4",
@@ -15619,7 +15619,7 @@
         {
           "Name": "B650M H DDR5 Motherboard – Gigabyte AM5 Micro‑ATX Board",
           "storeName": "Zicomputer",
-          "price": 34500.0,
+          "price": 31500.0,
           "previousprice": null,
           "url": "https://zicomputer.com/product/gigabyte-b650m-h-ddr5/",
           "availability": "unknown",
@@ -17037,7 +17037,7 @@
         {
           "Name": "GIGABYTE B650M GAMING WIFI AMD AM5",
           "storeName": "Zicomputer",
-          "price": 38500.0,
+          "price": 35500.0,
           "previousprice": null,
           "url": "https://zicomputer.com/product/gigabyte-b650m-gaming-wifi-micro-atx-motherboard/",
           "availability": "unknown",
@@ -17134,7 +17134,7 @@
         {
           "Name": "Gigabyte X870 Eagle WiFi7 DDR5 Motherboard",
           "storeName": "Zicomputer",
-          "price": 74000.0,
+          "price": 72000.0,
           "previousprice": null,
           "url": "https://zicomputer.com/product/gigabyte-x870-eagle-wifi7-ddr5/",
           "availability": "unknown",
@@ -17306,7 +17306,7 @@
         {
           "Name": "A520M K DDR4 Motherboard Gigabyte AMD AM4",
           "storeName": "Zicomputer",
-          "price": 25000.0,
+          "price": 20000.0,
           "previousprice": null,
           "url": "https://zicomputer.com/product/gigabyte-a520m-k-ddr4/",
           "availability": "unknown",
@@ -18547,7 +18547,7 @@
         {
           "Name": "Gigabyte B550M AORUS ELITE (rev. 1.3) AM4 mATX Motherboard ",
           "storeName": "Zicomputer",
-          "price": 34000.0,
+          "price": 35000.0,
           "previousprice": null,
           "url": "https://zicomputer.com/product/gigabyte-b550m-aorus-elite-rev-1-3-am4-matx-motherboard/",
           "availability": "unknown",
@@ -19429,7 +19429,7 @@
         {
           "Name": "Gigabyte H610M-H V3 DDR4 Motherboard",
           "storeName": "Zicomputer",
-          "price": 26400.0,
+          "price": 25500.0,
           "previousprice": null,
           "url": "https://zicomputer.com/product/gigabyte-h610m-h-v3-ddr4/",
           "availability": "unknown",
@@ -19831,7 +19831,7 @@
         {
           "Name": "Gigabyte H610M-K DDR5 Motherboard",
           "storeName": "Zicomputer",
-          "price": 27000.0,
+          "price": 25500.0,
           "previousprice": null,
           "url": "https://zicomputer.com/product/gigabyte-h610m-k-ddr5/",
           "availability": "unknown",
@@ -19928,7 +19928,7 @@
         {
           "Name": "Gigabyte H610M-K DDR4 Motherboard",
           "storeName": "Zicomputer",
-          "price": 25500.0,
+          "price": 24500.0,
           "previousprice": null,
           "url": "https://zicomputer.com/product/gigabyte-h610m-k-ddr4-motherboard/",
           "availability": "unknown",
@@ -20782,7 +20782,7 @@
         {
           "Name": "Gigabyte H610M-H V2 DDR5 Motherboard",
           "storeName": "Zicomputer",
-          "price": 27500.0,
+          "price": 26000.0,
           "previousprice": null,
           "url": "https://zicomputer.com/product/gigabyte-h610m-h-v2-ddr5/",
           "availability": "unknown",
@@ -21295,7 +21295,7 @@
         {
           "Name": "Gigabyte B760M H DDR4 Motherboard",
           "storeName": "Zicomputer",
-          "price": 31000.0,
+          "price": 29000.0,
           "previousprice": null,
           "url": "https://zicomputer.com/product/gigabyte-b760m-h-ddr4/",
           "availability": "unknown",
@@ -23203,7 +23203,7 @@
         {
           "Name": "Gigabyte Z790 Eagle DDR5 Motherboard",
           "storeName": "Zicomputer",
-          "price": 63000.0,
+          "price": 64500.0,
           "previousprice": null,
           "url": "https://zicomputer.com/product/gigabyte-z790-eagle-ddr5-motherboard/",
           "availability": "unknown",
@@ -24861,7 +24861,7 @@
           "price": 86499.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/asus-prime-x870-p-wifi-csm-atx-am5-ddr5-gaming-motherboard/",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "AM5",
           "Chipset Model": "X870",
           "Memory Generation": "DDR5",
@@ -26119,7 +26119,7 @@
         {
           "Name": "Gigabyte X870 AORUS Elite WiFi7 DDR5 Motherboard  AM5 Gaming & Performance",
           "storeName": "Zicomputer",
-          "price": 98000.0,
+          "price": 90000.0,
           "previousprice": null,
           "url": "https://zicomputer.com/product/gigabyte-x870-aorus-elite-wifi7-ddr5/",
           "availability": "unknown",
@@ -26767,7 +26767,7 @@
           "price": 119999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/asus-rog-strix-z790-f-gaming-wifi-ii-atx-lga1700-ddr5-gaming-motherboard/",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "LGA1700",
           "Chipset Model": "Z790",
           "Memory Generation": "DDR5",
@@ -28561,7 +28561,7 @@
           "price": 42000.0,
           "previousprice": null,
           "url": "https://zicomputer.com/product/gigabyte-b760m-ds3h-ddr4/",
-          "availability": "unknown",
+          "availability": "not available",
           "CPU Socket": "LGA1700",
           "Chipset Model": "B760",
           "Memory Generation": "DDR4",
@@ -30413,7 +30413,7 @@
         {
           "Name": "G.Skill Trident Z5 Neo RGB 32GB (2x16GB) 6000MHz ",
           "storeName": "Junaid Tech",
-          "price": 144999.0,
+          "price": 169999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/g-skill-trident-z5-neo-rgb-32gb-2x16gb-6000mhz-c36-ddr5-desktop-memory-matte-black",
           "availability": "available",
@@ -30628,7 +30628,7 @@
         {
           "Name": "XPG Spectrix D35G RGB 32GB (2x16GB) 3200MHz",
           "storeName": "Junaid Tech",
-          "price": 63999.0,
+          "price": 70999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/xpg-spectrix-d35g-rgb-32gb-2x16gb-3200mhz-c16-ddr4-ram-white",
           "availability": "available",
@@ -30739,7 +30739,7 @@
         {
           "Name": "Lexar SODIMM 16GB (1x16GB) 5600MHz ",
           "storeName": "Junaid Tech",
-          "price": 59499.0,
+          "price": 72999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/lexar-sodimm-16gb-1x16gb-5600mhz-c46-ddr5-ram",
           "availability": "available",
@@ -31046,7 +31046,7 @@
         {
           "Name": "Transcend JetRam 16GB 4800MHz ",
           "storeName": "Junaid Tech",
-          "price": 63999.0,
+          "price": 71999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-jetram-16gb-4800mhz-c40-ddr5-laptop-memory",
           "availability": "available",
@@ -31190,7 +31190,7 @@
         {
           "Name": "Adata 16GB (1x16GB) 5600MHz ",
           "storeName": "Junaid Tech",
-          "price": 66999.0,
+          "price": 75999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/adata-16gb-1x16gb-5600mhz-c46-ddr5-laptop-memory",
           "availability": "available",
@@ -31203,7 +31203,7 @@
         {
           "Name": "Adata 16GB (1x16GB) 5600MHz",
           "storeName": "Junaid Tech",
-          "price": 69999.0,
+          "price": 75999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/adata-16gb-1x16gb-5600mhz-c46-ddr5-desktop-memory",
           "availability": "available",
@@ -31216,7 +31216,7 @@
         {
           "Name": "Adata 16GB (1x16GB) 5600MHz ",
           "storeName": "RB Tech N Games",
-          "price": 67499.0,
+          "price": 69999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/rams/adata-16gb-1x16gb-5600mhz-c46-ddr5-u-dimm-desktop-memory/",
           "availability": "available",
@@ -31262,7 +31262,7 @@
         {
           "Name": "Transcend JetRam 16GB (1x16GB) 5600MHz",
           "storeName": "Junaid Tech",
-          "price": 71999.0,
+          "price": 79499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-jetram-16gb-1x16gb-5600mhz-ddr5-desktop-memory",
           "availability": "available",
@@ -31275,7 +31275,7 @@
         {
           "Name": "Transcend JetRam 16GB 5600MHzy",
           "storeName": "Junaid Tech",
-          "price": 71999.0,
+          "price": 79499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-jetram-16gb-5600mhz-c46-ddr5-laptop-memory",
           "availability": "available",
@@ -31288,7 +31288,7 @@
         {
           "Name": "Transcend JetRam 16GB (16GBx1) 5600MHZ ",
           "storeName": "RB Tech N Games",
-          "price": 67499.0,
+          "price": 69999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/rams/transcend-jetram-16gb-16gbx1-5600mhz-cl46-ddr5/",
           "availability": "available",
@@ -31648,7 +31648,7 @@
         {
           "Name": "Adata Premier 32GB (1x32GB) 3200MHz",
           "storeName": "Junaid Tech",
-          "price": 56999.0,
+          "price": 71999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/adata-premier-32gb-1x32gb-3200mhz-c22-ddr4-laptop-memory",
           "availability": "available",
@@ -31664,7 +31664,7 @@
           "price": 67999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/adata-premier-32gb-3200mhz-ddr4-u-dimm-ram-memory",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
@@ -31720,7 +31720,7 @@
         {
           "Name": "Transcend 16GB (1x16GB) 6400MHz",
           "storeName": "Junaid Tech",
-          "price": 71999.0,
+          "price": 79499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-16gb-1x16gb-6400mhz-cl52-ddr5-memory-module",
           "availability": "available",
@@ -31736,7 +31736,7 @@
           "price": 71999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-16gb-6400mts-ddr5-cl52-csodimm-laptop-memory",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6400 MHz",
@@ -31746,7 +31746,7 @@
         {
           "Name": "Transcend Jetram 16GB (1x16GB) 6400Mhz ",
           "storeName": "RB Tech N Games",
-          "price": 64999.0,
+          "price": 74999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/rams/transcend-jetram-16gb-1x16gb-6400mhz-cl52-cudimm-ddr5-ram/",
           "availability": "available",
@@ -31792,7 +31792,7 @@
         {
           "Name": "Adata 32GB (1x32GB) 5600MHz ",
           "storeName": "Junaid Tech",
-          "price": 139999.0,
+          "price": 159999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/adata-32gb-1x32gb-5600mhz-c46-ddr5-desktop-memory",
           "availability": "available",
@@ -31805,7 +31805,7 @@
         {
           "Name": "Adata 32GB (1x32GB) 5600MHz ",
           "storeName": "Junaid Tech",
-          "price": 139999.0,
+          "price": 159999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/adata-32gb-1x32gb-5600mhz-c46-ddr5-laptop-memory",
           "availability": "available",
@@ -32286,7 +32286,7 @@
           "price": 97499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-jetram-32gb-1x32gb-4800mhz-c40-ddr5-desktop-memory",
-          "availability": "not available",
+          "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "4800 MHz",
@@ -32296,7 +32296,7 @@
         {
           "Name": "Transcend JetRam 32GB (1x32GB) 4800MHz ",
           "storeName": "Junaid Tech",
-          "price": 120999.0,
+          "price": 154999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-jetram-32gb-1x32gb-4800mhz-c40-ddr5-laptop-memory",
           "availability": "available",
@@ -32358,7 +32358,7 @@
           "price": 142999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-32gb-1x32gb-5600mhz-c46-ddr5-desktop-memory",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "5600 MHz",
@@ -32368,7 +32368,7 @@
         {
           "Name": "Transcend 32GB (1x32GB) 5600MHz ",
           "storeName": "Junaid Tech",
-          "price": 144999.0,
+          "price": 163999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-32gb-1x32gb-5600mhz-c46-ddr5-laptop-memory",
           "availability": "available",
@@ -32972,7 +32972,7 @@
         {
           "Name": "Transcend JetFlash 32GB (1x32GB) 3200MHz ",
           "storeName": "Junaid Tech",
-          "price": 56999.0,
+          "price": 74799.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-jetflash-32gb-1x32gb-3200mhz-c22-ddr4-laptop-memory",
           "availability": "available",
@@ -33182,10 +33182,10 @@
         {
           "Name": "Transcend 8GB 3200MHz",
           "storeName": "Junaid Tech",
-          "price": 17499.0,
+          "price": 18499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-8gb-3200mhz-ddr4-desktop-memory-ram-stick",
-          "availability": "not available",
+          "availability": "available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
@@ -33591,7 +33591,7 @@
         {
           "Name": "Transcend 32GB (1x32GB) 6400MHz ",
           "storeName": "Junaid Tech",
-          "price": 144999.0,
+          "price": 163999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-32gb-6400mhz-cl52-ddr5-dram-memory",
           "availability": "available",
@@ -33650,7 +33650,7 @@
         {
           "Name": "Lexar ARES DDR5 7600MHz 32GB ",
           "storeName": "AMD House",
-          "price": 145000.0,
+          "price": 150000.0,
           "previousprice": null,
           "url": "https://amdhouse.pk/product/lexar-ares-ddr5-7600mhz-32gb-16gbx2-xmp-kit-new-in-10-months-warranty/",
           "availability": "not available",
@@ -40894,7 +40894,7 @@
         {
           "Name": "Adata HD650 1TB External Hard Drive - Mix Color",
           "storeName": "Junaid Tech",
-          "price": 26799.0,
+          "price": 28499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/adata-hd650-1tb-external-hard-drive",
           "availability": "available",
@@ -41090,7 +41090,7 @@
         {
           "Name": "Adata HD700 Pro 2TB External USB 3.2 Gen 1",
           "storeName": "Junaid Tech",
-          "price": 29999.0,
+          "price": 35999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/adata-hd700-pro-2tb-portable-hdd-black",
           "availability": "available",
@@ -41188,7 +41188,7 @@
         {
           "Name": "Adata HD650 2TB External Hard Drive - Mix Color",
           "storeName": "Junaid Tech",
-          "price": 32299.0,
+          "price": 35999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/adata-hd650-2tb-external-hard-drive",
           "availability": "available",
@@ -41608,10 +41608,10 @@
         {
           "Name": "Seagate Skyhawk 4TB Surveillance SATA III ",
           "storeName": "Junaid Tech",
-          "price": 55999.0,
+          "price": 62999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/seagate-skyhawk-4tb-surveillance-hard-drive",
-          "availability": "not available",
+          "availability": "available",
           "Interface": "SATA",
           "Protocol": "SATA III (6Gb/s)",
           "Capacity": "4 TB",
@@ -41695,7 +41695,7 @@
           "price": 64999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/seagate-exos-7e8-4tb-internal-hard-drive",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "Unknown",
           "Protocol": "Unknown",
           "Capacity": "4 TB",
@@ -41930,7 +41930,7 @@
         {
           "Name": "Transcend StoreJet 25M3C 4TB Portable Hard Drive",
           "storeName": "Junaid Tech",
-          "price": 63999.0,
+          "price": 94499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-storejet-25m3c-4tb-portable-hard-drive",
           "availability": "available",
@@ -42266,7 +42266,7 @@
         {
           "Name": "Seagate Skyhawk 8TB 3.5\" SATA Surveillance Hard Drive",
           "storeName": "Junaid Tech",
-          "price": 114999.0,
+          "price": 124999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/seagate-skyhawk-8tb-surveillance-hard-drive",
           "availability": "available",
@@ -42798,7 +42798,7 @@
         {
           "Name": "Transcend 225S 250GB 2.5\" SATA SSD",
           "storeName": "Junaid Tech",
-          "price": 19499.0,
+          "price": 23999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-225s-250gb-sata-ssd",
           "availability": "available",
@@ -42896,7 +42896,7 @@
         {
           "Name": "Adata Ultimate SU650 512GB  SATA SSD",
           "storeName": "Junaid Tech",
-          "price": 20799.0,
+          "price": 21499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/adata-ultimate-su650-512gb-sata-ssd",
           "availability": "available",
@@ -43295,7 +43295,7 @@
         {
           "Name": "Transcend 115S 1TB M.2 NVMe SSD",
           "storeName": "Junaid Tech",
-          "price": 37999.0,
+          "price": 39999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-115s-1tb-nvme-ssd",
           "availability": "available",
@@ -43505,7 +43505,7 @@
         {
           "Name": "Adata Legend 860 1000GB SSD ",
           "storeName": "Junaid Tech",
-          "price": 39999.0,
+          "price": 41999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/adata-legend-860-1000gb-nvme-ssd",
           "availability": "available",
@@ -43641,7 +43641,7 @@
           "price": 38499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-esd265c-1tb-portable-ssd",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "Unknown",
           "Protocol": "Unknown",
           "Capacity": "1 TB",
@@ -43725,7 +43725,7 @@
           "price": 42499.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/storage/xpg-gammix-s60-nvme-m-2-gen-4-ssd-512gb-1tb-2tb/",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "PCIe",
           "Protocol": "NVMe",
           "Capacity": "1 TB",
@@ -43827,7 +43827,7 @@
         {
           "Name": "Transcend ESD360C 1TB Portable SSD",
           "storeName": "Junaid Tech",
-          "price": 41799.0,
+          "price": 41999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-esd360c-1tb-portable-ssd",
           "availability": "available",
@@ -43998,7 +43998,7 @@
           "price": 51999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-esd410c-1tb-portable-ssd",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "Unknown",
           "Protocol": "Unknown",
           "Capacity": "1 TB",
@@ -44443,7 +44443,7 @@
         {
           "Name": "Transcend 115S 2TB M.2 NVMe SSD",
           "storeName": "Junaid Tech",
-          "price": 93499.0,
+          "price": 81999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-115s-2tb-nvme-ssd",
           "availability": "available",
@@ -44646,7 +44646,7 @@
         {
           "Name": "Transcend 255S 2TB NVMe Gen4 SSD ",
           "storeName": "Junaid Tech",
-          "price": 82499.0,
+          "price": 85999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-255s-2tb-nvme-ssd-with-heatsink",
           "availability": "available",
@@ -44702,7 +44702,7 @@
         {
           "Name": "Transcend ESD360C 2TB Portable SSD",
           "storeName": "Junaid Tech",
-          "price": 87999.0,
+          "price": 89999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-esd360c-2tb-portable-ssd",
           "availability": "available",
@@ -44793,7 +44793,7 @@
         {
           "Name": "Transcend ESD330C 2TB External SSD",
           "storeName": "Junaid Tech",
-          "price": 82499.0,
+          "price": 71999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-esd330c-usb-c-ssd-portable-2tb",
           "availability": "available",
@@ -44849,7 +44849,7 @@
         {
           "Name": "Samsung 990 EVO Plus 2TB SSD",
           "storeName": "Junaid Tech",
-          "price": 89999.0,
+          "price": 99999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/samsung-990-evo-plus-2tb-pcie-gen5-ssd",
           "availability": "available",
@@ -45699,7 +45699,7 @@
           "price": 204999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-esd410c-4tb-ssd",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "Unknown",
           "Protocol": "Unknown",
           "Capacity": "4 TB",
@@ -45731,7 +45731,7 @@
         {
           "Name": "Transcend ESD380C 4TB Portable SSD",
           "storeName": "Junaid Tech",
-          "price": 244999.0,
+          "price": 254999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-esd380c-4tb-portable-ssd",
           "availability": "available",
@@ -51663,7 +51663,7 @@
           "price": 29999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/samsung-980-500gb-nvme-ssd",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "PCIe",
           "Protocol": "NVMe",
           "Capacity": "500 GB",
@@ -55057,7 +55057,7 @@
         {
           "Name": "XPG Core Reactor II VE 850W 80 Plus Gold ",
           "storeName": "Junaid Tech",
-          "price": 28999.0,
+          "price": 29999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/xpg-core-reactor-ii-ve-850w-gold-power-supply",
           "availability": "available",
@@ -55773,7 +55773,7 @@
           "price": 42499.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/power-supplies/xpg-core-reactor-ii-1000w-80-plus-gold-power-supply-atx-fully-modular/",
-          "availability": "not available",
+          "availability": "available",
           "Wattage": "1000W"
         },
         {
@@ -56987,7 +56987,7 @@
           "price": 12499.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/power-supplies/thermalright-tb-s-series-80-plus-bronze-power-supply-450w-550w-650w-750w-850w/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "650W"
         }
       ]
@@ -59758,7 +59758,7 @@
           "price": 16999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/super-flower-zillion-750w-bronze-power-supply",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "750W"
         },
         {
@@ -59890,7 +59890,7 @@
           "price": 23499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/xpg-kyber-850w-gold-power-supply",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "850W"
         },
         {
