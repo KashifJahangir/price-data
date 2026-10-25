@@ -9,6 +9,11 @@ on:
 permissions:
   contents: write   # needed so the workflow can push the updated products.json
 
+# Never run two price-check workflows at the same time
+concurrency:
+  group: price-update
+  cancel-in-progress: false
+
 jobs:
   update-prices:
     runs-on: ubuntu-latest
@@ -40,7 +45,16 @@ jobs:
           git add products.json
           if git diff --cached --quiet; then
             echo "No price changes to commit."
-          else
-            git commit -m "Automated price update $(date -u +'%Y-%m-%d')"
-            git push
+            exit 0
           fi
+          git commit -m "Automated price update $(date -u +'%Y-%m-%d')"
+          for i in 1 2 3; do
+            if git pull --rebase && git push; then
+              exit 0
+            fi
+            echo "Push failed, retrying ($i/3)..."
+            git rebase --abort 2>/dev/null || true
+            sleep 5
+          done
+          echo "Push failed after 3 attempts."
+          exit 1
