@@ -5,6 +5,12 @@ Reads products.json, visits every store URL, and updates both price and
 availability.
 
 CHANGELOG (this version):
+- NEW: when a price changes, the old price is saved in "previousprice" and
+  the new price is saved in "price". "updatedAt" (unix seconds) records when
+  the change happened. The Android app uses price - previousprice to decide
+  whether to push an "increase" or "decrease" notification (0 = no push).
+- NEW: when the price did NOT change, previousprice / updatedAt are left
+  untouched, so a real change is never erased by a later no-change run.
 - Detects Cloudflare / bot-protection challenge pages and auto-falls back
   to headless Chrome for WooCommerce stores (fixes Zah Computers & AMD House).
 - Falls back to Selenium on WooCommerce when no price is extracted,
@@ -604,6 +610,8 @@ def main():
                           f"[availability: {availability}] ({url})")
                     failed += 1
                 elif new_price == old_price:
+                    # Price unchanged: leave previousprice / updatedAt as they are,
+                    # so a recent real change is not erased by this run.
                     print(f"NO CHANGE  {sp.get('storeName')} | {label} : {old_price} "
                           f"[availability: {availability}]")
                     unchanged += 1
@@ -617,7 +625,12 @@ def main():
                 else:
                     print(f"UPDATED    {sp.get('storeName')} | {label} : {old_price} -> {new_price} "
                           f"[availability: {availability}]")
+                    # Old price moves to previousprice, new price goes in price.
+                    # The app computes price - previousprice (0 = no notification,
+                    # positive = increase, negative = decrease).
+                    sp["previousprice"] = old_price
                     sp["price"] = new_price
+                    sp["updatedAt"] = int(time.time())  # unix seconds
                     updated += 1
 
                 time.sleep(args.delay)
