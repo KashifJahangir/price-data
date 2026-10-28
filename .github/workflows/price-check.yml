@@ -17,6 +17,7 @@ concurrency:
 jobs:
   update-prices:
     runs-on: ubuntu-latest
+    timeout-minutes: 120   # confirmation re-reads make changed prices slower
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -26,17 +27,18 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install Chrome (for Junaid Tech / Czone scraping)
+      - name: Install Chrome (for Junaid Tech / Czone / Zah fallback)
         uses: browser-actions/setup-chrome@v1
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # Zah Computers is skipped here: its Cloudflare blocks GitHub's
-      # datacenter IPs with 403. Zah is updated separately by running
-      # run_price_check.bat on a local PC (uses --store zah).
+      # All stores run here, including Zah Computers.
+      # If Cloudflare blocks GitHub's IPs, the script skips the rest of Zah
+      # after 3 blocked products in a row and keeps the old Zah prices.
+      # Look for "[shopino] ... blocked 3 times" in this step's log.
       - name: Run price checker
-        run: python price_checker.py products.json --no-backup --delay 2 --skip-store zah
+        run: python price_checker.py products.json --no-backup --delay 2
 
       - name: Commit and push if prices changed
         run: |
