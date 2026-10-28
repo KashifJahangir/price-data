@@ -1625,8 +1625,8 @@
         {
           "Name": "EASE RTX 3050 8GB",
           "storeName": "Zicomputer",
-          "price": 112000.0,
-          "previousprice": null,
+          "price": 95000.0,
+          "previousprice": 112000.0,
           "url": "https://zicomputer.com/product/ease-rtx-3050-8gb/",
           "availability": "unknown",
           "tdp": 130,
@@ -1635,7 +1635,8 @@
           "memorySize": "8 GB",
           "memoryType": "GDDR6",
           "memoryBus": "128-bit",
-          "bandwidth": "224 GB/s"
+          "bandwidth": "224 GB/s",
+          "updatedAt": 1793167154
         },
         {
           "Name": "GIGABYTE RTX 3050 8GB",
@@ -3805,8 +3806,8 @@
         },
         {
           "storeName": "AMD House",
-          "price": 120000.0,
-          "previousprice": null,
+          "price": 122000.0,
+          "previousprice": 120000.0,
           "url": "https://amdhouse.pk/product/gunnir-index-arc-b580-12g-new-in-10-months-warranty/",
           "availability": "not available",
           "tdp": 190,
@@ -3815,7 +3816,8 @@
           "memorySize": "12 GB",
           "memoryType": "GDDR6",
           "memoryBus": "192-bit",
-          "bandwidth": "456 GB/s"
+          "bandwidth": "456 GB/s",
+          "updatedAt": 1793167444
         }
       ]
     },
@@ -4887,17 +4889,18 @@
         {
           "Name": "MSI RTX 5060 8GB",
           "storeName": "Zicomputer",
-          "price": 138000.0,
-          "previousprice": null,
+          "price": 145000.0,
+          "previousprice": 138000.0,
           "url": "https://zicomputer.com/product/msi-shadow-2x-rtx-5060-8gb/",
-          "availability": "not available",
+          "availability": "unknown",
           "tdp": 145,
           "company": "Nvidia",
           "powerConnectors": "1x 8-pin",
           "memorySize": "8 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1793167618
         },
         {
           "Name": "MSI RTX 5060 8GB",
@@ -5754,8 +5757,8 @@
         {
           "Name": "ZOTAC RTX 5060 TI 8GB",
           "storeName": "Zicomputer",
-          "price": 155000.0,
-          "previousprice": null,
+          "price": 165000.0,
+          "previousprice": 155000.0,
           "url": "https://zicomputer.com/product/zotac-gaming-geforce-rtx-5060-ti-8gb-twin-edge-oc/",
           "availability": "unknown",
           "tdp": 180,
@@ -5764,7 +5767,8 @@
           "memorySize": "8 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1793167739
         },
         {
           "Name": "ZOTAC RTX 5060 TI 8GB",
@@ -6344,8 +6348,8 @@
         {
           "Name": "ZOTAC RTX 5060 TI 16GB",
           "storeName": "Zicomputer",
-          "price": 235000.0,
-          "previousprice": null,
+          "price": 255000.0,
+          "previousprice": 235000.0,
           "url": "https://zicomputer.com/product/zotac-gaming-geforce-rtx-5060-ti-16gb-twin-edge-compact-high-performance-gpu/",
           "availability": "unknown",
           "tdp": 180,
@@ -6354,13 +6358,14 @@
           "memorySize": "16 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1793167809
         },
         {
           "Name": "ZOTAC RTX 5060 TI 16GB",
           "storeName": "RB Tech N Games",
-          "price": 257499.0,
-          "previousprice": null,
+          "price": 259499.0,
+          "previousprice": 257499.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/zotac-gaming-geforce-rtx-5060-ti-amp-16gb-graphics-card/",
           "availability": "available",
           "tdp": 180,
@@ -6369,7 +6374,8 @@
           "memorySize": "16 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1793167815
         },
         {
           "Name": "ZOTAC RTX 5060 TI 16GB",
@@ -6524,8 +6530,8 @@
         {
           "Name": "ASUS RTX 5060 TI 16GB",
           "storeName": "Zicomputer",
-          "price": 245000.0,
-          "previousprice": null,
+          "price": 260000.0,
+          "previousprice": 245000.0,
           "url": "https://zicomputer.com/product/asus-dual-geforce-rtx-5060-ti-16gb-oc/",
           "availability": "unknown",
           "tdp": 180,
@@ -6534,7 +6540,8 @@
           "memorySize": "16 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1793167844
         },
         {
           "Name": "ASUS RTX 5060 TI 16GB",
@@ -6554,8 +6561,8 @@
         {
           "Name": "PNY RTX 5060 TI 16GB",
           "storeName": "Zicomputer",
-          "price": 245000.0,
-          "previousprice": null,
+          "price": 255000.0,
+          "previousprice": 245000.0,
           "url": "https://zicomputer.com/product/pny-geforce-rtx-5060-ti-16gb-epic-x-rgb-oc/",
           "availability": "available",
           "tdp": 180,
@@ -6564,7 +6571,8 @@
           "memorySize": "16 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1793167852
         },
         {
           "Name": "PNY RTX 5060 TI 16GB",
@@ -7016,17 +7024,18 @@
         {
           "Name": "ZOTAC RTX 5070 12GB",
           "storeName": "Zicomputer",
-          "price": 260000.0,
-          "previousprice": null,
+          "price": 285000.0,
+          "previousprice": 260000.0,
           "url": "https://zicomputer.com/product/zotac-gaming-geforce-rtx-5070-solid-12gb-gddr7/",
-          "availability": "not available",
+          "availability": "unknown",
           "tdp": 250.0,
           "company": "Nvidia",
           "powerConnectors": "1x 12VHPWR",
           "memorySize": "12 GB",
           "memoryType": "GDDR7",
           "memoryBus": "192-bit",
-          "bandwidth": "672 GB/s"
+          "bandwidth": "672 GB/s",
+          "updatedAt": 1793167907
         },
         {
           "Name": "ZOTAC RTX 5070 12GB",
@@ -7184,7 +7193,7 @@
           "price": 260000.0,
           "previousprice": null,
           "url": "https://zicomputer.com/product/pny-geforce-rtx-5070-oc-12gb-graphics-card/",
-          "availability": "unknown",
+          "availability": "not available",
           "tdp": 250,
           "company": "Nvidia",
           "powerConnectors": "1x 12VHPWR",
@@ -7226,8 +7235,8 @@
         {
           "Name": "ASUS RTX 5070 12GB",
           "storeName": "Zicomputer",
-          "price": 290000.0,
-          "previousprice": null,
+          "price": 310000.0,
+          "previousprice": 290000.0,
           "url": "https://zicomputer.com/product/asus-prime-rtx-5070-12gb-white-oc/",
           "availability": "unknown",
           "tdp": 250,
@@ -7236,7 +7245,8 @@
           "memorySize": "12 GB",
           "memoryType": "GDDR7",
           "memoryBus": "192-bit",
-          "bandwidth": "672 GB/s"
+          "bandwidth": "672 GB/s",
+          "updatedAt": 1793167952
         },
         {
           "Name": "MANLI RTX 5070 12GB",
@@ -7259,7 +7269,7 @@
           "price": 260000.0,
           "previousprice": null,
           "url": "https://zicomputer.com/product/geforce-rtx-5070-gaming-oc-12g/",
-          "availability": "unknown",
+          "availability": "not available",
           "tdp": 250,
           "company": "Nvidia",
           "powerConnectors": "1x 12VHPWR",
@@ -7316,8 +7326,8 @@
         {
           "Name": "GIGABYTE RTX 5070 12GB",
           "storeName": "RB Tech N Games",
-          "price": 274999.0,
-          "previousprice": null,
+          "price": 279999.0,
+          "previousprice": 274999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/gigabyte-geforce-rtx-5070-windforce-12gb-oc-sff-graphics-card/",
           "availability": "available",
           "tdp": 250,
@@ -7326,7 +7336,8 @@
           "memorySize": "12 GB",
           "memoryType": "GDDR7",
           "memoryBus": "192-bit",
-          "bandwidth": "672 GB/s"
+          "bandwidth": "672 GB/s",
+          "updatedAt": 1793167972
         }
       ]
     },
@@ -8369,8 +8380,8 @@
         {
           "Name": "GIGABYTE RTX 5070 TI 16GB",
           "storeName": "RB Tech N Games",
-          "price": 379999.0,
-          "previousprice": null,
+          "price": 384999.0,
+          "previousprice": 379999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16gb-graphics-card/",
           "availability": "available",
           "tdp": 300,
@@ -8379,7 +8390,8 @@
           "memorySize": "16 GB",
           "memoryType": "GDDR7",
           "memoryBus": "256-bit",
-          "bandwidth": "896 GB/s"
+          "bandwidth": "896 GB/s",
+          "updatedAt": 1793168131
         },
         {
           "Name": "COLORFUL RTX 5070 TI 16GB",
@@ -8399,8 +8411,8 @@
         {
           "Name": "ASUS PRIME RTX 5070 TI 16GB",
           "storeName": "Junaid Tech",
-          "price": 354999.0,
-          "previousprice": null,
+          "price": 399999.0,
+          "previousprice": 354999.0,
           "url": "https://www.junaidtech.pk/product/asus-prime-geforce-rtx-5070-ti-16gb-gddr7-graphics-card",
           "availability": "available",
           "tdp": 300,
@@ -8409,22 +8421,24 @@
           "memorySize": "16 GB",
           "memoryType": "GDDR7",
           "memoryBus": "256-bit",
-          "bandwidth": "896 GB/s"
+          "bandwidth": "896 GB/s",
+          "updatedAt": 1793168143
         },
         {
           "Name": "ASUS TUF RTX 5070 TI 16GB",
           "storeName": "Zicomputer",
-          "price": 360000.0,
-          "previousprice": null,
+          "price": 415000.0,
+          "previousprice": 360000.0,
           "url": "https://zicomputer.com/product/asus-tuf-gaming-rtx-5070-ti-16gb/",
-          "availability": "not available",
+          "availability": "unknown",
           "tdp": 300,
           "company": "Nvidia",
           "powerConnectors": "1x 12VHPWR",
           "memorySize": "16 GB",
           "memoryType": "GDDR7",
           "memoryBus": "256-bit",
-          "bandwidth": "896 GB/s"
+          "bandwidth": "896 GB/s",
+          "updatedAt": 1793168145
         },
         {
           "Name": "ASUS TUF RTX 5070 TI 16GB",
@@ -8832,8 +8846,8 @@
         {
           "Name": "ASUS PRIME RTX 5080 16GB",
           "storeName": "Junaid Tech",
-          "price": 469999.0,
-          "previousprice": null,
+          "price": 554999.0,
+          "previousprice": 469999.0,
           "url": "https://www.junaidtech.pk/product/asus-prime-rtx-5080-oc-edition-16gb-graphics-card",
           "availability": "available",
           "tdp": 360,
@@ -8842,7 +8856,8 @@
           "memorySize": "16 GB",
           "memoryType": "GDDR7",
           "memoryBus": "256-bit",
-          "bandwidth": "960 GB/s"
+          "bandwidth": "960 GB/s",
+          "updatedAt": 1793168186
         },
         {
           "Name": "ASUS TUF RTX 5080 16GB",
@@ -9269,7 +9284,7 @@
           "price": 1650000.0,
           "previousprice": 1408999.0,
           "url": "https://www.czone.com.pk/gigabyte-aorus-geforce-rtx-5090-master-ice-32g-graphics-card-32gb-gddr7-512bit-pcie-50-2655mhz-ice",
-          "availability": "not available",
+          "availability": "unknown",
           "tdp": 575,
           "company": "Nvidia",
           "powerConnectors": "1x 12VHPWR",
@@ -9404,7 +9419,7 @@
           "price": 1750000.0,
           "previousprice": null,
           "url": "https://www.czone.com.pk/asus-rog-astral-geforce-rtx-5090-oc-edition",
-          "availability": "not available",
+          "availability": "unknown",
           "tdp": 575,
           "company": "Nvidia",
           "powerConnectors": "1x 12VHPWR",
@@ -9515,7 +9530,7 @@
           "price": 179999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/leadtek-quadro-rtx-a2000-6gb-graphics-card",
-          "availability": "not available",
+          "availability": "available",
           "tdp": 70,
           "company": "Nvidia",
           "powerConnectors": "None",
@@ -9669,7 +9684,7 @@
           "price": 39499.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-5600xt-am4-desktop-processor-tray/",
-          "availability": "not available",
+          "availability": "available",
           "Socket": "AM4",
           "Foundry": "AMD",
           "Frequency": "3.7 GHz / 4.7 GHz",
@@ -9687,8 +9702,8 @@
         {
           "Name": "RYZEN 5 5500X3D",
           "storeName": "AMD House",
-          "price": 56000.0,
-          "previousprice": null,
+          "price": 60000.0,
+          "previousprice": 56000.0,
           "url": "https://amdhouse.pk/product/amd-ryzen-5-5500x3d-chip-new-in-10-months-warranty/",
           "availability": "not available",
           "Socket": "AM4",
@@ -9696,7 +9711,8 @@
           "Frequency": "3.0 GHz / 4.0 GHz",
           "TDP": "105W",
           "PCI-Express": "PCIe 4.0",
-          "Memory Support": "DDR4-3200"
+          "Memory Support": "DDR4-3200",
+          "updatedAt": 1793168367
         },
         {
           "Name": "RYZEN 5 5500X3D",
@@ -9736,8 +9752,8 @@
         {
           "Name": "RYZEN 7 9800X3D",
           "storeName": "Junaid Tech",
-          "price": 114999.0,
-          "previousprice": null,
+          "price": 119999.0,
+          "previousprice": 114999.0,
           "url": "https://www.junaidtech.pk/product/amd-ryzen-7-9800x3d-processor-tray",
           "availability": "available",
           "Socket": "AM5",
@@ -9745,7 +9761,8 @@
           "Frequency": "4.7 GHz / 5.2 GHz",
           "TDP": "120W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5600"
+          "Memory Support": "DDR5-5600",
+          "updatedAt": 1793168382
         },
         {
           "Name": "RYZEN 7 9800X3D",
@@ -9858,7 +9875,7 @@
           "price": 123999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-9-9900x-desktop-processor/",
-          "availability": "available",
+          "availability": "not available",
           "Socket": "AM5",
           "Foundry": "AMD",
           "Frequency": "4.4 GHz / 5.6 GHz",
@@ -10165,7 +10182,7 @@
           "price": 164999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-9-9950x3d-desktop-processor-tray/",
-          "availability": "available",
+          "availability": "not available",
           "Socket": "AM5",
           "Foundry": "AMD",
           "Frequency": "4.3 GHz / 5.7 GHz",
@@ -10190,8 +10207,8 @@
         {
           "Name": "RYZEN 9 9950X3D",
           "storeName": "Zicomputer",
-          "price": 175000.0,
-          "previousprice": null,
+          "price": 190000.0,
+          "previousprice": 175000.0,
           "url": "https://zicomputer.com/product/amd-ryzen-9-9950x3d-desktop-processor/",
           "availability": "available",
           "Socket": "AM5",
@@ -10199,7 +10216,8 @@
           "Frequency": "4.3 GHz / 5.7 GHz",
           "TDP": "170W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5600"
+          "Memory Support": "DDR5-5600",
+          "updatedAt": 1793168478
         }
       ]
     },
@@ -10456,8 +10474,8 @@
         {
           "Name": "RYZEN 5 9600X",
           "storeName": "Junaid Tech",
-          "price": 54499.0,
-          "previousprice": null,
+          "price": 79999.0,
+          "previousprice": 54499.0,
           "url": "https://www.junaidtech.pk/product/amd-ryzen-5-9600x-processor-tray",
           "availability": "available",
           "Socket": "AM5",
@@ -10465,7 +10483,8 @@
           "Frequency": "3.9 GHz / 5.4 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5600"
+          "Memory Support": "DDR5-5600",
+          "updatedAt": 1793168562
         },
         {
           "Name": "RYZEN 5 9600X",
@@ -10484,8 +10503,8 @@
         {
           "Name": "RYZEN 5 9600X",
           "storeName": "RB Tech N Games",
-          "price": 52499.0,
-          "previousprice": null,
+          "price": 50499.0,
+          "previousprice": 52499.0,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-9600x-desktop-processor-tray/",
           "availability": "available",
           "Socket": "AM5",
@@ -10493,7 +10512,8 @@
           "Frequency": "3.9 GHz / 5.4 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5600"
+          "Memory Support": "DDR5-5600",
+          "updatedAt": 1793168573
         },
         {
           "Name": "RYZEN 5 9600X",
@@ -10792,8 +10812,8 @@
         {
           "Name": "RYZEN 9 9950X",
           "storeName": "Zicomputer",
-          "price": 155000.0,
-          "previousprice": null,
+          "price": 160000.0,
+          "previousprice": 155000.0,
           "url": "https://zicomputer.com/product/amd-ryzen-9-9950x-desktop-processor/",
           "availability": "unknown",
           "Socket": "AM5",
@@ -10801,7 +10821,8 @@
           "Frequency": "4.3 GHz / 5.7 GHz",
           "TDP": "170W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5600"
+          "Memory Support": "DDR5-5600",
+          "updatedAt": 1793168641
         }
       ]
     },
@@ -10960,8 +10981,8 @@
         {
           "Name": "RYZEN 7 7800X3D",
           "storeName": "AMD House",
-          "price": 84000.0,
-          "previousprice": null,
+          "price": 80500.0,
+          "previousprice": 84000.0,
           "url": "https://amdhouse.pk/product/amd-ryzen-7-7800x3d-am5/",
           "availability": "not available",
           "Socket": "AM5",
@@ -10969,7 +10990,8 @@
           "Frequency": "4.2 GHz / 5.0 GHz",
           "TDP": "120W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5200"
+          "Memory Support": "DDR5-5200",
+          "updatedAt": 1793168672
         },
         {
           "Name": "RYZEN 7 7800X3D",
@@ -11002,8 +11024,8 @@
         {
           "Name": "RYZEN 7 7800X3D",
           "storeName": "RB Tech N Games",
-          "price": 82499.0,
-          "previousprice": null,
+          "price": 81499.0,
+          "previousprice": 82499.0,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-7-7800x3d-8-cores-16-thread-tray-new/",
           "availability": "available",
           "Socket": "AM5",
@@ -11011,7 +11033,8 @@
           "Frequency": "4.2 GHz / 5.0 GHz",
           "TDP": "120W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5200"
+          "Memory Support": "DDR5-5200",
+          "updatedAt": 1793168688
         },
         {
           "Name": "RYZEN 7 7800X3D",
@@ -11758,8 +11781,8 @@
         {
           "Name": "RYZEN 5 7600",
           "storeName": "RB Tech N Games",
-          "price": 44999.0,
-          "previousprice": null,
+          "price": 40999.0,
+          "previousprice": 44999.0,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-7600-gaming-processor-tray/",
           "availability": "available",
           "Socket": "AM5",
@@ -11767,7 +11790,8 @@
           "Frequency": "3.8 GHz / 5.1 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5200"
+          "Memory Support": "DDR5-5200",
+          "updatedAt": 1793168851
         },
         {
           "Name": "RYZEN 5 7600",
@@ -13357,7 +13381,7 @@
           "price": 97999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/processors/intel-core-i9-12900kf-desktop-processor/",
-          "availability": "available",
+          "availability": "not available",
           "Socket": "LGA1700",
           "Foundry": "Intel",
           "Frequency": "3.2 GHz / 5.2 GHz",
@@ -13844,8 +13868,8 @@
         {
           "Name": "CORE I9 14900K",
           "storeName": "Junaid Tech",
-          "price": 124999.0,
-          "previousprice": null,
+          "price": 129999.0,
+          "previousprice": 124999.0,
           "url": "https://www.junaidtech.pk/product/intel-core-i9-14900k-processor",
           "availability": "available",
           "Socket": "LGA1700",
@@ -13853,7 +13877,8 @@
           "Frequency": "3.2 GHz / 6.0 GHz",
           "TDP": "125W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR4-3200 / DDR5-5600"
+          "Memory Support": "DDR4-3200 / DDR5-5600",
+          "updatedAt": 1793169283
         },
         {
           "Name": "CORE I9 14900K",
@@ -15385,7 +15410,7 @@
           "price": 28999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/maxsun-terminator-b550m-microatx-motherboard",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "AM4",
           "Chipset Model": "B550",
           "Memory Generation": "DDR4",
@@ -17684,8 +17709,8 @@
         {
           "Name": "Sapphire B650M-E DDR5 AMD AM5 microATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 37499.0,
-          "previousprice": null,
+          "price": 45499.0,
+          "previousprice": 37499.0,
           "url": "https://www.junaidtech.pk/product/sapphire-b650me-microatx-motherboard",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -17694,7 +17719,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "6400+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 4.0 / 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793170072
         },
         {
           "Name": "Asus TUF Gaming B650M-E WIFI DDR5 M-ATX AM5 Gaming Motherboard",
@@ -20158,8 +20184,8 @@
         {
           "Name": "ASUS PRIME B550M-A AM4 Micro-ATX Motherboard",
           "storeName": "RB Tech N Games",
-          "price": 37499.0,
-          "previousprice": null,
+          "price": 35499.0,
+          "previousprice": 37499.0,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/asus-prime-b550m-a-am4-micro-atx-motherboard/",
           "availability": "available",
           "CPU Socket": "AM4",
@@ -20168,7 +20194,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "5100+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 4.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793170549
         },
         {
           "Name": "ASUS Prime B550M-A  AMD AM4 (3rd Gen Ryzen) microATX Commercial Motherboard",
@@ -22857,7 +22884,7 @@
           "price": 59999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/msi-pro-b850s-wifi6e-motherboard",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "AM5",
           "Chipset Model": "B850",
           "Memory Generation": "DDR5",
@@ -26141,8 +26168,8 @@
         {
           "Name": "Asus Rog Strix B650E-I Gaming Wifi AMD Ryzen AM5 mini-ITX Motherboard, 10 + 2 Power Stages, DDR5, Two M.2 slots, PCIe 5.0, 2.5G LAN, WiFi 6E, USB 3.2 Gen 2x2 Type-C Port, and Aura Sync RGB Lighting",
           "storeName": "Junaid Tech",
-          "price": 117999.0,
-          "previousprice": null,
+          "price": 94499.0,
+          "previousprice": 117999.0,
           "url": "https://www.junaidtech.pk/product/asus-rog-strix-b650e-i-gaming-wifi-mini-itx-motherboard",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -26151,7 +26178,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "6400+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 4.0 / 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793171843
         }
       ]
     },
@@ -26181,7 +26209,7 @@
           "price": 114999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/msi-mag-x870e-tomahawk-wifi-atx-am5-ddr5-gaming-motherboard/",
-          "availability": "not available",
+          "availability": "available",
           "CPU Socket": "AM5",
           "Chipset Model": "X870",
           "Memory Generation": "DDR5",
@@ -26767,7 +26795,7 @@
           "price": 119999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/asus-rog-strix-z790-f-gaming-wifi-ii-atx-lga1700-ddr5-gaming-motherboard/",
-          "availability": "not available",
+          "availability": "available",
           "CPU Socket": "LGA1700",
           "Chipset Model": "Z790",
           "Memory Generation": "DDR5",
@@ -27482,23 +27510,24 @@
         {
           "Name": "Sapphire Pulse B850M Wifi DDR5 AMD AM5  Motherboard",
           "storeName": "Junaid Tech",
-          "price": 45499.0,
-          "previousprice": null,
+          "price": 48499.0,
+          "previousprice": 45499.0,
           "url": "https://www.junaidtech.pk/product/sapphire-pulse-b850m-wifi-ddr5-microatx-motherboard",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "AM5",
           "Chipset Model": "B850",
           "Memory Generation": "DDR5",
           "Maximum Capacity": "256 GB",
           "Maximum Speed": "7200+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793172139
         },
         {
           "Name": "Sapphire Nitro+ B850M Wifi DDR5 AMD AM5 Motherboard",
           "storeName": "Junaid Tech",
-          "price": 52999.0,
-          "previousprice": null,
+          "price": 57999.0,
+          "previousprice": 52999.0,
           "url": "https://www.junaidtech.pk/product/sapphire-nitro-b850m-wifi-ddr5-microatx-motherboard",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -27507,7 +27536,8 @@
           "Maximum Capacity": "256 GB",
           "Maximum Speed": "7200+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793172144
         },
         {
           "Name": "Sapphire Pulse B850M Wifi DDR5 AMD AM5 microATX Motherboard",
@@ -30426,15 +30456,16 @@
         {
           "Name": "XPG Lancer Blade RGB 32GB DDR5 6000MHz ",
           "storeName": "RB Tech N Games",
-          "price": 164999.0,
-          "previousprice": null,
+          "price": 174999.0,
+          "previousprice": 164999.0,
           "url": "https://rbtechngames.com/shop-2/computers/rams/xpg-lancer-blade-rgb-32gb-ddr5-6000mhz-cl36-2x16gb-desktop-memory/",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1793172347
         },
         {
           "Name": "G.SKILL Trident Z5 RGB Series 32GB (2 x 16GB) 6400MHz ",
@@ -30641,15 +30672,16 @@
         {
           "Name": "XPG Spectrix D35G RGB 32GB (2x16GB) 3200MHz ",
           "storeName": "Junaid Tech",
-          "price": 68499.0,
-          "previousprice": null,
+          "price": 70999.0,
+          "previousprice": 68499.0,
           "url": "https://www.junaidtech.pk/product/xpg-spectrix-d35g-rgb-32gb-2x16gb-3200mhz-c16-ddr4-black-ram",
           "availability": "available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "3200 MHz"
+          "Maximum Speed": "3200 MHz",
+          "updatedAt": 1793172366
         },
         {
           "Name": "XPG Spectrix D35G RGB DDR4 DRAM ",
@@ -31458,15 +31490,16 @@
         {
           "Name": "Patriot Viper Venom RGB 32GB (2x16GB) 6000MT/s",
           "storeName": "RB Tech N Games",
-          "price": 164999.0,
-          "previousprice": null,
+          "price": 184999.0,
+          "previousprice": 164999.0,
           "url": "https://rbtechngames.com/shop-2/computers/rams/patriot-viper-venom-rgb-32gb-2x16gb-6000mt-s-cl30-ddr5-ram/",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1793172498
         },
         {
           "Name": "Viper Venom RGB 32GB (2x16GB) 6000MT/s ",
@@ -32047,15 +32080,16 @@
         {
           "Name": "Lexar 16GB (1x16GB) 3200MHz DDR4 Memory",
           "storeName": "RB Tech N Games",
-          "price": 32499.0,
-          "previousprice": null,
+          "price": 34499.0,
+          "previousprice": 32499.0,
           "url": "https://rbtechngames.com/shop-2/computers/rams/lexar-16gb-1x16gb-3200mhz-ddr4-memory/",
           "availability": "available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "3200 MHz"
+          "Maximum Speed": "3200 MHz",
+          "updatedAt": 1793172609
         },
         {
           "Name": "Lexar 16GB 3200 MHz",
@@ -32106,15 +32140,16 @@
         {
           "Name": "ADATA 16GB (1×16) DDR4 3200MHz ",
           "storeName": "RB Tech N Games",
-          "price": 32499.0,
-          "previousprice": null,
+          "price": 34499.0,
+          "previousprice": 32499.0,
           "url": "https://rbtechngames.com/shop-2/computers/rams/adata-16gb-1x16-ddr4-3200mhz-premier-desktop-memory-stick/",
-          "availability": "not available",
+          "availability": "available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "3200 MHz"
+          "Maximum Speed": "3200 MHz",
+          "updatedAt": 1793172625
         },
         {
           "Name": "ADATA Premier 16GB 3200MHz ",
@@ -32535,7 +32570,7 @@
           "price": 28999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/kingsman-gaming-innovator-16gb-1x16gb-3200mhz-cl18-ddr4-dram-desktop-memory-black",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
@@ -32548,7 +32583,7 @@
           "price": 28999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/kingsman-gaming-innovator-16gb-1x16gb-3200mhz-cl18-ddr4-ram-white",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
@@ -33281,15 +33316,16 @@
         {
           "Name": "Apacer 32GB 16GBx2 DDR5 6000MHz ",
           "storeName": "AMD House",
-          "price": 113000.0,
-          "previousprice": null,
+          "price": 140000.0,
+          "previousprice": 113000.0,
           "url": "https://amdhouse.pk/product/apacer-32gb-16gbx2-ddr5-6000mhz-cl38-dual-channel-kit-non-rgb-new/",
           "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1793172789
         },
         {
           "Name": "V-Color DDR5 Gaming Memory RGB 32GB(16GBx2) 6000MHz ",
@@ -33383,7 +33419,7 @@
           "price": 25999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-16gb-ddr4-2666mhz-desktop-memory",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "2666 MHz",
@@ -36344,15 +36380,16 @@
         {
           "Name": "Crucial Pro OC 32GB (2x16GB) 6400MT/s ",
           "storeName": "RB Tech N Games",
-          "price": 154999.0,
-          "previousprice": null,
+          "price": 164999.0,
+          "previousprice": 154999.0,
           "url": "https://rbtechngames.com/shop-2/computers/rams/crucial-pro-oc-32gb-2x16gb-6400mt-s-cl38-ddr5-desktop-memory-black-white/",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6400 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "6400 MHz"
+          "Maximum Speed": "6400 MHz",
+          "updatedAt": 1793173289
         }
       ]
     },
@@ -36420,7 +36457,7 @@
           "price": 114999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/laptops/laptop-ram/crucial-sodimm-32gb-1x32gb-5600mt-s-cl46-ddr5-laptop-memory/",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "SODIMM",
           "Clock Speed": "5600 MHz",
@@ -40537,8 +40574,8 @@
         {
           "Name": "XPG GAMMIX S70 BLADE PCIe Gen4x4 M.2 2280 SSD 1TB",
           "storeName": "RB Tech N Games",
-          "price": 49999.0,
-          "previousprice": null,
+          "price": 59999.0,
+          "previousprice": 49999.0,
           "url": "https://rbtechngames.com/shop-2/computers/storage/xpg-gammix-s70-blade-pcie-gen4x4-m-2-2280-ssd-512gb-1tb-2tb-4tb/",
           "availability": "available",
           "Interface": "PCIe",
@@ -40546,7 +40583,8 @@
           "Capacity": "1 TB",
           "Form Factor": "M.2 2280",
           "Sequential Read": "7400 MB/s",
-          "Sequential Write": "7400 MB/s"
+          "Sequential Write": "7400 MB/s",
+          "updatedAt": 1793173704
         },
         {
           "Name": "XPG GAMMIX S70 1TB PCIe Gen4x4 M.2 2280 Solid State Drive",
@@ -42777,8 +42815,8 @@
         {
           "Name": "Lexar NQ100 240GB SSD 2.5 Inch SATA III ",
           "storeName": "Junaid Tech",
-          "price": 15999.0,
-          "previousprice": null,
+          "price": 16499.0,
+          "previousprice": 15999.0,
           "url": "https://www.junaidtech.pk/product/lexar-nq100-240gb-ssd",
           "availability": "available",
           "Interface": "SATA",
@@ -42786,7 +42824,8 @@
           "Capacity": "240 GB",
           "Form Factor": "2.5-inch",
           "Sequential Read": "500-550 MB/s",
-          "Sequential Write": "450-520 MB/s"
+          "Sequential Write": "450-520 MB/s",
+          "updatedAt": 1793174187
         }
       ]
     },
@@ -43235,7 +43274,7 @@
           "price": 31499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/hiksemi-spear-t200n-1tb-portable-ssd",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "Unknown",
           "Protocol": "Unknown",
           "Capacity": "1 TB",
@@ -43256,7 +43295,7 @@
           "price": 30999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/hiksemi-t300s-shield-1tb-portable-ssd",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "Unknown",
           "Protocol": "Unknown",
           "Capacity": "1 TB",
@@ -43774,7 +43813,7 @@
           "price": 42499.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/storage/wd-blue-sn5000-nvme-gen-4-ssd-500gb-1tb-2tb-4tb/",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "PCIe",
           "Protocol": "NVMe",
           "Capacity": "1 TB",
@@ -55770,11 +55809,12 @@
         {
           "Name": "XPG  Core Reactor II 1000w 80 PLUS Gold ",
           "storeName": "RB Tech N Games",
-          "price": 42499.0,
-          "previousprice": null,
+          "price": 39499.0,
+          "previousprice": 42499.0,
           "url": "https://rbtechngames.com/shop-2/computers/power-supplies/xpg-core-reactor-ii-1000w-80-plus-gold-power-supply-atx-fully-modular/",
           "availability": "available",
-          "Wattage": "1000W"
+          "Wattage": "1000W",
+          "updatedAt": 1793176329
         },
         {
           "Name": "XPG CORE REACTOR II 1000W 80 Plus Gold ",
@@ -56962,7 +57002,7 @@
           "price": 189999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/power-supplies/msi-meg-ai1600t-pcie5-1600w-80-plus-titanium-certified-fully-modular-atx-power-supply/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "1600W"
         },
         {
@@ -57696,11 +57736,12 @@
         {
           "Name": "EASE 1000W 80+ Gold ",
           "storeName": "Zicomputer",
-          "price": 45000.0,
-          "previousprice": null,
+          "price": 49500.0,
+          "previousprice": 45000.0,
           "url": "https://zicomputer.com/product/ease-1000w-80-gold-full-modular-power-supply/",
           "availability": "unknown",
-          "Wattage": "1000W"
+          "Wattage": "1000W",
+          "updatedAt": 1793176753
         }
       ]
     },
