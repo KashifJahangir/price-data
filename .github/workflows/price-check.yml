@@ -30,15 +30,19 @@ jobs:
       - name: Install Chrome (for Junaid Tech / Czone / Zah fallback)
         uses: browser-actions/setup-chrome@v1
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - name: Install dependencies and virtual display (xvfb)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y xvfb
+          pip install -r requirements.txt
 
       # All stores run here, including Zah Computers.
       # If Cloudflare blocks GitHub's IPs, the script skips the rest of Zah
       # after 3 blocked products in a row and keeps the old Zah prices.
       # Look for "[shopino] ... blocked 3 times" in this step's log.
       - name: Run price checker
-        run: python price_checker.py products.json --no-backup --delay 2
+        # xvfb-run creates a fake monitor so the headed Chrome browser doesn't crash
+        run: xvfb-run python price_checker.py products.json --no-backup --delay 2
 
       - name: Commit and push if prices changed
         run: |
