@@ -25,9 +25,10 @@ CHANGELOG (this version):
 - When a price changes, the old price is saved in "previousprice" and the new
   price in "price"; "updatedAt" (unix seconds) records when. If the price did
   not change, previousprice / updatedAt are left untouched.
+- NEW: Switched to curl_cffi and headed Selenium for GitHub Actions (xvfb) bypass.
 
 Install deps:
-    pip install requests beautifulsoup4 selenium webdriver-manager
+    pip install beautifulsoup4 selenium webdriver-manager curl_cffi
 
 Usage:
     py price_checker.py products.json
@@ -41,7 +42,8 @@ import sys
 import time
 from urllib.parse import urlparse
 
-import requests
+# Replaced standard requests with curl_cffi to bypass Cloudflare
+from curl_cffi import requests
 from bs4 import BeautifulSoup
 
 HEADERS = {
@@ -77,7 +79,7 @@ _warmed_up_domains = set()
 def get_selenium_driver():
     global _selenium_driver
     if _selenium_driver is None:
-        print("    [selenium] launching headless Chrome (first run may need to "
+        print("    [selenium] launching Chrome (first run may need to "
               "download ChromeDriver, can take a minute)...", file=sys.stderr)
         from selenium import webdriver
         from selenium.webdriver.chrome.options import Options
@@ -85,7 +87,7 @@ def get_selenium_driver():
         from webdriver_manager.chrome import ChromeDriverManager
 
         options = Options()
-        options.add_argument("--headless=new")
+        # REMOVED --headless=new so it runs as a visible browser (needed for GitHub Actions + xvfb)
         options.add_argument("--window-size=1400,2000")
         options.add_argument("--disable-gpu")
         options.add_argument("--no-sandbox")
@@ -217,18 +219,19 @@ def fetch_with_retries(session, url, retries=2, backoff=2.0):
             resp = session.get(url, headers=HEADERS, timeout=20)
             resp.raise_for_status()
             return resp
-        except requests.exceptions.HTTPError as e:
+        except Exception as e:
             last_exc = e
-            status = e.response.status_code if e.response is not None else None
+            status = getattr(e.response, "status_code", None) if hasattr(e, "response") else None
+            
             if status in (403, 429, 500, 502, 503) and attempt < retries:
                 time.sleep(backoff * (attempt + 1))
                 continue
-            raise
-        except requests.exceptions.RequestException as e:
-            last_exc = e
+            
+            # Retry on generic network failures as well
             if attempt < retries:
                 time.sleep(backoff * (attempt + 1))
                 continue
+                
             raise
     if last_exc:
         raise last_exc
@@ -611,7 +614,7 @@ def get_price_and_availability(session, url):
 
             # If we got a bot challenge page, skip straight to Selenium
             if is_cloudflare_challenge(html):
-                print(f"    [woocommerce] bot challenge detected, using headless browser for {url}",
+                print(f"    [woocommerce] bot challenge detected, using browser for {url}",
                       file=sys.stderr)
                 return fetch_woocommerce_via_selenium(url)
 
@@ -632,15 +635,15 @@ def get_price_and_availability(session, url):
             # If we still have no price, the page likely rendered but uses JS
             # or unusual markup -- fall back to Selenium as a last resort.
             if price is None:
-                print(f"    [woocommerce] no price extracted, trying headless browser for {url}",
+                print(f"    [woocommerce] no price extracted, trying browser for {url}",
                       file=sys.stderr)
                 return fetch_woocommerce_via_selenium(url)
 
-        except requests.exceptions.HTTPError as e:
-            status = e.response.status_code if e.response is not None else None
+        except Exception as e:
+            status = getattr(e.response, "status_code", None) if hasattr(e, "response") else None
             if status == 403:
                 print(f"    [woocommerce] 403 from requests, falling back to "
-                      f"headless browser for {url}", file=sys.stderr)
+                      f"browser for {url}", file=sys.stderr)
                 try:
                     return fetch_woocommerce_via_selenium(url)
                 except Exception as e2:
@@ -649,9 +652,6 @@ def get_price_and_availability(session, url):
             else:
                 print(f"    [woocommerce fetch failed] {e}", file=sys.stderr)
                 return None, "unknown"
-        except Exception as e:
-            print(f"    [woocommerce fetch failed] {e}", file=sys.stderr)
-            return None, "unknown"
 
     # --- Webx stores (Selenium, JSON-LD only)
     elif any(d in domain for d in WEBX_DOMAINS):
@@ -731,7 +731,9 @@ def main():
             json.dump(data, f, indent=2, ensure_ascii=False)
         print(f"Backup written to {backup_path}")
 
-    session = requests.Session()
+    # Initialize curl_cffi session mimicking a real Chrome browser
+    session = requests.Session(impersonate="chrome")
+    
     updated, unchanged, failed, suspicious = 0, 0, 0, 0
     processed = []
 
