@@ -2,7 +2,7 @@
 Unified price & availability checker for products.json
 --------------------------------------------------------------------------
 Reads products.json, visits every store URL, and updates both price and
-availability.
+availability (with percentage limits removed).
 
 Usage:
     py price_checker.py products.json
@@ -133,13 +133,6 @@ def clean_price(text):
         return float(num_str)
     except ValueError:
         return None
-
-
-def is_suspicious_change(old_price, new_price, max_change_pct):
-    if old_price in (None, 0) or new_price in (None, 0):
-        return False
-    change_pct = abs(new_price - old_price) / old_price * 100
-    return change_pct > max_change_pct
 
 
 def is_cloudflare_challenge(html):
@@ -503,7 +496,6 @@ def main():
     parser = argparse.ArgumentParser(description="Check and update prices & availability in products.json")
     parser.add_argument("json_file", help="Path to products.json")
     parser.add_argument("--delay", type=float, default=2, help="Seconds between requests")
-    parser.add_argument("--max-change-pct", type=float, default=20.0, help="Max percent change limit")
     parser.add_argument("--no-confirm", action="store_true", help="Don't re-fetch to confirm change")
     parser.add_argument("--no-backup", action="store_true", help="Skip writing .bak copy")
     parser.add_argument("--store", metavar="TEXT", help="Only check store prices whose storeName contains TEXT")
@@ -519,7 +511,7 @@ def main():
             json.dump(data, f, indent=2, ensure_ascii=False)
 
     session = requests.Session(impersonate="chrome")
-    updated, unchanged, failed, suspicious = 0, 0, 0, 0
+    updated, unchanged, failed = 0, 0, 0
     processed = []
 
     try:
@@ -555,17 +547,8 @@ def main():
                 elif new_price == old_price:
                     print(f"NO CHANGE  {sp.get('storeName')} | {label} : {old_price} [availability: {availability}]")
                     unchanged += 1
-                elif is_suspicious_change(old_price, new_price, args.max_change_pct):
-                    print(f"SUSPICIOUS {sp.get('storeName')} | {label} : {old_price} -> {new_price} (skipped)")
-                    suspicious += 1
                 else:
-                    if not args.no_confirm:
-                        time.sleep(args.delay)
-                        confirm_price, _ = get_price_and_availability(session, url)
-                        if confirm_price != new_price:
-                            suspicious += 1
-                            continue
-
+                    # No percentage limits applied: directly update any price change found
                     print(f"UPDATED    {sp.get('storeName')} | {label} : {old_price} -> {new_price}")
                     sp["previousprice"] = old_price
                     sp["price"] = new_price
@@ -579,7 +562,7 @@ def main():
     with open(args.json_file, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-    print(f"\nDone. {updated} updated, {unchanged} unchanged, {suspicious} suspicious, {failed} failed.")
+    print(f"\nDone. {updated} updated, {unchanged} unchanged, {failed} failed.")
 
 
 if __name__ == "__main__":
