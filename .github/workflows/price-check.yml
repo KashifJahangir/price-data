@@ -2,9 +2,25 @@ name: Price Checker
 
 on:
   schedule:
-    # Every day at 03:00 UTC (08:00 PKT) to cycle through categories daily.
+    # Every day at 03:00 UTC (08:00 PKT) to cycle through categories automatically.
     - cron: '0 3 * * *'
-  workflow_dispatch: {}   # manual trigger from the Actions tab
+  workflow_dispatch:
+    inputs:
+      category:
+        description: 'Select category to run manually (leave empty for daily auto-rotation)'
+        required: false
+        type: choice
+        default: 'auto'
+        options:
+          - auto
+          - graphics_cards
+          - motherboards
+          - processors
+          - monitors
+          - ram
+          - storage
+          - peripherals
+          - powersupplies
 
 permissions:
   contents: write   # needed so the workflow can push the updated products.json
@@ -36,7 +52,7 @@ jobs:
           sudo apt-get install -y xvfb
           pip install -r requirements.txt
 
-      - name: Select Today's Category (Priority Order & Skipping Empty Ones)
+      - name: Determine Target Category
         run: |
           python -c '
           import json, datetime, os
@@ -44,29 +60,31 @@ jobs:
           with open("products.json", "r") as f:
               data = json.load(f)
 
-          # Only include categories that have actual products (productCount > 0)
-          # This automatically keeps them in the exact JSON priority order starting from graphics_cards
-          categories = [c["id"] for c in data.get("categories", []) if c.get("productCount", 0) > 0]
+          valid_categories = [c["id"] for c in data.get("categories", []) if c.get("productCount", 0) > 0]
           
-          if not categories:
-              print("No valid categories with products found in products.json!")
-              exit(1)
-
-          # Calculate ongoing cycle index based on total days elapsed
-          total_days = datetime.datetime.utcnow().toordinal()
-          cat_index = total_days % len(categories)
-          selected_category = categories[cat_index]
-
-          print(f"Active categories sequence: {categories}")
-          print(f"Selected category for today: {selected_category} (Index {cat_index}/{len(categories)-1})")
+          # Check if a manual category was selected via workflow_dispatch
+          manual_cat = "${{ github.event.inputs.category }}"
+          
+          if manual_cat and manual_cat != "auto":
+              selected_category = manual_cat
+              print(f"Manual trigger selected category: {selected_category}")
+          else:
+              # Automatic daily rotation cycle
+              if not valid_categories:
+                  print("No valid categories with products found in products.json!")
+                  exit(1)
+              total_days = datetime.datetime.utcnow().toordinal()
+              cat_index = total_days % len(valid_categories)
+              selected_category = valid_categories[cat_index]
+              print(f"Automatic schedule selected category: {selected_category} (Index {cat_index}/{len(valid_categories)-1})")
           
           with open(os.environ["GITHUB_ENV"], "a") as env:
               env.write(f"TARGET_CATEGORY={selected_category}\n")
           '
 
       # Zah Computers is skipped because Cloudflare strictly blocks GitHub's data center IPs.
-      # The rest of the stores (Junaid Tech, AMD House, etc.) will update normally for today's category.
-      - name: Run price checker for today's category
+      # The rest of the stores (Junaid Tech, AMD House, etc.) will update normally for the selected category.
+      - name: Run price checker for category
         # xvfb-run creates a fake monitor so the headed Chrome browser doesn't crash
         run: xvfb-run python price_checker.py products.json --no-backup --delay 2 --skip-store zah --category-id "$TARGET_CATEGORY"
 
