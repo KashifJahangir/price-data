@@ -2,8 +2,8 @@ name: Price Checker
 
 on:
   schedule:
-    # Every Monday at 03:00 UTC (08:00 PKT).
-    - cron: '0 3 * * 1'
+    # Every day at 03:00 UTC (08:00 PKT) to cycle through categories daily.
+    - cron: '0 3 * * *'
   workflow_dispatch: {}   # manual trigger from the Actions tab
 
 permissions:
@@ -36,11 +36,35 @@ jobs:
           sudo apt-get install -y xvfb
           pip install -r requirements.txt
 
+      - name: Select Today's Category
+        run: |
+          python -c '
+          import json, datetime, os
+
+          with open("products.json", "r") as f:
+              data = json.load(f)
+
+          categories = [c["id"] for c in data.get("categories", [])]
+          if not categories:
+              print("No categories found in products.json!")
+              exit(1)
+
+          # Calculate ongoing cycle index based on total days elapsed
+          total_days = datetime.datetime.utcnow().toordinal()
+          cat_index = total_days % len(categories)
+          selected_category = categories[cat_index]
+
+          print(f"Selected category for today: {selected_category} (Index {cat_index}/{len(categories)-1})")
+          
+          with open(os.environ["GITHUB_ENV"], "a") as env:
+              env.write(f"TARGET_CATEGORY={selected_category}\n")
+          '
+
       # Zah Computers is skipped because Cloudflare strictly blocks GitHub's data center IPs.
-      # The rest of the stores (Junaid Tech, AMD House, etc.) will update normally.
-      - name: Run price checker
+      # The rest of the stores (Junaid Tech, AMD House, etc.) will update normally for today's category.
+      - name: Run price checker for today's category
         # xvfb-run creates a fake monitor so the headed Chrome browser doesn't crash
-        run: xvfb-run python price_checker.py products.json --no-backup --delay 2 --skip-store zah
+        run: xvfb-run python price_checker.py products.json --no-backup --delay 2 --skip-store zah --category-id "$TARGET_CATEGORY"
 
       - name: Commit and push if prices changed
         run: |
@@ -51,7 +75,7 @@ jobs:
             echo "No price changes to commit."
             exit 0
           fi
-          git commit -m "Automated price update $(date -u +'%Y-%m-%d')"
+          git commit -m "Automated price update for category: $TARGET_CATEGORY ($(date -u +'%Y-%m-%d'))"
           for i in 1 2 3; do
             if git pull --rebase && git push; then
               exit 0
