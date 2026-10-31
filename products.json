@@ -5556,8 +5556,8 @@
         {
           "Name": "SAPPHIRE RX 9060 XT 16GB",
           "storeName": "Junaid Tech",
-          "price": 179999.0,
-          "previousprice": null,
+          "price": 199999.0,
+          "previousprice": 179999.0,
           "url": "https://www.junaidtech.pk/product/sapphire-pulse-rx-9060-xt-gaming-oc-graphics-card",
           "availability": "available",
           "tdp": 150,
@@ -5566,7 +5566,8 @@
           "memorySize": "16 GB",
           "memoryType": "GDDR6",
           "memoryBus": "128-bit",
-          "bandwidth": "288 GB/s"
+          "bandwidth": "288 GB/s",
+          "updatedAt": 1793439106
         },
         {
           "Name": "SAPPHIRE RX 9060 XT 16GB",
@@ -5789,8 +5790,8 @@
         {
           "Name": "ZOTAC RTX 5060 TI 8GB",
           "storeName": "RB Tech N Games",
-          "price": 159999.0,
-          "previousprice": null,
+          "price": 174999.0,
+          "previousprice": 159999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/zotac-gaming-geforce-rtx-5060-ti-8gb-twin-edge-graphics-card/",
           "availability": "available",
           "tdp": 180,
@@ -5799,7 +5800,8 @@
           "memorySize": "8 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1793439157
         },
         {
           "Name": "ZOTAC RTX 5060 TI 8GB",
@@ -6365,8 +6367,8 @@
         {
           "Name": "ZOTAC RTX 5060 TI 16GB",
           "storeName": "RB Tech N Games",
-          "price": 259499.0,
-          "previousprice": 257499.0,
+          "price": 264999.0,
+          "previousprice": 259499.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/zotac-gaming-geforce-rtx-5060-ti-amp-16gb-graphics-card/",
           "availability": "available",
           "tdp": 180,
@@ -6376,7 +6378,7 @@
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
           "bandwidth": "448 GB/s",
-          "updatedAt": 1793167815
+          "updatedAt": 1793439205
         },
         {
           "Name": "ZOTAC RTX 5060 TI 16GB",
@@ -7327,8 +7329,8 @@
         {
           "Name": "GIGABYTE RTX 5070 12GB",
           "storeName": "RB Tech N Games",
-          "price": 279999.0,
-          "previousprice": 274999.0,
+          "price": 299999.0,
+          "previousprice": 279999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/gigabyte-geforce-rtx-5070-windforce-12gb-oc-sff-graphics-card/",
           "availability": "available",
           "tdp": 250,
@@ -7338,7 +7340,7 @@
           "memoryType": "GDDR7",
           "memoryBus": "192-bit",
           "bandwidth": "672 GB/s",
-          "updatedAt": 1793167972
+          "updatedAt": 1793439356
         }
       ]
     },
@@ -8381,10 +8383,10 @@
         {
           "Name": "GIGABYTE RTX 5070 TI 16GB",
           "storeName": "RB Tech N Games",
-          "price": 384999.0,
-          "previousprice": 379999.0,
+          "price": 404999.0,
+          "previousprice": 384999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16gb-graphics-card/",
-          "availability": "available",
+          "availability": "not available",
           "tdp": 300,
           "company": "Nvidia",
           "powerConnectors": "1x 12VHPWR",
@@ -8392,7 +8394,7 @@
           "memoryType": "GDDR7",
           "memoryBus": "256-bit",
           "bandwidth": "896 GB/s",
-          "updatedAt": 1793168131
+          "updatedAt": 1793439551
         },
         {
           "Name": "COLORFUL RTX 5070 TI 16GB",
@@ -8878,8 +8880,8 @@
         {
           "Name": "ASUS PRIME RTX 5080 16GB",
           "storeName": "RB Tech N Games",
-          "price": 499999.0,
-          "previousprice": null,
+          "price": 564999.0,
+          "previousprice": 499999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/asus-prime-geforce-rtx-5080-16gb-oc-edition-graphics-card/",
           "availability": "available",
           "tdp": 360,
@@ -8888,7 +8890,8 @@
           "memorySize": "16 GB",
           "memoryType": "GDDR7",
           "memoryBus": "256-bit",
-          "bandwidth": "960 GB/s"
+          "bandwidth": "960 GB/s",
+          "updatedAt": 1793439596
         },
         {
           "Name": "ASUS PRIME RTX 5080 16GB",
@@ -9013,8 +9016,8 @@
         {
           "Name": "GIGABYTE RTX 5080 16GB",
           "storeName": "RB Tech N Games",
-          "price": 499999.0,
-          "previousprice": null,
+          "price": 544999.0,
+          "previousprice": 499999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/gigabyte-geforce-rtx-5080-windforce-oc-sff-16gb-graphics-card/",
           "availability": "available",
           "tdp": 360,
@@ -9023,7 +9026,8 @@
           "memorySize": "16 GB",
           "memoryType": "GDDR7",
           "memoryBus": "256-bit",
-          "bandwidth": "960 GB/s"
+          "bandwidth": "960 GB/s",
+          "updatedAt": 1793439637
         },
         {
           "Name": "GALAX RTX 5080 16GB",
@@ -9387,8 +9391,8 @@
         {
           "Name": "ASUS RTX 5090 32GB",
           "storeName": "RB Tech N Games",
-          "price": 2849999.0,
-          "previousprice": null,
+          "price": 3199999.0,
+          "previousprice": 2849999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/asus-rog-astral-geforce-rtx-5090-32gb-white-oc-edition-graphics-card/",
           "availability": "available",
           "tdp": 575,
@@ -9397,7 +9401,8 @@
           "memorySize": "32 GB",
           "memoryType": "GDDR7",
           "memoryBus": "512-bit",
-          "bandwidth": "1792 GB/s"
+          "bandwidth": "1792 GB/s",
+          "updatedAt": 1793439699
         },
         {
           "Name": "ASUS RTX 5090 32GB",
@@ -9432,8 +9437,8 @@
         {
           "Name": "ZOTAC RTX 5090 32GB",
           "storeName": "RB Tech N Games",
-          "price": 2449999.0,
-          "previousprice": null,
+          "price": 2999999.0,
+          "previousprice": 2449999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/zotac-gaming-geforce-rtx-5090-amp-extreme-infinity-32gb-graphics-card/",
           "availability": "available",
           "tdp": 575,
@@ -9442,7 +9447,8 @@
           "memorySize": "32 GB",
           "memoryType": "GDDR7",
           "memoryBus": "512-bit",
-          "bandwidth": "1792 GB/s"
+          "bandwidth": "1792 GB/s",
+          "updatedAt": 1793439728
         },
         {
           "Name": "Asus ROG Astral RTX 5090 32GB ",
