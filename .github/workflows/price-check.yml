@@ -86,7 +86,7 @@ jobs:
       # The rest of the stores (Junaid Tech, AMD House, etc.) will update normally for the selected category.
       - name: Run price checker for category
         # xvfb-run creates a fake monitor so the headed Chrome browser doesn't crash
-        run: xvfb-run python price_checker.py products.json --no-backup --delay 2 --skip-store zah --category-id "$TARGET_CATEGORY"
+        run: xvfb-run python price_checker.py products.json --no-backup --delay 2 --category-id "$TARGET_CATEGORY"
 
       - name: Commit and push if prices changed
         run: |
