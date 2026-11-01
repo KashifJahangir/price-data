@@ -3097,17 +3097,18 @@
         {
           "Name": "MSI VENTUS RTX 3050 6GB",
           "storeName": "Zah Computers",
-          "price": 76999.0,
-          "previousprice": null,
+          "price": 97000.0,
+          "previousprice": 76999.0,
           "url": "https://zahcomputers.pk/product/msi-ventus-geforce-rtx-3050-6gb-2x-oc-gddr6-pci-express-4-0-x8-atx-graphics-cards/",
-          "availability": "not available",
+          "availability": "available",
           "tdp": 70,
           "company": "Nvidia",
           "powerConnectors": "None",
           "memorySize": "6 GB",
           "memoryType": "GDDR6",
           "memoryBus": "96-bit",
-          "bandwidth": "168 GB/s"
+          "bandwidth": "168 GB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "MSI RTX 3050 6GB",
@@ -4001,8 +4002,8 @@
         {
           "Name": "ASUS RTX 5050 8GB",
           "storeName": "Zah Computers",
-          "price": 133500.0,
-          "previousprice": null,
+          "price": 142000.0,
+          "previousprice": 133500.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5050-8gb-gddr6-pci-express-5-0-x8-atx-graphics-card/",
           "availability": "available",
           "tdp": 130,
@@ -4011,7 +4012,8 @@
           "memorySize": "8 GB",
           "memoryType": "GDDR6",
           "memoryBus": "128-bit",
-          "bandwidth": "256 GB/s"
+          "bandwidth": "256 GB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "MSI RTX 5050 8GB",
@@ -4046,8 +4048,8 @@
         {
           "Name": "MSI RTX 5050 8GB",
           "storeName": "Zah Computers",
-          "price": 125000.0,
-          "previousprice": null,
+          "price": 135000.0,
+          "previousprice": 125000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-5050-shadow-2x-oc-8gb-gddr6-graphics-card/",
           "availability": "available",
           "tdp": 130,
@@ -4056,7 +4058,8 @@
           "memorySize": "8 GB",
           "memoryType": "GDDR6",
           "memoryBus": "128-bit",
-          "bandwidth": "256 GB/s"
+          "bandwidth": "256 GB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "GIGABYTE RTX 5050 8GB",
@@ -4444,7 +4447,7 @@
           "price": 165000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-4060-ti-evo-8gb-gddr6-oc-edition-gaming-graphics-card/",
-          "availability": "available",
+          "availability": "not available",
           "tdp": 160.0,
           "company": "Nvidia",
           "powerConnectors": "1x 8-pin",
@@ -4860,17 +4863,18 @@
         {
           "Name": "ASUS RTX 5060 8GB",
           "storeName": "Zah Computers",
-          "price": 164000.0,
-          "previousprice": null,
+          "price": 185000.0,
+          "previousprice": 164000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5060-8gb-white-gddr7-oc-edition-graphics-card/",
-          "availability": "not available",
+          "availability": "available",
           "tdp": 145,
           "company": "Nvidia",
           "powerConnectors": "1x 8-pin",
           "memorySize": "8 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "MSI RTX 5060 8GB",
@@ -4921,23 +4925,24 @@
         {
           "Name": "MSI RTX 5060 8GB",
           "storeName": "Zah Computers",
-          "price": 160500.0,
-          "previousprice": null,
+          "price": 180000.0,
+          "previousprice": 160500.0,
           "url": "https://zahcomputers.pk/product/msi-ventus-geforce-rtx-5060-8gb-2x-oc-gddr7-pcie-5-0-x16-interface-graphics-card-white/",
-          "availability": "not available",
+          "availability": "available",
           "tdp": 145,
           "company": "Nvidia",
           "powerConnectors": "1x 8-pin",
           "memorySize": "8 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "PNY GeForce RTX 5060 8GB",
           "storeName": "Zah Computers",
-          "price": 145000.0,
-          "previousprice": null,
+          "price": 168000.0,
+          "previousprice": 145000.0,
           "url": "https://zahcomputers.pk/product/pny-geforce-rtx-5060-8gb-dual-fan-dlss-4-gaming-graphics-card/",
           "availability": "available",
           "tdp": 145,
@@ -4946,7 +4951,8 @@
           "memorySize": "8 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "INNO3D RTX 5060 8GB",
@@ -5699,17 +5705,18 @@
         {
           "Name": "MSI RTX 5060 TI 8GB",
           "storeName": "Zah Computers",
-          "price": 178000.0,
-          "previousprice": null,
+          "price": 190000.0,
+          "previousprice": 178000.0,
           "url": "https://zahcomputers.pk/product/msi-shadow-geforce-rtx-5060-ti-8gb-2x-oc-plus-gddr7-pci-express-5-0-graphics-card/",
-          "availability": "not available",
+          "availability": "available",
           "tdp": 180.0,
           "company": "Nvidia",
           "powerConnectors": "1x 8-pin",
           "memorySize": "8 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "MSI RTX 5060 TI 8GB",
@@ -5809,7 +5816,7 @@
           "price": 158000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-twin-edge-oc-rtx-5060-ti-8gb-128-bit-gddr7-pci-express-5-0-x8-dlss-4-0-graphics-card/",
-          "availability": "available",
+          "availability": "not available",
           "tdp": 180.0,
           "company": "Nvidia",
           "powerConnectors": "1x 8-pin",
@@ -5866,8 +5873,8 @@
         {
           "Name": "MSI RTX 5060 TI 8GB",
           "storeName": "Zah Computers",
-          "price": 178000.0,
-          "previousprice": null,
+          "price": 190000.0,
+          "previousprice": 178000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-5060-ti-8g-ventus-2x-plus-graphics-card/",
           "availability": "available",
           "tdp": 180,
@@ -5876,7 +5883,8 @@
           "memorySize": "8 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "ASUS RTX 5060 TI 8GB",
@@ -5896,17 +5904,18 @@
         {
           "Name": "ASUS RTX 5060 TI 8GB",
           "storeName": "Zah Computers",
-          "price": 186000.0,
-          "previousprice": null,
+          "price": 195000.0,
+          "previousprice": 186000.0,
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5060-ti-8gb-gddr7-pci-express-5-0-x8-atx-graphics-card/",
-          "availability": "not available",
+          "availability": "available",
           "tdp": 180,
           "company": "Nvidia",
           "powerConnectors": "1x 8-pin",
           "memorySize": "8 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "ASUS RTX 5060 TI 8GB",
@@ -5926,8 +5935,8 @@
         {
           "Name": "MSI RTX 5060 TI 8GB",
           "storeName": "Zah Computers",
-          "price": 178000.0,
-          "previousprice": null,
+          "price": 190000.0,
+          "previousprice": 178000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-5060-ti-8g-ventus-2x-plus-graphics-card/",
           "availability": "available",
           "tdp": 180,
@@ -5936,7 +5945,8 @@
           "memorySize": "8 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1793534034
         }
       ]
     },
@@ -6595,8 +6605,8 @@
         {
           "Name": "PNY RTX 5060 TI 16GB",
           "storeName": "Zah Computers",
-          "price": 240000.0,
-          "previousprice": null,
+          "price": 250000.0,
+          "previousprice": 240000.0,
           "url": "https://zahcomputers.pk/product/pny-geforce-rtx-5060-ti-16gb-stealth-oc-graphics-card/",
           "availability": "not available",
           "tdp": 180,
@@ -6605,7 +6615,8 @@
           "memorySize": "16 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1793534034
         }
       ]
     },
@@ -6967,8 +6978,8 @@
         {
           "Name": "MSI RTX 5070 12GB",
           "storeName": "Zah Computers",
-          "price": 282000.0,
-          "previousprice": null,
+          "price": 299000.0,
+          "previousprice": 282000.0,
           "url": "https://zahcomputers.pk/product/msi-ventus-geforce-rtx-5070-12g-2x-oc-gddr7-graphics-card/",
           "availability": "available",
           "tdp": 250,
@@ -6977,7 +6988,8 @@
           "memorySize": "12 GB",
           "memoryType": "GDDR7",
           "memoryBus": "192-bit",
-          "bandwidth": "672 GB/s"
+          "bandwidth": "672 GB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "MSI RTX 5070 12GB",
@@ -7178,17 +7190,18 @@
         {
           "Name": "PNY RTX 5070 12GB",
           "storeName": "Zah Computers",
-          "price": 260000.0,
-          "previousprice": null,
+          "price": 280000.0,
+          "previousprice": 260000.0,
           "url": "https://zahcomputers.pk/product/pny-geforce-rtx-5070-argb-epic-x-rgb-oc-triple-fan-graphics-card-12gb-gddr7-192-bit-memory-2-16-ghz-base-clock-28-gbps-memory-speed-6144-cuda-cores-pci-express-5-0/",
-          "availability": "available",
+          "availability": "not available",
           "tdp": 250,
           "company": "Nvidia",
           "powerConnectors": "1x 12VHPWR",
           "memorySize": "12 GB",
           "memoryType": "GDDR7",
           "memoryBus": "192-bit",
-          "bandwidth": "672 GB/s"
+          "bandwidth": "672 GB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "PNY RTX 5070 12GB",
@@ -7449,8 +7462,8 @@
         {
           "Name": "SAPPHIRE RX 9070 16GB",
           "storeName": "Zah Computers",
-          "price": 250000.0,
-          "previousprice": null,
+          "price": 265000.0,
+          "previousprice": 250000.0,
           "url": "https://zahcomputers.pk/product/sapphire-pulse-radeon-rx-9070-16gb-gddr6-pci-express-5-0-x16-atx-graphics-card/",
           "availability": "available",
           "tdp": 220,
@@ -7459,7 +7472,8 @@
           "memorySize": "16 GB",
           "memoryType": "GDDR6",
           "memoryBus": "256-bit",
-          "bandwidth": "576 GB/s"
+          "bandwidth": "576 GB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "GIGABYTE RX 9070 16GB",
@@ -7572,7 +7586,7 @@
           "price": 240000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/asus-prime-radeon-rx-9070-16gb-gddr6-oc-edition-graphics-card/",
-          "availability": "available",
+          "availability": "not available",
           "tdp": 220,
           "company": "AMD",
           "powerConnectors": "2x 8-pin",
@@ -7756,17 +7770,18 @@
         {
           "Name": "GIGABYTE RX 9070 XT 16GB",
           "storeName": "Zah Computers",
-          "price": 264000.0,
-          "previousprice": null,
+          "price": 310000.0,
+          "previousprice": 264000.0,
           "url": "https://zahcomputers.pk/product/gigabyte-radeon-rx-9070-xt-gaming-oc-16g-graphics-card/",
-          "availability": "not available",
+          "availability": "available",
           "tdp": 304,
           "company": "AMD",
           "powerConnectors": "2x 8-pin",
           "memorySize": "16 GB",
           "memoryType": "GDDR6",
           "memoryBus": "256-bit",
-          "bandwidth": "640 GB/s"
+          "bandwidth": "640 GB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "GIGABYTE RX 9070 XT 16GB",
@@ -8461,17 +8476,18 @@
         {
           "Name": "ASUS PRIME RTX 5070 TI 16GB",
           "storeName": "Zah Computers",
-          "price": 400000.0,
-          "previousprice": null,
+          "price": 420000.0,
+          "previousprice": 400000.0,
           "url": "https://zahcomputers.pk/product/asus-prime-geforce-rtx-5070-ti-16gb-256-bit-gddr7-pci-express-5-0-dlss-4-0-graphics-card/",
-          "availability": "unknown",
+          "availability": "available",
           "tdp": 300.0,
           "company": "Nvidia",
           "powerConnectors": "1x 12VHPWR",
           "memorySize": "16 GB",
           "memoryType": "GDDR7",
           "memoryBus": "256-bit",
-          "bandwidth": "896 GB/s"
+          "bandwidth": "896 GB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "MSI RTX 5070TI",
@@ -8491,17 +8507,18 @@
         {
           "Name": "PALIT RTX 5070 TI 16GB",
           "storeName": "Zah Computers",
-          "price": 355000.0,
-          "previousprice": null,
+          "price": 375000.0,
+          "previousprice": 355000.0,
           "url": "https://zahcomputers.pk/product/palit-geforce-rtx-5070-ti-gamingpro-s-16gb-gddr7-graphics-card/",
-          "availability": "available",
+          "availability": "not available",
           "tdp": 300,
           "company": "Nvidia",
           "powerConnectors": "1x 12VHPWR",
           "memorySize": "16 GB",
           "memoryType": "GDDR7",
           "memoryBus": "256-bit",
-          "bandwidth": "896 GB/s"
+          "bandwidth": "896 GB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "GALAX RTX 5070 TI 16GB",
@@ -9004,7 +9021,7 @@
           "price": 475000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-5080-windforce-oc-sff-16gb-gddr7-vram-pcie-5-0-x16-interface-graphics-card/",
-          "availability": "available",
+          "availability": "not available",
           "tdp": 360,
           "company": "Nvidia",
           "powerConnectors": "1x 12VHPWR",
@@ -9092,17 +9109,18 @@
         {
           "Name": "Asus ROG Astral  RTX 5080 16GB ",
           "storeName": "Zah Computers",
-          "price": 680000.0,
-          "previousprice": null,
+          "price": 690000.0,
+          "previousprice": 680000.0,
           "url": "https://zahcomputers.pk/product/asus-rog-astral-geforce-rtx-5080-16gb-gddr7-oc-edition-graphics-card/",
-          "availability": "available",
+          "availability": "not available",
           "tdp": 360.0,
           "company": "Nvidia",
           "powerConnectors": "1x 12VHPWR",
           "memorySize": "16 GB",
           "memoryType": "GDDR7",
           "memoryBus": "256-bit",
-          "bandwidth": "960 GB/s"
+          "bandwidth": "960 GB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "Asus ROG Astral GeForce RTX 5080 16GB ",
@@ -9241,17 +9259,18 @@
         {
           "Name": "MSI RTX 5090 32GB",
           "storeName": "Zah Computers",
-          "price": 950000.0,
-          "previousprice": null,
+          "price": 3200000.0,
+          "previousprice": 950000.0,
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-5090-ventus-3x-oc-32gb-gddr7-pcie-5-0-x16-graphics-card/",
-          "availability": "not available",
+          "availability": "available",
           "tdp": 575,
           "company": "Nvidia",
           "powerConnectors": "1x 12VHPWR",
           "memorySize": "32 GB",
           "memoryType": "GDDR7",
           "memoryBus": "512-bit",
-          "bandwidth": "1792 GB/s"
+          "bandwidth": "1792 GB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "MSI RTX 5090 32GB",
@@ -9655,7 +9674,7 @@
           "price": 650000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/pny-quadro-nvidia-ampere-architecture-pro-rtxa5000-24gb-gddr6-vram-graphics-card/",
-          "availability": "unknown",
+          "availability": "not available",
           "tdp": 230,
           "company": "Nvidia",
           "powerConnectors": "1x 8-pin",
@@ -9807,7 +9826,7 @@
           "price": 132000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/amd-ryzen-7-9800x3d-4-7-ghz-eight-core-am5-processor/",
-          "availability": "unknown",
+          "availability": "available",
           "Socket": "AM5",
           "Foundry": "AMD",
           "Frequency": "4.7 GHz / 5.2 GHz",
@@ -10437,7 +10456,7 @@
           "price": 85000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/amd-ryzen-7-9700x-3-8-ghz-8-core-am5-processor-tray/",
-          "availability": "unknown",
+          "availability": "not available",
           "Socket": "AM5",
           "Foundry": "AMD",
           "Frequency": "3.8 GHz / 5.5 GHz",
@@ -11128,7 +11147,7 @@
           "price": 155000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/amd-ryzen-9-7950x-4-5-ghz-16-core-am5-processor/",
-          "availability": "unknown",
+          "availability": "not available",
           "Socket": "AM5",
           "Foundry": "AMD",
           "Frequency": "4.5 GHz / 5.7 GHz",
@@ -11468,8 +11487,8 @@
         {
           "Name": "RYZEN 5 7500F",
           "storeName": "Zah Computers",
-          "price": 36999.0,
-          "previousprice": null,
+          "price": 32999.0,
+          "previousprice": 36999.0,
           "url": "https://zahcomputers.pk/product/amd-ryzen-5-7500f-zen-4-cpu-processor-tray/",
           "availability": "available",
           "Socket": "AM5",
@@ -11477,7 +11496,8 @@
           "Frequency": "3.7 GHz / 5.0 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5200"
+          "Memory Support": "DDR5-5200",
+          "updatedAt": 1793534034
         },
         {
           "Name": "RYZEN 5 7500F",
@@ -11636,8 +11656,8 @@
         {
           "Name": "RYZEN 5 5600X",
           "storeName": "Zah Computers",
-          "price": 38999.0,
-          "previousprice": null,
+          "price": 35999.0,
+          "previousprice": 38999.0,
           "url": "https://zahcomputers.pk/product/amd-ryzen-5-5600x-processor-6c-12t-35mb-cache-up-to-4-6-ghz-max-boost-tray/",
           "availability": "available",
           "Socket": "AM4",
@@ -11645,7 +11665,8 @@
           "Frequency": "3.7 GHz / 4.6 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 4.0",
-          "Memory Support": "DDR4-3200"
+          "Memory Support": "DDR4-3200",
+          "updatedAt": 1793534034
         },
         {
           "Name": "RYZEN 5 5600X",
@@ -11730,7 +11751,7 @@
           "price": 18500.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/amd-ryzen-5-3600-desktop-processor-tray/",
-          "availability": "unknown",
+          "availability": "not available",
           "Socket": "AM4",
           "Foundry": "AMD",
           "Frequency": "3.6 GHz / 4.2 GHz",
@@ -12085,8 +12106,8 @@
         {
           "Name": "RYZEN 5 5600",
           "storeName": "Zah Computers",
-          "price": 35999.0,
-          "previousprice": null,
+          "price": 33999.0,
+          "previousprice": 35999.0,
           "url": "https://zahcomputers.pk/product/amd-ryzen-5-5600-tray-processor/",
           "availability": "available",
           "Socket": "AM4",
@@ -12094,7 +12115,8 @@
           "Frequency": "3.5 GHz / 4.4 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 4.0",
-          "Memory Support": "DDR4-3200"
+          "Memory Support": "DDR4-3200",
+          "updatedAt": 1793534034
         },
         {
           "Name": "RYZEN 5 5600",
@@ -12403,7 +12425,7 @@
           "price": 35000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/intel-core-i5-13400f-processor-tray/",
-          "availability": "unknown",
+          "availability": "not available",
           "Socket": "LGA1700",
           "Foundry": "Intel",
           "Frequency": "2.5 GHz / 4.6 GHz",
@@ -14631,7 +14653,7 @@
           "price": 46799.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/maxsun-terminator-b760m-d4-wifi6e-ddr4-intel-12-13-14th-gen-microatx-motherboard/",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "LGA1700",
           "Chipset Model": "B760",
           "Memory Generation": "DDR4",
@@ -17565,7 +17587,7 @@
           "price": 39000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/msi-pro-b550m-pro-vdh-am4-amd-b550-sata-6gb-s-micro-atx-amd-motherboard/",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "AM4",
           "Chipset Model": "B550",
           "Memory Generation": "DDR4",
@@ -19449,8 +19471,8 @@
         {
           "Name": "Gigabyte H610M H V3 DDR4 Motherboard",
           "storeName": "Zah Computers",
-          "price": 26399.0,
-          "previousprice": null,
+          "price": 25500.0,
+          "previousprice": 26399.0,
           "url": "https://zahcomputers.pk/product/gigabyte-h610m-h-v3-ddr4-with-411-hybrid-phases-digital-vrm-design-pcie-4-0-design-gen3-x4-m-2-anti-sulfur-resistor-smart-fan-6-motherboard/",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -19459,7 +19481,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "3200 MHz",
           "PCIe Slot Generation": "PCIe 4.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793534034
         },
         {
           "Name": "Gigabyte H610M-H V3 DDR4 Motherboard",
@@ -19672,8 +19695,8 @@
         {
           "Name": "MSI PRO H610M-S Motherboard Micro-ATX – Supports Intel Core 14th 13th and 12th Gen Processors LGA 1700 – DDR5 Memory Boost 5600MHz/MAX PCIe 4.0 x16 Slot M.2 Gen3 Slot",
           "storeName": "Zah Computers",
-          "price": 24999.0,
-          "previousprice": null,
+          "price": 24000.0,
+          "previousprice": 24999.0,
           "url": "https://zahcomputers.pk/product/msi-pro-h610m-s-motherboard-micro-atx-supports-intel-core-14th-13th-and-12th-gen-processors-lga-1700-ddr5-memory-boost-5600mhz-max-pcie-4-0-x16-slot-m-2-gen3-slot/",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -19682,7 +19705,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "4800 MHz",
           "PCIe Slot Generation": "PCIe 4.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793534034
         }
       ]
     },
@@ -19806,8 +19830,8 @@
         {
           "Name": "Asus Prime H610M-K D5 Intel® H610 (LGA 1700) micro-ATX motherboard, DDR5, PCIe 4.0, M.2 slot, Realtek 1 Gb Ethernet, HDMI™, VGA, USB 3.2 Gen 1, SATA 6 Gbps, Addressable Gen 2 headers, Aura Sync",
           "storeName": "Zah Computers",
-          "price": 25000.0,
-          "previousprice": null,
+          "price": 24800.0,
+          "previousprice": 25000.0,
           "url": "https://zahcomputers.pk/product/asus-prime-h610m-k-d5-intel-h610-lga-1700-micro-atx-motherboard-ddr5-pcie-4-0-m-2-slot-realtek-1-gb-ethernet-hdmi-vga-usb-3-2-gen-1-sata-6-gbps-addressable-gen-2-headers-aur/",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -19816,7 +19840,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "4800 MHz",
           "PCIe Slot Generation": "PCIe 4.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793534034
         },
         {
           "Name": "ASUS H610M-K ARGB Motherboard – DDR5",
@@ -19851,8 +19876,8 @@
         {
           "Name": "Gigabyte H610M K DDR5 Intel LGA1700 MicroATX Motherboard",
           "storeName": "Zah Computers",
-          "price": 26899.0,
-          "previousprice": null,
+          "price": 25500.0,
+          "previousprice": 26899.0,
           "url": "https://zahcomputers.pk/product/gigabyte-h610m-k-ddr5-intel-lga1700-microatx-motherboard/",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -19861,7 +19886,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "4800 MHz",
           "PCIe Slot Generation": "PCIe 4.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793534034
         },
         {
           "Name": "Gigabyte H610M-K DDR5 Motherboard",
@@ -19933,8 +19959,8 @@
         {
           "Name": "Asus Prime H610M-K D4 Intel® H610 (LGA 1700) mic-ATX motherboard with DDR4, PCIe 4.0, M.2 slot, Realtek 1 Gb Ethernet, HDMI®, D-Sub, USB 3.2 Gen 1 ports, SATA 6 Gbps, COM header, RGB header",
           "storeName": "Zah Computers",
-          "price": 24799.0,
-          "previousprice": null,
+          "price": 24000.0,
+          "previousprice": 24799.0,
           "url": "https://zahcomputers.pk/product/asus-prime-h610m-k-d4intel-h610-lga-1700-mic-atx-motherboard-with-ddr4-pcie-4-0-m-2-slot-realtek-1-gb-ethernet-hdmi-d-sub-usb-3-2-gen-1-ports-sata-6-gbps-com-header-rgb-header/",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -19943,13 +19969,14 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "3200 MHz",
           "PCIe Slot Generation": "PCIe 4.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793534034
         },
         {
           "Name": "Gigabyte H610M K DDR4 Motherboard PCIe 4.0* Design, Gen3 x4 M.2, GbE LAN, Anti-Sulfur Resistor, Smart Fan 6",
           "storeName": "Zah Computers",
-          "price": 25799.0,
-          "previousprice": null,
+          "price": 24500.0,
+          "previousprice": 25799.0,
           "url": "https://zahcomputers.pk/product/gigabyte-h610m-k-ddr4-motherboard-pcie-4-0-design-gen3-x4-m-2-gbe-lan-anti-sulfur-resistor-smart-fan-6/",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -19958,7 +19985,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "3200 MHz",
           "PCIe Slot Generation": "PCIe 4.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793534034
         },
         {
           "Name": "Gigabyte H610M-K DDR4 Motherboard",
@@ -20412,7 +20440,7 @@
           "price": 29199.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/asus-prime-b760m-k-d4-lga-1700-matx-motherboard/",
-          "availability": "unknown",
+          "availability": "available",
           "CPU Socket": "LGA1700",
           "Chipset Model": "B760",
           "Memory Generation": "DDR4",
@@ -20803,8 +20831,8 @@
         {
           "Name": "Gigabyte H610M H V2 DDR5 Gen3 x4 M.2, Anti-Sulfur Resistor, Smart Fan 6 Motherboard",
           "storeName": "Zah Computers",
-          "price": 27499.0,
-          "previousprice": null,
+          "price": 26000.0,
+          "previousprice": 27499.0,
           "url": "https://zahcomputers.pk/product/gigabyte-h610m-h-v2-ddr5-with-411-hybrid-phases-digital-vrm-design-pcie-4-0-design-gen3-x4-m-2-anti-sulfur-resistor-smart-fan-6-motherboard/",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -20813,7 +20841,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "4800 MHz",
           "PCIe Slot Generation": "PCIe 4.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793534034
         },
         {
           "Name": "Gigabyte H610M-H V2 DDR5 Motherboard",
@@ -24731,17 +24760,18 @@
         {
           "Name": "MSI MAG Z790 TOMAHAWK WIFI DDR5 LGA 1700  ATX Motherboard",
           "storeName": "Zah Computers",
-          "price": 72500.0,
-          "previousprice": null,
+          "price": 93000.0,
+          "previousprice": 72500.0,
           "url": "https://zahcomputers.pk/product/msi-mag-z790-tomahawk-wifi-ddr5-lga-1700-atx-motherboard/",
-          "availability": "not available",
+          "availability": "available",
           "CPU Socket": "LGA1700",
           "Chipset Model": "Z790",
           "Memory Generation": "DDR5",
           "Maximum Capacity": "192 GB",
           "Maximum Speed": "7800+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin (or 8+4)"
+          "powerConnectors": "24-pin + 8-pin (or 8+4)",
+          "updatedAt": 1793534034
         },
         {
           "Name": "MSI MAG Z790 TOMAHAWK MAX WIFI LGA 1700 ATX Motherboard",
@@ -27201,8 +27231,8 @@
         {
           "Name": "ASUS ROG Crosshair X870E Dark Hero ATX Gaming Motherboard",
           "storeName": "Zah Computers",
-          "price": 295000.0,
-          "previousprice": null,
+          "price": 298000.0,
+          "previousprice": 295000.0,
           "url": "https://zahcomputers.pk/product/asus-rog-crosshair-x870e-dark-hero-atx-gaming-motherboard/",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -27211,7 +27241,8 @@
           "Maximum Capacity": "256 GB",
           "Maximum Speed": "8000+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin (or 8+4)"
+          "powerConnectors": "24-pin + 8-pin (or 8+4)",
+          "updatedAt": 1793534034
         },
         {
           "Name": "ASUS ROG Crosshair X870E Dark Hero AMD AM5 Gaming Motherboard",
@@ -27352,7 +27383,7 @@
           "price": 29499.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/asus-prime-a620am-k-csm-micro-atx-motherboard/",
-          "availability": "not available",
+          "availability": "available",
           "CPU Socket": "AM5",
           "Chipset Model": "A620",
           "Memory Generation": "DDR5",
@@ -30833,15 +30864,16 @@
         {
           "Name": "Lexar 16GB (1x16GB) 5600MT/s ",
           "storeName": "Zah Computers",
-          "price": 65000.0,
-          "previousprice": null,
+          "price": 71500.0,
+          "previousprice": 65000.0,
           "url": "https://zahcomputers.pk/product/lexar-16gb-1x16gb-5600mt-s-ddr5-udimm-desktop-memory/",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "SODIMM",
           "Clock Speed": "5600 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "5600 MHz"
+          "Maximum Speed": "5600 MHz",
+          "updatedAt": 1793534034
         },
         {
           "Name": "Lexar SODIMM 16GB DDR5 RAM 5600 MHz ",
@@ -30849,7 +30881,7 @@
           "price": 65000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/lexar-sodimm-16gb-ddr5-ram-5600-mhz-laptop-ram-memory/",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "SODIMM",
           "Clock Speed": "5600 MHz",
@@ -30964,15 +30996,16 @@
         {
           "Name": "XPG Lancer Blade RGB DDR5 6000MHz",
           "storeName": "Zah Computers",
-          "price": 95000.0,
-          "previousprice": null,
+          "price": 400000.0,
+          "previousprice": 95000.0,
           "url": "https://zahcomputers.pk/product/xpg-lancer-blade-rbg-ddr5-6000mhz-cl30-64gb-2x32gb-pc5-48000-ram-288-pins-udimm-desktop-memory-kit-black-heatsink/",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "64 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1793534034
         },
         {
           "Name": "XPG Lancer Blade RGB DDR5 6000MHz",
@@ -31271,15 +31304,16 @@
         {
           "Name": "ADATA 16GB 5600MHz",
           "storeName": "Zah Computers",
-          "price": 63000.0,
-          "previousprice": null,
+          "price": 69500.0,
+          "previousprice": 63000.0,
           "url": "https://zahcomputers.pk/product/adata-16gb-5600mhz-c46-ddr5-u-dimm-desktop-memory/",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "5600 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "5600 MHz"
+          "Maximum Speed": "5600 MHz",
+          "updatedAt": 1793534034
         },
         {
           "Name": "ADATA 16GB 5600MHz",
@@ -31563,7 +31597,7 @@
           "price": 65000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/v-color-prism-pro-rgb-32gb16gbx2ddr4-dram-3600mhz-memory-kit-silver-copper-alloy/",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3600 MHz",
@@ -31658,28 +31692,30 @@
         {
           "Name": "XPG Spectrix D35G RGB 16GB (2x8GB) 3200MHz",
           "storeName": "Zah Computers",
-          "price": 43999.0,
-          "previousprice": null,
+          "price": 45000.0,
+          "previousprice": 43999.0,
           "url": "https://zahcomputers.pk/product/xpg-spectrix-d35g-rgb-16gb-2x8gb-3200mhz-c18-ddr4-dram-desktop-memory-white/",
           "availability": "available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "3200 MHz"
+          "Maximum Speed": "3200 MHz",
+          "updatedAt": 1793534034
         },
         {
           "Name": "XPG Spectrix D35G RGB 16GB (2x8GB) 3200MHz",
           "storeName": "Zah Computers",
-          "price": 43999.0,
-          "previousprice": null,
+          "price": 45000.0,
+          "previousprice": 43999.0,
           "url": "https://zahcomputers.pk/product/xpg-spectrix-d35g-rgb-16gb-2x8gb-3200mhz-c18-ddr4-dram-desktop-memory-black/",
           "availability": "available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "3200 MHz"
+          "Maximum Speed": "3200 MHz",
+          "updatedAt": 1793534034
         }
       ]
     },
@@ -32104,15 +32140,16 @@
         {
           "Name": "Lexar 16GB 3200 MHz",
           "storeName": "Zah Computers",
-          "price": 7900.0,
-          "previousprice": null,
+          "price": 32000.0,
+          "previousprice": 7900.0,
           "url": "https://zahcomputers.pk/product/lexar-16gb-ld4au016g-b3200gsst-dram-ddr4-3200-mhz-udimm-desktop-memory/",
           "availability": "available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "3200 MHz"
+          "Maximum Speed": "3200 MHz",
+          "updatedAt": 1793534034
         }
       ]
     },
@@ -32164,15 +32201,16 @@
         {
           "Name": "ADATA Premier 16GB 3200MHz ",
           "storeName": "Zah Computers",
-          "price": 32000.0,
-          "previousprice": null,
+          "price": 33000.0,
+          "previousprice": 32000.0,
           "url": "https://zahcomputers.pk/product/adata-premier-16gb-3200mhz-c22-ddr4-u-dimm-memory/",
           "availability": "available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "3200 MHz"
+          "Maximum Speed": "3200 MHz",
+          "updatedAt": 1793534034
         },
         {
           "Name": "ADATA Premier 16GB 3200MHz ",
@@ -33125,7 +33163,7 @@
           "price": 29999.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/hiksemi-hiker-16gb-ddr4-3200mhz-udimm-memory/",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
@@ -33831,7 +33869,7 @@
           "price": 58000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/hiksemi-hiker-16gb-ddr5-5600mhz-udimm-desktop-memory/",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "5600 MHz",
@@ -33973,15 +34011,16 @@
         {
           "Name": "Kingston FURY Beast 16GB 4800MHz",
           "storeName": "Zah Computers",
-          "price": 56000.0,
-          "previousprice": null,
+          "price": 66000.0,
+          "previousprice": 56000.0,
           "url": "https://zahcomputers.pk/product/kingston-fury-beast-16gb-288-pin-pc-ram-ddr5-4800-pc5-38400-desktop-memory/",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1793534034
         }
       ]
     },
@@ -36489,7 +36528,7 @@
           "price": 58000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/apacer-16gb-ddr5-5600mhz-desktop-memory/",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "5600 MHz",
@@ -38122,16 +38161,17 @@
         {
           "Name": "Netac NVMe SSD N930E PRO 256GB M.2 2280 PCIe",
           "storeName": "Zah Computers",
-          "price": 11500.0,
-          "previousprice": null,
+          "price": 13500.0,
+          "previousprice": 11500.0,
           "url": "https://zahcomputers.pk/product/netac-nvme-ssd-n930e-pro-256gb-m-2-2280-pcie/",
-          "availability": "not available",
+          "availability": "available",
           "Interface": "PCIe",
           "Protocol": "NVMe",
           "Capacity": "256 GB",
           "Form Factor": "M.2 2280",
           "Sequential Read": "Unknown",
-          "Sequential Write": "Unknown"
+          "Sequential Write": "Unknown",
+          "updatedAt": 1793534034
         }
       ]
     },
@@ -38978,8 +39018,8 @@
         {
           "Name": "Lexar NQ780 1TB Gen4 NVMe M.2 SSD",
           "storeName": "Zah Computers",
-          "price": 39000.0,
-          "previousprice": null,
+          "price": 40000.0,
+          "previousprice": 39000.0,
           "url": "https://zahcomputers.pk/product/lexar-nq780-1tb-gen4-nvme-m-2-ssd/",
           "availability": "available",
           "Interface": "PCIe",
@@ -38987,7 +39027,8 @@
           "Capacity": "1 TB",
           "Form Factor": "M.2 2280",
           "Sequential Read": "5000-7000 MB/s",
-          "Sequential Write": "4000-6500 MB/s"
+          "Sequential Write": "4000-6500 MB/s",
+          "updatedAt": 1793534034
         },
         {
           "Name": "Lexar NQ780 1TB NVMe SSD | PCIe Gen4 (6500MB/s)",
@@ -41677,8 +41718,8 @@
         {
           "Name": "Seagate SkyHawk 4TB  Surveillance ",
           "storeName": "Zah Computers",
-          "price": 40000.0,
-          "previousprice": null,
+          "price": 10000.0,
+          "previousprice": 40000.0,
           "url": "https://zahcomputers.pk/product/seagate-skyhawk-st4000vx015-4tb-surveillance-3-5-sata-hard-drive-pulled/",
           "availability": "not available",
           "Interface": "SATA",
@@ -41686,7 +41727,8 @@
           "Capacity": "4 TB",
           "Form Factor": "2.5-inch",
           "Sequential Read": "Unknown",
-          "Sequential Write": "Unknown"
+          "Sequential Write": "Unknown",
+          "updatedAt": 1793534034
         },
         {
           "Name": "Seagate SkyHawk  4TB ",
@@ -42051,7 +42093,7 @@
           "price": 58000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/seagate-ironwolf-se6000vn001-6tb-nas-3-5-sata-hard-drive/",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "SATA",
           "Protocol": "SATA III (6Gb/s)",
           "Capacity": "6 TB",
@@ -42163,7 +42205,7 @@
           "price": 68999.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/wd-red-plus-6tb-3-5-nas-hard-drive-sata-3-5-inch-5640-rpm/",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "Unknown",
           "Protocol": "Unknown",
           "Capacity": "6 TB",
@@ -42737,7 +42779,7 @@
           "price": 10000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/lexar-ns100-128gb-2-5-sata-iii-ssd/",
-          "availability": "unknown",
+          "availability": "available",
           "Interface": "SATA",
           "Protocol": "SATA III (6Gb/s)",
           "Capacity": "128 GB",
@@ -43676,7 +43718,7 @@
           "price": 40000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/lexar-1tb-sl300-usb-3-2-gen-2-portable-ssd/",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "Unknown",
           "Protocol": "Unknown",
           "Capacity": "1 TB",
@@ -44401,8 +44443,8 @@
         {
           "Name": "Lexar NQ780 2TB Internal SSD ",
           "storeName": "Zah Computers",
-          "price": 75000.0,
-          "previousprice": null,
+          "price": 79000.0,
+          "previousprice": 75000.0,
           "url": "https://zahcomputers.pk/product/lexar-nq780-2tb-internal-ssd/",
           "availability": "available",
           "Interface": "Unknown",
@@ -44410,7 +44452,8 @@
           "Capacity": "2 TB",
           "Form Factor": "Unknown",
           "Sequential Read": "Unknown",
-          "Sequential Write": "Unknown"
+          "Sequential Write": "Unknown",
+          "updatedAt": 1793534034
         }
       ]
     },
@@ -44457,8 +44500,8 @@
         {
           "Name": "Lexar NQ100 2TB SSD ",
           "storeName": "Zah Computers",
-          "price": 32000.0,
-          "previousprice": null,
+          "price": 64000.0,
+          "previousprice": 32000.0,
           "url": "https://zahcomputers.pk/product/lexar-nq100-2tb-ssd-sata-iii-6gb-s-2-5-internal-ssd-up-to-550mb-s-internal-solid-state-drive-for-pc-laptop-and-desktop/",
           "availability": "available",
           "Interface": "Unknown",
@@ -44466,7 +44509,8 @@
           "Capacity": "2 TB",
           "Form Factor": "Unknown",
           "Sequential Read": "Unknown",
-          "Sequential Write": "Unknown"
+          "Sequential Write": "Unknown",
+          "updatedAt": 1793534034
         }
       ]
     },
@@ -44548,8 +44592,8 @@
         {
           "Name": "Lexar NQ790 2TB Gen4 M.2 2280 NVMe SSD",
           "storeName": "Zah Computers",
-          "price": 65000.0,
-          "previousprice": null,
+          "price": 76000.0,
+          "previousprice": 65000.0,
           "url": "https://zahcomputers.pk/product/lexar-nq790-2tb-gen4-m-2-2280-nvme-ssd/",
           "availability": "not available",
           "Interface": "PCIe",
@@ -44557,7 +44601,8 @@
           "Capacity": "2 TB",
           "Form Factor": "M.2 2280",
           "Sequential Read": "5000-7000 MB/s",
-          "Sequential Write": "4000-6500 MB/s"
+          "Sequential Write": "4000-6500 MB/s",
+          "updatedAt": 1793534034
         }
       ]
     },
@@ -45367,8 +45412,8 @@
         {
           "Name": "Lenovo LN950 4TB M.2 NVMe PCIe Gen4 x4 Internal SSD ",
           "storeName": "Zah Computers",
-          "price": 125000.0,
-          "previousprice": null,
+          "price": 135000.0,
+          "previousprice": 125000.0,
           "url": "https://zahcomputers.pk/product/enovo-ln950-4tb-m-2-nvme-pcie-gen4-x4-internal-ssd/",
           "availability": "available",
           "Interface": "PCIe",
@@ -45376,7 +45421,8 @@
           "Capacity": "4 TB",
           "Form Factor": "M.2 2280",
           "Sequential Read": "5000-7000 MB/s",
-          "Sequential Write": "4000-6500 MB/s"
+          "Sequential Write": "4000-6500 MB/s",
+          "updatedAt": 1793534034
         }
       ]
     },
@@ -45734,7 +45780,7 @@
           "price": 170000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/samsung-t7-shield-portable-4tb-usb-3-2-gen-2-external-solid-state-drive-black/",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "Unknown",
           "Protocol": "Unknown",
           "Capacity": "4 TB",
@@ -46028,7 +46074,7 @@
           "price": 205000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/samsung-4tb-990-pro-pcie-4-0-x4-m-2-internal-ssd/",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "PCIe",
           "Protocol": "NVMe PCIe 4.0 x4",
           "Capacity": "4 TB",
@@ -46921,8 +46967,8 @@
         {
           "Name": "Sandisk Extreme E61 1TB External SSD",
           "storeName": "Zah Computers",
-          "price": 52000.0,
-          "previousprice": null,
+          "price": 55000.0,
+          "previousprice": 52000.0,
           "url": "https://zahcomputers.pk/product/sandisk-extreme-e61-1tb-external-ssd/",
           "availability": "available",
           "Interface": "Unknown",
@@ -46930,7 +46976,8 @@
           "Capacity": "1 TB",
           "Form Factor": "Unknown",
           "Sequential Read": "Unknown",
-          "Sequential Write": "Unknown"
+          "Sequential Write": "Unknown",
+          "updatedAt": 1793534034
         }
       ]
     },
@@ -47071,7 +47118,7 @@
           "price": 13200.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/amaze-a227-thunderbolt-4-m-2-nvme-ssd-enclosure/",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "PCIe",
           "Protocol": "NVMe",
           "Capacity": "Unknown",
@@ -47460,8 +47507,8 @@
         {
           "Name": "Seagate IronWolf 4TB NAS SATA Hard Drive",
           "storeName": "Zah Computers",
-          "price": 49999.0,
-          "previousprice": null,
+          "price": 75000.0,
+          "previousprice": 49999.0,
           "url": "https://zahcomputers.pk/product/seagate-ironwolf-st4000vn006-4tb-nas-3-5-sata-hard-drive/",
           "availability": "available",
           "Interface": "SATA",
@@ -47469,7 +47516,8 @@
           "Capacity": "4 TB",
           "Form Factor": "2.5-inch",
           "Sequential Read": "Unknown",
-          "Sequential Write": "Unknown"
+          "Sequential Write": "Unknown",
+          "updatedAt": 1793534034
         }
       ]
     },
@@ -51920,8 +51968,8 @@
         {
           "Name": "Samsung 2TB 9100 PRO SSD",
           "storeName": "Zah Computers",
-          "price": 125000.0,
-          "previousprice": null,
+          "price": 135000.0,
+          "previousprice": 125000.0,
           "url": "https://zahcomputers.pk/product/samsung-2tb-9100-pro-pcie-5-0-m-2-internal-ssd/",
           "availability": "available",
           "Interface": "Unknown",
@@ -51929,7 +51977,8 @@
           "Capacity": "2 TB",
           "Form Factor": "Unknown",
           "Sequential Read": "Unknown",
-          "Sequential Write": "Unknown"
+          "Sequential Write": "Unknown",
+          "updatedAt": 1793534034
         },
         {
           "Name": "Samsung 9100 PRO 2TB SSD",
@@ -52304,7 +52353,7 @@
           "price": 13000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/gamemax-gp-650b-hw-80-bronze-ultra-stable-smart-fan-and-premium-heat-dissipation-power-supply-white/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "650W"
         },
         {
@@ -52614,7 +52663,7 @@
           "price": 23500.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/thermalright-sg-750-750w-80-plus-gold-fully-modular-atx-3-1-power-supply/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "750W"
         },
         {
@@ -53059,7 +53108,7 @@
           "price": 13000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/thermalright-tb-650s-650w-80-bronze-power-supply/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "650W"
         },
         {
@@ -53937,7 +53986,7 @@
           "price": 13999.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/xpg-probe-700w-80-plus-bronze-power-supply/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "700W"
         }
       ]
@@ -53962,7 +54011,7 @@
           "price": 9999.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/gigabyte-gp-p450b-450-w-atx-12v-v2-31-80-plus-bronze-certified-non-modular-active-pfc-power-supply/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "450W"
         },
         {
@@ -54037,7 +54086,7 @@
           "price": 12500.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/gigabyte-gp-p550ss-550w-80-silver-power-supply/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "550W"
         },
         {
@@ -54577,11 +54626,12 @@
         {
           "Name": "XPG Pylon 750W 80PLUS Bronze ",
           "storeName": "Zah Computers",
-          "price": 17500.0,
-          "previousprice": null,
+          "price": 19000.0,
+          "previousprice": 17500.0,
           "url": "https://zahcomputers.pk/product/xpg-pylon-750w-80plus-bronze-psu-power-supply-unit/",
-          "availability": "not available",
-          "Wattage": "750W"
+          "availability": "available",
+          "Wattage": "750W",
+          "updatedAt": 1793534034
         },
         {
           "Name": "XPG Pylon 750W 80 Plus Bronze",
@@ -54772,11 +54822,12 @@
         {
           "Name": "Thermalright KG-850 850W 80 Plus Gold ",
           "storeName": "Zah Computers",
-          "price": 23599.0,
-          "previousprice": null,
+          "price": 23500.0,
+          "previousprice": 23599.0,
           "url": "https://zahcomputers.pk/product/thermalright-kg-850-850w-80-plus-gold-fully-modular-power-supply/",
-          "availability": "not available",
-          "Wattage": "850W"
+          "availability": "available",
+          "Wattage": "850W",
+          "updatedAt": 1793534034
         },
         {
           "Name": "Thermalright KG-850-W 850W 80 Plus Gold White",
@@ -54886,7 +54937,7 @@
           "price": 26799.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/thermaltake-toughpower-gt-850w-atx-3-1-standard-power-supply-80-plus-gold-efficiency-fully-modular-smart-zero-fan-native-300w-pcie-5-1-connector-snow/",
-          "availability": "unknown",
+          "availability": "not available",
           "Wattage": "750W"
         },
         {
@@ -54895,7 +54946,7 @@
           "price": 25499.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/thermaltake-toughpower-gt-850w-atx-3-1-standard-power-supply-80-plus-gold-efficiency-fully-modular-smart-zero-fan-native-300w-pcie-5-1-connector-black/",
-          "availability": "unknown",
+          "availability": "not available",
           "Wattage": "750W"
         },
         {
@@ -54963,7 +55014,7 @@
           "price": 26500.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/xpg-core-reactor-ii-ve-750w-atx3-0-80-plus-gold-atx-fully-modular-power-supply/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "750W"
         },
         {
@@ -55033,7 +55084,7 @@
           "price": 29999.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/cooler-master-elite-gold-850w-80-gold-fully-modular-atx-3-1-power-supply-black/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "850W"
         },
         {
@@ -57698,7 +57749,7 @@
           "price": 32499.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/lian-li-edge-gold-850w-fully-modular-80-gold-power-supply-white/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "850W"
         },
         {
@@ -60200,7 +60251,7 @@
           "price": 45999.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/lian-li-sx-platinum-1200w-sxp-compact-atx-form-factor-power-supply-white-copy/",
-          "availability": "not available",
+          "availability": "available",
           "Wattage": "1200W"
         },
         {
