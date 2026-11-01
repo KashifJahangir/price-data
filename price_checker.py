@@ -63,6 +63,11 @@ def get_selenium_driver():
         from webdriver_manager.chrome import ChromeDriverManager
 
         options = Options()
+        
+        # --- ADD THIS EXACT LINE TO HIDE THE BROWSER ---
+        options.add_argument("--headless=new") 
+        # -----------------------------------------------
+
         options.add_argument("--window-size=1400,2000")
         options.add_argument("--disable-gpu")
         options.add_argument("--no-sandbox")
@@ -158,7 +163,8 @@ def warm_up_domain(session, url):
     _warmed_up_domains.add(domain)
     homepage = f"{urlparse(url).scheme}://{domain}/"
     try:
-        session.get(homepage, headers=HEADERS, timeout=10)
+        # Changed: Removed headers=HEADERS to let curl_cffi use native impersonation
+        session.get(homepage, timeout=10)
         time.sleep(0.3)
     except Exception:
         pass
@@ -168,7 +174,8 @@ def fetch_with_retries(session, url, retries=1, backoff=1.5):
     last_exc = None
     for attempt in range(retries + 1):
         try:
-            resp = session.get(url, headers=HEADERS, timeout=15)
+            # Changed: Removed headers=HEADERS to let curl_cffi use native impersonation
+            resp = session.get(url, timeout=15)
             resp.raise_for_status()
             return resp
         except Exception as e:
@@ -510,7 +517,8 @@ def main():
         with open(args.json_file + ".bak", "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
 
-    session = requests.Session(impersonate="chrome")
+    # Changed: Set specific Chrome version for perfect TLS impersonation
+    session = requests.Session(impersonate="chrome120")
     updated, unchanged, failed = 0, 0, 0
     processed = []
 
