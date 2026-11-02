@@ -9707,8 +9707,8 @@
         {
           "Name": "RYZEN 5 5600XT",
           "storeName": "RB Tech N Games",
-          "price": 39499.0,
-          "previousprice": null,
+          "price": 38499.0,
+          "previousprice": 39499.0,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-5600xt-am4-desktop-processor-tray/",
           "availability": "available",
           "Socket": "AM4",
@@ -9716,7 +9716,8 @@
           "Frequency": "3.7 GHz / 4.7 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 4.0",
-          "Memory Support": "DDR4-3200"
+          "Memory Support": "DDR4-3200",
+          "updatedAt": 1793615895
         }
       ]
     },
@@ -10130,8 +10131,8 @@
         {
           "Name": "RYZEN 5 7600X",
           "storeName": "RB Tech N Games",
-          "price": 48499.0,
-          "previousprice": null,
+          "price": 44999.0,
+          "previousprice": 48499.0,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-7600x-4-7ghz-6-core-am5-processor/",
           "availability": "available",
           "Socket": "AM5",
@@ -10139,7 +10140,8 @@
           "Frequency": "4.7 GHz / 5.3 GHz",
           "TDP": "105W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5200"
+          "Memory Support": "DDR5-5200",
+          "updatedAt": 1793616049
         },
         {
           "Name": "RYZEN 5 7600X",
@@ -11473,8 +11475,8 @@
         {
           "Name": "RYZEN 5 7500F",
           "storeName": "RB Tech N Games",
-          "price": 33499.0,
-          "previousprice": null,
+          "price": 30999.0,
+          "previousprice": 33499.0,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-7500f-am5-6c-12t-processor-tray-new/",
           "availability": "available",
           "Socket": "AM5",
@@ -11482,7 +11484,8 @@
           "Frequency": "3.7 GHz / 5.0 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5200"
+          "Memory Support": "DDR5-5200",
+          "updatedAt": 1793616745
         },
         {
           "Name": "RYZEN 5 7500F",
@@ -11582,7 +11585,7 @@
           "price": 50000.0,
           "previousprice": null,
           "url": "https://amdhouse.pk/product/amd-ryzen-9-3900-chip-only/",
-          "availability": "not available",
+          "availability": "available",
           "Socket": "AM4",
           "Foundry": "AMD",
           "Frequency": "3.1 GHz / 4.3 GHz",
@@ -11875,8 +11878,8 @@
         {
           "Name": "RYZEN 7 5800X",
           "storeName": "RB Tech N Games",
-          "price": 54999.0,
-          "previousprice": null,
+          "price": 53499.0,
+          "previousprice": 54999.0,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-7-5800x-processor-without-cooler/",
           "availability": "available",
           "Socket": "AM4",
@@ -11884,7 +11887,8 @@
           "Frequency": "3.8 GHz / 4.7 GHz",
           "TDP": "105W",
           "PCI-Express": "PCIe 4.0",
-          "Memory Support": "DDR4-3200"
+          "Memory Support": "DDR4-3200",
+          "updatedAt": 1793616965
         },
         {
           "Name": "RYZEN 7 5800X",
@@ -12015,8 +12019,8 @@
         {
           "Name": "RYZEN 7 5700X",
           "storeName": "RB Tech N Games",
-          "price": 49499.0,
-          "previousprice": null,
+          "price": 47499.0,
+          "previousprice": 49499.0,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-7-5700x-tray-processor/",
           "availability": "available",
           "Socket": "AM4",
@@ -12024,7 +12028,8 @@
           "Frequency": "3.4 GHz / 4.6 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 4.0",
-          "Memory Support": "DDR4-3200"
+          "Memory Support": "DDR4-3200",
+          "updatedAt": 1793617039
         },
         {
           "Name": "RYZEN 7 5700X",
@@ -12733,7 +12738,7 @@
           "price": 72000.0,
           "previousprice": null,
           "url": "https://amdhouse.pk/product/intel-core-i7-12700kf-chip-only-new-in-10-months-warranty/",
-          "availability": "not available",
+          "availability": "available",
           "Socket": "LGA1700",
           "Foundry": "Intel",
           "Frequency": "3.6 GHz / 5.0 GHz",
