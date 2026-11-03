@@ -30208,15 +30208,16 @@
         {
           "Name": "Corsair Vengeance RGB 32GB (2x16GB) 6000MHz",
           "storeName": "Junaid Tech",
-          "price": 134999.0,
-          "previousprice": null,
+          "price": 167999.0,
+          "previousprice": 134999.0,
           "url": "https://www.junaidtech.pk/product/corsair-vengeance-rgb-32gb-2x16gb-6000mhz-c36-ddr5-ram-black",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1793701802
         },
         {
           "Name": "Corsair Vengeance 32GB (1x32GB) 6000MHz ",
@@ -31948,15 +31949,16 @@
         {
           "Name": "Corsair Vengeance LPX 32GB (2x16GB) 3200MHz ",
           "storeName": "Junaid Tech",
-          "price": 64999.0,
-          "previousprice": null,
+          "price": 59999.0,
+          "previousprice": 64999.0,
           "url": "https://www.junaidtech.pk/product/corsair-vengeance-lpx-32gb-2x16gb-3200mhz-c16-ddr4-dram-memory-kit-black",
           "availability": "available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "3200 MHz"
+          "Maximum Speed": "3200 MHz",
+          "updatedAt": 1793703760
         },
         {
           "Name": "Corsair Vengeance RGB Pro 32GB (2x16GB) 3200MHz ",
@@ -33369,8 +33371,8 @@
         {
           "Name": "Apacer 32GB 16GBx2 DDR5 6000MHz ",
           "storeName": "AMD House",
-          "price": 140000.0,
-          "previousprice": 113000.0,
+          "price": 145000.0,
+          "previousprice": 140000.0,
           "url": "https://amdhouse.pk/product/apacer-32gb-16gbx2-ddr5-6000mhz-cl38-dual-channel-kit-non-rgb-new/",
           "availability": "available",
           "Memory Generation": "DDR5",
@@ -33378,7 +33380,7 @@
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "32 GB",
           "Maximum Speed": "6000 MHz",
-          "updatedAt": 1793172789
+          "updatedAt": 1793705170
         },
         {
           "Name": "V-Color DDR5 Gaming Memory RGB 32GB(16GBx2) 6000MHz ",
@@ -33924,15 +33926,16 @@
         {
           "Name": "KINGSTON 16GB DDR4 3200MHz ",
           "storeName": "AMD House",
-          "price": 26000.0,
-          "previousprice": null,
+          "price": 28000.0,
+          "previousprice": 26000.0,
           "url": "https://amdhouse.pk/product/kingston-16gb-ddr4-3200mhz-single-stick-new-in-1-year-warranty/",
           "availability": "available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "3200 MHz"
+          "Maximum Speed": "3200 MHz",
+          "updatedAt": 1793705607
         },
         {
           "Name": "Kingston Fury Beast RGB 16GB (2x8GB) 3200MHz t",
@@ -34761,7 +34764,7 @@
           "price": 105000.0,
           "previousprice": null,
           "url": "https://amdhouse.pk/product/transcend-jetram-64gb-ddr4-3200mhz-cl22-32gbx2-dual-channel-package-new-in-10-months-wty/",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
@@ -36513,7 +36516,7 @@
           "price": 114999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/laptops/laptop-ram/crucial-sodimm-32gb-1x32gb-5600mt-s-cl46-ddr5-laptop-memory/",
-          "availability": "not available",
+          "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "SODIMM",
           "Clock Speed": "5600 MHz",
