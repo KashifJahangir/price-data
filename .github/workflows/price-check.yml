@@ -82,10 +82,11 @@ jobs:
               env.write(f"TARGET_CATEGORY={selected_category}\n")
           '
 
-      # Zah Computers is skipped via the --skip-store flag because Cloudflare strictly blocks GitHub's data center IPs.
+      # Zah Computers is skipped because Cloudflare strictly blocks GitHub's data center IPs.
+      # The rest of the stores (Junaid Tech, AMD House, etc.) will update normally for the selected category.
       - name: Run price checker for category
         # xvfb-run creates a fake monitor so the headed Chrome browser doesn't crash
-        run: xvfb-run python price_checker.py products.json --no-backup --delay 2 --category-id "$TARGET_CATEGORY" --skip-store zah
+        run: xvfb-run python price_checker.py products.json --no-backup --delay 2 --category-id "$TARGET_CATEGORY"
 
       - name: Commit and push if prices changed
         run: |
