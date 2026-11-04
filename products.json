@@ -15416,7 +15416,7 @@
           "price": 33000.0,
           "previousprice": null,
           "url": "https://amdhouse.pk/product/colorful-battle-ax-b550m-gaming-wifi6e-v14-new-in-10-months-warranty/",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "AM4",
           "Chipset Model": "B550",
           "Memory Generation": "DDR4",
@@ -16824,8 +16824,8 @@
         {
           "Name": "Maxsun Challenger B450M AMD AM4 microATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 20999.0,
-          "previousprice": null,
+          "price": 19799.0,
+          "previousprice": 20999.0,
           "url": "https://www.junaidtech.pk/product/maxsun-challenger-b450m-microatx-motherboard",
           "availability": "available",
           "CPU Socket": "AM4",
@@ -16834,7 +16834,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "3466+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 3.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793803003
         },
         {
           "Name": "Maxsun Challenger B450M AMD AM4 MicroATX Motherboard",
@@ -19431,8 +19432,8 @@
         {
           "Name": "Maxsun Challenger H610M-H V1 DDR4 Intel Motherboard",
           "storeName": "Junaid Tech",
-          "price": 23999.0,
-          "previousprice": null,
+          "price": 21799.0,
+          "previousprice": 23999.0,
           "url": "https://www.junaidtech.pk/product/maxsun-mschallenger-h610m-h-v1-ddr4-microatx-motherboard",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -19441,7 +19442,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "3200 MHz",
           "PCIe Slot Generation": "PCIe 4.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793803375
         },
         {
           "Name": "Maxsun Challenger H610M-H V1 DDR4 Motherboard",
@@ -20122,8 +20124,8 @@
         {
           "Name": "Maxsun Challenger B760M-N D5 Intel 12/13th Gen microATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 27499.0,
-          "previousprice": null,
+          "price": 25799.0,
+          "previousprice": 27499.0,
           "url": "https://www.junaidtech.pk/product/maxsun-challenger-b760m-n-d5-microatx-motherboard",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -20132,7 +20134,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "5333+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 4.0 / 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793803506
         },
         {
           "Name": "Maxsun Challenger B760M-N D5 V2 Intel 12/13th Gen microATX Motherboard",
@@ -21179,8 +21182,8 @@
         {
           "Name": "MSI Pro B760M-P DDR4 ProSeries Motherboard (Supports 12th/13th/14th Gen Intel Processors, LGA 1700, DDR4, PCIe 4.0, M.2, USB 3.2 Gen2, HDMI/DP, mATX)",
           "storeName": "Junaid Tech",
-          "price": 35999.0,
-          "previousprice": null,
+          "price": 34999.0,
+          "previousprice": 35999.0,
           "url": "https://www.junaidtech.pk/product/msi-pro-b760m-p-ddr4-microatx-motherboard",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -21189,7 +21192,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "5333+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 4.0 / 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793803693
         },
         {
           "Name": "MSI Pro B760M-P M-ATX LGA1700 DDR4 Gaming Motherboard",
@@ -21246,8 +21250,8 @@
         {
           "Name": "MSI Pro B760M-P DDR5 Intel 12/13/14th Gen microATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 35999.0,
-          "previousprice": null,
+          "price": 35499.0,
+          "previousprice": 35999.0,
           "url": "https://www.junaidtech.pk/product/msi-pro-b760m-p-ddr5-microatx-motherboard",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -21256,7 +21260,8 @@
           "Maximum Capacity": "192 GB",
           "Maximum Speed": "6800+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 4.0 / 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793803702
         },
         {
           "Name": "PRO B760M-P DDR5 Motherboard  MSI Intel LGA1700 Board",
@@ -22650,8 +22655,8 @@
         {
           "Name": "MSI PRO B650-S WIFI ATX AM5 DDR5 Gaming Motherboard",
           "storeName": "RB Tech N Games",
-          "price": 51499.0,
-          "previousprice": null,
+          "price": 53499.0,
+          "previousprice": 51499.0,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/msi-pro-b650-s-wifi-atx-am5-ddr5-gaming-motherboard/",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -22660,7 +22665,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "6400+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 4.0 / 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793803846
         },
         {
           "Name": "MSI PRO B650-S WIFI AM5 AMD B650 Ryzen 7000 DDR5 ATX Motherboard",
@@ -22702,8 +22708,8 @@
         {
           "Name": "Maxsun eSport B860M Sniper Wifi DDR5 Intel Ultra Series 2 microATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 49999.0,
-          "previousprice": null,
+          "price": 47799.0,
+          "previousprice": 49999.0,
           "url": "https://www.junaidtech.pk/product/maxsun-esport-b860m-sniper-wifi-ddr5-microatx-motherboard",
           "availability": "available",
           "CPU Socket": "LGA1851",
@@ -22712,7 +22718,8 @@
           "Maximum Capacity": "256 GB",
           "Maximum Speed": "7200+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793803851
         },
         {
           "Name": "Maxsun eSport B860M Sniper Wifi DDR5 Intel Ultra Series 2 microATX Motherboard",
@@ -23228,8 +23235,8 @@
         {
           "Name": "Gigabyte Z790 Eagle DDR5 Intel 12/13/14th Gen ATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 64999.0,
-          "previousprice": null,
+          "price": 72999.0,
+          "previousprice": 64999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-z790-eagle-atx-motherboard",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -23238,7 +23245,8 @@
           "Maximum Capacity": "192 GB",
           "Maximum Speed": "7800+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin (or 8+4)"
+          "powerConnectors": "24-pin + 8-pin (or 8+4)",
+          "updatedAt": 1793803903
         },
         {
           "Name": "Gigabyte Z790 EAGLE AX WIFI DDR5 ATX LGA1700 Gaming Motherboard",
@@ -23800,17 +23808,18 @@
         {
           "Name": "MSI MAG B650 Tomahawk WiFi Gaming Motherboard (AMD Ryzen 9000/8000/7000 Series Processors, AM5, DDR5, PCIe 4.0, M.2, SATA 6Gb/s, USB 3.2 Gen 2, HDMI/DP, Wi-Fi 6E, Bluetooth 5.3, 2.5Gbps LAN, ATX)",
           "storeName": "Junaid Tech",
-          "price": 68799.0,
-          "previousprice": null,
+          "price": 71999.0,
+          "previousprice": 68799.0,
           "url": "https://www.junaidtech.pk/product/msi-mag-b650-tomahawk-wifi-atx-motherboard",
-          "availability": "not available",
+          "availability": "available",
           "CPU Socket": "AM5",
           "Chipset Model": "B650",
           "Memory Generation": "DDR5",
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "6400+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 4.0 / 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1793803953
         },
         {
           "Name": "MSI MAG B650 TOMAHAWK WiFi DDR5 AM5 Motherboard",
@@ -25073,7 +25082,7 @@
           "price": 89999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/msi-pro-x870e-p-wifi-atx-am5-ddr5-gaming-motherboard/",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "AM5",
           "Chipset Model": "X870",
           "Memory Generation": "DDR5",
@@ -25129,8 +25138,8 @@
         {
           "Name": "MSI Pro X870E-S EVO Wifi DDR5 AMD AM5 ATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 90499.0,
-          "previousprice": null,
+          "price": 88999.0,
+          "previousprice": 90499.0,
           "url": "https://www.junaidtech.pk/product/msi-pro-x870es-evo-wifi-ddr5-atx-motherboard",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -25139,7 +25148,8 @@
           "Maximum Capacity": "256 GB",
           "Maximum Speed": "8000+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin (or 8+4)"
+          "powerConnectors": "24-pin + 8-pin (or 8+4)",
+          "updatedAt": 1793804082
         },
         {
           "Name": "MSI PRO X870E-S EVO WIFI AM5 DDR5 WiFi 7 Motherboard",
@@ -25826,8 +25836,8 @@
         {
           "Name": "MSI X870E Gaming Plus WiFi Motherboard",
           "storeName": "Junaid Tech",
-          "price": 98999.0,
-          "previousprice": null,
+          "price": 100499.0,
+          "previousprice": 98999.0,
           "url": "https://www.junaidtech.pk/product/msi-x870e-gaming-plus-wifi-motherboard-atx-am5",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -25836,7 +25846,8 @@
           "Maximum Capacity": "256 GB",
           "Maximum Speed": "8000+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin (or 8+4)"
+          "powerConnectors": "24-pin + 8-pin (or 8+4)",
+          "updatedAt": 1793804155
         },
         {
           "Name": "MSI X870E Gaming Plus WiFi ATX AM5 DDR5 Motherboard",
@@ -26539,8 +26550,8 @@
         {
           "Name": "Gigabyte X870E Aorus Pro Motherboard",
           "storeName": "Junaid Tech",
-          "price": 129999.0,
-          "previousprice": null,
+          "price": 141999.0,
+          "previousprice": 129999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-x870e-aorus-pro-x3d-ice-am5-atx-motherboard",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -26549,7 +26560,8 @@
           "Maximum Capacity": "256 GB",
           "Maximum Speed": "8000+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin (or 8+4)"
+          "powerConnectors": "24-pin + 8-pin (or 8+4)",
+          "updatedAt": 1793804226
         },
         {
           "Name": "Gigabyte X870E Aorus Pro AMD AM5 DDR5 Motherboard",
