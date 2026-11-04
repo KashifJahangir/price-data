@@ -1,8 +1,8 @@
 
 on:
   schedule:
-    # Every day at 03:00 UTC (08:00 PKT) to cycle through categories automatically.
-    - cron: '0 3 * * *'
+    # Every day at 00:00 UTC (05:00 PKT) to cycle through categories automatically.
+    - cron: '0 0 * * *'
   workflow_dispatch:
     inputs:
       category:
@@ -85,7 +85,7 @@ jobs:
       # The rest of the stores (Junaid Tech, AMD House, etc.) will update normally for the selected category.
       - name: Run price checker for category
         # xvfb-run creates a fake monitor so the headed Chrome browser doesn't crash
-        run: xvfb-run python price_checker.py products.json --no-backup --delay 2 --category-id "$TARGET_CATEGORY"--skip-store zah
+        run: xvfb-run python price_checker.py products.json --no-backup --delay 2 --category-id "$TARGET_CATEGORY" --skip-store zah
 
       - name: Commit and push if prices changed
         run: |
