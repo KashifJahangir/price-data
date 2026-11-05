@@ -52128,11 +52128,12 @@
         {
           "Name": "Thermaltake Smart BX3 Bronze 550W ",
           "storeName": "Junaid Tech",
-          "price": 13999.0,
-          "previousprice": null,
+          "price": 12799.0,
+          "previousprice": 13999.0,
           "url": "https://www.junaidtech.pk/product/thermaltake-smart-bx3-bronze-550w-power-supply",
-          "availability": "available",
-          "Wattage": "550W"
+          "availability": "not available",
+          "Wattage": "550W",
+          "updatedAt": 1793854276
         },
         {
           "Name": "Thermaltake Smart BX3 Bronze ",
@@ -53327,7 +53328,7 @@
           "price": 39999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/corsair-rmx-series-rm850x-850w-80-plus-gold-fully-modular-power-supply",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "850W"
         },
         {
@@ -53906,7 +53907,7 @@
           "price": 12799.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/silverstone-strider-650-efa-power-supply-black",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "650W"
         }
       ]
@@ -54022,7 +54023,7 @@
           "price": 9999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/gigabyte-p450b-450w-80-plus-bronze-power-supply",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "450W"
         },
         {
@@ -54255,11 +54256,12 @@
         {
           "Name": "SilverStone Attis 650R 80 PLUS Bronze 650W ",
           "storeName": "RB Tech N Games",
-          "price": 13499.0,
-          "previousprice": null,
+          "price": 15499.0,
+          "previousprice": 13499.0,
           "url": "https://rbtechngames.com/shop-2/computers/power-supplies/silverstone-attis-650r-80-plus-bronze-650w-atx-3-1-power-supply/",
           "availability": "available",
-          "Wattage": "650W"
+          "Wattage": "650W",
+          "updatedAt": 1793854704
         }
       ]
     },
@@ -54330,11 +54332,12 @@
         {
           "Name": "Thermaltake Smart BX3 Bronze 650W - 80 Plus Bronze ",
           "storeName": "Junaid Tech",
-          "price": 16499.0,
-          "previousprice": null,
+          "price": 15799.0,
+          "previousprice": 16499.0,
           "url": "https://www.junaidtech.pk/product/thermaltake-smart-bx3-bronze-650w-psu",
           "availability": "available",
-          "Wattage": "650W"
+          "Wattage": "650W",
+          "updatedAt": 1793854712
         },
         {
           "Name": "Thermaltake Smart BX3 Bronze 650W 80 Plus Bronze",
@@ -54599,7 +54602,7 @@
           "price": 19499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/thermaltake-smart-bx3-750w-80-plus-bronze-psu",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "750W"
         },
         {
@@ -54939,7 +54942,7 @@
           "price": 25999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/thermaltake-toughpower-gt-snow-750w-power-supply",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "750W"
         },
         {
@@ -54948,7 +54951,7 @@
           "price": 28499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/thermaltake-toughpower-gt-snow-850w-atx-3-1-power-supply",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "750W"
         },
         {
@@ -55077,7 +55080,7 @@
           "price": 27499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/cooler-master-mwe-gold-850-v3-nonmodular-power-supply",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "850W"
         },
         {
@@ -55095,7 +55098,7 @@
           "price": 32499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/cooler-master-mwe-gold-850-v3-full-modular-psu",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "850W"
         },
         {
@@ -55650,7 +55653,7 @@
           "price": 39999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/lian-li-sx-platinum-1000w-psu-black",
-          "availability": "not available",
+          "availability": "available",
           "Wattage": "1000W"
         },
         {
@@ -56022,7 +56025,7 @@
           "price": 44999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/super-flower-leadex-vii-platinum-pro-1000w-power-supply",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "1000W"
         },
         {
@@ -56105,11 +56108,12 @@
         {
           "Name": "Thermaltake Toughpower PT 1000W 80 Plus Platinum ",
           "storeName": "Junaid Tech",
-          "price": 46999.0,
-          "previousprice": null,
+          "price": 46799.0,
+          "previousprice": 46999.0,
           "url": "https://www.junaidtech.pk/product/thermaltake-toughpower-pt-1000w-80-plus-platinum-power-supply",
           "availability": "available",
-          "Wattage": "1000W"
+          "Wattage": "1000W",
+          "updatedAt": 1793855080
         },
         {
           "Name": "Thermaltake Toughpower PT 1200W 80 Plus Platinum ",
@@ -56117,7 +56121,7 @@
           "price": 52999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/thermaltake-toughpower-pt-1200w-platinum-power-supply",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "1000W"
         },
         {
@@ -56388,11 +56392,12 @@
         {
           "Name": "Cooler Master MWE Gold 1050 V2",
           "storeName": "Junaid Tech",
-          "price": 52999.0,
-          "previousprice": null,
+          "price": 49799.0,
+          "previousprice": 52999.0,
           "url": "https://www.junaidtech.pk/product/cooler-master-mwe-gold-1050-v2-power-supply",
           "availability": "available",
-          "Wattage": "1050W"
+          "Wattage": "1050W",
+          "updatedAt": 1793855188
         },
         {
           "Name": "Cooler Master MWE Gold 1050 V2  ",
@@ -56456,11 +56461,12 @@
         {
           "Name": "Cooler Master MWE Gold 1250 V2 ",
           "storeName": "Junaid Tech",
-          "price": 54999.0,
-          "previousprice": null,
+          "price": 54799.0,
+          "previousprice": 54999.0,
           "url": "https://www.junaidtech.pk/product/cooler-master-mwe-gold-1250-v2-power-supply",
           "availability": "available",
-          "Wattage": "1250W"
+          "Wattage": "1250W",
+          "updatedAt": 1793855196
         },
         {
           "Name": "Cooler Master MWE Gold 1250 V2",
@@ -56853,7 +56859,7 @@
           "price": 119999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/asus-rog-thor-1000w-platinum-iii-psu",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "1000W"
         },
         {
@@ -60244,7 +60250,7 @@
           "price": 44999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/lian-li-black-sx-platinum-1200w-power-supply",
-          "availability": "not available",
+          "availability": "available",
           "Wattage": "1200W"
         },
         {
