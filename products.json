@@ -15536,8 +15536,8 @@
         {
           "Name": "MAXSUN iCraft B850 AIGA Wifi7 New in 10 Months Warranty",
           "storeName": "AMD House",
-          "price": 73000.0,
-          "previousprice": null,
+          "price": 75000.0,
+          "previousprice": 73000.0,
           "url": "https://amdhouse.pk/product/maxsun-icraft-b850-aiga-wifi7-new-in-10-months-warranty/",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -15546,7 +15546,8 @@
           "Maximum Capacity": "256 GB",
           "Maximum Speed": "7200+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1794025372
         },
         {
           "Name": "Maxsun MS-iCraft B850 AIGA ATX Motherboard",
@@ -15632,8 +15633,8 @@
         {
           "Name": "BIOSTAR A320MH v6.1 (No NVME Slot) Used in 1 Month Warranty no box",
           "storeName": "AMD House",
-          "price": 12500.0,
-          "previousprice": null,
+          "price": 13000.0,
+          "previousprice": 12500.0,
           "url": "https://amdhouse.pk/product/biostar-a320mh-v6-1-no-nvme-slot-used-in-1-month-warranty-no-box/",
           "availability": "available",
           "CPU Socket": "AM4",
@@ -15642,7 +15643,8 @@
           "Maximum Capacity": "64 GB",
           "Maximum Speed": "3200 MHz",
           "PCIe Slot Generation": "PCIe 3.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1794025384
         }
       ]
     },
@@ -15947,7 +15949,7 @@
           "price": 42500.0,
           "previousprice": null,
           "url": "https://amdhouse.pk/product/colorful-battle-ax-b850m-gha-wifi-v14-new-in-10-months-warranty/",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "AM5",
           "Chipset Model": "B850",
           "Memory Generation": "DDR5",
@@ -16977,8 +16979,8 @@
         {
           "Name": "ASUS Prime A320M-F Motherboard Used in 1 Month Warranty",
           "storeName": "AMD House",
-          "price": 13500.0,
-          "previousprice": null,
+          "price": 12500.0,
+          "previousprice": 13500.0,
           "url": "https://amdhouse.pk/product/asus-prime-a320m-f-motherboard-used-in-a-condition-1-month-warranty/",
           "availability": "available",
           "CPU Socket": "AM4",
@@ -16987,7 +16989,8 @@
           "Maximum Capacity": "64 GB",
           "Maximum Speed": "3200 MHz",
           "PCIe Slot Generation": "PCIe 3.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1794025561
         },
         {
           "Name": "Asus Prime A320M-F AMD AM4 microATX Motherboard",
@@ -27367,7 +27370,7 @@
           "price": 47999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/asus-b850m-ayw-gaming-wifi-m-atx-am5-ddr5-gaming-motherboard/",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "AM5",
           "Chipset Model": "B850",
           "Memory Generation": "DDR5",
