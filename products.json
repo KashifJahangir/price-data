@@ -32912,15 +32912,16 @@
         {
           "Name": "Lexar 8GB DDR4 3200MHz ",
           "storeName": "Junaid Tech",
-          "price": 16999.0,
-          "previousprice": null,
+          "price": 15999.0,
+          "previousprice": 16999.0,
           "url": "https://www.junaidtech.pk/product/lexar-8gb-ddr4-3200mhz-sodimm-laptop-memory",
           "availability": "available",
           "Memory Generation": "DDR4",
           "Form Factor": "SODIMM",
           "Clock Speed": "3200 MHz",
           "Maximum Capacity": "8 GB",
-          "Maximum Speed": "3200 MHz"
+          "Maximum Speed": "3200 MHz",
+          "updatedAt": 1794198403
         },
         {
           "Name": "Lexar 8GB DDR4-3200MHz",
@@ -33963,7 +33964,7 @@
           "price": 28000.0,
           "previousprice": 26000.0,
           "url": "https://amdhouse.pk/product/kingston-16gb-ddr4-3200mhz-single-stick-new-in-1-year-warranty/",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
@@ -34549,15 +34550,16 @@
         {
           "Name": "Lexar ARES DDR5 8000MHz 32G",
           "storeName": "AMD House",
-          "price": 140000.0,
-          "previousprice": null,
+          "price": 165000.0,
+          "previousprice": 140000.0,
           "url": "https://amdhouse.pk/product/lexar-ares-ddr5-8000mhz-32gb-16gbx2-xmp-kit-new-in-10-months-warranty/",
-          "availability": "not available",
+          "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "8000 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "8000 MHz"
+          "Maximum Speed": "8000 MHz",
+          "updatedAt": 1794198767
         }
       ]
     },
@@ -35645,7 +35647,7 @@
           "price": 59000.0,
           "previousprice": null,
           "url": "https://amdhouse.pk/product/micron-16gb-8gbx2-ddr5-4800mhz-dual-channel-kit-new-without-packing/",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "4800 MHz",
@@ -36547,15 +36549,16 @@
         {
           "Name": "Crucial SODIMM 32GB (1x32GB) Laptop Memory",
           "storeName": "RB Tech N Games",
-          "price": 114999.0,
-          "previousprice": null,
+          "price": 144999.0,
+          "previousprice": 114999.0,
           "url": "https://rbtechngames.com/shop-2/laptops/laptop-ram/crucial-sodimm-32gb-1x32gb-5600mt-s-cl46-ddr5-laptop-memory/",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "SODIMM",
           "Clock Speed": "5600 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "5600 MHz"
+          "Maximum Speed": "5600 MHz",
+          "updatedAt": 1794199167
         }
       ]
     },
