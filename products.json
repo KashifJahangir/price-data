@@ -38880,8 +38880,8 @@
         {
           "Name": "Kingston NV3 2TB M.2 2280 NVMe SSD",
           "storeName": "Junaid Tech",
-          "price": 67999.0,
-          "previousprice": null,
+          "price": 70999.0,
+          "previousprice": 67999.0,
           "url": "https://www.junaidtech.pk/product/kingston-nv3-2tb-m-2-ssd",
           "availability": "available",
           "Interface": "PCIe",
@@ -38889,7 +38889,8 @@
           "Capacity": "2 TB",
           "Form Factor": "M.2 2280",
           "Sequential Read": "5000-7000 MB/s",
-          "Sequential Write": "4000-6500 MB/s"
+          "Sequential Write": "4000-6500 MB/s",
+          "updatedAt": 1794289535
         },
         {
           "Name": "Kingston NV3 2TB M.2 2280 PCIe 4.0 NVMe SSD ",
@@ -39246,8 +39247,8 @@
         {
           "Name": "HikSemi Wave 1TB NVME Gen3x4 SSD 2500MB/s ",
           "storeName": "AMD House",
-          "price": 36500.0,
-          "previousprice": 18500.0,
+          "price": 35000.0,
+          "previousprice": 36500.0,
           "url": "https://amdhouse.pk/product/hiksemi-wave-1tb-nvme-gen3x4-ssd-2500mb-s-new-in-2-years-warranty/",
           "availability": "available",
           "Interface": "PCIe",
@@ -39256,7 +39257,7 @@
           "Form Factor": "M.2 2280",
           "Sequential Read": "2500 MB/s",
           "Sequential Write": "2500 MB/s",
-          "updatedAt": 1793253262
+          "updatedAt": 1794289591
         }
       ]
     },
@@ -39268,8 +39269,8 @@
         {
           "Name": "WD Green SN3000 1TB NVME Gen4x4 5000MB/s ",
           "storeName": "AMD House",
-          "price": 38500.0,
-          "previousprice": 21500.0,
+          "price": 37500.0,
+          "previousprice": 38500.0,
           "url": "https://amdhouse.pk/product/wd-green-sn3000-1tb-nvme-gen4x4-5000mb-s-new-in-2-years-warranty/",
           "availability": "available",
           "Interface": "PCIe",
@@ -39278,7 +39279,7 @@
           "Form Factor": "M.2 2280",
           "Sequential Read": "5000 MB/s",
           "Sequential Write": "5000 MB/s",
-          "updatedAt": 1793253264
+          "updatedAt": 1794289593
         },
         {
           "Name": "WD Green SN3000 1TB NVMe 5,000 MB/s",
@@ -40867,8 +40868,8 @@
         {
           "Name": "500GB HDD Used onspot check Waranty only",
           "storeName": "AMD House",
-          "price": 3500.0,
-          "previousprice": null,
+          "price": 4000.0,
+          "previousprice": 3500.0,
           "url": "https://amdhouse.pk/product/500gb-hdd-used/",
           "availability": "available",
           "Interface": "SATA",
@@ -40876,7 +40877,8 @@
           "Capacity": "500 GB",
           "Form Factor": "3.5-inch",
           "Sequential Read": "100-200 MB/s",
-          "Sequential Write": "100-200 MB/s"
+          "Sequential Write": "100-200 MB/s",
+          "updatedAt": 1794289801
         }
       ]
     },
@@ -41014,8 +41016,8 @@
         {
           "Name": "Adata HD680 1TB External Hard Drive",
           "storeName": "Junaid Tech",
-          "price": 26799.0,
-          "previousprice": null,
+          "price": 28499.0,
+          "previousprice": 26799.0,
           "url": "https://www.junaidtech.pk/product/adata-hd680-1tb-external-hard-drive",
           "availability": "available",
           "Interface": "Unknown",
@@ -41023,7 +41025,8 @@
           "Capacity": "1 TB",
           "Form Factor": "Unknown",
           "Sequential Read": "Unknown",
-          "Sequential Write": "Unknown"
+          "Sequential Write": "Unknown",
+          "updatedAt": 1794289822
         }
       ]
     },
@@ -41392,8 +41395,8 @@
         {
           "Name": "Adata HD680 2TB External Hard Drive",
           "storeName": "Junaid Tech",
-          "price": 32299.0,
-          "previousprice": null,
+          "price": 35999.0,
+          "previousprice": 32299.0,
           "url": "https://www.junaidtech.pk/product/adata-hd680-2tb-external-hard-drive",
           "availability": "available",
           "Interface": "Unknown",
@@ -41401,7 +41404,8 @@
           "Capacity": "2 TB",
           "Form Factor": "Unknown",
           "Sequential Read": "Unknown",
-          "Sequential Write": "Unknown"
+          "Sequential Write": "Unknown",
+          "updatedAt": 1794289848
         },
         {
           "Name": "ADATA HD680 2TB External Hard Drive Blue",
@@ -44320,8 +44324,8 @@
         {
           "Name": "Lexar SL300 2TB USB 3.2 Gen 2 Type-C Portable SSD, Black",
           "storeName": "Junaid Tech",
-          "price": 60499.0,
-          "previousprice": null,
+          "price": 62999.0,
+          "previousprice": 60499.0,
           "url": "https://www.junaidtech.pk/product/lexar-sl300-portable-ssd-2tb",
           "availability": "available",
           "Interface": "Unknown",
@@ -44329,7 +44333,8 @@
           "Capacity": "2 TB",
           "Form Factor": "M.2 2280",
           "Sequential Read": "Unknown",
-          "Sequential Write": "Unknown"
+          "Sequential Write": "Unknown",
+          "updatedAt": 1794290522
         }
       ]
     },
@@ -44400,7 +44405,7 @@
           "price": 59499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/transcend-410s-1tb-nvme-ssd",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "PCIe",
           "Protocol": "NVMe PCIe 4.0 x4",
           "Capacity": "1 TB",
@@ -44474,8 +44479,8 @@
         {
           "Name": "Lexar NQ780 2TB SSD PCIe Gen4 NVMe M.2",
           "storeName": "Junaid Tech",
-          "price": 67999.0,
-          "previousprice": null,
+          "price": 75499.0,
+          "previousprice": 67999.0,
           "url": "https://www.junaidtech.pk/product/lexar-nq780-2tb-ssd",
           "availability": "available",
           "Interface": "Unknown",
@@ -44483,7 +44488,8 @@
           "Capacity": "2 TB",
           "Form Factor": "Unknown",
           "Sequential Read": "Unknown",
-          "Sequential Write": "Unknown"
+          "Sequential Write": "Unknown",
+          "updatedAt": 1794290538
         },
         {
           "Name": "Lexar NQ780 2TB Internal SSD ",
@@ -45605,8 +45611,8 @@
         {
           "Name": "SanDisk Extreme 4TB Portable ",
           "storeName": "Junaid Tech",
-          "price": 163999.0,
-          "previousprice": null,
+          "price": 177999.0,
+          "previousprice": 163999.0,
           "url": "https://www.junaidtech.pk/product/sandisk-extreme-4tb-portable-ssd-e61",
           "availability": "available",
           "Interface": "Unknown",
@@ -45614,7 +45620,8 @@
           "Capacity": "4 TB",
           "Form Factor": "Unknown",
           "Sequential Read": "Unknown",
-          "Sequential Write": "Unknown"
+          "Sequential Write": "Unknown",
+          "updatedAt": 1794290639
         }
       ]
     },
@@ -45913,8 +45920,8 @@
         {
           "Name": "Crucial T700 4TB Gen5 M.2 NVMe SSD",
           "storeName": "Junaid Tech",
-          "price": 184999.0,
-          "previousprice": null,
+          "price": 232999.0,
+          "previousprice": 184999.0,
           "url": "https://www.junaidtech.pk/product/crucial-t700-4tb-nvme-ssd",
           "availability": "available",
           "Interface": "PCIe",
@@ -45922,7 +45929,8 @@
           "Capacity": "4 TB",
           "Form Factor": "M.2 2280",
           "Sequential Read": "10000+ MB/s",
-          "Sequential Write": "9000+ MB/s"
+          "Sequential Write": "9000+ MB/s",
+          "updatedAt": 1794290665
         },
         {
           "Name": "Crucial T700 4TB Gen5 M.2 NVMe SSD with Heatsink",
@@ -51999,8 +52007,8 @@
         {
           "Name": "Samsung 9100 PRO 2TB NVMe M.2 SSD",
           "storeName": "Junaid Tech",
-          "price": 124999.0,
-          "previousprice": null,
+          "price": 128999.0,
+          "previousprice": 124999.0,
           "url": "https://www.junaidtech.pk/product/samsung-9100-pro-2tb-nvme-m-2-ssd",
           "availability": "available",
           "Interface": "Unknown",
@@ -52008,7 +52016,8 @@
           "Capacity": "2 TB",
           "Form Factor": "Unknown",
           "Sequential Read": "Unknown",
-          "Sequential Write": "Unknown"
+          "Sequential Write": "Unknown",
+          "updatedAt": 1794291573
         },
         {
           "Name": "Samsung 2TB 9100 PRO SSD",
