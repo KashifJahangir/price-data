@@ -53154,7 +53154,7 @@
           "price": 12899.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/thermalright-tb-650s-bronze-power-supply",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "650W"
         },
         {
@@ -54443,7 +54443,7 @@
           "price": 17499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/lian-li-rb-650w-bronze-power-supply",
-          "availability": "not available",
+          "availability": "available",
           "Wattage": "650W"
         },
         {
@@ -55696,7 +55696,7 @@
           "price": 40999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/lian-li-sx-platinum-1000w-white-psu",
-          "availability": "not available",
+          "availability": "available",
           "Wattage": "1000W"
         },
         {
@@ -57069,11 +57069,12 @@
         {
           "Name": "SilverStone Zeus 1650R Titanium 80 Plus Titanium ",
           "storeName": "Junaid Tech",
-          "price": 138999.0,
-          "previousprice": null,
+          "price": 129999.0,
+          "previousprice": 138999.0,
           "url": "https://www.junaidtech.pk/product/silverstone-zeus-1650r-titanium-power-supply",
           "availability": "available",
-          "Wattage": "1650W"
+          "Wattage": "1650W",
+          "updatedAt": 1794372322
         },
         {
           "Name": "SilverStone Zues 1650R 1650W 80 Plus Titanium ",
@@ -60293,7 +60294,7 @@
           "price": 45999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/lian-li-sx-platinum-white-1200w-power-supply",
-          "availability": "not available",
+          "availability": "available",
           "Wattage": "1200W"
         },
         {
