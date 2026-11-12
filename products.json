@@ -190,17 +190,18 @@
         {
           "Name": "SAPPHIRE RX 570 4GB",
           "storeName": "AMD House",
-          "price": 20000.0,
-          "previousprice": null,
+          "price": 21000.0,
+          "previousprice": 20000.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-570-4gb-gddr5-used-in-2-weeks-warranty-no-box/",
-          "availability": "not available",
+          "availability": "available",
           "tdp": 150.0,
           "company": "AMD",
           "powerConnectors": "1x 6-pin",
           "memorySize": "4 GB",
           "memoryType": "GDDR5",
           "memoryBus": "256-bit",
-          "bandwidth": "224 GB/s"
+          "bandwidth": "224 GB/s",
+          "updatedAt": 1794461412
         },
         {
           "Name": "XFX RX 570 4GB",
@@ -1802,8 +1803,8 @@
         {
           "Name": "ZOTAC RTX 2060 SUPER 8GB",
           "storeName": "AMD House",
-          "price": 64000.0,
-          "previousprice": null,
+          "price": 66000.0,
+          "previousprice": 64000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-zotac-rtx-2060-super-8gb-used-without-box-in-1-month-warranty/",
           "availability": "available",
           "tdp": 175,
@@ -1812,7 +1813,8 @@
           "memorySize": "8 GB",
           "memoryType": "GDDR6",
           "memoryBus": "256-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1794461585
         },
         {
           "Name": "COLORFUL RTX 2060 SUPER 8GB",
@@ -3644,8 +3646,8 @@
         {
           "Name": "XFX RX 6750 XT 12GB",
           "storeName": "AMD House",
-          "price": 95000.0,
-          "previousprice": 90000.0,
+          "price": 98000.0,
+          "previousprice": 95000.0,
           "url": "https://amdhouse.pk/product/xfx-qick-rx-6750-xt-12gb-gddr6-used-no-box/",
           "availability": "available",
           "tdp": 230,
@@ -3655,7 +3657,7 @@
           "memoryType": "GDDR6",
           "memoryBus": "192-bit",
           "bandwidth": "432 GB/s",
-          "updatedAt": 1793941011
+          "updatedAt": 1794461792
         },
         {
           "Name": "SAPPHIRE RX 6750 XT 12GB",
@@ -3739,8 +3741,8 @@
         {
           "Name": "Yeston RX 7650 8GB",
           "storeName": "AMD House",
-          "price": 115000.0,
-          "previousprice": 105000.0,
+          "price": 116000.0,
+          "previousprice": 115000.0,
           "url": "https://amdhouse.pk/product/yeston-gaea-rx-7650-gre-8gb-gddr6-new-in-10-months-warranty/",
           "availability": "available",
           "tdp": 176,
@@ -3750,7 +3752,7 @@
           "memoryType": "GDDR6",
           "memoryBus": "128-bit",
           "bandwidth": "288 GB/s",
-          "updatedAt": 1793941023
+          "updatedAt": 1794461803
         }
       ]
     },
@@ -3876,8 +3878,8 @@
         {
           "Name": "ZOTAC RTX 5050 8GB",
           "storeName": "RB Tech N Games",
-          "price": 118999.0,
-          "previousprice": null,
+          "price": 132499.0,
+          "previousprice": 118999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/zotac-gaming-geforce-rtx-5050-twin-edge-8gb-graphics-card/",
           "availability": "available",
           "tdp": 130,
@@ -3886,13 +3888,14 @@
           "memorySize": "8 GB",
           "memoryType": "GDDR6",
           "memoryBus": "128-bit",
-          "bandwidth": "256 GB/s"
+          "bandwidth": "256 GB/s",
+          "updatedAt": 1794461815
         },
         {
           "Name": "ZOTAC RTX 5050 8GB",
           "storeName": "Junaid Tech",
-          "price": 114999.0,
-          "previousprice": null,
+          "price": 134999.0,
+          "previousprice": 114999.0,
           "url": "https://www.junaidtech.pk/product/zotac-gaming-rtx-5050-twin-edge-8gb-gpu",
           "availability": "available",
           "tdp": 130,
@@ -3901,7 +3904,8 @@
           "memorySize": "8 GB",
           "memoryType": "GDDR6",
           "memoryBus": "128-bit",
-          "bandwidth": "256 GB/s"
+          "bandwidth": "256 GB/s",
+          "updatedAt": 1794461817
         },
         {
           "Name": "ZOTAC RTX 5050 8GB",
@@ -4831,7 +4835,7 @@
           "price": 150000.0,
           "previousprice": 140000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-pny-rtx-5060-8gb-dual-fan-new-in-10-months-warranty/",
-          "availability": "available",
+          "availability": "not available",
           "tdp": 145,
           "company": "Nvidia",
           "powerConnectors": "1x 8-pin",
@@ -5327,23 +5331,24 @@
         {
           "Name": "XFX RX 7800 XT 16GB",
           "storeName": "AMD House",
-          "price": 155000.0,
-          "previousprice": null,
+          "price": 160000.0,
+          "previousprice": 155000.0,
           "url": "https://amdhouse.pk/product/xfx-qick-319-rx-7800-xt-used-a-condition-without-box-in-2-5-months-warranty/",
-          "availability": "available",
+          "availability": "not available",
           "tdp": 263,
           "company": "AMD",
           "powerConnectors": "2x 8-pin",
           "memorySize": "16 GB",
           "memoryType": "GDDR6",
           "memoryBus": "256-bit",
-          "bandwidth": "624 GB/s"
+          "bandwidth": "624 GB/s",
+          "updatedAt": 1794462042
         },
         {
           "Name": "XFX RX 7800 XT 16GB",
           "storeName": "AMD House",
-          "price": 165000.0,
-          "previousprice": 151000.0,
+          "price": 167000.0,
+          "previousprice": 165000.0,
           "url": "https://amdhouse.pk/product/xfx-swft-rx-7800-xt-16gb-dual-fan-used-without-box-in-2-months-warranty/",
           "availability": "available",
           "tdp": 263,
@@ -5353,7 +5358,7 @@
           "memoryType": "GDDR6",
           "memoryBus": "256-bit",
           "bandwidth": "624 GB/s",
-          "updatedAt": 1793941338
+          "updatedAt": 1794462045
         },
         {
           "Name": "POWERCOLOR RX 7800 XT 16GB",
@@ -5470,8 +5475,8 @@
         {
           "Name": "POWERCOLOR RX 9060 XT 16GB",
           "storeName": "AMD House",
-          "price": 180000.0,
-          "previousprice": 136500.0,
+          "price": 182500.0,
+          "previousprice": 180000.0,
           "url": "https://amdhouse.pk/product/powercolor-reaper-rx-9060-xt-16gb-dual-fan-new-in-10-months-warranty/",
           "availability": "available",
           "tdp": 150,
@@ -5481,7 +5486,7 @@
           "memoryType": "GDDR6",
           "memoryBus": "128-bit",
           "bandwidth": "288 GB/s",
-          "updatedAt": 1793941358
+          "updatedAt": 1794462065
         },
         {
           "Name": "XFX RX 9060 XT 16GB",
@@ -6392,8 +6397,8 @@
         {
           "Name": "ZOTAC RTX 5060 TI 16GB",
           "storeName": "RB Tech N Games",
-          "price": 264999.0,
-          "previousprice": 259499.0,
+          "price": 274999.0,
+          "previousprice": 264999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/zotac-gaming-geforce-rtx-5060-ti-amp-16gb-graphics-card/",
           "availability": "available",
           "tdp": 180,
@@ -6403,7 +6408,7 @@
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
           "bandwidth": "448 GB/s",
-          "updatedAt": 1793439205
+          "updatedAt": 1794462197
         },
         {
           "Name": "ZOTAC RTX 5060 TI 16GB",
@@ -7359,8 +7364,8 @@
         {
           "Name": "GIGABYTE RTX 5070 12GB",
           "storeName": "RB Tech N Games",
-          "price": 299999.0,
-          "previousprice": 279999.0,
+          "price": 309999.0,
+          "previousprice": 299999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/gigabyte-geforce-rtx-5070-windforce-12gb-oc-sff-graphics-card/",
           "availability": "available",
           "tdp": 250,
@@ -7370,7 +7375,7 @@
           "memoryType": "GDDR7",
           "memoryBus": "192-bit",
           "bandwidth": "672 GB/s",
-          "updatedAt": 1793439356
+          "updatedAt": 1794462347
         }
       ]
     },
@@ -8359,7 +8364,7 @@
           "price": 410000.0,
           "previousprice": 315000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-pny-rtx-5070ti-16gb-tri-fan-new-in-10-months-warranty/",
-          "availability": "available",
+          "availability": "not available",
           "tdp": 300,
           "company": "Nvidia",
           "powerConnectors": "1x 12VHPWR",
@@ -8855,8 +8860,8 @@
         {
           "Name": "ZOTAC RTX 5080 16GB",
           "storeName": "Junaid Tech",
-          "price": 482999.0,
-          "previousprice": null,
+          "price": 584999.0,
+          "previousprice": 482999.0,
           "url": "https://www.junaidtech.pk/product/zotac-gaming-rtx-5080-solid-core-16gb-graphics-card",
           "availability": "available",
           "tdp": 360,
@@ -8865,7 +8870,8 @@
           "memorySize": "16 GB",
           "memoryType": "GDDR7",
           "memoryBus": "256-bit",
-          "bandwidth": "960 GB/s"
+          "bandwidth": "960 GB/s",
+          "updatedAt": 1794462572
         },
         {
           "Name": "ZOTAC RTX 5080 16GB",
@@ -8916,8 +8922,8 @@
         {
           "Name": "ASUS PRIME RTX 5080 16GB",
           "storeName": "RB Tech N Games",
-          "price": 564999.0,
-          "previousprice": 499999.0,
+          "price": 724999.0,
+          "previousprice": 564999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/asus-prime-geforce-rtx-5080-16gb-oc-edition-graphics-card/",
           "availability": "available",
           "tdp": 360,
@@ -8927,7 +8933,7 @@
           "memoryType": "GDDR7",
           "memoryBus": "256-bit",
           "bandwidth": "960 GB/s",
-          "updatedAt": 1793439596
+          "updatedAt": 1794462578
         },
         {
           "Name": "ASUS PRIME RTX 5080 16GB",
