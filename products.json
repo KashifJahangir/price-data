@@ -14769,8 +14769,8 @@
         {
           "Name": "Tracer H610M Pro Motherboard New in 10 Months Warranty ",
           "storeName": "AMD House",
-          "price": 19500.0,
-          "previousprice": null,
+          "price": 19000.0,
+          "previousprice": 19500.0,
           "url": "https://amdhouse.pk/product/tracer-h610m-motherboard-new-in-10-months-warranty-tracer-by-amd-house/",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -14779,7 +14779,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "3200 MHz",
           "PCIe Slot Generation": "PCIe 4.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1794545226
         }
       ]
     },
@@ -15441,7 +15442,7 @@
           "price": 33000.0,
           "previousprice": null,
           "url": "https://amdhouse.pk/product/colorful-battle-ax-b550m-gaming-wifi6e-v14-new-in-10-months-warranty/",
-          "availability": "not available",
+          "availability": "available",
           "CPU Socket": "AM4",
           "Chipset Model": "B550",
           "Memory Generation": "DDR4",
@@ -22668,8 +22669,8 @@
         {
           "Name": "MSI Pro B650-S Wifi DDR5 AMD AM5 ATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 49899.0,
-          "previousprice": null,
+          "price": 54999.0,
+          "previousprice": 49899.0,
           "url": "https://www.junaidtech.pk/product/msi-pro-b650-s-wifi-atx-motherboard",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -22678,7 +22679,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "6400+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 4.0 / 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1794546352
         },
         {
           "Name": "MSI PRO B650-S WIFI ATX AM5 DDR5 Gaming Motherboard",
@@ -22686,7 +22688,7 @@
           "price": 53499.0,
           "previousprice": 51499.0,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/msi-pro-b650-s-wifi-atx-am5-ddr5-gaming-motherboard/",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "AM5",
           "Chipset Model": "B650",
           "Memory Generation": "DDR5",
@@ -23539,8 +23541,8 @@
         {
           "Name": "MSI B850 Gaming Plus Wifi6E Motherboard, ATX - Supports AMD Ryzen 9000/8000/7000 Processors, AM5 - DDR5 Memory Boost 8200+ MT/s (OC), PCIe 5.0 x16 & 4.0 x16, M.2 Gen5, Wi-Fi 6E, 5G LAN",
           "storeName": "Junaid Tech",
-          "price": 61999.0,
-          "previousprice": null,
+          "price": 67999.0,
+          "previousprice": 61999.0,
           "url": "https://www.junaidtech.pk/product/msi-b850-gaming-plus-wifi6e-atx-motherboard",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -23549,7 +23551,8 @@
           "Maximum Capacity": "256 GB",
           "Maximum Speed": "7200+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1794546439
         },
         {
           "Name": "MSI B850 Gaming Plus Wifi 6E AMD AM5 DDR5 ATX Motherboard",
@@ -24393,8 +24396,8 @@
         {
           "Name": "Asus Rog Strix B860-A Gaming Wifi B860 LGA 1851 ATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 77499.0,
-          "previousprice": null,
+          "price": 79999.0,
+          "previousprice": 77499.0,
           "url": "https://www.junaidtech.pk/product/asus-rog-strix-b860-a-gaming-wifi-atx-motherboard",
           "availability": "available",
           "CPU Socket": "LGA1851",
@@ -24403,7 +24406,8 @@
           "Maximum Capacity": "256 GB",
           "Maximum Speed": "7200+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1794546510
         },
         {
           "Name": "Asus ROG Strix B860-A Gaming Wifi DDR5 Intel Motherboard",
@@ -24787,17 +24791,18 @@
         {
           "Name": "MSI MAG Z790 Tomahawk WiFi DDR5 Gaming Motherboard",
           "storeName": "RB Tech N Games",
-          "price": 89999.0,
-          "previousprice": null,
+          "price": 96999.0,
+          "previousprice": 89999.0,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/msi-mag-z790-tomahawk-wifi-ddr5-gaming-motherboard/",
-          "availability": "not available",
+          "availability": "available",
           "CPU Socket": "LGA1700",
           "Chipset Model": "Z790",
           "Memory Generation": "DDR5",
           "Maximum Capacity": "192 GB",
           "Maximum Speed": "7800+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin (or 8+4)"
+          "powerConnectors": "24-pin + 8-pin (or 8+4)",
+          "updatedAt": 1794546553
         },
         {
           "Name": "MSI MAG Z790 TOMAHAWK WIFI DDR5 LGA 1700  ATX Motherboard",
@@ -26578,8 +26583,8 @@
         {
           "Name": "Gigabyte X870E Aorus Pro Motherboard",
           "storeName": "Junaid Tech",
-          "price": 141999.0,
-          "previousprice": 129999.0,
+          "price": 144999.0,
+          "previousprice": 141999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-x870e-aorus-pro-x3d-ice-am5-atx-motherboard",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -26589,7 +26594,7 @@
           "Maximum Speed": "8000+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
           "powerConnectors": "24-pin + 8-pin (or 8+4)",
-          "updatedAt": 1793804226
+          "updatedAt": 1794546722
         },
         {
           "Name": "Gigabyte X870E Aorus Pro AMD AM5 DDR5 Motherboard",
@@ -26879,7 +26884,7 @@
           "price": 119999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/asus-rog-strix-z790-f-gaming-wifi-ii-atx-lga1700-ddr5-gaming-motherboard/",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "LGA1700",
           "Chipset Model": "Z790",
           "Memory Generation": "DDR5",
@@ -27057,7 +27062,7 @@
           "price": 174999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/asus-proart-z890-creator-wifi-atx-lga1851-ddr5-gaming-motherboard/",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "LGA1851",
           "Chipset Model": "Z890",
           "Memory Generation": "DDR5",
@@ -29681,8 +29686,8 @@
         {
           "Name": "BATTLE-AX H610M-GHA WIFI DDR5 V20 (White) New in 10 Months Warranty",
           "storeName": "AMD House",
-          "price": 28000.0,
-          "previousprice": null,
+          "price": 27500.0,
+          "previousprice": 28000.0,
           "url": "https://amdhouse.pk/product/battle-ax-h610m-gha-wifi-ddr5-v20/",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -29691,7 +29696,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "3200 MHz",
           "PCIe Slot Generation": "PCIe 4.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1794546907
         }
       ]
     },
