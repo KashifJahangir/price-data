@@ -9718,8 +9718,8 @@
         {
           "Name": "RYZEN 5 5600XT",
           "storeName": "AMD House",
-          "price": 37500.0,
-          "previousprice": null,
+          "price": 37000.0,
+          "previousprice": 37500.0,
           "url": "https://amdhouse.pk/product/amd-ryzen-5-5600xt-tray-new-in-10-months-warranty/",
           "availability": "available",
           "Socket": "AM4",
@@ -9727,7 +9727,8 @@
           "Frequency": "3.7 GHz / 4.7 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 4.0",
-          "Memory Support": "DDR4-3200"
+          "Memory Support": "DDR4-3200",
+          "updatedAt": 1794631301
         },
         {
           "Name": "RYZEN 5 5600XT",
@@ -9887,7 +9888,7 @@
           "price": 109000.0,
           "previousprice": null,
           "url": "https://amdhouse.pk/product/amd-ryzen-9-9900x-socket-am5-cpu-new-chip-only-in-10-months-warranty/",
-          "availability": "available",
+          "availability": "not available",
           "Socket": "AM5",
           "Foundry": "AMD",
           "Frequency": "4.4 GHz / 5.6 GHz",
@@ -10128,8 +10129,8 @@
         {
           "Name": "RYZEN 5 7600X",
           "storeName": "AMD House",
-          "price": 50000.0,
-          "previousprice": null,
+          "price": 47000.0,
+          "previousprice": 50000.0,
           "url": "https://amdhouse.pk/product/amd-ryzen-5-7600x-chip-new-in-10-months-warranty/",
           "availability": "available",
           "Socket": "AM5",
@@ -10137,7 +10138,8 @@
           "Frequency": "4.7 GHz / 5.3 GHz",
           "TDP": "105W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5200"
+          "Memory Support": "DDR5-5200",
+          "updatedAt": 1794631405
         },
         {
           "Name": "RYZEN 5 7600X",
@@ -10237,7 +10239,7 @@
           "price": 164999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-9-9950x3d-desktop-processor-tray/",
-          "availability": "not available",
+          "availability": "available",
           "Socket": "AM5",
           "Foundry": "AMD",
           "Frequency": "4.3 GHz / 5.7 GHz",
@@ -10438,8 +10440,8 @@
         {
           "Name": "RYZEN 7 9700X",
           "storeName": "AMD House",
-          "price": 76500.0,
-          "previousprice": null,
+          "price": 75500.0,
+          "previousprice": 76500.0,
           "url": "https://amdhouse.pk/product/amd-ryzen-7-9700x-new-chip-in-10-months-warranty/",
           "availability": "available",
           "Socket": "AM5",
@@ -10447,7 +10449,8 @@
           "Frequency": "3.8 GHz / 5.5 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5600"
+          "Memory Support": "DDR5-5600",
+          "updatedAt": 1794631452
         },
         {
           "Name": "RYZEN 7 9700X",
@@ -10515,8 +10518,8 @@
         {
           "Name": "RYZEN 5 9600X",
           "storeName": "AMD House",
-          "price": 52500.0,
-          "previousprice": null,
+          "price": 51500.0,
+          "previousprice": 52500.0,
           "url": "https://amdhouse.pk/product/amd-ryzen-5-9600x-chip-new-in-10-months-warranty/",
           "availability": "available",
           "Socket": "AM5",
@@ -10524,7 +10527,8 @@
           "Frequency": "3.9 GHz / 5.4 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5600"
+          "Memory Support": "DDR5-5600",
+          "updatedAt": 1794631462
         },
         {
           "Name": "RYZEN 5 9600X",
@@ -10723,7 +10727,7 @@
           "price": 28499.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-8400f-desktop-processor-tray/",
-          "availability": "not available",
+          "availability": "available",
           "Socket": "AM5",
           "Foundry": "AMD",
           "Frequency": "4.2 GHz / 4.7 GHz",
@@ -10811,22 +10815,23 @@
         {
           "Name": "RYZEN 9 9950X",
           "storeName": "AMD House",
-          "price": 142500.0,
-          "previousprice": null,
+          "price": 155000.0,
+          "previousprice": 142500.0,
           "url": "https://amdhouse.pk/product/amd-ryzen-9-9950x-socket-am5-processor-chip-only-new-in-10-months-warranty/",
-          "availability": "available",
+          "availability": "not available",
           "Socket": "AM5",
           "Foundry": "AMD",
           "Frequency": "4.3 GHz / 5.7 GHz",
           "TDP": "170W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5600"
+          "Memory Support": "DDR5-5600",
+          "updatedAt": 1794631548
         },
         {
           "Name": "RYZEN 9 9950X",
           "storeName": "Junaid Tech",
-          "price": 139999.0,
-          "previousprice": null,
+          "price": 164999.0,
+          "previousprice": 139999.0,
           "url": "https://www.junaidtech.pk/product/amd-ryzen-9-9950x-processor",
           "availability": "available",
           "Socket": "AM5",
@@ -10834,7 +10839,8 @@
           "Frequency": "4.3 GHz / 5.7 GHz",
           "TDP": "170W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5600"
+          "Memory Support": "DDR5-5600",
+          "updatedAt": 1794631551
         },
         {
           "Name": "RYZEN 9 9950X",
@@ -11367,8 +11373,8 @@
         {
           "Name": "RYZEN 7 7700",
           "storeName": "AMD House",
-          "price": 51500.0,
-          "previousprice": null,
+          "price": 49500.0,
+          "previousprice": 51500.0,
           "url": "https://amdhouse.pk/product/amd-ryzen-7-7700-chip-new/",
           "availability": "available",
           "Socket": "AM5",
@@ -11376,7 +11382,8 @@
           "Frequency": "3.8 GHz / 5.3 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5200"
+          "Memory Support": "DDR5-5200",
+          "updatedAt": 1794631686
         },
         {
           "Name": "RYZEN 7 7700",
@@ -11458,8 +11465,8 @@
         {
           "Name": "RYZEN 5 7500F",
           "storeName": "AMD House",
-          "price": 31500.0,
-          "previousprice": null,
+          "price": 30000.0,
+          "previousprice": 31500.0,
           "url": "https://amdhouse.pk/product/amd-ryzen-5-7500f-chip/",
           "availability": "available",
           "Socket": "AM5",
@@ -11467,7 +11474,8 @@
           "Frequency": "3.7 GHz / 5.0 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5200"
+          "Memory Support": "DDR5-5200",
+          "updatedAt": 1794631720
         },
         {
           "Name": "RYZEN 5 7500F",
@@ -11628,8 +11636,8 @@
         {
           "Name": "RYZEN 5 5600X",
           "storeName": "AMD House",
-          "price": 35500.0,
-          "previousprice": null,
+          "price": 35000.0,
+          "previousprice": 35500.0,
           "url": "https://amdhouse.pk/product/amd-ryzen-5-5600x-chip/",
           "availability": "available",
           "Socket": "AM4",
@@ -11637,7 +11645,8 @@
           "Frequency": "3.7 GHz / 4.6 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 4.0",
-          "Memory Support": "DDR4-3200"
+          "Memory Support": "DDR4-3200",
+          "updatedAt": 1794631765
         },
         {
           "Name": "RYZEN 5 5600X",
@@ -12094,8 +12103,8 @@
         {
           "Name": "RYZEN 5 5600",
           "storeName": "AMD House",
-          "price": 31500.0,
-          "previousprice": null,
+          "price": 31000.0,
+          "previousprice": 31500.0,
           "url": "https://amdhouse.pk/product/amd-ryzen-5-5600-chip-only/",
           "availability": "available",
           "Socket": "AM4",
@@ -12103,7 +12112,8 @@
           "Frequency": "3.5 GHz / 4.4 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 4.0",
-          "Memory Support": "DDR4-3200"
+          "Memory Support": "DDR4-3200",
+          "updatedAt": 1794631872
         },
         {
           "Name": "RYZEN 5 5600",
@@ -12347,8 +12357,8 @@
         {
           "Name": "CORE I5-12400F",
           "storeName": "Junaid Tech",
-          "price": 41999.0,
-          "previousprice": null,
+          "price": 37499.0,
+          "previousprice": 41999.0,
           "url": "https://www.junaidtech.pk/product/intel-core-i5-12400f-processor-tray",
           "availability": "available",
           "Socket": "LGA1700",
@@ -12356,7 +12366,8 @@
           "Frequency": "2.5 GHz / 4.4 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR4-3200 / DDR5-4800"
+          "Memory Support": "DDR4-3200 / DDR5-4800",
+          "updatedAt": 1794631922
         },
         {
           "Name": "CORE I5-12400F",
@@ -12403,8 +12414,8 @@
         {
           "Name": "Core-i5 12400F ",
           "storeName": "AMD House",
-          "price": 38000.0,
-          "previousprice": null,
+          "price": 37500.0,
+          "previousprice": 38000.0,
           "url": "https://amdhouse.pk/product/intel-core-i5-12400f-chip-only-new-in-10-months-warranty/",
           "availability": "available",
           "Socket": "LGA1700",
@@ -12412,7 +12423,8 @@
           "Frequency": "2.5 GHz / 4.4 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR4-3200 / DDR5-4800"
+          "Memory Support": "DDR4-3200 / DDR5-4800",
+          "updatedAt": 1794631951
         }
       ]
     },
@@ -12760,8 +12772,8 @@
         {
           "Name": "Intel Core-i7 12700KF",
           "storeName": "AMD House",
-          "price": 72000.0,
-          "previousprice": null,
+          "price": 75000.0,
+          "previousprice": 72000.0,
           "url": "https://amdhouse.pk/product/intel-core-i7-12700kf-chip-only-new-in-10-months-warranty/",
           "availability": "available",
           "Socket": "LGA1700",
@@ -12769,7 +12781,8 @@
           "Frequency": "3.6 GHz / 5.0 GHz",
           "TDP": "125W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR4-3200 / DDR5-4800"
+          "Memory Support": "DDR4-3200 / DDR5-4800",
+          "updatedAt": 1794632056
         },
         {
           "Name": "CORE I7 12700KF",
@@ -13929,8 +13942,8 @@
         {
           "Name": "CORE I9 14900K",
           "storeName": "Junaid Tech",
-          "price": 129999.0,
-          "previousprice": 124999.0,
+          "price": 134999.0,
+          "previousprice": 129999.0,
           "url": "https://www.junaidtech.pk/product/intel-core-i9-14900k-processor",
           "availability": "available",
           "Socket": "LGA1700",
@@ -13939,7 +13952,7 @@
           "TDP": "125W",
           "PCI-Express": "PCIe 5.0",
           "Memory Support": "DDR4-3200 / DDR5-5600",
-          "updatedAt": 1793169283
+          "updatedAt": 1794632290
         },
         {
           "Name": "CORE I9 14900K",
@@ -14080,7 +14093,7 @@
           "price": 124999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/processors/intel-core-i9-14900kf-24-cores-8-p-cores-16-e-cores/",
-          "availability": "available",
+          "availability": "not available",
           "Socket": "LGA1700",
           "Foundry": "Intel",
           "Frequency": "3.2 GHz / 6.0 GHz",
