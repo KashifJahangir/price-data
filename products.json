@@ -30320,15 +30320,16 @@
         {
           "Name": "Corsair Vengeance 32GB (2x16GB) 6000MHz",
           "storeName": "Junaid Tech",
-          "price": 144999.0,
-          "previousprice": null,
+          "price": 184999.0,
+          "previousprice": 144999.0,
           "url": "https://www.junaidtech.pk/product/corsair-vengeance-32gb-2x16gb-6000mhz-c36-ddr5-memory-kit-black",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1794717096
         },
         {
           "Name": "Corsair Vengeance RGB 32GB (1x32GB) 6000MHz ",
@@ -31586,21 +31587,22 @@
         {
           "Name": "Patriot Viper Venom RGB 32GB (2X16GB) 6000MHz",
           "storeName": "Junaid Tech",
-          "price": 174999.0,
-          "previousprice": null,
+          "price": 194999.0,
+          "previousprice": 174999.0,
           "url": "https://www.junaidtech.pk/product/patriot-viper-venom-rgb-32gb-2x16gb-6000mhz-cl36-ddr5-ram",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1794717280
         },
         {
           "Name": "Patriot Viper Venom RGB 32GB (2x16GB) 6000MT/s",
           "storeName": "RB Tech N Games",
-          "price": 184999.0,
-          "previousprice": 164999.0,
+          "price": 194999.0,
+          "previousprice": 184999.0,
           "url": "https://rbtechngames.com/shop-2/computers/rams/patriot-viper-venom-rgb-32gb-2x16gb-6000mt-s-cl30-ddr5-ram/",
           "availability": "available",
           "Memory Generation": "DDR5",
@@ -31608,7 +31610,7 @@
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "32 GB",
           "Maximum Speed": "6000 MHz",
-          "updatedAt": 1793172498
+          "updatedAt": 1794717284
         },
         {
           "Name": "Viper Venom RGB 32GB (2x16GB) 6000MT/s ",
@@ -33260,15 +33262,16 @@
         {
           "Name": "Corsair Vengeance LPX 16GB (2x8GB) 3200MHz ",
           "storeName": "Junaid Tech",
-          "price": 37999.0,
-          "previousprice": null,
+          "price": 50999.0,
+          "previousprice": 37999.0,
           "url": "https://www.junaidtech.pk/product/corsair-lpx-16gb-2x8gb-3200mhz-c16-memory-black",
           "availability": "available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "3200 MHz"
+          "Maximum Speed": "3200 MHz",
+          "updatedAt": 1794717600
         },
         {
           "Name": "Corsair Vengeance LPX 16GB 2x8GB DDR4 3200MHz ",
@@ -34578,7 +34581,7 @@
           "price": 165000.0,
           "previousprice": 140000.0,
           "url": "https://amdhouse.pk/product/lexar-ares-ddr5-8000mhz-32gb-16gbx2-xmp-kit-new-in-10-months-warranty/",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "8000 MHz",
@@ -34616,15 +34619,16 @@
         {
           "Name": "HikVision 16GB (8GBx2) CL18 DDR4 3200MHz",
           "storeName": "AMD House",
-          "price": 26500.0,
-          "previousprice": null,
+          "price": 28500.0,
+          "previousprice": 26500.0,
           "url": "https://amdhouse.pk/product/hikvision-16gb-8gbx2-ddr4-3200mhz-cl18-xmp-dual-channel-new-in-10-months-warranty/",
-          "availability": "not available",
+          "availability": "available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "3200 MHz"
+          "Maximum Speed": "3200 MHz",
+          "updatedAt": 1794717929
         },
         {
           "Name": "HikVision 16GB Value RAM DDR4 3200MHz",
@@ -36544,7 +36548,7 @@
           "price": 99999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/laptops/laptop-ram/pny-sodimm-32gb-2x16gb-5600mt-s-cl46-ddr5-laptop-memory/",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "SODIMM",
           "Clock Speed": "5600 MHz",
@@ -37898,15 +37902,16 @@
         {
           "Name": "Crucial Pro 64GB DDR5 (32*2) 6000MHz ",
           "storeName": "Zicomputer",
-          "price": 270000.0,
-          "previousprice": null,
+          "price": 320000.0,
+          "previousprice": 270000.0,
           "url": "https://zicomputer.com/product/crucial-pro-64gb-ddr5-6000mhz-cl40/",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "64 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1794718329
         }
       ]
     },
