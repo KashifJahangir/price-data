@@ -38414,17 +38414,17 @@
         {
           "Name": "Lexar NM620 1TB M.2 2280 NVMe SSD ",
           "storeName": "Zicomputer",
-          "price": 49500.0,
-          "previousprice": 22000.0,
+          "price": 38000.0,
+          "previousprice": 49500.0,
           "url": "https://zicomputer.com/product/lexar-nm620-1tb-m-2-2280-nvme-ssd-speed-meets-reliability-copy/",
-          "availability": "unknown",
+          "availability": "available",
           "Interface": "PCIe",
           "Protocol": "NVMe",
           "Capacity": "1 TB",
           "Form Factor": "M.2 2280",
           "Sequential Read": "Unknown",
           "Sequential Write": "Unknown",
-          "updatedAt": 1793253133
+          "updatedAt": 1794803319
         }
       ]
     },
@@ -38962,17 +38962,17 @@
         {
           "Name": "Kingston NV3 2TB NVMe PCIe Gen 4.0 SSD ",
           "storeName": "Zicomputer",
-          "price": 49500.0,
-          "previousprice": 22000.0,
+          "price": 66000.0,
+          "previousprice": 49500.0,
           "url": "https://zicomputer.com/product/kingston-nv3-2tb-nvme-pcie-gen-4-0-ssd-high-speed-internal-storage/",
-          "availability": "unknown",
+          "availability": "available",
           "Interface": "PCIe",
           "Protocol": "NVMe PCIe 4.0 x4",
           "Capacity": "2 TB",
           "Form Factor": "M.2 2280",
           "Sequential Read": "5000-7000 MB/s",
           "Sequential Write": "4000-6500 MB/s",
-          "updatedAt": 1793253199
+          "updatedAt": 1794803381
         }
       ]
     },
@@ -39877,17 +39877,17 @@
         {
           "Name": "Kingston NV3 1TB NVMe PCIe Gen 4.0 SSD ",
           "storeName": "Zicomputer",
-          "price": 49500.0,
-          "previousprice": 22000.0,
+          "price": 39500.0,
+          "previousprice": 49500.0,
           "url": "https://zicomputer.com/product/kingston-nv2-1tb-nvme-pcie-gen-4-0-ssd-high-speed-internal-storage/",
-          "availability": "unknown",
+          "availability": "available",
           "Interface": "PCIe",
           "Protocol": "NVMe PCIe 4.0 x4",
           "Capacity": "1 TB",
           "Form Factor": "M.2 2280",
           "Sequential Read": "6000 MB/s",
           "Sequential Write": "6000 MB/s",
-          "updatedAt": 1793253339
+          "updatedAt": 1794803503
         },
         {
           "Name": "Kingston NV3 M.2 2230 1TB PCIe 4.0 x4 NVMe ",
@@ -43945,8 +43945,8 @@
         {
           "Name": "Western Digital WD Blue SN5000 1TB NVMe ",
           "storeName": "Junaid Tech",
-          "price": 40999.0,
-          "previousprice": null,
+          "price": 42499.0,
+          "previousprice": 40999.0,
           "url": "https://www.junaidtech.pk/product/-wd-blue-sn5000-1tb-nvme-ssd",
           "availability": "available",
           "Interface": "PCIe",
@@ -43954,7 +43954,8 @@
           "Capacity": "1 TB",
           "Form Factor": "M.2 2280",
           "Sequential Read": "Unknown",
-          "Sequential Write": "Unknown"
+          "Sequential Write": "Unknown",
+          "updatedAt": 1794804286
         },
         {
           "Name": "WD Blue SN5000 1TB NVMe ",
@@ -44401,8 +44402,8 @@
         {
           "Name": "SanDisk 2TB Portable SSD - Up to 800MB/s",
           "storeName": "Junaid Tech",
-          "price": 67999.0,
-          "previousprice": null,
+          "price": 72999.0,
+          "previousprice": 67999.0,
           "url": "https://www.junaidtech.pk/product/sandisk-e30-2tb-portable-ssd",
           "availability": "available",
           "Interface": "Unknown",
@@ -44410,7 +44411,8 @@
           "Capacity": "2 TB",
           "Form Factor": "Unknown",
           "Sequential Read": "800 MB/s",
-          "Sequential Write": "800 MB/s"
+          "Sequential Write": "800 MB/s",
+          "updatedAt": 1794804332
         }
       ]
     },
@@ -45803,7 +45805,7 @@
           "price": 159999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/sandisk-extreme-pro-4tb-ssd",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "Unknown",
           "Protocol": "Unknown",
           "Capacity": "4 TB",
