@@ -52160,11 +52160,12 @@
         {
           "Name": "Super Flower Zillion 650W 80 Plus ",
           "storeName": "Junaid Tech",
-          "price": 13999.0,
-          "previousprice": null,
+          "price": 14999.0,
+          "previousprice": 13999.0,
           "url": "https://www.junaidtech.pk/product/super-flower-zillion-650w-bronze-power-supply",
-          "availability": "not available",
-          "Wattage": "650W"
+          "availability": "available",
+          "Wattage": "650W",
+          "updatedAt": 1794896060
         },
         {
           "Name": "Super Flower Zillion Silver ",
@@ -52725,7 +52726,7 @@
           "price": 39999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/super-flower-leadex-iii-gold-1000w-power-supply",
-          "availability": "not available",
+          "availability": "available",
           "Wattage": "1000W"
         },
         {
@@ -53167,11 +53168,12 @@
         {
           "Name": "Thermalright TR-TB750S 750W 80+ Bronze ",
           "storeName": "AMD House",
-          "price": 15500.0,
-          "previousprice": null,
+          "price": 16500.0,
+          "previousprice": 15500.0,
           "url": "https://amdhouse.pk/product/thermalright-tr-tb750s-750w-80-bronze-psu-new-in-2-yrs-wty/",
           "availability": "available",
-          "Wattage": "750W"
+          "Wattage": "750W",
+          "updatedAt": 1794896254
         },
         {
           "Name": "Thermalright TB-750S 750W 80+ Bronze ",
@@ -53570,7 +53572,7 @@
           "price": 36000.0,
           "previousprice": null,
           "url": "https://amdhouse.pk/product/redragon-rgps017-1000w-80-platinum-atx-3-0-pci-e-5-0-ready-fully-modular-power-supply-new/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "1000W"
         }
       ]
@@ -54774,11 +54776,12 @@
         {
           "Name": "Cougar GR 850W 80 Plus Gold",
           "storeName": "Junaid Tech",
-          "price": 22499.0,
-          "previousprice": null,
+          "price": 22999.0,
+          "previousprice": 22499.0,
           "url": "https://www.junaidtech.pk/product/cougar-gr-850w-gold-fully-modular-power-supply",
-          "availability": "not available",
-          "Wattage": "850W"
+          "availability": "available",
+          "Wattage": "850W",
+          "updatedAt": 1794896528
         },
         {
           "Name": "Cougar GR 850W 80 PLUS Gold",
@@ -55290,7 +55293,7 @@
           "price": 29999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/xpg-core-reactor-ii-ve-850w-gold-power-supply",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "850W"
         },
         {
@@ -55324,7 +55327,7 @@
           "price": 31500.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/power-supplies/gigabyte-gp-ud750gm-750w-80-plus-gold-certified-fully-modular-power-supply/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "750W"
         },
         {
@@ -56273,7 +56276,7 @@
           "price": 49499.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/power-supplies/deepcool-pn1200m-1200w-80-plus-gold-fully-modular-power-supply/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "1200W"
         },
         {
@@ -56609,7 +56612,7 @@
           "price": 54999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/super-flower-leadex-vii-platinum-pro-1200w-power-supply",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "1200W"
         },
         {
@@ -57241,7 +57244,7 @@
           "price": 13999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/power-supplies/deepcool-pf700x-700w-80-plus-bronze-power-supply/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "700W"
         },
         {
@@ -57382,7 +57385,7 @@
           "price": 134999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/power-supplies/super-flower-leadex-titanium-1600w-80-plus-titanium-fully-modular-power-supply/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "1600W"
         },
         {
@@ -57935,12 +57938,12 @@
         {
           "Name": "EASE 1000W 80+ Gold ",
           "storeName": "Zicomputer",
-          "price": 49500.0,
-          "previousprice": 45000.0,
+          "price": 25500.0,
+          "previousprice": 49500.0,
           "url": "https://zicomputer.com/product/ease-1000w-80-gold-full-modular-power-supply/",
-          "availability": "unknown",
+          "availability": "available",
           "Wattage": "1000W",
-          "updatedAt": 1793176753
+          "updatedAt": 1794897253
         }
       ]
     },
@@ -59997,11 +60000,12 @@
         {
           "Name": "Super Flower Zillion 750W 80 Plus Bronze ",
           "storeName": "Junaid Tech",
-          "price": 16999.0,
-          "previousprice": null,
+          "price": 16499.0,
+          "previousprice": 16999.0,
           "url": "https://www.junaidtech.pk/product/super-flower-zillion-750w-bronze-power-supply",
-          "availability": "not available",
-          "Wattage": "750W"
+          "availability": "available",
+          "Wattage": "750W",
+          "updatedAt": 1794897324
         },
         {
           "Name": "Super Flower Zillion 750W 80+ Bronze ",
