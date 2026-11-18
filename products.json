@@ -193,7 +193,7 @@
           "price": 21000.0,
           "previousprice": 20000.0,
           "url": "https://amdhouse.pk/product/sapphire-pulse-rx-570-4gb-gddr5-used-in-2-weeks-warranty-no-box/",
-          "availability": "available",
+          "availability": "not available",
           "tdp": 150.0,
           "company": "AMD",
           "powerConnectors": "1x 6-pin",
@@ -4698,8 +4698,8 @@
         {
           "Name": "ZOTAC RTX 5060 8GB",
           "storeName": "Zicomputer",
-          "price": 145000.0,
-          "previousprice": null,
+          "price": 164000.0,
+          "previousprice": 145000.0,
           "url": "https://zicomputer.com/product/zotac-gaming-geforce-rtx-5060-twin-edge-oc-8gb/",
           "availability": "available",
           "tdp": 145,
@@ -4708,7 +4708,8 @@
           "memorySize": "8 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1794981597
         },
         {
           "Name": "GIGABYTE RTX 5060 8GB",
@@ -5695,8 +5696,8 @@
         {
           "Name": "MSI RTX 5060 TI 8GB",
           "storeName": "Zicomputer",
-          "price": 140000.0,
-          "previousprice": null,
+          "price": 195000.0,
+          "previousprice": 140000.0,
           "url": "https://zicomputer.com/product/msi-geforce-rtx-5060-ti-8g-gaming-oc/",
           "availability": "not available",
           "tdp": 180,
@@ -5705,7 +5706,8 @@
           "memorySize": "8 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1794981898
         },
         {
           "Name": "MSI RTX 5060 TI 8GB",
@@ -5787,8 +5789,8 @@
         {
           "Name": "ZOTAC RTX 5060 TI 8GB",
           "storeName": "Zicomputer",
-          "price": 165000.0,
-          "previousprice": 155000.0,
+          "price": 190000.0,
+          "previousprice": 165000.0,
           "url": "https://zicomputer.com/product/zotac-gaming-geforce-rtx-5060-ti-8gb-twin-edge-oc/",
           "availability": "available",
           "tdp": 180,
@@ -5798,7 +5800,7 @@
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
           "bandwidth": "448 GB/s",
-          "updatedAt": 1793167739
+          "updatedAt": 1794981932
         },
         {
           "Name": "ZOTAC RTX 5060 TI 8GB",
@@ -5864,8 +5866,8 @@
         {
           "Name": "GIGABYTE RTX 5060 TI 8GB",
           "storeName": "Zicomputer",
-          "price": 145000.0,
-          "previousprice": null,
+          "price": 190000.0,
+          "previousprice": 145000.0,
           "url": "https://zicomputer.com/product/gigabyte-windforce-oc-rtx-5060ti-8gb/",
           "availability": "not available",
           "tdp": 180,
@@ -5874,7 +5876,8 @@
           "memorySize": "8 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1794981942
         },
         {
           "Name": "GIGABYTE RTX 5060 TI 8GB",
@@ -5941,8 +5944,8 @@
         {
           "Name": "ASUS RTX 5060 TI 8GB",
           "storeName": "Zicomputer",
-          "price": 160000.0,
-          "previousprice": null,
+          "price": 200000.0,
+          "previousprice": 160000.0,
           "url": "https://zicomputer.com/product/asus-prime-geforce-rtx-5060-ti-8gb-gddr7-oc/",
           "availability": "not available",
           "tdp": 180,
@@ -5951,7 +5954,8 @@
           "memorySize": "8 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1794981951
         },
         {
           "Name": "MSI RTX 5060 TI 8GB",
@@ -6444,8 +6448,8 @@
         {
           "Name": "GIGABYTE RTX 5060 TI 16GB",
           "storeName": "Zicomputer",
-          "price": 195000.0,
-          "previousprice": null,
+          "price": 260000.0,
+          "previousprice": 195000.0,
           "url": "https://zicomputer.com/product/gigabyte-nvidia-rtx-5060-ti-eagle-max-oc-16gb/",
           "availability": "not available",
           "tdp": 180,
@@ -6454,7 +6458,8 @@
           "memorySize": "16 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1794982016
         },
         {
           "Name": "GIGABYTE RTX 5060 TI 16GB",
@@ -6595,8 +6600,8 @@
         {
           "Name": "PNY RTX 5060 TI 16GB",
           "storeName": "Zicomputer",
-          "price": 255000.0,
-          "previousprice": 245000.0,
+          "price": 265000.0,
+          "previousprice": 255000.0,
           "url": "https://zicomputer.com/product/pny-geforce-rtx-5060-ti-16gb-epic-x-rgb-oc/",
           "availability": "available",
           "tdp": 180,
@@ -6606,7 +6611,7 @@
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
           "bandwidth": "448 GB/s",
-          "updatedAt": 1793167852
+          "updatedAt": 1794982034
         },
         {
           "Name": "PNY RTX 5060 TI 16GB",
@@ -7061,8 +7066,8 @@
         {
           "Name": "ZOTAC RTX 5070 12GB",
           "storeName": "Zicomputer",
-          "price": 285000.0,
-          "previousprice": 260000.0,
+          "price": 310000.0,
+          "previousprice": 285000.0,
           "url": "https://zicomputer.com/product/zotac-gaming-geforce-rtx-5070-solid-12gb-gddr7/",
           "availability": "available",
           "tdp": 250.0,
@@ -7072,7 +7077,7 @@
           "memoryType": "GDDR7",
           "memoryBus": "192-bit",
           "bandwidth": "672 GB/s",
-          "updatedAt": 1793167907
+          "updatedAt": 1794982075
         },
         {
           "Name": "ZOTAC RTX 5070 12GB",
@@ -7152,8 +7157,8 @@
         {
           "Name": "MSI RTX 5070 12GB",
           "storeName": "Junaid Tech",
-          "price": 279999.0,
-          "previousprice": null,
+          "price": 309999.0,
+          "previousprice": 279999.0,
           "url": "https://www.junaidtech.pk/product/msi-gaming-rtx-5070-12g-shadow-2x-oc-graphics-card",
           "availability": "available",
           "tdp": 250,
@@ -7162,7 +7167,8 @@
           "memorySize": "12 GB",
           "memoryType": "GDDR7",
           "memoryBus": "192-bit",
-          "bandwidth": "672 GB/s"
+          "bandwidth": "672 GB/s",
+          "updatedAt": 1794982110
         },
         {
           "Name": "MSI RTX 5070 12GB",
@@ -7228,8 +7234,8 @@
         {
           "Name": "PNY RTX 5070 12GB",
           "storeName": "Zicomputer",
-          "price": 260000.0,
-          "previousprice": null,
+          "price": 305000.0,
+          "previousprice": 260000.0,
           "url": "https://zicomputer.com/product/pny-geforce-rtx-5070-oc-12gb-graphics-card/",
           "availability": "not available",
           "tdp": 250,
@@ -7238,7 +7244,8 @@
           "memorySize": "12 GB",
           "memoryType": "GDDR7",
           "memoryBus": "192-bit",
-          "bandwidth": "672 GB/s"
+          "bandwidth": "672 GB/s",
+          "updatedAt": 1794982118
         },
         {
           "Name": "ASUS RTX 5070 12GB",
@@ -8455,8 +8462,8 @@
         {
           "Name": "ASUS PRIME RTX 5070 TI 16GB",
           "storeName": "Junaid Tech",
-          "price": 399999.0,
-          "previousprice": 354999.0,
+          "price": 482999.0,
+          "previousprice": 399999.0,
           "url": "https://www.junaidtech.pk/product/asus-prime-geforce-rtx-5070-ti-16gb-gddr7-graphics-card",
           "availability": "available",
           "tdp": 300,
@@ -8466,7 +8473,7 @@
           "memoryType": "GDDR7",
           "memoryBus": "256-bit",
           "bandwidth": "896 GB/s",
-          "updatedAt": 1793168143
+          "updatedAt": 1794982339
         },
         {
           "Name": "ASUS TUF RTX 5070 TI 16GB",
