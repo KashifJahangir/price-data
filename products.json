@@ -18253,10 +18253,10 @@
         {
           "Name": "GIGABYTE B450M K DDR4 AMD Motherboard",
           "storeName": "Zicomputer",
-          "price": 1400000.0,
-          "previousprice": 23500.0,
+          "price": 23500.0,
+          "previousprice": null,
           "url": "https://zicomputer.com/product/gigabyte-b450m-k-ddr4-amd-motherboard/",
-          "availability": "unknown",
+          "availability": "not available",
           "CPU Socket": "AM4",
           "Chipset Model": "B450",
           "Memory Generation": "DDR4",
