@@ -15701,8 +15701,8 @@
         {
           "Name": "Gigabyte B650M H DDR5 AMD AM5 microATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 33999.0,
-          "previousprice": null,
+          "price": 31499.0,
+          "previousprice": 33999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-b650m-h-ddr5-microatx-motherboard",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -15711,7 +15711,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "6400+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 4.0 / 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1795066951
         },
         {
           "Name": "Gigabyte B650M-H AMD Socket AM5 DDR5 PCIe 4.0 x4 M.2 Motherboard",
@@ -16021,8 +16022,8 @@
         {
           "Name": "Colorful Battle-AX B550M-D Pro V14 New in 10 Months Warranty",
           "storeName": "AMD House",
-          "price": 24000.0,
-          "previousprice": null,
+          "price": 23500.0,
+          "previousprice": 24000.0,
           "url": "https://amdhouse.pk/product/colorful-battle-ax-b550m-d-pro-v14-new-in-10-months-warranty/",
           "availability": "available",
           "CPU Socket": "AM4",
@@ -16031,7 +16032,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "5100+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 4.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1795066992
         },
         {
           "Name": "Colorful Battle-Ax B550M-D Pro V14 DDR4 AMD AM4 microATX Motherboard",
@@ -17123,8 +17125,8 @@
         {
           "Name": "Gigabyte B650M Gaming Wifi DDR5 AMD AM5 microATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 37499.0,
-          "previousprice": null,
+          "price": 35499.0,
+          "previousprice": 37499.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-b650m-gaming-wifi-microatx-motherboard",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -17133,7 +17135,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "6400+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 4.0 / 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1795067145
         },
         {
           "Name": "Gigabyte B650M Gaming WiFi AMD AM5 DDR5 Gaming Motherboard",
@@ -17287,8 +17290,8 @@
         {
           "Name": "Gigabyte A520M K V2 AMD AM4 microATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 20999.0,
-          "previousprice": null,
+          "price": 19999.0,
+          "previousprice": 20999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-a520m-k-v2-microatx-motherboard",
           "availability": "available",
           "CPU Socket": "AM4",
@@ -17297,7 +17300,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "5100+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 3.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1795067163
         },
         {
           "Name": "Gigabyte A520M K V2 AMD A520 Ultra Durable Motherboard",
@@ -18114,8 +18118,8 @@
         {
           "Name": "Colorful Battle-AX B450M-T ",
           "storeName": "AMD House",
-          "price": 18500.0,
-          "previousprice": null,
+          "price": 18000.0,
+          "previousprice": 18500.0,
           "url": "https://amdhouse.pk/product/colorful-battle-ax-b450m-t-m-2-v14-new-in-1-year-warranty/",
           "availability": "available",
           "CPU Socket": "AM4",
@@ -18124,7 +18128,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "3466+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 3.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1795067326
         },
         {
           "Name": "Colorful BATTLE-AX B450M-T ",
@@ -18248,17 +18253,18 @@
         {
           "Name": "GIGABYTE B450M K DDR4 AMD Motherboard",
           "storeName": "Zicomputer",
-          "price": 23500.0,
-          "previousprice": null,
+          "price": 1400000.0,
+          "previousprice": 23500.0,
           "url": "https://zicomputer.com/product/gigabyte-b450m-k-ddr4-amd-motherboard/",
-          "availability": "available",
+          "availability": "unknown",
           "CPU Socket": "AM4",
           "Chipset Model": "B450",
           "Memory Generation": "DDR4",
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "3466+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 3.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1795067346
         },
         {
           "Name": "COLORFUL BATTLE-AX B450M-K M.2 V14 AMD AM4 ",
@@ -18607,7 +18613,7 @@
           "price": 32000.0,
           "previousprice": null,
           "url": "https://amdhouse.pk/product/gigabyte-b550m-aorus-elite-matx-motherboard-am4/",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "AM4",
           "Chipset Model": "B550",
           "Memory Generation": "DDR4",
@@ -18908,8 +18914,8 @@
         {
           "Name": "Gigabyte B550 Gaming X V2 AMD AM4 ATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 44999.0,
-          "previousprice": null,
+          "price": 40999.0,
+          "previousprice": 44999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-b550-gaming-x-atx-motherboard",
           "availability": "not available",
           "CPU Socket": "AM4",
@@ -18918,7 +18924,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "5100+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 4.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1795067428
         },
         {
           "Name": "Gigabyte B550 Gaming X V2 AMD Gaming Motherboard",
@@ -19517,8 +19524,8 @@
         {
           "Name": "Gigabyte H610M H DDR4 Intel 12th Gen microATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 25999.0,
-          "previousprice": null,
+          "price": 25499.0,
+          "previousprice": 25999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-h610m-h-ddr4-intel-12th-gen-microatx-motherboard",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -19527,7 +19534,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "3200 MHz",
           "PCIe Slot Generation": "PCIe 4.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1795067490
         },
         {
           "Name": "Gigabyte H610M H V3 DDR4 Motherboard",
@@ -19923,8 +19931,8 @@
         {
           "Name": "Gigabyte H610M K V2 DDR5 Motherboard - Intel Core 14th CPUs, up to 5600MHz, 1xPCIe 3.0 M.2, 1GbE LAN, USB 3.2 Gen 1",
           "storeName": "Junaid Tech",
-          "price": 26999.0,
-          "previousprice": null,
+          "price": 25499.0,
+          "previousprice": 26999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-h610m-k-v2-ddr5-motherboard-intel",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -19933,7 +19941,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "4800 MHz",
           "PCIe Slot Generation": "PCIe 4.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1795067553
         },
         {
           "Name": "Gigabyte H610M K DDR5 Intel LGA1700 MicroATX Motherboard",
@@ -20882,8 +20891,8 @@
         {
           "Name": "Gigabyte H610M H DDR5 Intel 12/13/14th Gen microATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 27499.0,
-          "previousprice": null,
+          "price": 25999.0,
+          "previousprice": 27499.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-h610m-h-ddr5-microatx-motherboard",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -20892,7 +20901,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "4800 MHz",
           "PCIe Slot Generation": "PCIe 4.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1795067738
         },
         {
           "Name": "Gigabyte H610M H V2 DDR5 Gen3 x4 M.2, Anti-Sulfur Resistor, Smart Fan 6 Motherboard",
@@ -21399,8 +21409,8 @@
         {
           "Name": "Gigabyte B760M H DDR4 Motherboard - Supports Intel Core 14th Gen CPUs, 6+1+1 Phases Digital VRM, up to 3200MHz DDR4 (OC), 2xPCIe 4.0 M.2, GbE LAN, USB 3.2 Gen1",
           "storeName": "Junaid Tech",
-          "price": 33999.0,
-          "previousprice": null,
+          "price": 28999.0,
+          "previousprice": 33999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-b760m-h-ddr4-motherboard",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -21409,7 +21419,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "5333+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 4.0 / 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1795067793
         },
         {
           "Name": "Gigabyte B760M H DDR4 Motherboard LGA 1700 Micro ATX SATA3 M.2 PCIe HDMI VGA",
@@ -23298,8 +23309,8 @@
         {
           "Name": "Gigabyte Z790 Eagle DDR5 Intel 12/13/14th Gen ATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 72999.0,
-          "previousprice": 64999.0,
+          "price": 64499.0,
+          "previousprice": 72999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-z790-eagle-atx-motherboard",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -23309,7 +23320,7 @@
           "Maximum Speed": "7800+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
           "powerConnectors": "24-pin + 8-pin (or 8+4)",
-          "updatedAt": 1793803903
+          "updatedAt": 1795067977
         },
         {
           "Name": "Gigabyte Z790 EAGLE AX WIFI DDR5 ATX LGA1700 Gaming Motherboard",
@@ -24149,8 +24160,8 @@
         {
           "Name": "Gigabyte Z790 UD AX DDR5 Intel 12/13th Gen ATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 72499.0,
-          "previousprice": null,
+          "price": 69999.0,
+          "previousprice": 72499.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-z790-ud-ax-ddr5-atx-motherboard",
           "availability": "available",
           "CPU Socket": "LGA1700",
@@ -24159,7 +24170,8 @@
           "Maximum Capacity": "192 GB",
           "Maximum Speed": "7800+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin (or 8+4)"
+          "powerConnectors": "24-pin + 8-pin (or 8+4)",
+          "updatedAt": 1795068053
         },
         {
           "Name": "Gigabyte Z790 UD DDR5 Intel 12/13th Gen ATX Motherboard",
@@ -24991,8 +25003,8 @@
         {
           "Name": "Asus Prime X870-P-CSM DDR5 AMD AM5 ATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 84999.0,
-          "previousprice": null,
+          "price": 86999.0,
+          "previousprice": 84999.0,
           "url": "https://www.junaidtech.pk/product/asus-prime-x870-p-csm-atx-motherboard",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -25001,7 +25013,8 @@
           "Maximum Capacity": "256 GB",
           "Maximum Speed": "8000+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin (or 8+4)"
+          "powerConnectors": "24-pin + 8-pin (or 8+4)",
+          "updatedAt": 1795068125
         },
         {
           "Name": "Asus Prime X870-P WiFi-CSM ATX AM5 DDR5 Gaming Motherboard",
@@ -25923,7 +25936,7 @@
           "price": 99499.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/msi-x870e-gaming-plus-wifi-atx-am5-ddr5-motherboard/",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "AM5",
           "Chipset Model": "X870",
           "Memory Generation": "DDR5",
@@ -26239,8 +26252,8 @@
         {
           "Name": "Gigabyte X870 Aorus Elite Wifi7 AMD AM5 LGA 1718 Motherboard",
           "storeName": "Junaid Tech",
-          "price": 94499.0,
-          "previousprice": null,
+          "price": 89999.0,
+          "previousprice": 94499.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-x870-aorus-elite-wifi7-amd-am5-motherboard",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -26249,7 +26262,8 @@
           "Maximum Capacity": "256 GB",
           "Maximum Speed": "8000+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin (or 8+4)"
+          "powerConnectors": "24-pin + 8-pin (or 8+4)",
+          "updatedAt": 1795068243
         },
         {
           "Name": "Gigabyte X870 Aorus Elite WIFI7 ATX AM5 DDR5 Gaming Motherboard",
@@ -26723,8 +26737,8 @@
         {
           "Name": "MSI MPG X870E Carbon Wifi DDR5 AMD AM5 ATX Motherboard",
           "storeName": "Junaid Tech",
-          "price": 144999.0,
-          "previousprice": null,
+          "price": 154999.0,
+          "previousprice": 144999.0,
           "url": "https://www.junaidtech.pk/product/msi-mpg-x870e-carbon-wifi-atx-motherboard",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -26733,7 +26747,8 @@
           "Maximum Capacity": "256 GB",
           "Maximum Speed": "8000+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin (or 8+4)"
+          "powerConnectors": "24-pin + 8-pin (or 8+4)",
+          "updatedAt": 1795068286
         },
         {
           "Name": "MSI MPG X870E CARBON WIFI ATX AM5 DDR5 Gaming Motherboard",
@@ -27098,7 +27113,7 @@
           "price": 174999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/asus-proart-z890-creator-wifi-atx-lga1851-ddr5-gaming-motherboard/",
-          "availability": "not available",
+          "availability": "available",
           "CPU Socket": "LGA1851",
           "Chipset Model": "Z890",
           "Memory Generation": "DDR5",
@@ -30099,8 +30114,8 @@
         {
           "Name": "Sapphire Nitro+ B850A Motherboard",
           "storeName": "Junaid Tech",
-          "price": 63999.0,
-          "previousprice": null,
+          "price": 66999.0,
+          "previousprice": 63999.0,
           "url": "https://www.junaidtech.pk/product/sapphire-nitro-b850a-wifi-7-ddr5-atx-motherboard",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -30109,7 +30124,8 @@
           "Maximum Capacity": "256 GB",
           "Maximum Speed": "7200+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1795068484
         },
         {
           "Name": "Sapphire Nitro+ B850A Motherboard",
