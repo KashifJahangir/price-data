@@ -9815,8 +9815,8 @@
         {
           "Name": "RYZEN 7 9800X3D",
           "storeName": "Junaid Tech",
-          "price": 119999.0,
-          "previousprice": 114999.0,
+          "price": 114999.0,
+          "previousprice": 119999.0,
           "url": "https://www.junaidtech.pk/product/amd-ryzen-7-9800x3d-processor-tray",
           "availability": "available",
           "Socket": "AM5",
@@ -9825,7 +9825,7 @@
           "TDP": "120W",
           "PCI-Express": "PCIe 5.0",
           "Memory Support": "DDR5-5600",
-          "updatedAt": 1793168382
+          "updatedAt": 1795152550
         },
         {
           "Name": "RYZEN 7 9800X3D",
@@ -10449,8 +10449,8 @@
         {
           "Name": "RYZEN 7 9700X",
           "storeName": "AMD House",
-          "price": 75500.0,
-          "previousprice": 76500.0,
+          "price": 70000.0,
+          "previousprice": 75500.0,
           "url": "https://amdhouse.pk/product/amd-ryzen-7-9700x-new-chip-in-10-months-warranty/",
           "availability": "available",
           "Socket": "AM5",
@@ -10459,7 +10459,7 @@
           "TDP": "65W",
           "PCI-Express": "PCIe 5.0",
           "Memory Support": "DDR5-5600",
-          "updatedAt": 1794631452
+          "updatedAt": 1795152664
         },
         {
           "Name": "RYZEN 7 9700X",
@@ -11783,7 +11783,7 @@
           "price": 20499.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-3600-processor-tray/",
-          "availability": "available",
+          "availability": "not available",
           "Socket": "AM4",
           "Foundry": "AMD",
           "Frequency": "3.6 GHz / 4.2 GHz",
@@ -13966,8 +13966,8 @@
         {
           "Name": "CORE I9 14900K",
           "storeName": "RB Tech N Games",
-          "price": 134999.0,
-          "previousprice": null,
+          "price": 129999.0,
+          "previousprice": 134999.0,
           "url": "https://rbtechngames.com/shop-2/computers/processors/intel-core-i9-14900k-24-cores-8-p-cores-16-e-cores/",
           "availability": "available",
           "Socket": "LGA1700",
@@ -13975,7 +13975,8 @@
           "Frequency": "3.2 GHz / 6.0 GHz",
           "TDP": "125W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR4-3200 / DDR5-5600"
+          "Memory Support": "DDR4-3200 / DDR5-5600",
+          "updatedAt": 1795153508
         },
         {
           "Name": "CORE I9 14900K",
