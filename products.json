@@ -30544,28 +30544,30 @@
         {
           "Name": "CORSAIR VENGEANCE 32GB DDR5 6000MHz",
           "storeName": "Zicomputer",
-          "price": 128000.0,
-          "previousprice": null,
+          "price": 165000.0,
+          "previousprice": 128000.0,
           "url": "https://zicomputer.com/product/corsair-vengeance-32gb-ddr5-6000mhz/",
           "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1795238513
         },
         {
           "Name": "CORSAIR VENGEANCE RGB 32GB DDR5 6000MHz ",
           "storeName": "Zicomputer",
-          "price": 150000.0,
-          "previousprice": null,
+          "price": 165000.0,
+          "previousprice": 150000.0,
           "url": "https://zicomputer.com/product/corsair-vengeance-rgb-32gb-ddr5-6000mhz/",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1795238515
         }
       ]
     },
@@ -30603,8 +30605,8 @@
         {
           "Name": "XPG Lancer Blade RGB 32GB DDR5 6000MHz ",
           "storeName": "RB Tech N Games",
-          "price": 174999.0,
-          "previousprice": 164999.0,
+          "price": 184999.0,
+          "previousprice": 174999.0,
           "url": "https://rbtechngames.com/shop-2/computers/rams/xpg-lancer-blade-rgb-32gb-ddr5-6000mhz-cl36-2x16gb-desktop-memory/",
           "availability": "available",
           "Memory Generation": "DDR5",
@@ -30612,7 +30614,7 @@
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "32 GB",
           "Maximum Speed": "6000 MHz",
-          "updatedAt": 1793172347
+          "updatedAt": 1795238525
         },
         {
           "Name": "G.SKILL Trident Z5 RGB Series 32GB (2 x 16GB) 6400MHz ",
@@ -30774,28 +30776,30 @@
         {
           "Name": "G.SKILL Trident Z5 RGB 32GB 6000MHz",
           "storeName": "Zicomputer",
-          "price": 135000.0,
-          "previousprice": null,
+          "price": 160000.0,
+          "previousprice": 135000.0,
           "url": "https://zicomputer.com/product/gskill-trident-z5-rgb-32gb-ddr5-6000mhz/",
           "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1795238528
         },
         {
           "Name": "LANCER RGB 32GB 6000MHz",
           "storeName": "Zicomputer",
-          "price": 150000.0,
-          "previousprice": null,
+          "price": 160000.0,
+          "previousprice": 150000.0,
           "url": "https://zicomputer.com/product/lancer-rgb-32gb-ddr5-6000mhz/",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1795238530
         }
       ]
     },
@@ -30900,15 +30904,16 @@
         {
           "Name": "XPG D35G 32GB DDR4 3200MHz RAM Dual-Channel",
           "storeName": "Zicomputer",
-          "price": 65000.0,
-          "previousprice": null,
+          "price": 75000.0,
+          "previousprice": 65000.0,
           "url": "https://zicomputer.com/product/xpg-d35g-32gb-ddr4-3200mhz-dual-channel/",
           "availability": "available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "3200 MHz"
+          "Maximum Speed": "3200 MHz",
+          "updatedAt": 1795238542
         }
       ]
     },
@@ -31000,15 +31005,16 @@
         {
           "Name": "Lexar 16GB DDR5 5600MHz",
           "storeName": "Zicomputer",
-          "price": 68000.0,
-          "previousprice": null,
+          "price": 75000.0,
+          "previousprice": 68000.0,
           "url": "https://zicomputer.com/product/lexar-16gb-ddr5-5600mhz-desktop-ram/",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "SODIMM",
           "Clock Speed": "5600 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "5600 MHz"
+          "Maximum Speed": "5600 MHz",
+          "updatedAt": 1795238597
         }
       ]
     },
@@ -31171,15 +31177,16 @@
         {
           "Name": "XPG LANCER BLADE 64GB DDR5 6000MHz",
           "storeName": "Zicomputer",
-          "price": 260000.0,
-          "previousprice": null,
+          "price": 330000.0,
+          "previousprice": 260000.0,
           "url": "https://zicomputer.com/product/xpg-lancer-blade-64gb-ddr5-6000mhz-cl30/",
           "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "64 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1795238600
         }
       ]
     },
@@ -31512,15 +31519,16 @@
         {
           "Name": "Transcend JetRam 16GB DDR5 5600MHz ",
           "storeName": "Zicomputer",
-          "price": 67000.0,
-          "previousprice": null,
+          "price": 72000.0,
+          "previousprice": 67000.0,
           "url": "https://zicomputer.com/product/transcend-jetram-16gb-ddr5-5600mhz/",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "5600 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "5600 MHz"
+          "Maximum Speed": "5600 MHz",
+          "updatedAt": 1795238656
         }
       ]
     },
@@ -31597,15 +31605,16 @@
         {
           "Name": "CORSAIR VENGEANCE RGB 64GB DDR5 6000MT/s ",
           "storeName": "Zicomputer",
-          "price": 260000.0,
-          "previousprice": null,
+          "price": 330000.0,
+          "previousprice": 260000.0,
           "url": "https://zicomputer.com/product/corsair-vengeance-rgb-64gb-ddr5-6000mts/",
           "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "64 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1795238663
         }
       ]
     },
@@ -32399,15 +32408,16 @@
         {
           "Name": "G.SKILL Trident Z5 RGB 64GB DDR5-6000 ",
           "storeName": "Zicomputer",
-          "price": 250000.0,
-          "previousprice": null,
+          "price": 350000.0,
+          "previousprice": 250000.0,
           "url": "https://zicomputer.com/product/gskill-trident-z5-rgb-64gb-ddr5-6000mhz/",
           "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "64 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1795238866
         }
       ]
     },
@@ -32964,15 +32974,16 @@
         {
           "Name": "TEAMGROUP T-Force Delta RGB DDR4 16GB 3200MHz",
           "storeName": "Zicomputer",
-          "price": 34000.0,
-          "previousprice": null,
+          "price": 40000.0,
+          "previousprice": 34000.0,
           "url": "https://zicomputer.com/product/teamgroup-t-force-delta-rgb-ddr4-16gb/",
           "availability": "not available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "3200 MHz"
+          "Maximum Speed": "3200 MHz",
+          "updatedAt": 1795238933
         }
       ]
     },
@@ -33241,15 +33252,16 @@
         {
           "Name": "TeamGroup Elite 32GB DDR5 5600MHz ",
           "storeName": "Zicomputer",
-          "price": 135000.0,
-          "previousprice": null,
+          "price": 145000.0,
+          "previousprice": 135000.0,
           "url": "https://zicomputer.com/product/teamgroup-elite-32gb-ddr5-5600mhz/",
           "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "5600 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "5600 MHz"
+          "Maximum Speed": "5600 MHz",
+          "updatedAt": 1795238976
         }
       ]
     },
@@ -33691,15 +33703,16 @@
         {
           "Name": "TeamGroup Elite 32GB DDR4 3200MHz ",
           "storeName": "Zicomputer",
-          "price": 55000.0,
-          "previousprice": null,
+          "price": 60000.0,
+          "previousprice": 55000.0,
           "url": "https://zicomputer.com/product/teamgroup-elite-32gb-ddr4-3200mhz/",
           "availability": "not available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "3200 MHz"
+          "Maximum Speed": "3200 MHz",
+          "updatedAt": 1795239037
         },
         {
           "Name": "TeamGroup Elite 32GB (1x32GB) 3200MHz Laptop Memory",
@@ -33949,15 +33962,16 @@
         {
           "Name": "TeamGroup Elite 16GB DDR5 5600MHz ",
           "storeName": "Zicomputer",
-          "price": 67000.0,
-          "previousprice": null,
+          "price": 70000.0,
+          "previousprice": 67000.0,
           "url": "https://zicomputer.com/product/teamgroup-elite-16gb-ddr5-5600mhz/",
           "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "5600 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "5600 MHz"
+          "Maximum Speed": "5600 MHz",
+          "updatedAt": 1795239080
         }
       ]
     },
@@ -34002,15 +34016,16 @@
         {
           "Name": "Corsair Vengeance 16GB (1x16GB) 5600MHz ",
           "storeName": "Junaid Tech",
-          "price": 69999.0,
-          "previousprice": null,
+          "price": 71999.0,
+          "previousprice": 69999.0,
           "url": "https://www.junaidtech.pk/product/corsair-vengeance-5600mhz-cl40-1x16gb-ddr5-ram-amd-expo-black",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "5600 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "5600 MHz"
+          "Maximum Speed": "5600 MHz",
+          "updatedAt": 1795239085
         },
         {
           "Name": "Corsair Vengeance Grey 16GB 5600MHz ",
@@ -34628,7 +34643,7 @@
           "price": 165000.0,
           "previousprice": 140000.0,
           "url": "https://amdhouse.pk/product/lexar-ares-ddr5-8000mhz-32gb-16gbx2-xmp-kit-new-in-10-months-warranty/",
-          "availability": "not available",
+          "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "8000 MHz",
@@ -35379,15 +35394,16 @@
         {
           "Name": "TEAMGROUP T-FORCE DELTA RGB 32GB DDR5 6400MHz ",
           "storeName": "Zicomputer",
-          "price": 150000.0,
-          "previousprice": null,
+          "price": 165000.0,
+          "previousprice": 150000.0,
           "url": "https://zicomputer.com/product/teamgroup-t-force-delta-32gb-ddr5-6400mhz-cl40/",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6400 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "6400 MHz"
+          "Maximum Speed": "6400 MHz",
+          "updatedAt": 1795239405
         }
       ]
     },
@@ -36628,7 +36644,7 @@
           "price": 144999.0,
           "previousprice": 114999.0,
           "url": "https://rbtechngames.com/shop-2/laptops/laptop-ram/crucial-sodimm-32gb-1x32gb-5600mt-s-cl46-ddr5-laptop-memory/",
-          "availability": "available",
+          "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "SODIMM",
           "Clock Speed": "5600 MHz",
@@ -36659,15 +36675,16 @@
         {
           "Name": "Apacer 16GB DDR5 5600MHz Desktop ",
           "storeName": "Zicomputer",
-          "price": 67000.0,
-          "previousprice": null,
+          "price": 75000.0,
+          "previousprice": 67000.0,
           "url": "https://zicomputer.com/product/apacer-16gb-ddr5-5600mhz-desktop-ram-single/",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "5600 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "5600 MHz"
+          "Maximum Speed": "5600 MHz",
+          "updatedAt": 1795239693
         }
       ]
     },
@@ -37889,15 +37906,16 @@
         {
           "Name": "Lexar ARES RGB 32GB (16*2) DDR5 6400MHz ",
           "storeName": "Zicomputer",
-          "price": 115000.0,
-          "previousprice": null,
+          "price": 165000.0,
+          "previousprice": 115000.0,
           "url": "https://zicomputer.com/product/lexar-ares-rgb-32gb-6400mhz-ddr5-desktop/",
           "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6400 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "6400 MHz"
+          "Maximum Speed": "6400 MHz",
+          "updatedAt": 1795239696
         }
       ]
     },
@@ -37909,15 +37927,16 @@
         {
           "Name": "XPG Lancer RGB 32GB (16*2) DDR5 5200MHz ",
           "storeName": "Zicomputer",
-          "price": 125000.0,
-          "previousprice": null,
+          "price": 150000.0,
+          "previousprice": 125000.0,
           "url": "https://zicomputer.com/product/xpg-lancer-rgb-32gb-ddr5-5200mhz-desktop/",
           "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "5200 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "5200 MHz"
+          "Maximum Speed": "5200 MHz",
+          "updatedAt": 1795239698
         }
       ]
     },
@@ -37929,15 +37948,16 @@
         {
           "Name": "Corsair Dominator Platinum 64GB (32*2) DDR5 6600MHz",
           "storeName": "Zicomputer",
-          "price": 285000.0,
-          "previousprice": null,
+          "price": 385000.0,
+          "previousprice": 285000.0,
           "url": "https://zicomputer.com/product/corsair-dominator-platinum-64gb-6600mhz/",
           "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6600 MHz",
           "Maximum Capacity": "64 GB",
-          "Maximum Speed": "6600 MHz"
+          "Maximum Speed": "6600 MHz",
+          "updatedAt": 1795239700
         }
       ]
     },
@@ -37970,15 +37990,16 @@
         {
           "Name": "Acer UD200 16GB DDR5 5600MHz ",
           "storeName": "Zicomputer",
-          "price": 55000.0,
-          "previousprice": null,
+          "price": 70000.0,
+          "previousprice": 55000.0,
           "url": "https://zicomputer.com/product/acer-ud200-16gb-ddr5-5600mhz/",
           "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "5600 MHz",
           "Maximum Capacity": "16 GB",
-          "Maximum Speed": "5600 MHz"
+          "Maximum Speed": "5600 MHz",
+          "updatedAt": 1795239705
         }
       ]
     },
@@ -37990,15 +38011,16 @@
         {
           "Name": "Lexar 32GB DDR4 2666MHz Desktop RAM ",
           "storeName": "Zicomputer",
-          "price": 55000.0,
-          "previousprice": null,
+          "price": 60000.0,
+          "previousprice": 55000.0,
           "url": "https://zicomputer.com/product/lexar-32gb-ddr4-2666mhz/",
           "availability": "not available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "2666 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "2666 MHz"
+          "Maximum Speed": "2666 MHz",
+          "updatedAt": 1795239707
         }
       ]
     },
@@ -38216,28 +38238,30 @@
         {
           "Name": "CORSAIR VENGEANCE 96GB DDR5 6600MT/s ",
           "storeName": "Zicomputer",
-          "price": 310000.0,
-          "previousprice": null,
+          "price": 520000.0,
+          "previousprice": 310000.0,
           "url": "https://zicomputer.com/product/corsair-vengeance-96gb-ddr5-6600mts-cl32/",
           "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "96 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1795239726
         },
         {
           "Name": "CORSAIR VENGEANCE 96GB DDR5 6000MHz ",
           "storeName": "Zicomputer",
-          "price": 310000.0,
-          "previousprice": null,
+          "price": 520000.0,
+          "previousprice": 310000.0,
           "url": "https://zicomputer.com/product/corsair-vengeance-96gb-ddr5-6000mhz-cl30/",
           "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "96 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1795239728
         }
       ]
     },
@@ -38249,15 +38273,16 @@
         {
           "Name": "CORSAIR VENGEANCE 96GB DDR5 6800MT/s ",
           "storeName": "Zicomputer",
-          "price": 380000.0,
-          "previousprice": null,
+          "price": 520000.0,
+          "previousprice": 380000.0,
           "url": "https://zicomputer.com/product/corsair-vengeance-96gb-ddr5-6800mts-cl40/",
           "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6800 MHz",
           "Maximum Capacity": "96 GB",
-          "Maximum Speed": "6800 MHz"
+          "Maximum Speed": "6800 MHz",
+          "updatedAt": 1795239731
         }
       ]
     },
