@@ -7759,7 +7759,7 @@
           "price": 295000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/sapphire-pulse-radeon-rx-9070-xt-16gb-gddr6-pci-express-5-0-x16-atx-graphics-card/",
-          "availability": "available",
+          "availability": "not available",
           "tdp": 304.0,
           "company": "AMD",
           "powerConnectors": "2x 8-pin",
@@ -10259,8 +10259,8 @@
         {
           "Name": "RYZEN 9 9950X3D",
           "storeName": "Zah Computers",
-          "price": 185000.0,
-          "previousprice": null,
+          "price": 198000.0,
+          "previousprice": 185000.0,
           "url": "https://zahcomputers.pk/product/amd-ryzen-9-9950x3d-4-4-ghz-16-core-am5-gaming-processor/",
           "availability": "available",
           "Socket": "AM5",
@@ -10268,7 +10268,8 @@
           "Frequency": "4.3 GHz / 5.7 GHz",
           "TDP": "170W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR5-5600"
+          "Memory Support": "DDR5-5600",
+          "updatedAt": 1795349868
         },
         {
           "Name": "RYZEN 9 9950X3D",
@@ -31420,8 +31421,8 @@
         {
           "Name": "ADATA 16GB 5600MHz",
           "storeName": "Zah Computers",
-          "price": 69500.0,
-          "previousprice": 63000.0,
+          "price": 64500.0,
+          "previousprice": 69500.0,
           "url": "https://zahcomputers.pk/product/adata-16gb-5600mhz-c46-ddr5-u-dimm-desktop-memory/",
           "availability": "available",
           "Memory Generation": "DDR5",
@@ -31429,7 +31430,7 @@
           "Clock Speed": "5600 MHz",
           "Maximum Capacity": "16 GB",
           "Maximum Speed": "5600 MHz",
-          "updatedAt": 1793534034
+          "updatedAt": 1795349868
         },
         {
           "Name": "ADATA 16GB 5600MHz",
@@ -32468,15 +32469,16 @@
         {
           "Name": "ADATA Premier 8GB 5600MHz",
           "storeName": "Zah Computers",
-          "price": 37499.0,
-          "previousprice": null,
+          "price": 3799.0,
+          "previousprice": 37499.0,
           "url": "https://zahcomputers.pk/product/adata-premier-8gb-5600mhz-u-dimm-ddr5-desktop-memory/",
           "availability": "not available",
           "Memory Generation": "DDR5",
           "Form Factor": "SODIMM",
           "Clock Speed": "5600 MHz",
           "Maximum Capacity": "8 GB",
-          "Maximum Speed": "5600 MHz"
+          "Maximum Speed": "5600 MHz",
+          "updatedAt": 1795349868
         }
       ]
     },
@@ -43874,7 +43876,7 @@
           "price": 40000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/lexar-1tb-sl300-usb-3-2-gen-2-portable-ssd/",
-          "availability": "not available",
+          "availability": "available",
           "Interface": "Unknown",
           "Protocol": "Unknown",
           "Capacity": "1 TB",
@@ -46236,7 +46238,7 @@
           "price": 205000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/samsung-4tb-990-pro-pcie-4-0-x4-m-2-internal-ssd/",
-          "availability": "not available",
+          "availability": "available",
           "Interface": "PCIe",
           "Protocol": "NVMe PCIe 4.0 x4",
           "Capacity": "4 TB",
@@ -49184,16 +49186,17 @@
         {
           "Name": "Lexar NS100 256GB  SSD",
           "storeName": "Zah Computers",
-          "price": 6300.0,
-          "previousprice": null,
+          "price": 14000.0,
+          "previousprice": 6300.0,
           "url": "https://zahcomputers.pk/product/lexar-ns100-256gb-2-5-sata-iii-ssd/",
-          "availability": "not available",
+          "availability": "available",
           "Interface": "Unknown",
           "Protocol": "Unknown",
           "Capacity": "256 GB",
           "Form Factor": "Unknown",
           "Sequential Read": "Unknown",
-          "Sequential Write": "Unknown"
+          "Sequential Write": "Unknown",
+          "updatedAt": 1795349868
         },
         {
           "Name": "Lexar NS100 256GB SSD",
@@ -51326,16 +51329,17 @@
         {
           "Name": "HikSemi Wave(S) 256GB SSD",
           "storeName": "Zah Computers",
-          "price": 13500.0,
-          "previousprice": null,
+          "price": 12000.0,
+          "previousprice": 13500.0,
           "url": "https://zahcomputers.pk/product/hiksemi-waves-256gb-2-5-sata-internal-ssd/",
-          "availability": "not available",
+          "availability": "available",
           "Interface": "PCIe",
           "Protocol": "NVMe",
           "Capacity": "256 GB",
           "Form Factor": "M.2 2280",
           "Sequential Read": "Unknown",
-          "Sequential Write": "Unknown"
+          "Sequential Write": "Unknown",
+          "updatedAt": 1795349868
         },
         {
           "Name": "HIKSEMI Wave 256GB SATA SSD ",
@@ -52750,11 +52754,12 @@
         {
           "Name": "Thermalright SP-750 750W 80 Plus Platinum ",
           "storeName": "Zah Computers",
-          "price": 23950.0,
-          "previousprice": null,
+          "price": 23500.0,
+          "previousprice": 23950.0,
           "url": "https://zahcomputers.pk/product/thermalright-sp-750-750w-80-plus-platinum-fully-modular-power-supply/",
           "availability": "available",
-          "Wattage": "750W"
+          "Wattage": "750W",
+          "updatedAt": 1795349868
         }
       ]
     },
@@ -52830,7 +52835,7 @@
           "price": 23500.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/thermalright-sg-750-750w-80-plus-gold-fully-modular-atx-3-1-power-supply/",
-          "availability": "not available",
+          "availability": "available",
           "Wattage": "750W"
         },
         {
@@ -52907,7 +52912,7 @@
           "price": 28500.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/1st-player-ngdp-850w-fully-modular-psu-80-plus-gold-cybenetics-platinum-pplp-gold-atx-3-1-pci-e-5-1-low-noise-fdb-fan-zero-rpm-japanese-electrolyte-capacitor/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "850W"
         }
       ]
@@ -53605,11 +53610,12 @@
         {
           "Name": "Super Flower LEADEX III GOLD 850W ",
           "storeName": "Zah Computers",
-          "price": 29999.0,
-          "previousprice": null,
+          "price": 32000.0,
+          "previousprice": 29999.0,
           "url": "https://zahcomputers.pk/product/super-flower-leadex-iii-gold-850w-fully-modular-with-pci-e-5-0-cable-power-supply/",
           "availability": "available",
-          "Wattage": "850W"
+          "Wattage": "850W",
+          "updatedAt": 1795349868
         }
       ]
     },
@@ -54950,7 +54956,7 @@
           "price": 25000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/msi-pag-g750ls-pcie5-80-plus-gold-750w-power-supply-full-modular-atx-3-1-power-supply/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "750W"
         },
         {
@@ -56688,11 +56694,12 @@
         {
           "Name": "Super Flower LEADEX VII Platinum PRO 1200W ",
           "storeName": "Zah Computers",
-          "price": 60000.0,
-          "previousprice": null,
+          "price": 55000.0,
+          "previousprice": 60000.0,
           "url": "https://zahcomputers.pk/product/super-flower-leadex-vii-platinum-pro-1200w-atx-3-0-with-pci-e-5-0-cable-power-supply/",
-          "availability": "not available",
-          "Wattage": "1200W"
+          "availability": "available",
+          "Wattage": "1200W",
+          "updatedAt": 1795349868
         },
         {
           "Name": "Super Flower LEADEX VIII Platinum PRO 1200W ",
@@ -56907,7 +56914,7 @@
           "price": 110000.0,
           "previousprice": null,
           "url": "https://zahcomputers.pk/product/thermalright-tp-1650-1650w-80-plus-platinum-fully-modular-power-supply/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "1650W"
         },
         {
@@ -56997,11 +57004,12 @@
         {
           "Name": "Thermalright AT-1650 1650W 80 Plus Titanium ",
           "storeName": "Zah Computers",
-          "price": 124999.0,
-          "previousprice": null,
+          "price": 98000.0,
+          "previousprice": 124999.0,
           "url": "https://zahcomputers.pk/product/thermalright-at-1650-1650w-80-plus-titanium-fully-modular-atx-3-1-power-supply/",
           "availability": "available",
-          "Wattage": "1650W"
+          "Wattage": "1650W",
+          "updatedAt": 1795349868
         }
       ]
     },
@@ -60062,12 +60070,12 @@
         {
           "Name": "Super Flower Zillion 750W 80+ Bronze ",
           "storeName": "Zah Computers",
-          "price": 17000.0,
-          "previousprice": 15999.0,
+          "price": 16500.0,
+          "previousprice": 17000.0,
           "url": "https://zahcomputers.pk/product/super-flower-zillion-750w-80-bronze-power-supply/",
           "availability": "available",
           "Wattage": "750W",
-          "updatedAt": 1794746655
+          "updatedAt": 1795349868
         }
       ]
     },
