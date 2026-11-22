@@ -39279,8 +39279,8 @@
         {
           "Name": "Samsung 990 PRO 1TB SSD PCIe 4.0 M.2",
           "storeName": "Junaid Tech",
-          "price": 67999.0,
-          "previousprice": null,
+          "price": 71499.0,
+          "previousprice": 67999.0,
           "url": "https://www.junaidtech.pk/product/samsung-990-pro-1tb-nvme-ssd",
           "availability": "available",
           "Interface": "PCIe",
@@ -39288,7 +39288,8 @@
           "Capacity": "1 TB",
           "Form Factor": "M.2 2280",
           "Sequential Read": "7450 MB/s",
-          "Sequential Write": "7450 MB/s"
+          "Sequential Write": "7450 MB/s",
+          "updatedAt": 1795322922
         },
         {
           "Name": "Samsung 990 Pro 1TB Used NVMe SSD PCIe 4.0 High Speed",
@@ -39478,8 +39479,8 @@
         {
           "Name": "WD Green SN3000 500GB NVMe ",
           "storeName": "Czone",
-          "price": 23500.0,
-          "previousprice": null,
+          "price": 23490.0,
+          "previousprice": 23500.0,
           "url": "https://www.czone.com.pk/solid-state-drives-ssd-western-digital-wd-wd-green-sn3000-500gb-nvme-ssd-m-2-2280-5000mb-s-pcie-gen4-pakistan-p.18355.aspx",
           "availability": "not available",
           "Interface": "PCIe",
@@ -39487,7 +39488,8 @@
           "Capacity": "512 GB",
           "Form Factor": "M.2 2280",
           "Sequential Read": "5000 MB/s",
-          "Sequential Write": "5000 MB/s"
+          "Sequential Write": "5000 MB/s",
+          "updatedAt": 1795322947
         },
         {
           "Name": "WD Green SN3000 500GB NVMe ",
@@ -42375,8 +42377,8 @@
         {
           "Name": "Western Digital WD My Book 8TB Desktop",
           "storeName": "Junaid Tech",
-          "price": 91999.0,
-          "previousprice": null,
+          "price": 88999.0,
+          "previousprice": 91999.0,
           "url": "https://www.junaidtech.pk/product/wd-my-book-8tb-external-hard-drive",
           "availability": "available",
           "Interface": "Unknown",
@@ -42384,7 +42386,8 @@
           "Capacity": "8 TB",
           "Form Factor": "Unknown",
           "Sequential Read": "Unknown",
-          "Sequential Write": "Unknown"
+          "Sequential Write": "Unknown",
+          "updatedAt": 1795323394
         },
         {
           "Name": "WD My Book Desktop External HDD, 8TB ",
@@ -42609,7 +42612,7 @@
           "price": 109999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/wd-my-book-12tb-external-hard-drive",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "Unknown",
           "Protocol": "Unknown",
           "Capacity": "12 TB",
@@ -46961,7 +46964,7 @@
           "price": 4999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/storage/ugreen-90264-m-2-nvme-ssd-enclosure-usb-c/",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "PCIe",
           "Protocol": "NVMe",
           "Capacity": "Unknown",
