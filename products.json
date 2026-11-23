@@ -52207,11 +52207,12 @@
         {
           "Name": "Super Flower ZILLION DB 650W 80+ Bronze",
           "storeName": "AMD House",
-          "price": 13500.0,
-          "previousprice": null,
+          "price": 14000.0,
+          "previousprice": 13500.0,
           "url": "https://amdhouse.pk/product/super-flower-zillion-db-650w-80-bronze-psu-new-in-2-years-warranty/",
-          "availability": "not available",
-          "Wattage": "650W"
+          "availability": "available",
+          "Wattage": "650W",
+          "updatedAt": 1795411572
         },
         {
           "Name": "Super Flower Zillion 650W 80 Plus ",
@@ -53260,11 +53261,12 @@
         {
           "Name": "Thermalright TR-TB650S 650W 80+ Bronze ",
           "storeName": "AMD House",
-          "price": 13500.0,
-          "previousprice": null,
+          "price": 15000.0,
+          "previousprice": 13500.0,
           "url": "https://amdhouse.pk/product/thermalright-tr-tb650s-650w-80-bronze-certified-atx-3-0-psu-new-in-10-months-wty/",
           "availability": "available",
-          "Wattage": "650W"
+          "Wattage": "650W",
+          "updatedAt": 1795411756
         },
         {
           "Name": "Thermalright TB-650S 650W 80 Plus Bronze ",
@@ -53601,11 +53603,12 @@
         {
           "Name": "Super Flower Leadex III Gold 850W 80+ Gold ",
           "storeName": "AMD House",
-          "price": 27000.0,
-          "previousprice": null,
+          "price": 28500.0,
+          "previousprice": 27000.0,
           "url": "https://amdhouse.pk/product/super-flower-leadex-iii-gold-850w-80-gold-fully-modular-pci-e-5-0-psu-in-2-years-warranty/",
-          "availability": "not available",
-          "Wattage": "850W"
+          "availability": "available",
+          "Wattage": "850W",
+          "updatedAt": 1795411811
         },
         {
           "Name": "Super Flower LEADEX III GOLD 850W ",
@@ -54177,11 +54180,12 @@
         {
           "Name": "Gigabyte P450B - 450W 80 Plus Bronze ",
           "storeName": "Junaid Tech",
-          "price": 9999.0,
-          "previousprice": null,
+          "price": 9499.0,
+          "previousprice": 9999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-p450b-450w-80-plus-bronze-power-supply",
-          "availability": "not available",
-          "Wattage": "450W"
+          "availability": "available",
+          "Wattage": "450W",
+          "updatedAt": 1795411932
         },
         {
           "Name": "GIGABYTE GP-P450B 450W 80 PLUS BRONZE ",
@@ -54724,11 +54728,12 @@
         {
           "Name": "Gigabyte  GP-P650G 650W 80 Plus Gold ",
           "storeName": "Junaid Tech",
-          "price": 20999.0,
-          "previousprice": null,
+          "price": 17499.0,
+          "previousprice": 20999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-gp-p650g-gold-power-supply",
           "availability": "available",
-          "Wattage": "650W"
+          "Wattage": "650W",
+          "updatedAt": 1795412011
         },
         {
           "Name": "GIGABYTE GP-P650G 650W 80 Plus Gold ",
@@ -55373,11 +55378,12 @@
         {
           "Name": "Gigabyte UD750GM PG5 750W 80 Plus Gold ",
           "storeName": "Junaid Tech",
-          "price": 28999.0,
-          "previousprice": null,
+          "price": 27499.0,
+          "previousprice": 28999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-ud750gm-pg5-gold-power-supply",
           "availability": "available",
-          "Wattage": "750W"
+          "Wattage": "750W",
+          "updatedAt": 1795412116
         },
         {
           "Name": "GIGABYTE GP-UD750GM PG5 750W 80 Plus Gold ",
@@ -55666,11 +55672,12 @@
         {
           "Name": "Gigabyte UD850GM PG5 850W 80 Plus Gold ",
           "storeName": "Junaid Tech",
-          "price": 34999.0,
-          "previousprice": null,
+          "price": 32999.0,
+          "previousprice": 34999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-ud850gm-pg5-power-supply",
           "availability": "available",
-          "Wattage": "850W"
+          "Wattage": "850W",
+          "updatedAt": 1795412182
         },
         {
           "Name": "GIGABYTE GP-UD850GM 850 W ATX 12V v2.31 80 PLUS GOLD ",
@@ -56226,11 +56233,12 @@
         {
           "Name": "Gigabyte UD1000GM PG5 - 1000W 80 Plus Gold ",
           "storeName": "Junaid Tech",
-          "price": 44999.0,
-          "previousprice": null,
+          "price": 40999.0,
+          "previousprice": 44999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-ud1000gm-pg5-1000w-80-plus-gold-fully-modular-power-supply",
           "availability": "available",
-          "Wattage": "1000W"
+          "Wattage": "1000W",
+          "updatedAt": 1795412322
         },
         {
           "Name": "GIGABYTE GP-UD1000GM PG5 1000W Plus Gold ",
@@ -60285,7 +60293,7 @@
           "price": 29499.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/power-supplies/msi-mag-a850gl-pcie5-850w-atx-3-1-80-plus-gold-fully-modular-power-supply-white/",
-          "availability": "available",
+          "availability": "not available",
           "Wattage": "850W"
         },
         {
