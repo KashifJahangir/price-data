@@ -1803,8 +1803,8 @@
         {
           "Name": "ZOTAC RTX 2060 SUPER 8GB",
           "storeName": "AMD House",
-          "price": 66000.0,
-          "previousprice": 64000.0,
+          "price": 67000.0,
+          "previousprice": 66000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-zotac-rtx-2060-super-8gb-used-without-box-in-1-month-warranty/",
           "availability": "available",
           "tdp": 175,
@@ -1814,7 +1814,7 @@
           "memoryType": "GDDR6",
           "memoryBus": "256-bit",
           "bandwidth": "448 GB/s",
-          "updatedAt": 1794461585
+          "updatedAt": 1795507651
         },
         {
           "Name": "COLORFUL RTX 2060 SUPER 8GB",
@@ -1886,17 +1886,18 @@
         {
           "Name": "XFX RX 6600 XT 8GB",
           "storeName": "AMD House",
-          "price": 60000.0,
-          "previousprice": null,
+          "price": 70000.0,
+          "previousprice": 60000.0,
           "url": "https://amdhouse.pk/product/xfx-swft-210-amd-radeon-rx6600xt-8gb-gddr6-open-box/",
-          "availability": "not available",
+          "availability": "available",
           "tdp": 160,
           "company": "AMD",
           "powerConnectors": "1x 8-pin",
           "memorySize": "8 GB",
           "memoryType": "GDDR6",
           "memoryBus": "128-bit",
-          "bandwidth": "256 GB/s"
+          "bandwidth": "256 GB/s",
+          "updatedAt": 1795507660
         },
         {
           "Name": "XFX RX 6600 XT 8GB",
@@ -1983,8 +1984,8 @@
         {
           "Name": "GALAX RTX 2070 8GB",
           "storeName": "AMD House",
-          "price": 69000.0,
-          "previousprice": 67000.0,
+          "price": 71500.0,
+          "previousprice": 69000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-galax-warrior-rtx-2070-8gb-used-no-box-in-1-month-warranty/",
           "availability": "available",
           "tdp": 175,
@@ -1994,7 +1995,7 @@
           "memoryType": "GDDR6",
           "memoryBus": "256-bit",
           "bandwidth": "448 GB/s",
-          "updatedAt": 1793940835
+          "updatedAt": 1795507674
         },
         {
           "Name": "MAXSUN RTX 2070 8GB",
@@ -2084,7 +2085,7 @@
           "price": 78000.0,
           "previousprice": 64500.0,
           "url": "https://amdhouse.pk/product/xfx-swft-rx-6700-10gb-gddr6-used-no-box-in-1-month-warranty/",
-          "availability": "available",
+          "availability": "not available",
           "tdp": 175,
           "company": "AMD",
           "powerConnectors": "1x 8-pin",
@@ -3376,8 +3377,8 @@
         {
           "Name": "ZOTAC RTX 3070 8GB",
           "storeName": "AMD House",
-          "price": 95000.0,
-          "previousprice": 92500.0,
+          "price": 96000.0,
+          "previousprice": 95000.0,
           "url": "https://amdhouse.pk/product/nvidia-geforce-zotac-rtx-3070-8gb-trinity-used-no-box-in-2-weeks-warranty/",
           "availability": "available",
           "tdp": 220,
@@ -3387,7 +3388,7 @@
           "memoryType": "GDDR6",
           "memoryBus": "256-bit",
           "bandwidth": "448 GB/s",
-          "updatedAt": 1793940978
+          "updatedAt": 1795507825
         },
         {
           "Name": "ZOTAC RTX 3070 8GB",
@@ -3437,17 +3438,18 @@
         {
           "Name": "EAGLE GeForce RTX 3070 EAGLE 8GB",
           "storeName": "AMD House",
-          "price": 90000.0,
-          "previousprice": null,
+          "price": 96000.0,
+          "previousprice": 90000.0,
           "url": "https://amdhouse.pk/product/geforce-rtx-3070-eagle-8g-used-in-1-month-warranty/",
-          "availability": "not available",
+          "availability": "available",
           "tdp": 220,
           "company": "Nvidia",
           "powerConnectors": "1x 12-pin (or 2x 8-pin via adapter)",
           "memorySize": "8 GB",
           "memoryType": "GDDR6",
           "memoryBus": "256-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1795507831
         },
         {
           "Name": "Arktek RTX 3070 8GB",
@@ -4850,8 +4852,8 @@
         {
           "Name": "ASUS RTX 5060 8GB",
           "storeName": "Junaid Tech",
-          "price": 146999.0,
-          "previousprice": null,
+          "price": 174999.0,
+          "previousprice": 146999.0,
           "url": "https://www.junaidtech.pk/product/asus-rtx-5060-8gb-gddr7-graphics-card",
           "availability": "available",
           "tdp": 145,
@@ -4860,7 +4862,8 @@
           "memorySize": "8 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1795508046
         },
         {
           "Name": "ASUS RTX 5060 8GB",
@@ -4912,8 +4915,8 @@
         {
           "Name": "MSI RTX 5060 8GB",
           "storeName": "Zicomputer",
-          "price": 145000.0,
-          "previousprice": 138000.0,
+          "price": 160000.0,
+          "previousprice": 145000.0,
           "url": "https://zicomputer.com/product/msi-shadow-2x-rtx-5060-8gb/",
           "availability": "available",
           "tdp": 145,
@@ -4923,7 +4926,7 @@
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
           "bandwidth": "448 GB/s",
-          "updatedAt": 1793167618
+          "updatedAt": 1795508053
         },
         {
           "Name": "MSI RTX 5060 8GB",
@@ -5523,8 +5526,8 @@
         {
           "Name": "ASUS RX 9060 XT 16GB",
           "storeName": "Zicomputer",
-          "price": 190000.0,
-          "previousprice": null,
+          "price": 200000.0,
+          "previousprice": 190000.0,
           "url": "https://zicomputer.com/product/asus-dual-radeon-rx-9060-xt-16gb-oc/",
           "availability": "available",
           "tdp": 150,
@@ -5533,7 +5536,8 @@
           "memorySize": "16 GB",
           "memoryType": "GDDR6",
           "memoryBus": "128-bit",
-          "bandwidth": "288 GB/s"
+          "bandwidth": "288 GB/s",
+          "updatedAt": 1795508106
         },
         {
           "Name": "ASUS RX 9060 XT 16GB",
@@ -5599,8 +5603,8 @@
         {
           "Name": "SAPPHIRE RX 9060 XT 16GB",
           "storeName": "Zicomputer",
-          "price": 180000.0,
-          "previousprice": null,
+          "price": 200000.0,
+          "previousprice": 180000.0,
           "url": "https://zicomputer.com/product/sapphire-nitro-pulse-rx-9060-xt-16gb/",
           "availability": "available",
           "tdp": 150,
@@ -5609,7 +5613,8 @@
           "memorySize": "16 GB",
           "memoryType": "GDDR6",
           "memoryBus": "128-bit",
-          "bandwidth": "288 GB/s"
+          "bandwidth": "288 GB/s",
+          "updatedAt": 1795508136
         },
         {
           "Name": "GIGABYTE RX 9060 XT 16GB",
@@ -5805,8 +5810,8 @@
         {
           "Name": "ZOTAC RTX 5060 TI 8GB",
           "storeName": "Junaid Tech",
-          "price": 164999.0,
-          "previousprice": null,
+          "price": 179999.0,
+          "previousprice": 164999.0,
           "url": "https://www.junaidtech.pk/product/zotac-gaming-rtx-5060-ti-twin-edge-graphics-card",
           "availability": "available",
           "tdp": 180,
@@ -5815,7 +5820,8 @@
           "memorySize": "8 GB",
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
-          "bandwidth": "448 GB/s"
+          "bandwidth": "448 GB/s",
+          "updatedAt": 1795508179
         },
         {
           "Name": "ZOTAC RTX 5060 TI 8GB",
@@ -6600,8 +6606,8 @@
         {
           "Name": "PNY RTX 5060 TI 16GB",
           "storeName": "Zicomputer",
-          "price": 265000.0,
-          "previousprice": 255000.0,
+          "price": 270000.0,
+          "previousprice": 265000.0,
           "url": "https://zicomputer.com/product/pny-geforce-rtx-5060-ti-16gb-epic-x-rgb-oc/",
           "availability": "available",
           "tdp": 180,
@@ -6611,7 +6617,7 @@
           "memoryType": "GDDR7",
           "memoryBus": "128-bit",
           "bandwidth": "448 GB/s",
-          "updatedAt": 1794982034
+          "updatedAt": 1795508270
         },
         {
           "Name": "PNY RTX 5060 TI 16GB",
@@ -7629,17 +7635,18 @@
         {
           "Name": "ASUS RX 9070 16GB",
           "storeName": "Zicomputer",
-          "price": 245000.0,
-          "previousprice": null,
+          "price": 265000.0,
+          "previousprice": 245000.0,
           "url": "https://zicomputer.com/product/asus-prime-radeon-rx-9070-16gb-oc/",
-          "availability": "available",
+          "availability": "not available",
           "tdp": 220,
           "company": "AMD",
           "powerConnectors": "2x 8-pin",
           "memorySize": "16 GB",
           "memoryType": "GDDR6",
           "memoryBus": "256-bit",
-          "bandwidth": "576 GB/s"
+          "bandwidth": "576 GB/s",
+          "updatedAt": 1795508409
         }
       ]
     },
@@ -7817,8 +7824,8 @@
         {
           "Name": "GIGABYTE RX 9070 XT 16GB",
           "storeName": "Junaid Tech",
-          "price": 274999.0,
-          "previousprice": null,
+          "price": 294999.0,
+          "previousprice": 274999.0,
           "url": "https://www.junaidtech.pk/product/gigabyte-radeon-rx-9070-xt-gaming-16g-graphics-card",
           "availability": "available",
           "tdp": 304,
@@ -7827,7 +7834,8 @@
           "memorySize": "16 GB",
           "memoryType": "GDDR6",
           "memoryBus": "256-bit",
-          "bandwidth": "640 GB/s"
+          "bandwidth": "640 GB/s",
+          "updatedAt": 1795508430
         },
         {
           "Name": "ASUS RX 9070 XT 16GB",
@@ -9070,7 +9078,7 @@
           "price": 679999.0,
           "previousprice": 544999.0,
           "url": "https://rbtechngames.com/shop-2/computers/graphics-card/gigabyte-geforce-rtx-5080-windforce-oc-sff-16gb-graphics-card/",
-          "availability": "available",
+          "availability": "not available",
           "tdp": 360,
           "company": "Nvidia",
           "powerConnectors": "1x 12VHPWR",
