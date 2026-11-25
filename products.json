@@ -15576,8 +15576,8 @@
         {
           "Name": "MAXSUN iCraft B850 AIGA Wifi7 New in 10 Months Warranty",
           "storeName": "AMD House",
-          "price": 75000.0,
-          "previousprice": 73000.0,
+          "price": 77500.0,
+          "previousprice": 75000.0,
           "url": "https://amdhouse.pk/product/maxsun-icraft-b850-aiga-wifi7-new-in-10-months-warranty/",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -15587,7 +15587,7 @@
           "Maximum Speed": "7200+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
           "powerConnectors": "24-pin + 8-pin",
-          "updatedAt": 1794025372
+          "updatedAt": 1795589078
         },
         {
           "Name": "Maxsun MS-iCraft B850 AIGA ATX Motherboard",
@@ -15935,17 +15935,18 @@
         {
           "Name": "MSI B550M-B New in 10 Months Warranty",
           "storeName": "AMD House",
-          "price": 25000.0,
-          "previousprice": null,
+          "price": 23500.0,
+          "previousprice": 25000.0,
           "url": "https://amdhouse.pk/product/msi-b550m-b-new-in-10-months-warranty/",
-          "availability": "not available",
+          "availability": "available",
           "CPU Socket": "AM4",
           "Chipset Model": "B550",
           "Memory Generation": "DDR4",
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "5100+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 4.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1795589121
         },
         {
           "Name": "MSI PRO B550M-B AM4 AMD B550 ATX AMD Motherboard",
@@ -16971,8 +16972,8 @@
         {
           "Name": "MAXSUN Challenger B850M-K New in 10 Months Warranty Pcie Gen5 Ready",
           "storeName": "AMD House",
-          "price": 34500.0,
-          "previousprice": null,
+          "price": 35000.0,
+          "previousprice": 34500.0,
           "url": "https://amdhouse.pk/product/maxsun-ms-challenger-b850m-k-new-in-10-months-warranty/",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -16981,7 +16982,8 @@
           "Maximum Capacity": "256 GB",
           "Maximum Speed": "7200+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1795589268
         },
         {
           "Name": "ASUS PRIME B850M-K AMD B850 mATX motherboard AM5 PCIe 5.0 Ready two M.2 slots Realtek 2.5Gb Ethernet DisplayPort HDMI rear USB 10Gbps Type-A front USB 5Gbps Type-C BIOS FlashBack Aura Sync",
@@ -17105,8 +17107,8 @@
         {
           "Name": "Gigabyte B650M Gaming Wifi New in 10 Months Warranty",
           "storeName": "AMD House",
-          "price": 35500.0,
-          "previousprice": null,
+          "price": 34500.0,
+          "previousprice": 35500.0,
           "url": "https://amdhouse.pk/product/gigabyte-b650m-gaming-wifi-new-in-10-months-warranty/",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -17115,7 +17117,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "6400+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 4.0 / 5.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1795589283
         },
         {
           "Name": "Colorful CVN B650M Gaming Frozen (White) V14 AM5 New",
@@ -17199,7 +17202,7 @@
           "price": 44999.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/msi-b650m-gaming-wifi-ddr5-m-atx-am5-gaming-motherboard/",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "AM5",
           "Chipset Model": "B650",
           "Memory Generation": "DDR5",
@@ -18106,8 +18109,8 @@
         {
           "Name": "ASRock B450M-HDV R4.0 mATX AM4 New in 10 Months Wty",
           "storeName": "AMD House",
-          "price": 18500.0,
-          "previousprice": null,
+          "price": 19500.0,
+          "previousprice": 18500.0,
           "url": "https://amdhouse.pk/product/asrock-b450m-hdv-r4-0-matx-am4-new-10-months-wty/",
           "availability": "available",
           "CPU Socket": "AM4",
@@ -18116,7 +18119,8 @@
           "Maximum Capacity": "128 GB",
           "Maximum Speed": "3466+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 3.0",
-          "powerConnectors": "24-pin + 8-pin"
+          "powerConnectors": "24-pin + 8-pin",
+          "updatedAt": 1795589473
         }
       ]
     },
@@ -18263,10 +18267,10 @@
         {
           "Name": "GIGABYTE B450M K DDR4 AMD Motherboard",
           "storeName": "Zicomputer",
-          "price": 23500.0,
-          "previousprice": null,
+          "price": 1400000.0,
+          "previousprice": 23500.0,
           "url": "https://zicomputer.com/product/gigabyte-b450m-k-ddr4-amd-motherboard/",
-          "availability": "not available",
+          "availability": "unknown",
           "CPU Socket": "AM4",
           "Chipset Model": "B450",
           "Memory Generation": "DDR4",
@@ -18274,7 +18278,7 @@
           "Maximum Speed": "3466+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 3.0",
           "powerConnectors": "24-pin + 8-pin",
-          "updatedAt": 1795067346
+          "updatedAt": 1795589496
         },
         {
           "Name": "COLORFUL BATTLE-AX B450M-K M.2 V14 AMD AM4 ",
@@ -19815,7 +19819,7 @@
           "price": 24499.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/msi-pro-h610m-s-ddr4-m-atx-lga-1700-gaming-motherboard/",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "LGA1700",
           "Chipset Model": "H610",
           "Memory Generation": "DDR4",
@@ -21279,7 +21283,7 @@
           "price": 35499.0,
           "previousprice": null,
           "url": "https://rbtechngames.com/shop-2/computers/motherboards/msi-pro-b760m-p-m-atx-lga1700-ddr4-gaming-motherboard/",
-          "availability": "available",
+          "availability": "not available",
           "CPU Socket": "LGA1700",
           "Chipset Model": "B760",
           "Memory Generation": "DDR4",
@@ -27358,8 +27362,8 @@
         {
           "Name": "ASUS ROG Crosshair X870E Dark Hero AMD AM5 Gaming Motherboard",
           "storeName": "Zicomputer",
-          "price": 265000.0,
-          "previousprice": null,
+          "price": 285000.0,
+          "previousprice": 265000.0,
           "url": "https://zicomputer.com/product/rog-crosshair-x870e-dark-hero/",
           "availability": "available",
           "CPU Socket": "AM5",
@@ -27368,7 +27372,8 @@
           "Maximum Capacity": "256 GB",
           "Maximum Speed": "8000+ MHz (OC)",
           "PCIe Slot Generation": "PCIe 5.0",
-          "powerConnectors": "24-pin + 8-pin (or 8+4)"
+          "powerConnectors": "24-pin + 8-pin (or 8+4)",
+          "updatedAt": 1795590536
         }
       ]
     },
