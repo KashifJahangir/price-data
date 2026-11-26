@@ -9823,8 +9823,8 @@
         {
           "Name": "RYZEN 7 9800X3D",
           "storeName": "Junaid Tech",
-          "price": 114999.0,
-          "previousprice": 119999.0,
+          "price": 119999.0,
+          "previousprice": 114999.0,
           "url": "https://www.junaidtech.pk/product/amd-ryzen-7-9800x3d-processor-tray",
           "availability": "available",
           "Socket": "AM5",
@@ -9833,13 +9833,13 @@
           "TDP": "120W",
           "PCI-Express": "PCIe 5.0",
           "Memory Support": "DDR5-5600",
-          "updatedAt": 1795152550
+          "updatedAt": 1795674885
         },
         {
           "Name": "RYZEN 7 9800X3D",
           "storeName": "Czone",
-          "price": 115000.0,
-          "previousprice": 121000.0,
+          "price": 118900.0,
+          "previousprice": 115000.0,
           "url": "https://www.czone.com.pk/amd-ryzen-7-9800x3d-desktop-processor",
           "availability": "available",
           "Socket": "AM5",
@@ -9848,7 +9848,7 @@
           "TDP": "120W",
           "PCI-Express": "PCIe 5.0",
           "Memory Support": "DDR5-5600",
-          "updatedAt": 1793279347
+          "updatedAt": 1795674890
         },
         {
           "Name": "RYZEN 7 9800X3D",
@@ -10700,8 +10700,8 @@
         {
           "Name": "RYZEN 5 8400F",
           "storeName": "AMD House",
-          "price": 29500.0,
-          "previousprice": null,
+          "price": 27500.0,
+          "previousprice": 29500.0,
           "url": "https://amdhouse.pk/product/amd-ryzen-5-8400f-am5-chip-only-new/",
           "availability": "available",
           "Socket": "AM5",
@@ -10709,7 +10709,8 @@
           "Frequency": "4.2 GHz / 4.7 GHz",
           "TDP": "65W",
           "PCI-Express": "PCIe 4.0",
-          "Memory Support": "DDR5-5200"
+          "Memory Support": "DDR5-5200",
+          "updatedAt": 1795675059
         },
         {
           "Name": "RYZEN 5 8400F",
@@ -10801,7 +10802,7 @@
           "price": 19000.0,
           "previousprice": null,
           "url": "https://amdhouse.pk/product/amd-ryzen-5-4500-chip-only-new-in-10-months-warranty/",
-          "availability": "not available",
+          "availability": "available",
           "Socket": "AM4",
           "Foundry": "AMD",
           "Frequency": "3.6 GHz / 4.1 GHz",
@@ -11654,8 +11655,8 @@
         {
           "Name": "RYZEN 5 5600X",
           "storeName": "AMD House",
-          "price": 35000.0,
-          "previousprice": 35500.0,
+          "price": 34500.0,
+          "previousprice": 35000.0,
           "url": "https://amdhouse.pk/product/amd-ryzen-5-5600x-chip/",
           "availability": "available",
           "Socket": "AM4",
@@ -11664,7 +11665,7 @@
           "TDP": "65W",
           "PCI-Express": "PCIe 4.0",
           "Memory Support": "DDR4-3200",
-          "updatedAt": 1794631765
+          "updatedAt": 1795675318
         },
         {
           "Name": "RYZEN 5 5600X",
@@ -11866,8 +11867,8 @@
         {
           "Name": "RYZEN 5 7600",
           "storeName": "RB Tech N Games",
-          "price": 40999.0,
-          "previousprice": 44999.0,
+          "price": 37499.0,
+          "previousprice": 40999.0,
           "url": "https://rbtechngames.com/shop-2/computers/processors/amd-ryzen-5-7600-gaming-processor-tray/",
           "availability": "available",
           "Socket": "AM5",
@@ -11876,7 +11877,7 @@
           "TDP": "65W",
           "PCI-Express": "PCIe 5.0",
           "Memory Support": "DDR5-5200",
-          "updatedAt": 1793168851
+          "updatedAt": 1795675393
         },
         {
           "Name": "RYZEN 5 7600",
@@ -13575,8 +13576,8 @@
         {
           "Name": "CORE I7-14700KF",
           "storeName": "Junaid Tech",
-          "price": 100999.0,
-          "previousprice": null,
+          "price": 105999.0,
+          "previousprice": 100999.0,
           "url": "https://www.junaidtech.pk/product/intel-core-i7-14700kf-processor-tray",
           "availability": "available",
           "Socket": "LGA1700",
@@ -13584,7 +13585,8 @@
           "Frequency": "3.4 GHz / 5.6 GHz",
           "TDP": "125W",
           "PCI-Express": "PCIe 5.0",
-          "Memory Support": "DDR4-3200 / DDR5-5600"
+          "Memory Support": "DDR4-3200 / DDR5-5600",
+          "updatedAt": 1795675749
         },
         {
           "Name": "CORE I7-14700KF",
