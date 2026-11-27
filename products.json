@@ -30350,15 +30350,16 @@
         {
           "Name": "Corsair Vengeance RGB 32GB (2x16GB) 6000MHz ",
           "storeName": "Junaid Tech",
-          "price": 154999.0,
-          "previousprice": null,
+          "price": 191999.0,
+          "previousprice": 154999.0,
           "url": "https://www.junaidtech.pk/product/corsair-vengeance-rgb-32gb-2x16gb-6000mhz-c36-ddr5-amd-expo-memory-kit-black",
           "availability": "available",
           "Memory Generation": "DDR5",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "6000 MHz",
           "Maximum Capacity": "32 GB",
-          "Maximum Speed": "6000 MHz"
+          "Maximum Speed": "6000 MHz",
+          "updatedAt": 1795760681
         },
         {
           "Name": "Corsair Vengeance 32GB (2x16GB) 6000MHz ",
@@ -34905,15 +34906,16 @@
         {
           "Name": "Transcend JetRAM 64GB DDR4 3200MHz ",
           "storeName": "AMD House",
-          "price": 105000.0,
-          "previousprice": null,
+          "price": 120000.0,
+          "previousprice": 105000.0,
           "url": "https://amdhouse.pk/product/transcend-jetram-64gb-ddr4-3200mhz-cl22-32gbx2-dual-channel-package-new-in-10-months-wty/",
-          "availability": "not available",
+          "availability": "available",
           "Memory Generation": "DDR4",
           "Form Factor": "DIMM (Desktop)",
           "Clock Speed": "3200 MHz",
           "Maximum Capacity": "64 GB",
-          "Maximum Speed": "3200 MHz"
+          "Maximum Speed": "3200 MHz",
+          "updatedAt": 1795761551
         }
       ]
     },
