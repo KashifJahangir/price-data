@@ -39030,8 +39030,8 @@
         {
           "Name": "Kingston NV3 2TB NVMe PCIe Gen 4.0 SSD ",
           "storeName": "Zicomputer",
-          "price": 66000.0,
-          "previousprice": 49500.0,
+          "price": 69000.0,
+          "previousprice": 66000.0,
           "url": "https://zicomputer.com/product/kingston-nv3-2tb-nvme-pcie-gen-4-0-ssd-high-speed-internal-storage/",
           "availability": "available",
           "Interface": "PCIe",
@@ -39040,7 +39040,7 @@
           "Form Factor": "M.2 2280",
           "Sequential Read": "5000-7000 MB/s",
           "Sequential Write": "4000-6500 MB/s",
-          "updatedAt": 1794803381
+          "updatedAt": 1795845690
         }
       ]
     },
@@ -39066,8 +39066,8 @@
         {
           "Name": "Samsung 990 Pro 2TB NVMe SSD ",
           "storeName": "Zicomputer",
-          "price": 90000.0,
-          "previousprice": null,
+          "price": 110000.0,
+          "previousprice": 90000.0,
           "url": "https://zicomputer.com/product/samsung-990-pro-pcle-4-0-nvme-2tb/",
           "availability": "not available",
           "Interface": "PCIe",
@@ -39075,7 +39075,8 @@
           "Capacity": "2 TB",
           "Form Factor": "M.2 2280",
           "Sequential Read": "7450 MB/s",
-          "Sequential Write": "7450 MB/s"
+          "Sequential Write": "7450 MB/s",
+          "updatedAt": 1795845695
         },
         {
           "Name": "Samsung 990 PRO w/ Heatsink 2TB",
@@ -39473,7 +39474,7 @@
           "price": 23499.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/wd-green-sn3000-500gb-nvme-ssd",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "PCIe",
           "Protocol": "NVMe PCIe 4.0 x4",
           "Capacity": "512 GB",
@@ -42841,7 +42842,7 @@
           "price": 214999.0,
           "previousprice": null,
           "url": "https://www.junaidtech.pk/product/wd-my-book-22tb-desktop-hard-drive-usb",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "Unknown",
           "Protocol": "Unknown",
           "Capacity": "22 TB",
@@ -50446,7 +50447,7 @@
           "price": 50000.0,
           "previousprice": null,
           "url": "https://zicomputer.com/product/samsung-870-qvo-2tb-sata-ssd/",
-          "availability": "available",
+          "availability": "not available",
           "Interface": "SATA",
           "Protocol": "SATA III (6Gb/s)",
           "Capacity": "2 TB",
